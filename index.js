@@ -20,7 +20,7 @@ async function main() {
       `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`
     );
 
-  await fs.writeFile(["README.md"], readme);
+  await fs.writeFile("README.md", readme);
 }
 
 main();

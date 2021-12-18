@@ -29,8 +29,8 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Before you go...
+## The Daily Quote
 
-<p>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</p>
+<p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
 
-<p>- Angela Martin</p>
+<p>- Michael Scott</p>
