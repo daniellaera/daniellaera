@@ -1,0 +1,22 @@
+{
+  "name": "daniellaera",
+  "version": "1.0.0",
+  "description": "Personal README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellaera/daniellaera.git"
+  },
+  "author": "Daniel Laera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniellaera/daniellaera/issues"
+  },
+  "homepage": "https://github.com/daniellaera/daniellaera#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0"
+  }
+}
