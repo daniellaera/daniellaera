@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sorry I annoyed you with my friendship.</p>
+<p>Dwight, you ignorant slut!</p>
 
-<p>- Andy Bernard</p>
+<p>- Michael Scott</p>
