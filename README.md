@@ -1,4 +1,4 @@
-[![Daniel's GitHub Banner](./assets/banner.png)](https://daniellaera.io)
+[![Daniel's GitHub Banner](./assets/brain.png)](https://daniellaera.io)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellaera/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DanielLaeraChannel/)
@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dwight, you ignorant slut!</p>
+<p>I feel God in this Chili’s tonight.</p>
 
-<p>- Michael Scott</p>
+<p>- Pam Beesly</p>
