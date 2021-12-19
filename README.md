@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I feel God in this Chili’s tonight.</p>
+<p>Everybody stay calm! Stay f*&#!#% calm!</p>
 
-<p>- Pam Beesly</p>
+<p>- Michael Scott</p>
