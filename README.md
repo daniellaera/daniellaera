@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
+<p>Sorry I annoyed you with my friendship.</p>
 
-<p>- Michael Scott</p>
+<p>- Andy Bernard</p>
