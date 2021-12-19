@@ -1,4 +1,4 @@
-![Daniel's GitHub Banner](./assets/banner.png)
+[![Daniel's GitHub Banner](./assets/brain.png)](https://daniellaera.io)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellaera/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DanielLaeraChannel/)
@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.</p>
+<p>I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.</p>
 
-<p>- Michael Scott</p>
+<p>- Andy Bernard</p>
