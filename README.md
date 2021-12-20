@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</p>
+<p>Bears, Beets, Battlestar Galactica.</p>
 
-<p>- Michael Scott</p>
+<p>- Jim Halpert</p>
