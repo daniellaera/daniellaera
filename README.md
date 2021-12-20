@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This Halloween, the most popular mask is the Arnold Schwarzenegger mask. And the best part? With a mouth full of candy you will sound just like him.</p>
+<p>Being forced to work, and forced to do your best, will breed in you temperance and self-control, diligence and strength of will, cheerfulness and content, and a hundred virtues which the idle will never know.</p>
 
-<p>- Conan O'Brien</p>
+<p>- Charles Kingsley</p>
