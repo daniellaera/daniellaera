@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</p>
+<p>Well, Happy Birthday Jesus. Sorry your party’s so lame.</p>
 
-<p>- Jim Halpert</p>
+<p>- Michael Scott</p>
