@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgiveness is not always easy. At times, it feels more painful than the wound we suffered, to forgive the one that inflicted it. And yet, there is no peace without forgiveness.</p>
+<p>Beauty is the still birth of suffering, every woman knows that.</p>
 
-<p>- Marianne Williamson</p>
+<p>- Emily Prager</p>
