@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</p>
+<p>Dwight, you ignorant slut!</p>
 
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
