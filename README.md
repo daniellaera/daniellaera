@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It was the men I deceived the most that I loved the most.</p>
+<p>Were there peace and justice in the Middle East, the Arabs would no more need their tinhorn dictators than they would their corpulent princes.</p>
 
-<p>- Marguerite Duras</p>
+<p>- James Buchan</p>
