@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think Whitman more than any other poet possessed the gift of revealing to others the beauty of everything around us, the beauty of nature, the beauty of human beings.</p>
+<p>All significant truths are private truths. As they become public they cease to become truths they become facts, or at best, part of the public character or at worst, catchwords.</p>
 
-<p>- Ella R. Bloor</p>
+<p>- T. S. Eliot</p>
