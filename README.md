@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Were there peace and justice in the Middle East, the Arabs would no more need their tinhorn dictators than they would their corpulent princes.</p>
+<p>The definition of marriage cannot be disputed. It's right there in black and white and it's been the same since the start of Wikipedia.</p>
 
-<p>- James Buchan</p>
+<p>- Jesse Tyler Ferguson</p>
