@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Visual surprise is natural in the Caribbean it comes with the landscape, and faced with its beauty, the sigh of History dissolves.</p>
+<p>It was the men I deceived the most that I loved the most.</p>
 
-<p>- Derek Walcott</p>
+<p>- Marguerite Duras</p>
