@@ -29,8 +29,12 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## What I'm listening to
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11145527221&unique={true|1|on|yes})
+
 ## The Daily Quote
 
-<p>Beauty is the still birth of suffering, every woman knows that.</p>
+<p>When I was a little boy I used to borrow my father's hat, and make a press card to stick in the hat band. That was the way reporters were always portrayed in the movies.</p>
 
-<p>- Emily Prager</p>
+<p>- Charles Kuralt</p>
