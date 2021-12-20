@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Advertising is the art of convincing people to spend money they don't have for something they don't need.</p>
+<p>Thank God my parents had an abundance of patience.</p>
 
-<p>- Will Rogers</p>
+<p>- Lexa Doig</p>
