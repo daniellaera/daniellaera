@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When I was a little boy I used to borrow my father's hat, and make a press card to stick in the hat band. That was the way reporters were always portrayed in the movies.</p>
+<p>This Halloween, the most popular mask is the Arnold Schwarzenegger mask. And the best part? With a mouth full of candy you will sound just like him.</p>
 
-<p>- Charles Kuralt</p>
+<p>- Conan O'Brien</p>
