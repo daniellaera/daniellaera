@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All significant truths are private truths. As they become public they cease to become truths they become facts, or at best, part of the public character or at worst, catchwords.</p>
+<p>Advertising is the art of convincing people to spend money they don't have for something they don't need.</p>
 
-<p>- T. S. Eliot</p>
+<p>- Will Rogers</p>
