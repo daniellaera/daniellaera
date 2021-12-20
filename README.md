@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thank God my parents had an abundance of patience.</p>
+<p>Love is staying up all night with a sick child - or a healthy adult.</p>
 
-<p>- Lexa Doig</p>
+<p>- David Frost</p>
