@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being forced to work, and forced to do your best, will breed in you temperance and self-control, diligence and strength of will, cheerfulness and content, and a hundred virtues which the idle will never know.</p>
+<p>I think Whitman more than any other poet possessed the gift of revealing to others the beauty of everything around us, the beauty of nature, the beauty of human beings.</p>
 
-<p>- Charles Kingsley</p>
+<p>- Ella R. Bloor</p>
