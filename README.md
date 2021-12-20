@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Bears, Beets, Battlestar Galactica.</p>
+<p>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</p>
 
-<p>- Jim Halpert</p>
+<p>- Erin Hannon</p>
