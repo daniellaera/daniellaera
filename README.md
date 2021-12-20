@@ -1,4 +1,4 @@
-![Daniel's GitHub Banner](./assets/banner.png)
+[![Daniel's GitHub Banner](./assets/brain.png)](https://daniellaera.io)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellaera/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DanielLaeraChannel/)
@@ -31,6 +31,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.</p>
+<p>Forgiveness is not always easy. At times, it feels more painful than the wound we suffered, to forgive the one that inflicted it. And yet, there is no peace without forgiveness.</p>
 
-<p>- Michael Scott</p>
+<p>- Marianne Williamson</p>
