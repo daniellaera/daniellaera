@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is staying up all night with a sick child - or a healthy adult.</p>
+<p>Visual surprise is natural in the Caribbean it comes with the landscape, and faced with its beauty, the sigh of History dissolves.</p>
 
-<p>- David Frost</p>
+<p>- Derek Walcott</p>
