@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sure, my childhood was unusual. All these eccentric, wild people frequented our home: rock stars, drag queens, models, bikers, freaks. But I was not this little rich girl. My mom and I lived in an apartment.</p>
+<p>I know why most people never get rich. They put the money ahead of the job. If you just think of the job, the money will automatically follow. This never fails.</p>
 
-<p>- Liv Tyler</p>
+<p>- Hedy Lamarr</p>
