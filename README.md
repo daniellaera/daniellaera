@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every baseball crowd, like every theatre audience, has its own distinctive attitude and atmosphere.</p>
+<p>I don't think I'll ever be able to stay in one place for more than a year or two. It's not in my nature.</p>
 
-<p>- Bill Veeck</p>
+<p>- Ricky Williams</p>
