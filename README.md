@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Folks, the most insidious part of this whole health care scheme is that all of these vast medical expenditures will become nothing more than government budget items. We individuals will no longer exist. The relationship between a government and citizen will change forever.</p>
+<p>My mom is the backbone not just of my family but of many families.</p>
 
-<p>- Rush Limbaugh</p>
+<p>- Shia LaBeouf</p>
