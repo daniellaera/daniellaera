@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Economy does not lie in sparing money, but in spending it wisely.</p>
+<p>Well, everyone likes movies when they're a little kid.</p>
 
-<p>- Thomas Huxley</p>
+<p>- Anthony Hopkins</p>
