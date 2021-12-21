@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I love that for Barack, there is no such thing as 'us' and 'them' - he doesn't care whether you're a Democrat, a Republican, or none of the above... he knows that we all love our country... and he's always ready to listen to good ideas... he's always looking for the very best in everyone he meets.</p>
+<p>Economy does not lie in sparing money, but in spending it wisely.</p>
 
-<p>- Michelle Obama</p>
+<p>- Thomas Huxley</p>
