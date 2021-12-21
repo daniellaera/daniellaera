@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My mom and my dad were married 56 years, and the fact that I reconciled with my dad I think made their marriage a little bit better as well.</p>
+<p>Sure, my childhood was unusual. All these eccentric, wild people frequented our home: rock stars, drag queens, models, bikers, freaks. But I was not this little rich girl. My mom and I lived in an apartment.</p>
 
-<p>- Larry Elder</p>
+<p>- Liv Tyler</p>
