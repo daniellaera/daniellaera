@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's a miracle to be an actor and to know that you have a job to go to a year from now is a rare thing, so I think peace of mind and financial stability come with that. Hopefully I'm a little wiser and have a little more perspective in my life than I did then.</p>
+<p>It was patriotism, not communism, that inspired me.</p>
 
-<p>- Debra Messing</p>
+<p>- Ho Chi Minh</p>
