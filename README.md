@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who stands with his face to the East in the morning will have the sun before him. If he does not change his posture, the Earth in the meantime having changed its, he will have the sun no longer before him, but behind.</p>
+<p>I'm thinking to myself, I just love doing the art, it takes me a morning to do.</p>
 
-<p>- Daniel De Leon</p>
+<p>- Eddie Campbell</p>
