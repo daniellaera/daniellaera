@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good rest is half the work.</p>
+<p>Every baseball crowd, like every theatre audience, has its own distinctive attitude and atmosphere.</p>
 
-<p>- Anonymous</p>
+<p>- Bill Veeck</p>
