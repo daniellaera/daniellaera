@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It was patriotism, not communism, that inspired me.</p>
+<p>I have no useful theories about love and marriage.</p>
 
-<p>- Ho Chi Minh</p>
+<p>- Michael Cunningham</p>
