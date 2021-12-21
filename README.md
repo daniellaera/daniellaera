@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm so not stylish by nature, but I've learned to work with what I have.</p>
+<p>He who stands with his face to the East in the morning will have the sun before him. If he does not change his posture, the Earth in the meantime having changed its, he will have the sun no longer before him, but behind.</p>
 
-<p>- Julie Bowen</p>
+<p>- Daniel De Leon</p>
