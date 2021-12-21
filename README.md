@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our lives are not determined by what happens to us but how we react to what happens, not by what life brings us but the attitude we bring to life.</p>
+<p>A good rest is half the work.</p>
 
-<p>- Wade Boggs</p>
+<p>- Anonymous</p>
