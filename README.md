@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Order is the sanity of the mind, the health of the body, the peace of the city, the security of the state. Like beams in a house or bones to a body, so is order to all things.</p>
+<p>I love that for Barack, there is no such thing as 'us' and 'them' - he doesn't care whether you're a Democrat, a Republican, or none of the above... he knows that we all love our country... and he's always ready to listen to good ideas... he's always looking for the very best in everyone he meets.</p>
 
-<p>- Robert Southey</p>
+<p>- Michelle Obama</p>
