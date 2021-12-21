@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>George wrote Taxman, and I played guitar on it. He wrote it in anger at finding out what the taxman did. He had never known before then what could happen to your money.</p>
+<p>It is more rewarding to watch money change the world than watch it accumulate.</p>
 
-<p>- Paul McCartney</p>
+<p>- Gloria Steinem</p>
