@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm thinking to myself, I just love doing the art, it takes me a morning to do.</p>
+<p>George wrote Taxman, and I played guitar on it. He wrote it in anger at finding out what the taxman did. He had never known before then what could happen to your money.</p>
 
-<p>- Eddie Campbell</p>
+<p>- Paul McCartney</p>
