@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is more rewarding to watch money change the world than watch it accumulate.</p>
+<p>My mom and my dad were married 56 years, and the fact that I reconciled with my dad I think made their marriage a little bit better as well.</p>
 
-<p>- Gloria Steinem</p>
+<p>- Larry Elder</p>
