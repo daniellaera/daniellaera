@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The definition of marriage cannot be disputed. It's right there in black and white and it's been the same since the start of Wikipedia.</p>
+<p>Beauty always promises, but never gives anything.</p>
 
-<p>- Jesse Tyler Ferguson</p>
+<p>- Simone Weil</p>
