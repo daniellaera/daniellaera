@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My mom is the backbone not just of my family but of many families.</p>
+<p>Order is the sanity of the mind, the health of the body, the peace of the city, the security of the state. Like beams in a house or bones to a body, so is order to all things.</p>
 
-<p>- Shia LaBeouf</p>
+<p>- Robert Southey</p>
