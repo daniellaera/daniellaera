@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't think I'll ever be able to stay in one place for more than a year or two. It's not in my nature.</p>
+<p>You know, I lose patience really easily I'd rather shop in the grocery store than in the department store. I can pick an apple like nobody's business.</p>
 
-<p>- Ricky Williams</p>
+<p>- Gail Simmons</p>
