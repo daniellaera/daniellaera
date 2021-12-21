@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have no useful theories about love and marriage.</p>
+<p>I'm so not stylish by nature, but I've learned to work with what I have.</p>
 
-<p>- Michael Cunningham</p>
+<p>- Julie Bowen</p>
