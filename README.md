@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know why most people never get rich. They put the money ahead of the job. If you just think of the job, the money will automatically follow. This never fails.</p>
+<p>Our lives are not determined by what happens to us but how we react to what happens, not by what life brings us but the attitude we bring to life.</p>
 
-<p>- Hedy Lamarr</p>
+<p>- Wade Boggs</p>
