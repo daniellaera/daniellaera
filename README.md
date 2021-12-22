@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The things we know best are the things we haven't been taught.</p>
+<p>It is the dissimilarities and inequalities among men which give rise to the notion of honor as such differences become less, it grows feeble and when they disappear, it will vanish too.</p>
 
-<p>- Luc de Clapiers</p>
+<p>- Alexis de Tocqueville</p>
