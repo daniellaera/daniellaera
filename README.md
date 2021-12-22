@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Parents should not smoke in order to discourage their kids from smoking. A child is more likely to smoke when they have been raised in the environment of a smoker.</p>
+<p>At some point in life the world's beauty becomes enough. You don't need to photograph, paint or even remember it. It is enough.</p>
 
-<p>- Christy Turlington</p>
+<p>- Toni Morrison</p>
