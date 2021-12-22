@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At some point in life the world's beauty becomes enough. You don't need to photograph, paint or even remember it. It is enough.</p>
+<p>At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents.</p>
 
-<p>- Toni Morrison</p>
+<p>- Jane D. Hull</p>
