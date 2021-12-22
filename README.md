@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The art of medicine was to be properly learned only from its practice and its exercise.</p>
+<p>I set up a laboratory in the Department of Physiology in the Medical School in South Africa and begin to try to find a bacteriophage system which we might use to solve the genetic code.</p>
 
-<p>- Thomas Sydenham</p>
+<p>- Sydney Brenner</p>
