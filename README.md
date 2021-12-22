@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If anything, a lot of electronic music is music that no one listens to at home, hardly. It's really only to be heard when everyone's out enjoying it.</p>
+<p>Sometimes, if you don't have kids yourself, it's assumed you won't understand or know how to play a mom, which is kind of silly if you think about it.</p>
 
-<p>- David Byrne</p>
+<p>- Tricia Helfer</p>
