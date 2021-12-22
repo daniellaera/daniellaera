@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I set up a laboratory in the Department of Physiology in the Medical School in South Africa and begin to try to find a bacteriophage system which we might use to solve the genetic code.</p>
+<p>The things we know best are the things we haven't been taught.</p>
 
-<p>- Sydney Brenner</p>
+<p>- Luc de Clapiers</p>
