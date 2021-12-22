@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I haven't heard any music on the BBC World Service in a long time. Maybe I'm listening at the wrong times. But not one single piece of music.</p>
+<p>I loved it, but social reality impeded. Now I wander in here at 9 in the morning or so, and come back for a while in the afternoon. I am a very lenient boss.</p>
 
-<p>- Aung San Suu Kyi</p>
+<p>- Donald E. Westlake</p>
