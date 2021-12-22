@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I really admire a woman for her intelligence, her personality. Beauty is not enough.</p>
+<p>I went to the bank and asked to borrow a cup of money. They said, 'What for?' I said, 'I'm going to buy some sugar.'</p>
 
-<p>- Roberto Cavalli</p>
+<p>- Steven Wright</p>
