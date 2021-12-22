@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Girls shouldn't worry about being the equal of men in the business world.</p>
+<p>Art is the unceasing effort to compete with the beauty of flowers - and never succeeding.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Gian Carlo Menotti</p>
