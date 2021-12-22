@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Exuberance is beauty.</p>
+<p>The art of medicine was to be properly learned only from its practice and its exercise.</p>
 
-<p>- William Blake</p>
+<p>- Thomas Sydenham</p>
