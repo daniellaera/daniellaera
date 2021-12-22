@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the dissimilarities and inequalities among men which give rise to the notion of honor as such differences become less, it grows feeble and when they disappear, it will vanish too.</p>
+<p>I'm not one to sit and wallow - I would rather figure out a way around so I can move past it and be at peace with things. I don't like bad feelings gnawing away at me.</p>
 
-<p>- Alexis de Tocqueville</p>
+<p>- Sarah McLachlan</p>
