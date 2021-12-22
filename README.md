@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I loved it, but social reality impeded. Now I wander in here at 9 in the morning or so, and come back for a while in the afternoon. I am a very lenient boss.</p>
+<p>Girls shouldn't worry about being the equal of men in the business world.</p>
 
-<p>- Donald E. Westlake</p>
+<p>- Marilyn Monroe</p>
