@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes, if you don't have kids yourself, it's assumed you won't understand or know how to play a mom, which is kind of silly if you think about it.</p>
+<p>All men of action are dreamers.</p>
 
-<p>- Tricia Helfer</p>
+<p>- James Huneker</p>
