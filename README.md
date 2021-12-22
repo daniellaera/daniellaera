@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not one to sit and wallow - I would rather figure out a way around so I can move past it and be at peace with things. I don't like bad feelings gnawing away at me.</p>
+<p>I haven't heard any music on the BBC World Service in a long time. Maybe I'm listening at the wrong times. But not one single piece of music.</p>
 
-<p>- Sarah McLachlan</p>
+<p>- Aung San Suu Kyi</p>
