@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men of action are dreamers.</p>
+<p>American men, as a group, seem to be interested in only two things, money and breasts. It seems a very narrow outlook.</p>
 
-<p>- James Huneker</p>
+<p>- Hedy Lamarr</p>
