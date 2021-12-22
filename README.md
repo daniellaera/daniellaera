@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Well, everyone likes movies when they're a little kid.</p>
+<p>I'm always told that what I say is controversial. Why is it controversial? Because I speak from a tradition that has now fallen out of favor with the dominant media in this country. And so when I say things like marriage should be between one man and one woman, I'm called a bigot.</p>
 
-<p>- Anthony Hopkins</p>
+<p>- Rick Santorum</p>
