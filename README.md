@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What beauty is, I know not, though it adheres to many things.</p>
+<p>Exuberance is beauty.</p>
 
-<p>- Albrecht Durer</p>
+<p>- William Blake</p>
