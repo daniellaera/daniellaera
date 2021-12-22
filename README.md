@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There will be, I think, an attempt to grasp again the surprise and accidents of nature and a more intimate and sympathetic study of its moods, together with a renewed wonder and humility on the part of such as are still capable of these basic reactions.</p>
+<p>If anything, a lot of electronic music is music that no one listens to at home, hardly. It's really only to be heard when everyone's out enjoying it.</p>
 
-<p>- Edward Hopper</p>
+<p>- David Byrne</p>
