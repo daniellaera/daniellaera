@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents.</p>
+<p>There will be, I think, an attempt to grasp again the surprise and accidents of nature and a more intimate and sympathetic study of its moods, together with a renewed wonder and humility on the part of such as are still capable of these basic reactions.</p>
 
-<p>- Jane D. Hull</p>
+<p>- Edward Hopper</p>
