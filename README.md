@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think it's a tough road if you're a stay-at-home mom, a working mom, if you have a partner, if you don't. It's the best job in the world, and the toughest job in the world all at the same time.</p>
+<p>I really admire a woman for her intelligence, her personality. Beauty is not enough.</p>
 
-<p>- Angela Kinsey</p>
+<p>- Roberto Cavalli</p>
