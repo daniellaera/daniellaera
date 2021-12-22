@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm always told that what I say is controversial. Why is it controversial? Because I speak from a tradition that has now fallen out of favor with the dominant media in this country. And so when I say things like marriage should be between one man and one woman, I'm called a bigot.</p>
+<p>I think it's a tough road if you're a stay-at-home mom, a working mom, if you have a partner, if you don't. It's the best job in the world, and the toughest job in the world all at the same time.</p>
 
-<p>- Rick Santorum</p>
+<p>- Angela Kinsey</p>
