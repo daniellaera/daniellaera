@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My mom bought me a white Strat, but that wasn't what I wanted, so I went to a guitar store in Cleveland and - the guy told me it was a really good deal - made an even swap for a blue Teisco Del Ray. I loved that guitar and used it a bunch.</p>
+<p>Human nature refers to what is in people but which they cannot study or work at achieving.</p>
 
-<p>- Dan Auerbach</p>
+<p>- Xun Zi</p>
