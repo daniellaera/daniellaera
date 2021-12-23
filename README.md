@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When my dad divorced my mom it was kind of like him leaving me also.</p>
+<p>An unjust peace is better than a just war.</p>
 
-<p>- Nicole Richie</p>
+<p>- Marcus Tullius Cicero</p>
