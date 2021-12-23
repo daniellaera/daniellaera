@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Peace Corps would give thousands of young Americans a chance to see at first hand the conditions in remote areas of the world.</p>
+<p>I left my marriage knowing I'd have to work. I have.</p>
 
-<p>- Sargent Shriver</p>
+<p>- Sarah Ferguson</p>
