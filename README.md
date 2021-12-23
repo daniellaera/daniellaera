@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Caught up in life, you see it badly. You suffer from it or enjoy it too much. The artist, in my opinion, is a monstrosity, something outside of nature.</p>
+<p>Only the educated are free.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Epictetus</p>
