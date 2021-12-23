@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are not against you they are merely for themselves.</p>
+<p>I thought it might be a good move to get into a beauty contest so I tried for Miss Pennsylvania and won. I think that helped me get noticed, at least by the people of Pennsylvania.</p>
 
-<p>- Gene Fowler</p>
+<p>- Sharon Stone</p>
