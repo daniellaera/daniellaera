@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our conduct, our patriotism and belief in our American way of life, our courage that will win the final battle.</p>
+<p>I have never found a companion that was so companionable as solitude. We are for the most part more lonely when we go abroad among men than when we stay in our chambers. A man thinking or working is always alone, let him be where he will.</p>
 
-<p>- Prescott Bush</p>
+<p>- Henry David Thoreau</p>
