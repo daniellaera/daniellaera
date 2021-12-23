@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human nature refers to what is in people but which they cannot study or work at achieving.</p>
+<p>Yeah, I'm not really a morning person.</p>
 
-<p>- Xun Zi</p>
+<p>- Sophie Ellis-Bextor</p>
