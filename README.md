@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you have confidence you have patience. Confidence, that is everything.</p>
+<p>Caught up in life, you see it badly. You suffer from it or enjoy it too much. The artist, in my opinion, is a monstrosity, something outside of nature.</p>
 
-<p>- Ilie Nastase</p>
+<p>- Gustave Flaubert</p>
