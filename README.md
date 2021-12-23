@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I left my marriage knowing I'd have to work. I have.</p>
+<p>You never know what motivates you.</p>
 
-<p>- Sarah Ferguson</p>
+<p>- Cicely Tyson</p>
