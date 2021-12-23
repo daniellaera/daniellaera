@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never found a companion that was so companionable as solitude. We are for the most part more lonely when we go abroad among men than when we stay in our chambers. A man thinking or working is always alone, let him be where he will.</p>
+<p>I think I turned to writing really just to wake up in the morning and be a musician and to have something to do, and feel like a musician every day even if I wasn't working.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Lesley Gore</p>
