@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think I turned to writing really just to wake up in the morning and be a musician and to have something to do, and feel like a musician every day even if I wasn't working.</p>
+<p>I've only slept with men I've been married to. How many women can make that claim?</p>
 
-<p>- Lesley Gore</p>
+<p>- Elizabeth Taylor</p>
