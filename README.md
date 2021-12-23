@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having money is rather like being a blond. It is more fun but not vital.</p>
+<p>My mom bought me a white Strat, but that wasn't what I wanted, so I went to a guitar store in Cleveland and - the guy told me it was a really good deal - made an even swap for a blue Teisco Del Ray. I loved that guitar and used it a bunch.</p>
 
-<p>- Mary Quant</p>
+<p>- Dan Auerbach</p>
