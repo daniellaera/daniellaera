@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only the educated are free.</p>
+<p>The best cure for insomnia is to get a lot of sleep.</p>
 
-<p>- Epictetus</p>
+<p>- W. C. Fields</p>
