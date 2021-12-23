@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>American men, as a group, seem to be interested in only two things, money and breasts. It seems a very narrow outlook.</p>
+<p>The best proof of love is trust.</p>
 
-<p>- Hedy Lamarr</p>
+<p>- Joyce Brothers</p>
