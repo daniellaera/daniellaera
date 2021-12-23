@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is produced by war.</p>
+<p>Having money is rather like being a blond. It is more fun but not vital.</p>
 
-<p>- Pierre Corneille</p>
+<p>- Mary Quant</p>
