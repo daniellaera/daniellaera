@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obscenity, which is ever blasphemy against the divine beauty in life, is a monster for which the corruption of society forever brings forth new food, which it devours in secret.</p>
+<p>When my dad divorced my mom it was kind of like him leaving me also.</p>
 
-<p>- Percy Bysshe Shelley</p>
+<p>- Nicole Richie</p>
