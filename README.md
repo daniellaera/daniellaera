@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best proof of love is trust.</p>
+<p>Obscenity, which is ever blasphemy against the divine beauty in life, is a monster for which the corruption of society forever brings forth new food, which it devours in secret.</p>
 
-<p>- Joyce Brothers</p>
+<p>- Percy Bysshe Shelley</p>
