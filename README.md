@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Capitalism is war socialism is peace.</p>
+<p>It is our conduct, our patriotism and belief in our American way of life, our courage that will win the final battle.</p>
 
-<p>- Karl Liebknecht</p>
+<p>- Prescott Bush</p>
