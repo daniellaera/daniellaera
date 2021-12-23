@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've only slept with men I've been married to. How many women can make that claim?</p>
+<p>Men are not against you they are merely for themselves.</p>
 
-<p>- Elizabeth Taylor</p>
+<p>- Gene Fowler</p>
