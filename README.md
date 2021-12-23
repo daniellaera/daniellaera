@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An unjust peace is better than a just war.</p>
+<p>The Peace Corps would give thousands of young Americans a chance to see at first hand the conditions in remote areas of the world.</p>
 
-<p>- Marcus Tullius Cicero</p>
+<p>- Sargent Shriver</p>
