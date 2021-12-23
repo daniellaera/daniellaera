@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You never know what motivates you.</p>
+<p>If you have confidence you have patience. Confidence, that is everything.</p>
 
-<p>- Cicely Tyson</p>
+<p>- Ilie Nastase</p>
