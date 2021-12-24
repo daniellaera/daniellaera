@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is one to say about June, the time of perfect young summer, the fulfillment of the promise of the earlier months, and with as yet no sign to remind one that its fresh young beauty will ever fade.</p>
+<p>The beauty one can find in art is one of the pitifully few real and lasting products of human endeavor.</p>
 
-<p>- Gertrude Jekyll</p>
+<p>- Paul Getty</p>
