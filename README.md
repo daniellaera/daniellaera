@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A desire to resist oppression is implanted in the nature of man.</p>
+<p>Imagination disposes of everything it creates beauty, justice, and happiness, which are everything in this world.</p>
 
-<p>- Tacitus</p>
+<p>- Blaise Pascal</p>
