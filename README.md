@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How do people relate to movies now, when they're on portable devices or streaming them? It's not as much about going to the movies. That experience has changed.</p>
+<p>My dad was Jewish. My mom is not. So I was not raised anything.</p>
 
-<p>- Keanu Reeves</p>
+<p>- Matt Lauer</p>
