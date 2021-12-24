@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would bend over backward to be back on Grey's. Any day, I'll choose lying in bed with Katherine Heigl looking over me over getting thrown against walls by supernatural persons at 5 in the morning.</p>
+<p>I was blessed, because I come from a family where they knock you down before you float away. I have a lot of brothers who just make sure we have our feet on the ground, and my mom is a rock star. She is an amazing mother.</p>
 
-<p>- Jeffrey Dean Morgan</p>
+<p>- Kellan Lutz</p>
