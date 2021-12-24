@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Parenting is one of the hardest jobs on earth.</p>
+<p>How do people relate to movies now, when they're on portable devices or streaming them? It's not as much about going to the movies. That experience has changed.</p>
 
-<p>- Jennifer Aniston</p>
+<p>- Keanu Reeves</p>
