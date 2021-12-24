@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Robots have a rich and storied history in movies.</p>
+<p>We should have a State in which we could live and breathe as free men and which we could develop according to our own lights and culture and where principles of Islamic social justice could find free play.</p>
 
-<p>- John Podhoretz</p>
+<p>- Muhammad Ali Jinnah</p>
