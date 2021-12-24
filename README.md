@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination disposes of everything it creates beauty, justice, and happiness, which are everything in this world.</p>
+<p>Solitude gives birth to the original in us, to beauty unfamiliar and perilous - to poetry. But also, it gives birth to the opposite: to the perverse, the illicit, the absurd.</p>
 
-<p>- Blaise Pascal</p>
+<p>- Thomas Mann</p>
