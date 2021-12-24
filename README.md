@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We should have a State in which we could live and breathe as free men and which we could develop according to our own lights and culture and where principles of Islamic social justice could find free play.</p>
+<p>Everything in life is a lesson and I have learned from each marriage. Yes, I've made mistakes but every experience is a learning curve.</p>
 
-<p>- Muhammad Ali Jinnah</p>
+<p>- Patsy Kensit</p>
