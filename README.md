@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I love to read. I love to stretch. In the morning, I get up, and if I'm not in a hurry, I will lie on the floor on a rug, look through some books and magazines, and maybe listen to music and try to do stretching exercises to tune up.</p>
+<p>I have to keep reminding myself that I am their mother. Sometimes we are sitting at home and I feel like we are waiting for our mom to come home.</p>
 
-<p>- Jackson Browne</p>
+<p>- Ruby Wax</p>
