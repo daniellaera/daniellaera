@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My mom had started to go to work when I was nine or ten, so I was aware of women trying to find their own identities by working. But I was still influenced by men to such an extreme. I wanted to play their games and wanted to compete in their world and be like them.</p>
+<p>Robots have a rich and storied history in movies.</p>
 
-<p>- Elisabeth Shue</p>
+<p>- John Podhoretz</p>
