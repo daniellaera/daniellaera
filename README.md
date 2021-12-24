@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My dad was Jewish. My mom is not. So I was not raised anything.</p>
+<p>For me growing up, Christmas time was always the most fantastic, exciting time of year, and you'd stay up until three in the morning. You'd hear the parents wrapping in the other room but you knew that also, maybe, they were in collusion with Santa Claus.</p>
 
-<p>- Matt Lauer</p>
+<p>- Chris Pine</p>
