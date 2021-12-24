@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything in life is a lesson and I have learned from each marriage. Yes, I've made mistakes but every experience is a learning curve.</p>
+<p>I would bend over backward to be back on Grey's. Any day, I'll choose lying in bed with Katherine Heigl looking over me over getting thrown against walls by supernatural persons at 5 in the morning.</p>
 
-<p>- Patsy Kensit</p>
+<p>- Jeffrey Dean Morgan</p>
