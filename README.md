@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was blessed, because I come from a family where they knock you down before you float away. I have a lot of brothers who just make sure we have our feet on the ground, and my mom is a rock star. She is an amazing mother.</p>
+<p>Parenting is one of the hardest jobs on earth.</p>
 
-<p>- Kellan Lutz</p>
+<p>- Jennifer Aniston</p>
