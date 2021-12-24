@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I cannot think of anything more difficult than to say something which would be worthy of this impressive and, for me, memorable occasion, and of the ideals and purposes which inspired the Nobel Peace Award.</p>
+<p>A desire to resist oppression is implanted in the nature of man.</p>
 
-<p>- Lester B. Pearson</p>
+<p>- Tacitus</p>
