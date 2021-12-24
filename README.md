@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The beauty one can find in art is one of the pitifully few real and lasting products of human endeavor.</p>
+<p>Art is about expressing the true nature of the human spirit in whatever way one wishes to express it. If it is honest, it is beautiful. If it is not honest, it is obvious.</p>
 
-<p>- Paul Getty</p>
+<p>- Corin Nemec</p>
