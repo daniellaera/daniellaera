@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As for the promotion of peace congresses we have had our meetings and assemblies, but the promotion through them of the determined and effective will to peace displaying itself in action and policy remains to be achieved.</p>
+<p>I cannot think of anything more difficult than to say something which would be worthy of this impressive and, for me, memorable occasion, and of the ideals and purposes which inspired the Nobel Peace Award.</p>
 
 <p>- Lester B. Pearson</p>
