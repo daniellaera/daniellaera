@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not to be weird, but I still have an ongoing relationship with my mom, even though she passed away, and I've been surprised at how much I've been able to convey to her. Now I sound like a total weirdo, but that's true.</p>
+<p>I love to read. I love to stretch. In the morning, I get up, and if I'm not in a hurry, I will lie on the floor on a rug, look through some books and magazines, and maybe listen to music and try to do stretching exercises to tune up.</p>
 
-<p>- Mindy Kaling</p>
+<p>- Jackson Browne</p>
