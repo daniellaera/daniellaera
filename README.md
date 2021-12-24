@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I thought that once we were out of the baby stage, parenting would be a breeze.</p>
+<p>As for the promotion of peace congresses we have had our meetings and assemblies, but the promotion through them of the determined and effective will to peace displaying itself in action and policy remains to be achieved.</p>
 
-<p>- Tori Spelling</p>
+<p>- Lester B. Pearson</p>
