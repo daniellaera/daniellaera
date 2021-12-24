@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Solitude gives birth to the original in us, to beauty unfamiliar and perilous - to poetry. But also, it gives birth to the opposite: to the perverse, the illicit, the absurd.</p>
+<p>All things are perceived in the light of charity, and hence under the aspect of beauty for beauty is simply reality seen with the eyes of love.</p>
 
-<p>- Thomas Mann</p>
+<p>- Evelyn Underhill</p>
