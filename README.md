@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I still feel like a kid sometimes myself so hard to believe that I'm a mom. Now I'm an adult! It only took 38 years!</p>
+<p>Beware of men who cry. It's true that men who cry are sensitive to and in touch with feelings, but the only feelings they tend to be sensitive to and in touch with are their own.</p>
 
-<p>- Ana Ortiz</p>
+<p>- Nora Ephron</p>
