@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I like actors that are good with pantomime and that can transmit a lot by their presence and attitude more than through their dialogue.</p>
+<p>Jews were asked when life begins. For them it's when they finally graduate medical school.</p>
 
-<p>- Guillermo del Toro</p>
+<p>- Evan Sayet</p>
