@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I believe that laughter is the best emotional Band-Aid in the world. It's like nature's Neosporin.</p>
+<p>I still feel like a kid sometimes myself so hard to believe that I'm a mom. Now I'm an adult! It only took 38 years!</p>
 
-<p>- Matt LeBlanc</p>
+<p>- Ana Ortiz</p>
