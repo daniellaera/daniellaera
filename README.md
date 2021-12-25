@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have to keep reminding myself that I am their mother. Sometimes we are sitting at home and I feel like we are waiting for our mom to come home.</p>
+<p>I went to the bank and asked to borrow a cup of money. They said, 'What for?' I said, 'I'm going to buy some sugar.'</p>
 
-<p>- Ruby Wax</p>
+<p>- Steven Wright</p>
