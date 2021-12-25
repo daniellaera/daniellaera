@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The reason for not getting married was that I just didn't have a partner to get married to. Climbing mountains was more attractive to me than marriage, or other fun things like that.</p>
+<p>I like actors that are good with pantomime and that can transmit a lot by their presence and attitude more than through their dialogue.</p>
 
-<p>- Tamae Watanabe</p>
+<p>- Guillermo del Toro</p>
