@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Jews were asked when life begins. For them it's when they finally graduate medical school.</p>
+<p>I am very old-fashioned about marriage. It is for life and I mean it. I always knew that when I met the right girl, the life I had before - being single, in a band, girls everywhere - would be over.</p>
 
-<p>- Evan Sayet</p>
+<p>- Gary Numan</p>
