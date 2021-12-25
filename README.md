@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.</p>
+<p>The reason for not getting married was that I just didn't have a partner to get married to. Climbing mountains was more attractive to me than marriage, or other fun things like that.</p>
 
-<p>- Albert Einstein</p>
+<p>- Tamae Watanabe</p>
