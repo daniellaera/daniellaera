@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most tragic paradox of our time is to be found in the failure of nation-states to recognize the imperatives of internationalism.</p>
+<p>Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.</p>
 
-<p>- Earl Warren</p>
+<p>- Albert Einstein</p>
