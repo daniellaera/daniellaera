@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I went to the bank and asked to borrow a cup of money. They said, 'What for?' I said, 'I'm going to buy some sugar.'</p>
+<p>The most tragic paradox of our time is to be found in the failure of nation-states to recognize the imperatives of internationalism.</p>
 
-<p>- Steven Wright</p>
+<p>- Earl Warren</p>
