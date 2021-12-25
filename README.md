@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beware of men who cry. It's true that men who cry are sensitive to and in touch with feelings, but the only feelings they tend to be sensitive to and in touch with are their own.</p>
+<p>Oh, I have this feud going with the L.A. Unified School District, because I keep getting these phone calls saying my daughter keeps missing classes, I mean, at all hours of the night, I had like, two calls this morning and I keep calling saying I haven't got a daughter!</p>
 
-<p>- Nora Ephron</p>
+<p>- Chris Colfer</p>
