@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am very old-fashioned about marriage. It is for life and I mean it. I always knew that when I met the right girl, the life I had before - being single, in a band, girls everywhere - would be over.</p>
+<p>I believe that laughter is the best emotional Band-Aid in the world. It's like nature's Neosporin.</p>
 
-<p>- Gary Numan</p>
+<p>- Matt LeBlanc</p>
