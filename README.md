@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>There is no greater agony than bearing an untold story inside you.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Maya Angelou</p>
