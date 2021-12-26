@@ -8,14 +8,14 @@ async function main() {
   ).toString("utf-8");
 
   const office_quote = await (
-    await fetch("https://goquotes-api.herokuapp.com/api/v1/random?count=1")
+    await fetch("https://zenquotes.io/api/random")
   ).json();
 
   console.log(office_quote);
 
   const readme = readmeTemplate
-    .replace("{office_quote}", office_quote.quotes[0].text)
-    .replace("{office_character}", `- ${office_quote.quotes[0].author}`);
+    .replace("{office_quote}", office_quote[0].q)
+    .replace("{office_character}", `- ${office_quote[0].a}`);
 
   await fs.writeFile("README.md", readme);
 }
