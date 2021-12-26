@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is exact correspondence with reality. </p>
+<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Chinese Proverb</p>
