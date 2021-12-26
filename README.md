@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
+<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
 
-<p>- Buddha</p>
+<p>- Wayne Dyer</p>
