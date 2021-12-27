@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.</p>
 
-<p>- Socrates</p>
+<p>- James Allen</p>
