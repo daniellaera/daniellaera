@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>You will not do incredible things without an incredible dream.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- John Eliot</p>
