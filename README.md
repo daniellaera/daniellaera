@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things may come to those who wait, but only the things left by those who hustle.</p>
+<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- William Faulkner</p>
