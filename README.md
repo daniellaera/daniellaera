@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
+<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
 
-<p>- Henry Ford</p>
+<p>- Ralph Waldo Emerson</p>
