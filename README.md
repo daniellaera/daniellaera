@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>- A.A. Milne</p>
+<p>- Abraham Lincoln</p>
