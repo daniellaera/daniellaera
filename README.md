@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you've got nothing, you've got nothing to lose.</p>
+<p>Longevity is a fleeting moment that lasts forever.</p>
 
-<p>- Bob Dylan</p>
+<p>- Vidal Sassoon</p>
