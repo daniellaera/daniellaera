@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>When you've got nothing, you've got nothing to lose.</p>
 
-<p>- William Faulkner</p>
+<p>- Bob Dylan</p>
