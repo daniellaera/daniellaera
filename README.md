@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we have the less we own.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Eleanor Roosevelt</p>
