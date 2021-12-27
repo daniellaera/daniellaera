@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Socrates</p>
