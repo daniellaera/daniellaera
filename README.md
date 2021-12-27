@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>The more we have the less we own.</p>
 
-<p>- James Allen</p>
+<p>- Meister Eckhart</p>
