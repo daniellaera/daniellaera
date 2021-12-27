@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
+<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
 
-<p>- Samuel Butler</p>
+<p>- Carlos Ruiz Zafon</p>
