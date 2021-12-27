@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will not do incredible things without an incredible dream.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>- John Eliot</p>
+<p>- Herodotus</p>
