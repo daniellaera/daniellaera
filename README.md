@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</p>
+<p>Sadness is but a wall between two gardens.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Kahlil Gibran</p>
