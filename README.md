@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Bob Marley</p>
