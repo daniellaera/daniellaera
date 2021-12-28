@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</p>
+<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Zig Ziglar</p>
