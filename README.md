@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
+<p>I've always tried to go a step past wherever people expected me to end up.</p>
 
-<p>- Alan Watts</p>
+<p>- Beverly Sills</p>
