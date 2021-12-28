@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sadness is but a wall between two gardens.</p>
+<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Albus Dumbledore</p>
