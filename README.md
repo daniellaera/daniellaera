@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>- Unknown</p>
+<p>- Richard Bach</p>
