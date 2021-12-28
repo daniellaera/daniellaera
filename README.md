@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
+<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
 
-<p>- Socrates</p>
+<p>- Unknown</p>
