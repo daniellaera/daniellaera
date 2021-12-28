@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quieter you become, the more you are able to hear.</p>
+<p>Nothing is more real than nothing.</p>
 
-<p>- Rumi</p>
+<p>- Samuel Beckett</p>
