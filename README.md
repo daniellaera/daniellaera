@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Celestine Chua</p>
