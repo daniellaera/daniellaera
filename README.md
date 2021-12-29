@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>- Brian Tracy</p>
+<p>- Criss Jami</p>
