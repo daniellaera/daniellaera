@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is simple. If it was complicated, everyone would understand it.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>- Walt Whitman</p>
+<p>- Earl Nightingale</p>
