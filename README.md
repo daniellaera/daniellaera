@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just get out and do it. You will be very, very glad that you did.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Walt Whitman</p>
