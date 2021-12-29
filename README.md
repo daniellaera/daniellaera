@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
+<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
 
-<p>- Eckhart Tolle</p>
+<p>- Paramahansa Yogananda</p>
