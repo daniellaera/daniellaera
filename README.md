@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>- Zhuangzi</p>
+<p>- Soren Kierkegaard</p>
