@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Robert Greene</p>
+<p>- Lao Tzu</p>
