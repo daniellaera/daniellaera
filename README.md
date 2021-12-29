@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>- James Allen</p>
+<p>- Nelson Mandela</p>
