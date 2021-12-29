@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Charles Darwin</p>
