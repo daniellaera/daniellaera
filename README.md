@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>- Herodotus</p>
+<p>- Epictetus</p>
