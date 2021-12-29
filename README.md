@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>- Epictetus</p>
+<p>- Zhuangzi</p>
