@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who does not value himself, cannot value anything or anyone.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- Ayn Rand</p>
+<p>- Carl Jung</p>
