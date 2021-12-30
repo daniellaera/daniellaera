@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Quitter never wins – and – a Winner never quits.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Napoleon Hill</p>
+<p>- Oscar Wilde</p>
