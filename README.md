@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once you choose hope, anything's possible.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Lao Tzu</p>
