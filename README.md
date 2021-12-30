@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no limitations to the mind except those we acknowledge...</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Ayn Rand</p>
