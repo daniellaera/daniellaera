@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
 
 <p>- Criss Jami</p>
