@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
 
-<p>- Colin Powell</p>
+<p>- Bruce Lee</p>
