@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
+<p>A Quitter never wins – and – a Winner never quits.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Napoleon Hill</p>
