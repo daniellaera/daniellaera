@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Margaret Mead</p>
