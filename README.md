@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>We love the things we love for what they are.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Robert Frost</p>
