@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>A Quitter never wins – and – a Winner never quits.</p>
 
-<p>- Margaret Mead</p>
+<p>- Napoleon Hill</p>
