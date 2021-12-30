@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>- Eric Hoffer</p>
+<p>- John Tukey</p>
