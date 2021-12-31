@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
+<p>There's more to life than being a passenger.</p>
 
-<p>- Brian Tracy</p>
+<p>- Amelia Earhart</p>
