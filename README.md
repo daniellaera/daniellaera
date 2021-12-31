@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
+<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Earl Nightingale</p>
