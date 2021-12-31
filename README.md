@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be approximately right rather than exactly wrong.</p>
+<p>You win more from losing than winning.</p>
 
-<p>- John Tukey</p>
+<p>- Morgan Wootten</p>
