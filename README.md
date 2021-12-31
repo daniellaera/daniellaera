@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
+<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
 
-<p>- Richard Bach</p>
+<p>- Winston Churchill</p>
