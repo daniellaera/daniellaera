@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>- Winston Churchill</p>
+<p>- Socrates</p>
