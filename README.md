@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
+<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Richard Bach</p>
