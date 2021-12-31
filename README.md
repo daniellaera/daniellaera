@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let the beauty of what you love be what you do.</p>
+<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
 
-<p>- Rumi</p>
+<p>- Jack Butcher</p>
