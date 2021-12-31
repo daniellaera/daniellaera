@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>- Helen Keller</p>
+<p>- Earl Nightingale</p>
