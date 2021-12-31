@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your worth consists in what you are and not in what you have.</p>
+<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
 
-<p>- Thomas Edison</p>
+<p>- Josh Waitzkin</p>
