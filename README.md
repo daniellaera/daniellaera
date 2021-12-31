@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, today is the tomorrow you worried about yesterday.</p>
+<p>The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Herodotus</p>
