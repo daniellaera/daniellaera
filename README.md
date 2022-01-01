@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Gilbert Chesterton</p>
