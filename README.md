@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Small men think they are small; great men never know they are great. </p>
+<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Audrey Hepburn</p>
