@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wheresoever you go, go with all your heart.</p>
+<p>Life begins where fear ends.</p>
 
-<p>- Confucius</p>
+<p>- Osho</p>
