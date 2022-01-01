@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you tell the truth, you don't have to remember anything.</p>
+<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
 
-<p>- Mark Twain</p>
+<p>- Og Mandino</p>
