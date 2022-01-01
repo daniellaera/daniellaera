@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not fear failure but rather fear not trying.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Robert Greene</p>
