@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life begins where fear ends.</p>
+<p>Either write something worth reading or do something worth writing.</p>
 
-<p>- Osho</p>
+<p>- Benjamin Franklin</p>
