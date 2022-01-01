@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either write something worth reading or do something worth writing.</p>
+<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Lao Tzu</p>
