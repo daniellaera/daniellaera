@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>- Robert Greene</p>
+<p>- Chinese Proverb</p>
