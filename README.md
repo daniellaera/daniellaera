@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>One must be poor to know the luxury of giving.</p>
 
-<p>- Bob Proctor</p>
+<p>- George Eliot</p>
