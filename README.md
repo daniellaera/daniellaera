@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to love anything is to realize that it may be lost.</p>
+<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Virginia Woolf</p>
