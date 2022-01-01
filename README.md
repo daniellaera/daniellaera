@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>Take care of your cents: dollars will take care of themselves.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Thomas Jefferson</p>
