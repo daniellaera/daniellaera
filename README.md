@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>Silence is sometimes the best answer</p>
 
-<p>- Lao Tzu</p>
+<p>- Dalai Lama</p>
