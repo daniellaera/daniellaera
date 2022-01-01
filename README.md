@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your cents: dollars will take care of themselves.</p>
+<p>Do not fear failure but rather fear not trying.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Roy T. Bennett</p>
