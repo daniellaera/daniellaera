@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is sometimes the best answer</p>
+<p>Small men think they are small; great men never know they are great. </p>
 
-<p>- Dalai Lama</p>
+<p>- Chinese Proverb</p>
