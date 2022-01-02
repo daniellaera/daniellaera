@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>- Celestine Chua</p>
+<p>- Franklin D. Roosevelt</p>
