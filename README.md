@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</p>
+<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
 
-<p>- Elon Musk</p>
+<p>- James Matthew Barrie</p>
