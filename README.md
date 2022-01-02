@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people find fault like there is a reward for it.  </p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Benjamin Franklin</p>
