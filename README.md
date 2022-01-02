@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All our dreams can come true, if we have the courage to pursue them.</p>
+<p>Repetition does not transform a lie into a truth.</p>
 
-<p>- Walt Disney</p>
+<p>- Franklin D. Roosevelt</p>
