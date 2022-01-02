@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>- William Faulkner</p>
+<p>- J.R.R. Tolkien</p>
