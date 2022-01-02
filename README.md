@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</p>
+<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
 
-<p>- Seneca</p>
+<p>- Eckhart Tolle</p>
