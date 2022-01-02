@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
+<p>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Orison Swett Marden</p>
