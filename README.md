@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never trust he who trusts everyone.</p>
+<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Ralph Marston</p>
