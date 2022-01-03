@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
 
-<p>- Dogen</p>
+<p>- Unknown</p>
