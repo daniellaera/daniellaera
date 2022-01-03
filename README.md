@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>Start each day with a positive thought and a grateful heart.</p>
 
-<p>- Albert Einstein</p>
+<p>- Roy T. Bennett</p>
