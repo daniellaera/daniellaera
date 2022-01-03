@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
+<p>We must create our own world or we will die from inaction.</p>
 
-<p>- John Wooden</p>
+<p>- Robert Greene</p>
