@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think when you lose determines how long it will be until you win.</p>
+<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Conrad Hilton</p>
