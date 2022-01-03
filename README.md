@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
+<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Naval Ravikant</p>
