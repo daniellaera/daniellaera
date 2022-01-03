@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
+<p>If you change the way you look at things, the things you look at change. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Wayne Dyer</p>
