@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the time is gone, you can never get it back.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>- Stephen King</p>
+<p>- Gilbert Chesterton</p>
