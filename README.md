@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
+<p>When the time is gone, you can never get it back.</p>
 
-<p>- Ralph Marston</p>
+<p>- Stephen King</p>
