@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you change the way you look at things, the things you look at change. </p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Anne Frank</p>
