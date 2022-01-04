@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
 
-<p>- Woody Allen</p>
+<p>- Celestine Chua</p>
