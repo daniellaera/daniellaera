@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
+<p>Make your mind your own business.</p>
 
-<p>- Sydney Smith</p>
+<p>- Jack Butcher</p>
