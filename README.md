@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>The wisdom of life consists in the elimination of the nonessentials.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Lin Yutang</p>
