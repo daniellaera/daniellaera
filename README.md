@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>The more you give, the more comes back to you.</p>
 
-<p>- Aristotle</p>
+<p>- Napoleon Hill</p>
