@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>- Celestine Chua</p>
+<p>- Les Brown</p>
