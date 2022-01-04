@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you give, the more comes back to you.</p>
+<p>The only thing we have to fear is fear itself.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Franklin D. Roosevelt</p>
