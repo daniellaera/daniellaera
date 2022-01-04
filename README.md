@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Ming-Dao Deng</p>
