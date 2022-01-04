@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most effective way to do it, is to do it.</p>
+<p>Man must use what he has, not hope for what is not.</p>
 
-<p>- Amelia Earhart</p>
+<p>- G.I. Gurdjieff</p>
