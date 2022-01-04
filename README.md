@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your mind your own business.</p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>- Jack Butcher</p>
+<p>- Soyen Shaku</p>
