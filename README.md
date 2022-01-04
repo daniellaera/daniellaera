@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
+<p>Dance first. Think later. It's the natural order.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Samuel Beckett</p>
