@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Bob Marley</p>
