@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to set another goal or to dream a new dream.</p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>- Les Brown</p>
+<p>- Chinese Proverb</p>
