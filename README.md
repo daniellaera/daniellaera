@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your friends close, and your enemies closer.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>- Sun Tzu</p>
+<p>- Woody Allen</p>
