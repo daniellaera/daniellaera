@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not regret the past. Look to the future.</p>
+<p>The most effective way to do it, is to do it.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Amelia Earhart</p>
