@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek greatness is the only righteous vengeance.</p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>- Criss Jami</p>
+<p>- Gilbert Chesterton</p>
