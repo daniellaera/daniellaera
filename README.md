@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work harder on yourself than you do on your job.</p>
+<p>Light a candle instead of cursing the darkness.</p>
 
-<p>- Jim Rohn</p>
+<p>- Eleanor Roosevelt</p>
