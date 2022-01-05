@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>- Lao Tzu</p>
+<p>- Plato</p>
