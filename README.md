@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>Where there is no struggle, there is no strength. </p>
 
-<p>- Zig Ziglar</p>
+<p>- Oprah Winfrey</p>
