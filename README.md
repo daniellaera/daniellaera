@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Begin now to be what you will be hereafter.</p>
+<p>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</p>
 
-<p>- St. Jerome</p>
+<p>- Ralph Marston</p>
