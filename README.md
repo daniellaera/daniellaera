@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do anything, but let it produce joy.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>- Walt Whitman</p>
+<p>- Niccolo Machiavelli</p>
