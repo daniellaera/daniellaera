@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not titles that honour men, but men that honour titles.</p>
+<p>We forge the chains we wear in life.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Charles Dickens</p>
