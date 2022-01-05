@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a constant series of opportunities.</p>
+<p>Do anything, but let it produce joy.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Walt Whitman</p>
