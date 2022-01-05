@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>- Bob Dylan</p>
+<p>- Rumi</p>
