@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The single biggest problem in communication is the illusion that it has taken place.</p>
+<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Zig Ziglar</p>
