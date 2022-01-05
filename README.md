@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>- Rumi</p>
+<p>- Cherralea Morgen</p>
