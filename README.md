@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>- Brian Tracy</p>
+<p>- Les Brown</p>
