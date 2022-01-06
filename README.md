@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
 
-<p>- Buddha</p>
+<p>- Criss Jami</p>
