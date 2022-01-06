@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>Remember, today is the tomorrow you worried about yesterday.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Dale Carnegie</p>
