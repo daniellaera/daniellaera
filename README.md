@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
+<p>Good things aren't supposed to just fall into your lap.</p>
 
-<p>- Dogen</p>
+<p>- Audrey Hepburn</p>
