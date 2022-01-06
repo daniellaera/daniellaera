@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>- Dogen</p>
+<p>- Sathya Sai Baba</p>
