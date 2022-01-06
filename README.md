@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, today is the tomorrow you worried about yesterday.</p>
+<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Zen Proverb</p>
