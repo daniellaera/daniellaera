@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Alexandre Dumas</p>
