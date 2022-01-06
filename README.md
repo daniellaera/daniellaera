@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
+<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
 
-<p>- Criss Jami</p>
+<p>- Albus Dumbledore</p>
