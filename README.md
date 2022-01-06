@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
+<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Charles Dickens</p>
