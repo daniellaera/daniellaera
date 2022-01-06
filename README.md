@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
+<p>If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Maxime Lagace</p>
