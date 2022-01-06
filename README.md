@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
+<p>Beauty is not in the face; beauty is a light in the heart.</p>
 
-<p>- Zen Proverb</p>
+<p>- Kahlil Gibran</p>
