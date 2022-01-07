@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is an option, fear is not.</p>
+<p>Plants grow weak without wind.</p>
 
-<p>- James Cameron</p>
+<p>- Maxime Lagace</p>
