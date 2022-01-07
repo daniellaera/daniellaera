@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Brian Tracy</p>
