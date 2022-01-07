@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>- John Eliot</p>
+<p>- Ming-Dao Deng</p>
