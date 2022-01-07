@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only normal people are the ones you don't know very well.</p>
+<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
 
-<p>- Alfred Adler</p>
+<p>- Sathya Sai Baba</p>
