@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>What you seek is seeking you.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Rumi</p>
