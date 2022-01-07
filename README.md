@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Lao Tzu</p>
+<p>- Wayne Dyer</p>
