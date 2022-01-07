@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Henry David Thoreau</p>
