@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
+<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
 
-<p>- Charles Dickens</p>
+<p>- Colin Powell</p>
