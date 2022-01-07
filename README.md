@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
+<p>You don't know who is important to you until you actually lose them.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Mahatma Gandhi</p>
