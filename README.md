@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
+<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Sathya Sai Baba</p>
