@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Thomas Jefferson</p>
