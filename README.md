@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- John Eliot</p>
