@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Plants grow weak without wind.</p>
+<p>The only thing we have to fear is fear itself.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Franklin D. Roosevelt</p>
