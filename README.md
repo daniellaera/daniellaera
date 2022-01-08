@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
 
-<p>- Aristotle</p>
+<p>- Barack Obama</p>
