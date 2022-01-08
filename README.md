@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is anger, there is always pain underneath.</p>
+<p>Don't criticize what you can't understand. </p>
 
-<p>- Eckhart Tolle</p>
+<p>- Bob Dylan</p>
