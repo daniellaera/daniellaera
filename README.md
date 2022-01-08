@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Watch what you say, and whaterver you say, practice it.</p>
+<p>We are shaped and fashioned by what we love.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Johann Wolfgang von Goethe</p>
