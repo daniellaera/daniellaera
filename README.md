@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Dudley Field Malone</p>
