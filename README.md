@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best of us sometimes eat our words.  </p>
+<p>Where there is anger, there is always pain underneath.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Eckhart Tolle</p>
