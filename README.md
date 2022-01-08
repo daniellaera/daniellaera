@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
 
-<p>- Aristotle</p>
+<p>- John Wooden</p>
