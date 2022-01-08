@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
+<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
 
-<p>- Barack Obama</p>
+<p>- Brian Tracy</p>
