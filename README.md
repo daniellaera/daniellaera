@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear can hold you prisoner. Hope can set you free.</p>
+<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
 
-<p>- Stephen King</p>
+<p>- Aristotle</p>
