@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faults are yours to fix, not to curse.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>- Colin Powell</p>
+<p>- Vince Lombardi</p>
