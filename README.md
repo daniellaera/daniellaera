@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be yourself; everyone else is already taken </p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>- Oscar Wilde</p>
+<p>- J.R.R. Tolkien</p>
