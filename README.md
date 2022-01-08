@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wiser you get, the less you care to look like a fool.</p>
+<p>Watch what you say, and whaterver you say, practice it.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Soyen Shaku</p>
