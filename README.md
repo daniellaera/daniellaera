@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The health of nations is more important than the wealth of nations.</p>
+<p>We run to win, not just to be in the race.  </p>
 
-<p>- Will Rogers</p>
+<p>- Vince Lombardi</p>
