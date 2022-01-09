@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great acts are made up of small deeds.</p>
+<p>Wheels of justice grind slow but grind fine.</p>
 
-<p>- Lao Tzu</p>
+<p>- Sun Tzu</p>
