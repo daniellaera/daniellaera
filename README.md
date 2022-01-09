@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the only real obstacle in your path to a fulfilling life.</p>
+<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
 
-<p>- Les Brown</p>
+<p>- Anita Krizzan</p>
