@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>- Barack Obama</p>
+<p>- Lao Tzu</p>
