@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You know the more one does the more one can do.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>- Amelia Earhart</p>
+<p>- D. H. Lawrence</p>
