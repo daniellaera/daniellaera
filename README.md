@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Amelia Earhart</p>
