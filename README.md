@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ability is a poor man's wealth.</p>
+<p>Don't be afraid to give up the good to go for the great.</p>
 
-<p>- John Wooden</p>
+<p>- John D. Rockefeller</p>
