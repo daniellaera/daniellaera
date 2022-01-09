@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the royal road to the unconscious. </p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Bob Marley</p>
