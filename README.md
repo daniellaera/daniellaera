@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Robin Williams</p>
