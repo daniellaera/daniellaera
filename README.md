@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to give up the good to go for the great.</p>
+<p>We would accomplish many more things if we did not think of them as impossible.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Vince Lombardi</p>
