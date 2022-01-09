@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>You are the only real obstacle in your path to a fulfilling life.</p>
 
-<p>- Robin Williams</p>
+<p>- Les Brown</p>
