@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Mother Teresa</p>
