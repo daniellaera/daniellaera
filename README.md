@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiny change today brings a dramatically different tomorrow.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>- Richard Bach</p>
+<p>- Chinese Proverb</p>
