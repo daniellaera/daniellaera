@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
+<p>The greatest weariness comes from work not done.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Eric Hoffer</p>
