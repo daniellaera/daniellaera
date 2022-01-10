@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is more important than knowledge.</p>
+<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
 
-<p>- Albert Einstein</p>
+<p>- Kahlil Gibran</p>
