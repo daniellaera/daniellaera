@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Jim Rohn</p>
