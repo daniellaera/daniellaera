@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>In three words I can sum up everything I've learned about life: it goes on.</p>
 
-<p>- Robin Williams</p>
+<p>- Robert Frost</p>
