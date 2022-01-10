@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life reflects your own thoughts back to you.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Albert Einstein</p>
