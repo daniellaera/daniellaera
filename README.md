@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best teacher is experience and not through someone's distorted point of view.</p>
+<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Tony Robbins</p>
