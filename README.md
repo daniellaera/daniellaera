@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>- Mother Teresa</p>
+<p>- Earl Nightingale</p>
