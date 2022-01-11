@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>There is no self-discovery without pain and loss.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Anita Krizzan</p>
