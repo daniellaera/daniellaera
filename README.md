@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude, not aptitude, determines altitude.  </p>
+<p>Peace begins with a smile.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Mother Teresa</p>
