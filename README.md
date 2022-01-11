@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>Debt is the slavery of the free.</p>
 
-<p>- Epictetus</p>
+<p>- Publilius Syrus</p>
