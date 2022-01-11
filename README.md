@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day passes whether you participate or not.</p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Alfred Adler</p>
