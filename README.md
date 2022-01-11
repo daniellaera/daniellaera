@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
+<p>Everything has beauty but not everyone sees it.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Confucius</p>
