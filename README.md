@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Debt is the slavery of the free.</p>
+<p>Attitude, not aptitude, determines altitude.  </p>
 
-<p>- Publilius Syrus</p>
+<p>- Zig Ziglar</p>
