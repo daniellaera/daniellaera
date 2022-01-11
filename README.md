@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate with people who are likely to improve you.  </p>
+<p>Throw me to the wolves and I will return leading the pack.  </p>
 
 <p>- Seneca</p>
