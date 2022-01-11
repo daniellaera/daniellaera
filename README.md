@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>Associate with people who are likely to improve you.  </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Seneca</p>
