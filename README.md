@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>- Alfred Adler</p>
+<p>- Franz Kafka</p>
