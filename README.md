@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't want anything. Then you get everything.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>- Seungsahn</p>
+<p>- Charles Dickens</p>
