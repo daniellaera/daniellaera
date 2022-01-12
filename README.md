@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of getting ahead is getting started.</p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>- Mark Twain</p>
+<p>- George Washington</p>
