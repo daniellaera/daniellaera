@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Helen Keller</p>
