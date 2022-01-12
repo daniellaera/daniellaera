@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Eleanor Roosevelt</p>
