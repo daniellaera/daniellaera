@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think when you lose determines how long it will be until you win.</p>
+<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Ayn Rand</p>
