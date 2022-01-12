@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</p>
+<p>The secret of getting ahead is getting started.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Mark Twain</p>
