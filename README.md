@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
+<p>There is no fear for one whose mind is not filled with desires.</p>
 
-<p>- Colin Powell</p>
+<p>- Buddha</p>
