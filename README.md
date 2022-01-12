@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>- Tony Robbins</p>
+<p>- Gilbert Chesterton</p>
