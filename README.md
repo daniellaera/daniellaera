@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't know who is important to you until you actually lose them.</p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- John Lennon</p>
