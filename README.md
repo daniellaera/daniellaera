@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Bette Midler</p>
+<p>- Oscar Wilde</p>
