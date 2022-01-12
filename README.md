@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To belittle, you have to be little.</p>
+<p>You don't know who is important to you until you actually lose them.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Mahatma Gandhi</p>
