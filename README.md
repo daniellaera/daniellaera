@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Criss Jami</p>
+<p>- Oscar Wilde</p>
