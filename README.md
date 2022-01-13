@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
 
-<p>- Lao Tzu</p>
+<p>- Alfred Adler</p>
