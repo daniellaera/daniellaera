@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
+<p>Waste not fresh tears over old griefs.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Euripides</p>
