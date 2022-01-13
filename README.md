@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Mother Teresa</p>
