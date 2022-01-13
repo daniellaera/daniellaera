@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot find peace avoiding life.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Ronald Reagan</p>
