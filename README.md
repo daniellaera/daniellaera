@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart that gives, gathers.</p>
+<p>The real meditation is how you live your life.</p>
 
-<p>- Lao Tzu</p>
+<p>- Jon Kabat-Zinn</p>
