@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>- Pema Chodron</p>
+<p>- Dale Carnegie</p>
