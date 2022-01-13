@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success on the outside means nothing unless you also have success within.</p>
+<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
 
-<p>- Robin Sharma</p>
+<p>- Paramahansa Yogananda</p>
