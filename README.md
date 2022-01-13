@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>Success on the outside means nothing unless you also have success within.</p>
 
-<p>- Genghis Khan</p>
+<p>- Robin Sharma</p>
