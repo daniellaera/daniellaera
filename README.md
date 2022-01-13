@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real meditation is how you live your life.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Genghis Khan</p>
