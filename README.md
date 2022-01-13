@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no fear for one whose mind is not filled with desires.</p>
+<p>You cannot find peace avoiding life.</p>
 
-<p>- Buddha</p>
+<p>- Virginia Woolf</p>
