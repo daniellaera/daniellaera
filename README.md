@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is well known that those who do not trust themselves never trust others.</p>
+<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
 
-<p>- Alfred Adler</p>
+<p>- Ralph Marston</p>
