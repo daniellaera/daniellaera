@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
+<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Charles Dickens</p>
