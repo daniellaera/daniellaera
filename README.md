@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!</p>
+<p>If you look for perfection, you'll never be content.</p>
 
-<p>- Alfred Adler</p>
+<p>- Leo Tolstoy</p>
