@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</p>
+<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
 
-<p>- Robin Sharma</p>
+<p>- Sun Tzu</p>
