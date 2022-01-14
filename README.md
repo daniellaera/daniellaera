@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>- Confucius</p>
+<p>- Ayn Rand</p>
