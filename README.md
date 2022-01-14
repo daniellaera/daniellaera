@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>The first step is to establish that something is possible; then probability will occur.</p>
 
-<p>- Henry Ford</p>
+<p>- Elon Musk</p>
