@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The act of taking the first step is what separates the winners from the losers.</p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>- Brian Tracy</p>
+<p>- Seneca</p>
