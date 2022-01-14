@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
 
-<p>- Lao Tzu</p>
+<p>- Stephen Hawking</p>
