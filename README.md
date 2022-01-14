@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
+<p>You cannot find peace avoiding life.</p>
 
-<p>- Gary Keller</p>
+<p>- Virginia Woolf</p>
