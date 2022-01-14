@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
+<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Gary Keller</p>
