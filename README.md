@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You miss 100% of the shots you don't take.</p>
+<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Carlos Ruiz Zafon</p>
