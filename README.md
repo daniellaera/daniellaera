@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
+<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
 
-<p>- Robert Greene</p>
+<p>- Napoleon Hill</p>
