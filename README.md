@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>- Sun Tzu</p>
+<p>- Henry Ford</p>
