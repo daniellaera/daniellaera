@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never dwell on what happened. You can't change it. Move forward.</p>
+<p>Identify your problems, but give your power and energy to solutions.</p>
 
-<p>- Joan Rivers</p>
+<p>- Tony Robbins</p>
