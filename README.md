@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>- Og Mandino</p>
+<p>- Jim Rohn</p>
