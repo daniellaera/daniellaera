@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
+<p>I never dwell on what happened. You can't change it. Move forward.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Joan Rivers</p>
