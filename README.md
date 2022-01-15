@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Distant water does not put out a nearby fire.</p>
+<p>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Og Mandino</p>
