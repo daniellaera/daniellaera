@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- Jim Rohn</p>
+<p>- Charles Dickens</p>
