@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
+<p>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</p>
 
-<p>- Albert Einstein</p>
+<p>- Jonathan Swift</p>
