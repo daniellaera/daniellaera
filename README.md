@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>- Elon Musk</p>
+<p>- Charles Dickens</p>
