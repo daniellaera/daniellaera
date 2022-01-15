@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of business; treat others like they want to treat you.</p>
+<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
 
-<p>- Charles Dickens</p>
+<p>- Albert Einstein</p>
