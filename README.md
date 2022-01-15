@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>A fool sees himself as another, but a wise man sees others as himself.</p>
 
-<p>- Criss Jami</p>
+<p>- Dogen</p>
