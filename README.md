@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Ralph Marston</p>
