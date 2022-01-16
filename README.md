@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Lolly Daskal</p>
