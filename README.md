@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Definiteness of purpose is the starting point of all achievement. </p>
+<p>There exists only the present instant; a Now which always and without end is itself new.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Meister Eckhart</p>
