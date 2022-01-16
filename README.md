@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be royal in your own fashion: act like a king to be treated like one.</p>
+<p>Definiteness of purpose is the starting point of all achievement. </p>
 
-<p>- Robert Greene</p>
+<p>- W. Clement Stone</p>
