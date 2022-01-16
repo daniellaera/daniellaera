@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>- A.A. Milne</p>
+<p>- Dan Brown</p>
