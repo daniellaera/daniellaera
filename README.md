@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If anything is worth doing, do it with all your heart.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Buddha</p>
+<p>- Leo Tolstoy</p>
