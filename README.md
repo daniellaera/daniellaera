@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
+<p>If anything is worth doing, do it with all your heart.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Buddha</p>
