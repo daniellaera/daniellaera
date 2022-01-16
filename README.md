@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To the mind that is still, the whole universe surrenders.</p>
+<p>Be royal in your own fashion: act like a king to be treated like one.</p>
 
-<p>- Lao Tzu</p>
+<p>- Robert Greene</p>
