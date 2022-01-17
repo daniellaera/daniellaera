@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who cheats the earth will be cheated by the earth.</p>
+<p>Victims recite problems, leaders provide solutions.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robin Sharma</p>
