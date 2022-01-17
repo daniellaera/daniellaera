@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must find the place inside yourself where nothing is impossible.</p>
+<p>The pursuit of mastery bears gifts. </p>
 
-<p>- Les Brown</p>
+<p>- Gary Keller</p>
