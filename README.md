@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- James Allen</p>
+<p>- Amelia Earhart</p>
