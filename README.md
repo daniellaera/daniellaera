@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do one thing every day that scares you.</p>
+<p>What the mind can conceive, it can achieve.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Napoleon Hill</p>
