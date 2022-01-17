@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do to others what you would not like them to do to you. </p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- Confucius</p>
+<p>- Beverly Sills</p>
