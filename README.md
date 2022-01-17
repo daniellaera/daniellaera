@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never put off to tomorrow what you can do to-day.</p>
+<p>No duty is more urgent than that of returning thanks.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- James Allen</p>
