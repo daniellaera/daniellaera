@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>To be truly ignorant, be content with your own knowledge.</p>
 
-<p>- Gary Keller</p>
+<p>- Zhuangzi</p>
