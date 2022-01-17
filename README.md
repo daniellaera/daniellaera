@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive, it can achieve.</p>
+<p>Time stays long enough for anyone who will use it.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Leonardo da Vinci</p>
