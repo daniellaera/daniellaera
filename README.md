@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>- Robin Sharma</p>
+<p>- George Bernard Shaw</p>
