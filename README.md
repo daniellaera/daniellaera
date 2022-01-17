@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Les Brown</p>
