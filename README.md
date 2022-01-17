@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>- Ayn Rand</p>
+<p>- Confucius</p>
