@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No duty is more urgent than that of returning thanks.</p>
+<p>Do one thing every day that scares you.</p>
 
-<p>- James Allen</p>
+<p>- Eleanor Roosevelt</p>
