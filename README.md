@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>- Charles Darwin</p>
+<p>- Sigmund Freud</p>
