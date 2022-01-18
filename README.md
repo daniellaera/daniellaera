@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is only real, when shared.</p>
+<p>No one ever is defeated until defeat has been accepted as a reality.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Napoleon Hill</p>
