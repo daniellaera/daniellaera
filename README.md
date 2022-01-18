@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
 
-<p>- Helen Keller</p>
+<p>- Chinese Proverb</p>
