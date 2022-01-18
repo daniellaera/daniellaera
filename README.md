@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money poisons you when you've got it, and starves you when you haven't.</p>
+<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
 
-<p>- D. H. Lawrence</p>
+<p>- David Brinkley</p>
