@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>- Colin Powell</p>
+<p>- D. H. Lawrence</p>
