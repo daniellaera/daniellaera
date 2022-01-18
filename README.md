@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
+<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- William Faulkner</p>
