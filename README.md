@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>Make improvements, not excuses. Seek respect, not attention.</p>
 
-<p>- Bob Marley</p>
+<p>- Roy T. Bennett</p>
