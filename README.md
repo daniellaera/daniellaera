@@ -35,6 +35,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make improvements, not excuses. Seek respect, not attention.</p>
+<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Helen Keller</p>
