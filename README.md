@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>Your world is a living expression of how you are using and have used your mind.</p>
 
-<p>- Robin Williams</p>
+<p>- Earl Nightingale</p>
