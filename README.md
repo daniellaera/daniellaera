@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one ever is defeated until defeat has been accepted as a reality.</p>
+<p>A fear of weakness only strengthens weakness.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Criss Jami</p>
