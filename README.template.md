@@ -7,6 +7,11 @@ Hello 👋
 
 I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and get to know more about me!
 
+<a href="https://github.com/daniellaera">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=daniellaera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellaera&theme=dark"/>
+</a>
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
