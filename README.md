@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
+<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
 
-<p>- Stephen King</p>
+<p>- Walt Whitman</p>
