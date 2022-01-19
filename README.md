@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
+<p>There are no shortcuts to any place worth going.</p>
 
-<p>- Les Brown</p>
+<p>- Beverly Sills</p>
