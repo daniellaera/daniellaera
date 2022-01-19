@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.</p>
 
-<p>- Walt Whitman</p>
+<p>- Gurbaksh Chahal</p>
