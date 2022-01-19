@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing has more strength than dire necessity.</p>
+<p>Nature is pleased with simplicity. And nature is no dummy.</p>
 
-<p>- Euripides</p>
+<p>- Isaac Newton</p>
