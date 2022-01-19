@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
+<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
 
-<p>- George Eliot</p>
+<p>- Joan Rivers</p>
