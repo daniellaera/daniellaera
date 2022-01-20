@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
+<p>We are all born ignorant, but one must work hard to remain stupid.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Benjamin Franklin</p>
