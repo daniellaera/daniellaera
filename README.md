@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nature is pleased with simplicity. And nature is no dummy.</p>
+<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
 
-<p>- Isaac Newton</p>
+<p>- Kahlil Gibran</p>
