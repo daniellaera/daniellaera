@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
+<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Earl Nightingale</p>
