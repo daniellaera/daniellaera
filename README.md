@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only the one reality, neither to be realized nor attained.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>- Huang Po</p>
+<p>- Elbert Hubbard</p>
