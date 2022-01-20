@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
+<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Carlos Ruiz Zafon</p>
