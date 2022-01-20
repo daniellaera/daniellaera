@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
+<p>Nature is pleased with simplicity. And nature is no dummy.</p>
 
-<p>- Lao Tzu</p>
+<p>- Isaac Newton</p>
