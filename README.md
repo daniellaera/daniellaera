@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your stand today. On this spot. On this day.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Benjamin Franklin</p>
