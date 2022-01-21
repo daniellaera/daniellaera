@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
+<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Barack Obama</p>
