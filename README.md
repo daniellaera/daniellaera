@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>Sometimes success isn't about making the right decision, it's more about making some decision.</p>
 
-<p>- Jim Rohn</p>
+<p>- Robin Sharma</p>
