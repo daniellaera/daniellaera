@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The majority of what you want will come from the minority of what you do.</p>
+<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
 
-<p>- Gary Keller</p>
+<p>- Sathya Sai Baba</p>
