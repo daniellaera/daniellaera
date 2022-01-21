@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want something in life, you just gotta reach out and grab it.</p>
+<p>You'll never find rainbows if you're looking down.  </p>
 
-<p>- Christopher McCandless</p>
+<p>- Charlie Chaplin</p>
