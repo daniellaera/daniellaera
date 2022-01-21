@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to see what you see.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Bruce Lee</p>
