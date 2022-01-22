@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Maya Angelou</p>
