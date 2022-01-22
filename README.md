@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>- Ronald Reagan</p>
+<p>- Woody Allen</p>
