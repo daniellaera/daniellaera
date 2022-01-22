@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others achieve their dreams and you will achieve yours.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Les Brown</p>
+<p>- Dogen</p>
