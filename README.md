@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
 
-<p>- Dogen</p>
+<p>- Eleanor Roosevelt</p>
