@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The majority of what you want will come from the minority of what you do.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>- Gary Keller</p>
+<p>- Dale Carnegie</p>
