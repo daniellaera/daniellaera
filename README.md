@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
+<p>All great truths begin as blasphemies.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- George Bernard Shaw</p>
