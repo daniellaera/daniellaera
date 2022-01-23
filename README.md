@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>- John Eliot</p>
+<p>- Thomas Jefferson</p>
