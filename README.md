@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</p>
+<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
 
-<p>- Celestine Chua</p>
+<p>- Chinese Proverb</p>
