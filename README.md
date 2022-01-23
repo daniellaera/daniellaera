@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ability is a poor man's wealth.</p>
+<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
 
-<p>- John Wooden</p>
+<p>- Albus Dumbledore</p>
