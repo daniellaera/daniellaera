@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>- Maya Angelou</p>
+<p>- Anne Frank</p>
