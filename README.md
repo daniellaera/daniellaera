@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To the mind that is still, the whole universe surrenders.</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>- Lao Tzu</p>
+<p>- Alan Watts</p>
