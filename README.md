@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+<p>If everyone is moving forward together, then success takes care of itself.</p>
 
-<p>- Alan Watts</p>
+<p>- Henry Ford</p>
