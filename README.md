@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Albus Dumbledore</p>
