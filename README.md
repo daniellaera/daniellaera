@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- John Eliot</p>
