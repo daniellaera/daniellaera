@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to dance than to march through life.</p>
+<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
 
-<p>- Yoko Ono</p>
+<p>- Maya Angelou</p>
