@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no such thing as a great talent without great willpower.</p>
+<p>Nothing is more real than nothing.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Samuel Beckett</p>
