@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
+<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
 
-<p>- Richard Bach</p>
+<p>- Criss Jami</p>
