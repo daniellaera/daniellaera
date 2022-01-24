@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.</p>
+<p>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Zen Proverb</p>
