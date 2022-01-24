@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
+<p>You have as much laughter as you have faith.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Martin Luther</p>
