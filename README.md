@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>Nothing is more real than nothing.</p>
 
-<p>- Zen Proverb</p>
+<p>- Samuel Beckett</p>
