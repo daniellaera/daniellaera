@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
 
-<p>- Bob Proctor</p>
+<p>- Zig Ziglar</p>
