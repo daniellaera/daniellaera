@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a long lesson in humility. </p>
+<p>There is no such thing as a great talent without great willpower.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Honore de Balzac</p>
