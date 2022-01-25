@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
+<p>A crisis is an opportunity riding the dangerous wind.</p>
 
-<p>- Thomas Edison</p>
+<p>- Chinese Proverb</p>
