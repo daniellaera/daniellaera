@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
 
-<p>- Betty White</p>
+<p>- Oprah Winfrey</p>
