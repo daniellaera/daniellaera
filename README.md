@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Chinese Proverb</p>
