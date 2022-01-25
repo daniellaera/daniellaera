@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Earl Nightingale</p>
