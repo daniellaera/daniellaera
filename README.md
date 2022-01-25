@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>- Charles Dickens</p>
+<p>- Niccolo Machiavelli</p>
