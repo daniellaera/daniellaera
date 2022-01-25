@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adventure is worthwhile in itself.</p>
+<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Betty White</p>
