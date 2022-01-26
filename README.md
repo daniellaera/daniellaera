@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
+<p>Nothing makes a man broad-minded like adversity.</p>
 
-<p>- Og Mandino</p>
+<p>- Will Rogers</p>
