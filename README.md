@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Changing minds is harder than finding people who already agree.</p>
+<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
 
-<p>- Jack Butcher</p>
+<p>- Carl Bard</p>
