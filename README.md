@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be confident, not certain.</p>
+<p>Weeds are flowers too, once you get to know them.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- A.A. Milne</p>
