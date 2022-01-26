@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
+<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Hans Christian Andersen</p>
