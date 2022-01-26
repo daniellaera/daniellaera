@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
+<p>The highest level of wisdom is when you not only accept but love adversity.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Maxime Lagace</p>
