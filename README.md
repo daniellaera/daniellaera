@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Chinese Proverb</p>
