@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
 
-<p>- Epictetus</p>
+<p>- Jim Rohn</p>
