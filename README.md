@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Amelia Earhart</p>
