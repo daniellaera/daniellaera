@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
+<p>No problem can be solved from the same level of consciousness that created it.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Albert Einstein</p>
