@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men trust their ears less than their eyes.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>- Herodotus</p>
+<p>- Ray Bradbury</p>
