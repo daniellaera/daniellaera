@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have no methods; all I do is accept people as they are.</p>
+<p>What loneliness is more lonely than distrust?</p>
 
-<p>- Joan Rivers</p>
+<p>- George Eliot</p>
