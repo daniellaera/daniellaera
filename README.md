@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You know the more one does the more one can do.</p>
+<p>I have no methods; all I do is accept people as they are.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Joan Rivers</p>
