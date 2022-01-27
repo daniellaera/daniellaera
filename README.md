@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>- Jim Rohn</p>
+<p>- Thomas Jefferson</p>
