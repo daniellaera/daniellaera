@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no coming to consciousness without pain</p>
+<p>Why do you stay in prison when the door is so wide open?</p>
 
-<p>- Carl Jung</p>
+<p>- Rumi</p>
