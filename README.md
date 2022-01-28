@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day is an opportunity to a make a new happy ending.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Leonardo da Vinci</p>
