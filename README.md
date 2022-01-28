@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not how much we give but how much love we put into giving.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Mother Teresa</p>
+<p>- Charles Dickens</p>
