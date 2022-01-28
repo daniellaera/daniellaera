@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why do you stay in prison when the door is so wide open?</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>- Rumi</p>
+<p>- Jonathan Swift</p>
