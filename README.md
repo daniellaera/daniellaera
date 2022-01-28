@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>- Robert Collier</p>
+<p>- Jim Rohn</p>
