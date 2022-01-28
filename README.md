@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
+<p>A little impatience will spoil great plans.</p>
 
-<p>- John Lennon</p>
+<p>- Chinese Proverb</p>
