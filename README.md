@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
+<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
 
-<p>- Jim Rohn</p>
+<p>- John Lennon</p>
