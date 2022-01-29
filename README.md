@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A golden cage is still just a cage.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Lao Tzu</p>
