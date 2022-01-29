@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live outside the law, you must be honest. </p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- Bob Dylan</p>
+<p>- Johann Wolfgang von Goethe</p>
