@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the mark of intelligent living.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Bob Dylan</p>
