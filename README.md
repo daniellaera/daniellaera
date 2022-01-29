@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>The eye with which I see God is the same eye with which God sees me.</p>
 
-<p>- Lao Tzu</p>
+<p>- Meister Eckhart</p>
