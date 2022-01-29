@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can laugh, I can live.</p>
+<p>Discipline is the mark of intelligent living.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Sathya Sai Baba</p>
