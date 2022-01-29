@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure is what lies ahead.</p>
+<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- James Allen</p>
