@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
+<p>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Christopher Reeve</p>
