@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Setting goals is the first step in turning the invisible into the visible.</p>
+<p>Everything has its beauty, but not everyone sees it. </p>
 
-<p>- Tony Robbins</p>
+<p>- Confucius</p>
