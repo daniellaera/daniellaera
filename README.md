@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>- James Allen</p>
+<p>- Dalai Lama</p>
