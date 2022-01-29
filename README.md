@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Euripides</p>
