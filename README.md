@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>I wasn't brave, I just didn't have time to be scared.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Amelia Earhart</p>
