@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter what happens, always be yourself.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Martin Luther King, Jr.</p>
