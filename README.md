@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>Your worth consists in what you are and not in what you have.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Thomas Edison</p>
