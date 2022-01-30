@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- George Bernard Shaw</p>
