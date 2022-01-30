@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</p>
+<p>It is best to begin at the beginning.</p>
 
-<p>- Henry Ford</p>
+<p>- Amelia Earhart</p>
