@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best answer to anger is silence.</p>
+<p>Forget safety. Live where you fear to live.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Rumi</p>
