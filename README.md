@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
+<p>Stay away from people who makes you feel like you are wasting their time.</p>
 
-<p>- Sydney Smith</p>
+<p>- Paulo Coelho</p>
