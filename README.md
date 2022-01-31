@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
+<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Roy T. Bennett</p>
