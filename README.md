@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Roy T. Bennett</p>
