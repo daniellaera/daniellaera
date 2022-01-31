@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't feed a hundred people, then feed just one.</p>
+<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
 
-<p>- Mother Teresa</p>
+<p>- Zen Proverb</p>
