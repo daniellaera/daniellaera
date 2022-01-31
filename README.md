@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>- Dalai Lama</p>
+<p>- Alexandre Dumas</p>
