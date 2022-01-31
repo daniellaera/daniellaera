@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Eleanor Roosevelt</p>
