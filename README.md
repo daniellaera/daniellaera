@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Emily Dickinson</p>
