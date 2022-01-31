@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
+<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
 
-<p>- Zen Proverb</p>
+<p>- Sydney Smith</p>
