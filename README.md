@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
+<p>Worry is a waste of emotional reserve.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Ayn Rand</p>
