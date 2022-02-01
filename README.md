@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Worry is a waste of emotional reserve.</p>
+<p>Either get busy living or get busy dying.</p>
 
-<p>- Ayn Rand</p>
+<p>- Stephen King</p>
