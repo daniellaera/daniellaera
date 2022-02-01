@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act the way you want to be and soon you'll be the way you act.</p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>- Les Brown</p>
+<p>- Marcus Aurelius</p>
