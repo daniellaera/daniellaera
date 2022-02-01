@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perpetual optimism is a force multiplier.</p>
+<p>Each time we don't say what we wanna say, we're dying.</p>
 
-<p>- Colin Powell</p>
+<p>- Yoko Ono</p>
