@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between treason and patriotism is only a matter of dates.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Jim Rohn</p>
