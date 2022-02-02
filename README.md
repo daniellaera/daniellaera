@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
+<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
 
-<p>- Henry Ford</p>
+<p>- Zig Ziglar</p>
