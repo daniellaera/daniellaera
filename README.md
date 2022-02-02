@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
 
-<p>- Richard Bach</p>
+<p>- Aristotle</p>
