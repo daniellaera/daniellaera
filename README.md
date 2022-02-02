@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools talk, cowards are silent, wise men listen.</p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Alexandre Dumas</p>
