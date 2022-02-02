@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
+<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
 
-<p>- Carl Bard</p>
+<p>- Henry Ford</p>
