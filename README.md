@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cleverness is not wisdom.</p>
+<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
 
-<p>- Euripides</p>
+<p>- Pema Chodron</p>
