@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
+<p>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</p>
 
-<p>- Jim Rohn</p>
+<p>- Stephen King</p>
