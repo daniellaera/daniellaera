@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</p>
+<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
 
-<p>- Stephen King</p>
+<p>- Theodore Roosevelt</p>
