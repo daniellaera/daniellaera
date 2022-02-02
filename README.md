@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- Zig Ziglar</p>
+<p>- T.S. Eliot</p>
