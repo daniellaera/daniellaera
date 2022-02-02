@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not push the boundaries, you will never know where they are.</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Steve Jobs</p>
