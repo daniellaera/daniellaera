@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
+<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Sydney Smith</p>
