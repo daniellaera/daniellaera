@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
 
-<p>- Brian Tracy</p>
+<p>- Eckhart Tolle</p>
