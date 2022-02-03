@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Eighty percent of success is showing up. </p>
+<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
 
-<p>- Woody Allen</p>
+<p>- Joan Rivers</p>
