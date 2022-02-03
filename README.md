@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
+<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
 
-<p>- Estee Lauder</p>
+<p>- Dale Carnegie</p>
