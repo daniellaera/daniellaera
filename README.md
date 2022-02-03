@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>If you don't program yourself, life will program you.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Les Brown</p>
