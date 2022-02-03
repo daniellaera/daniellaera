@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>The time is always right to do what is right.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Martin Luther King, Jr.</p>
