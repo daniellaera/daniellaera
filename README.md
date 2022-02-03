@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Ronald Reagan</p>
