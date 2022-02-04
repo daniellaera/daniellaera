@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>They who have conquered doubt and fear have conquered failure.</p>
+<p>Identify your problems, but give your power and energy to solutions.</p>
 
-<p>- James Allen</p>
+<p>- Tony Robbins</p>
