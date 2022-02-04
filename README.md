@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
+<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
 
-<p>- George Washington</p>
+<p>- Zig Ziglar</p>
