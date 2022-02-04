@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peaceful is the one who expects nothing.</p>
+<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Wayne Gretzky</p>
