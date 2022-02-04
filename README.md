@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody's life is either rewarding or an example.</p>
+<p>Words are the clothing of our thoughts.</p>
 
-<p>- Tony Robbins</p>
+<p>- Jonathan Swift</p>
