@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>- Steve Jobs</p>
+<p>- Yoko Ono</p>
