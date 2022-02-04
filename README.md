@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek greatness is the only righteous vengeance.</p>
+<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
 
-<p>- Criss Jami</p>
+<p>- Steve Jobs</p>
