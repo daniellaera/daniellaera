@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>- Elon Musk</p>
+<p>- Samuel Butler</p>
