@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>They who have conquered doubt and fear have conquered failure.</p>
 
-<p>- Samuel Butler</p>
+<p>- James Allen</p>
