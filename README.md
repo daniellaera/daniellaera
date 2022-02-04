@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are equal; it is not birth but virtue that makes the difference.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>- Voltaire</p>
+<p>- Jack Butcher</p>
