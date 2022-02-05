@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>Pleasure in the job puts perfection in the work.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Aristotle</p>
