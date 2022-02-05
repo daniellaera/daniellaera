@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We think too much and feel too little.</p>
+<p>No man is free who is not master of himself.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Epictetus</p>
