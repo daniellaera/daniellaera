@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
 
-<p>- Og Mandino</p>
+<p>- Criss Jami</p>
