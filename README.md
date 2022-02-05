@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can stop one heart from breaking, I shall not live in vain.</p>
+<p>It is your attitude, not your aptitude, that determines your altitude.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Zig Ziglar</p>
