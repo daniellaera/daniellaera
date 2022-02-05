@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can spend our whole lives escaping from the monsters of our minds.</p>
+<p>Every moment is a fresh beginning.</p>
 
-<p>- Pema Chodron</p>
+<p>- T.S. Eliot</p>
