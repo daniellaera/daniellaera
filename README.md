@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
+<p>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Brian Tracy</p>
