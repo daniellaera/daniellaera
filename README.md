@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are as many opinions as there are experts.</p>
+<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- F. Scott Fitzgerald</p>
