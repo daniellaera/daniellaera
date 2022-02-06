@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the sky. Everything else – it's just the weather.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>- Pema Chodron</p>
+<p>- Eleanor Roosevelt</p>
