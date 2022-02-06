@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>Always focus on the front windshield and not the rear view mirror.</p>
 
-<p>- Lao Tzu</p>
+<p>- Colin Powell</p>
