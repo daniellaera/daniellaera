@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
+<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
 
-<p>- Robert Greene</p>
+<p>- Theodore Roosevelt</p>
