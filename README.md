@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength. </p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Naval Ravikant</p>
