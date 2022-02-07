@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never put off to tomorrow what you can do to-day.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Leonardo da Vinci</p>
