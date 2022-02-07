@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every failure brings with it the seed of an equivalent success.</p>
+<p>Be where your enemy is not.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Sun Tzu</p>
