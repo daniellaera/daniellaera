@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>- Sydney Smith</p>
+<p>- Alexander Pope</p>
