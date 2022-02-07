@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less people know, the more stubbornly they know it.</p>
+<p>Too many of us are not living our dreams because we are living our fears.</p>
 
-<p>- Osho</p>
+<p>- Les Brown</p>
