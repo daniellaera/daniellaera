@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be where your enemy is not.</p>
+<p>People don't care how much you know until they know how much you care.</p>
 
-<p>- Sun Tzu</p>
+<p>- Theodore Roosevelt</p>
