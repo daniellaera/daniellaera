@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
+<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Brian Tracy</p>
