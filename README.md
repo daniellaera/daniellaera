@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</p>
+<p>Where there is no struggle, there is no strength. </p>
 
-<p>- Ronald Reagan</p>
+<p>- Oprah Winfrey</p>
