@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman is one who puts more into the world than he takes out.</p>
+<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Sigmund Freud</p>
