@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When your intuition is strong, follow it.</p>
+<p>Seek not the good in external things;seek it in yourselves.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Epictetus</p>
