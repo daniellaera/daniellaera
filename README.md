@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
+<p>You don't know who is important to you until you actually lose them.</p>
 
-<p>- Brian Tracy</p>
+<p>- Mahatma Gandhi</p>
