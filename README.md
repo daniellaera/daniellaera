@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
+<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Norman Vincent Peale</p>
