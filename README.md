@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't know who is important to you until you actually lose them.</p>
+<p>In the middle of difficulty lies opportunity.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Albert Einstein</p>
