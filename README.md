@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in your moments of decision that your destiny is shaped.</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>- Tony Robbins</p>
+<p>- D. H. Lawrence</p>
