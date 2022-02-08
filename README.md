@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Nelson Mandela</p>
