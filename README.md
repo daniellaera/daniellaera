@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
+<p>If you can't argue both sides, you can't argue.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Jack Butcher</p>
