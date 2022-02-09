@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't search, don't ask, don't knock, don't demand ? relax.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>- Osho</p>
+<p>- Margaret Mead</p>
