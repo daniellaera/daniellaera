@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why do you stay in prison when the door is so wide open?</p>
+<p>All human wisdom is contained in these two words - Wait and Hope</p>
 
-<p>- Rumi</p>
+<p>- Alexandre Dumas</p>
