@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>Don't seek, don't search, don't ask, don't knock, don't demand ? relax.</p>
 
-<p>- Brian Tracy</p>
+<p>- Osho</p>
