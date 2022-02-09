@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always remember that you are absolutely unique. Just like everyone else. </p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>- Margaret Mead</p>
+<p>- Kahlil Gibran</p>
