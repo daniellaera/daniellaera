@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
+<p>All wealth is the product of labor.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- John Locke</p>
