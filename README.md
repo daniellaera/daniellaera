@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not stop thinking of life as an adventure.</p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Jon Kabat-Zinn</p>
