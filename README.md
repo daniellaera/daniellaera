@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creativity is intelligence having fun.</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>- Albert Einstein</p>
+<p>- Helen Keller</p>
