@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All human wisdom is contained in these two words - Wait and Hope</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Norman Vincent Peale</p>
