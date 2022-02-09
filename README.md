@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>Enthusiasm makes up for a host of deficiencies.</p>
 
-<p>- Og Mandino</p>
+<p>- Barack Obama</p>
