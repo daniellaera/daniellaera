@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pen is the tongue of the mind. </p>
+<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- William Faulkner</p>
