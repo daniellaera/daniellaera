@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heal the past, live the present, dream the future.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Naval Ravikant</p>
