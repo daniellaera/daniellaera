@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be able to forget means sanity.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>- Jack London</p>
+<p>- Virginia Woolf</p>
