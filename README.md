@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
+<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
 
-<p>- Og Mandino</p>
+<p>- John Wooden</p>
