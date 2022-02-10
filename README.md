@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
+<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
 
-<p>- Elon Musk</p>
+<p>- Og Mandino</p>
