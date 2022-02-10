@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If they wrote it to make money, don't read it.</p>
+<p>A thing must be loved before it is lovable.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Gilbert Chesterton</p>
