@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty your mind, be formless.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>- Bruce Lee</p>
+<p>- Miguel de Cervantes</p>
