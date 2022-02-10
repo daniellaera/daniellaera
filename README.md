@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Elon Musk</p>
