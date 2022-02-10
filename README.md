@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever satisfies the soul is truth.</p>
+<p>Imagination is the beginning of creation.</p>
 
-<p>- Walt Whitman</p>
+<p>- George Bernard Shaw</p>
