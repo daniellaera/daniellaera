@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Whatever satisfies the soul is truth.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Walt Whitman</p>
