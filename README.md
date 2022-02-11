@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To affect the quality of the day, that is the highest of arts.</p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Yoko Ono</p>
