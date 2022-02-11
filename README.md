@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
+<p>Some people find fault like there is a reward for it.  </p>
 
-<p>- Christopher Reeve</p>
+<p>- Zig Ziglar</p>
