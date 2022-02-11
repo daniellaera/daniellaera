@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may think I'm small, but I have a universe inside my mind.</p>
+<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
 
-<p>- Yoko Ono</p>
+<p>- Stephen King</p>
