@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Paramahansa Yogananda</p>
