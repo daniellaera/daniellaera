@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people find fault like there is a reward for it.  </p>
+<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Ming-Dao Deng</p>
