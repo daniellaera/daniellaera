@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is simply the name we give our mistakes. </p>
+<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Jim Rohn</p>
