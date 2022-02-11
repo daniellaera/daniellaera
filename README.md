@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
 
-<p>- Jim Rohn</p>
+<p>- Criss Jami</p>
