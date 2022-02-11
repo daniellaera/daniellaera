@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us rather run the risk of wearing out than rusting out.</p>
+<p>He who violates another's honor loses his own.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Publilius Syrus</p>
