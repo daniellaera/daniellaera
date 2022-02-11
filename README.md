@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>- Criss Jami</p>
+<p>- Ray Bradbury</p>
