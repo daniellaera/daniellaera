@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who violates another's honor loses his own.</p>
+<p>To belittle, you have to be little.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Kahlil Gibran</p>
