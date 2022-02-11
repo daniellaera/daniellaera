@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
+<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
 
-<p>- Stephen King</p>
+<p>- John Wooden</p>
