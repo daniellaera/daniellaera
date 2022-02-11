@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freeing oneself from words is liberation. </p>
+<p>To affect the quality of the day, that is the highest of arts.</p>
 
-<p>- Bodhidharma</p>
+<p>- Henry David Thoreau</p>
