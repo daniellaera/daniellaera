@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
+<p>Let us rather run the risk of wearing out than rusting out.</p>
 
-<p>- Gary Keller</p>
+<p>- Theodore Roosevelt</p>
