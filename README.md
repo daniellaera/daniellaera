@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>Fools talk, cowards are silent, wise men listen.</p>
 
-<p>- Og Mandino</p>
+<p>- Carlos Ruiz Zafon</p>
