@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>Talent is luck. The important thing in life is courage.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Woody Allen</p>
