@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>- Dalai Lama</p>
+<p>- Roy T. Bennett</p>
