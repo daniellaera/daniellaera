@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of questions you ask.</p>
+<p>Some of your greatest lessons come from your darkest moments.</p>
 
-<p>- Tony Robbins</p>
+<p>- Roger Lee</p>
