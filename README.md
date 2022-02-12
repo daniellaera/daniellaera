@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
 
-<p>- Woody Allen</p>
+<p>- Les Brown</p>
