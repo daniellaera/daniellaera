@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- Tony Robbins</p>
