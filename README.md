@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no limitations except those we create for ourselves.</p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Martin Luther</p>
