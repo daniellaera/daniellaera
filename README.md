@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
+<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
 
-<p>- Tony Robbins</p>
+<p>- Oprah Winfrey</p>
