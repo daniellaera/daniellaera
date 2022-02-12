@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Thomas Jefferson</p>
