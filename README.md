@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
+<p>Do it with passion, or not at all.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Rosa Nouchette Carey</p>
