@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never let my schooling interfere with my education.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>- Mark Twain</p>
+<p>- Stephen Hawking</p>
