@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give out what you most want to come back.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>- Robin Sharma</p>
+<p>- Carol Burnett</p>
