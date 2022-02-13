@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Tony Robbins</p>
+<p>- Emily Dickinson</p>
