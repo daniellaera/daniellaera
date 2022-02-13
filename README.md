@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Paramahansa Yogananda</p>
