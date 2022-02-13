@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
+<p>I have never let my schooling interfere with my education.</p>
 
-<p>- John Wooden</p>
+<p>- Mark Twain</p>
