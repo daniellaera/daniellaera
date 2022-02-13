@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>We think too much and feel too little.</p>
 
-<p>- Robin Sharma</p>
+<p>- Charlie Chaplin</p>
