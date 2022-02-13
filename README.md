@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death walks faster than the wind and never returns what he has taken.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Sun Tzu</p>
