@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We turn not older with years but newer every day.</p>
+<p>Give out what you most want to come back.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Robin Sharma</p>
