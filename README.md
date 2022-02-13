@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>- Carol Burnett</p>
+<p>- Robin Sharma</p>
