@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quiet people have the loudest minds.</p>
+<p>Death walks faster than the wind and never returns what he has taken.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Hans Christian Andersen</p>
