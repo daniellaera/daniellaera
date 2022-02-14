@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
+<p>Fear can hold you prisoner. Hope can set you free.</p>
 
-<p>- Dogen</p>
+<p>- Stephen King</p>
