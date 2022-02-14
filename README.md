@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
 
-<p>- Albert Einstein</p>
+<p>- Sigmund Freud</p>
