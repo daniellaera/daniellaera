@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Zen Proverb</p>
