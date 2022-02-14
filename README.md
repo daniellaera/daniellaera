@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
+<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
 
-<p>- Sun Tzu</p>
+<p>- Lolly Daskal</p>
