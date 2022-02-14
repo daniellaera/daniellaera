@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your home is where your thoughts find peace.</p>
+<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
 
-<p>- Zen Proverb</p>
+<p>- Amelia Earhart</p>
