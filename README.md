@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money poisons you when you've got it, and starves you when you haven't.</p>
+<p>Give out what you most want to come back.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Robin Sharma</p>
