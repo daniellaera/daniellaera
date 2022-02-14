@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No snowflake ever falls in the wrong place.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>- Zen Proverb</p>
+<p>- Robin Sharma</p>
