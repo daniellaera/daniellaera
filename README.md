@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Eric Hoffer</p>
