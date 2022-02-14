@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Mark Twain</p>
