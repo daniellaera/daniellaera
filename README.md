@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest doer must also be a great dreamer.</p>
+<p>Your home is where your thoughts find peace.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Zen Proverb</p>
