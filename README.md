@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Dogen</p>
