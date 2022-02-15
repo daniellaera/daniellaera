@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A loving heart is the truest wisdom.</p>
+<p>Better to have, and not need, than to need, and not have.</p>
 
-<p>- Charles Dickens</p>
+<p>- Franz Kafka</p>
