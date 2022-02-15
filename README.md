@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>To forgive means pardoning the unpardonable.</p>
 
-<p>- Jack Butcher</p>
+<p>- Gilbert Chesterton</p>
