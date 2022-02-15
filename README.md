@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>We are all like the bright moon, we still have our darker side.  </p>
 
-<p>- Robert Frost</p>
+<p>- Kahlil Gibran</p>
