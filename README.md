@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Ming-Dao Deng</p>
