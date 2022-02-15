@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don?t hesitate or allow yourself to make excuses. Just get out and do it.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Gurbaksh Chahal</p>
