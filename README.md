@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that is done in the world is done by hope.</p>
+<p>The greatest doer must also be a great dreamer.</p>
 
-<p>- Martin Luther</p>
+<p>- Theodore Roosevelt</p>
