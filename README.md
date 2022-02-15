@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to have, and not need, than to need, and not have.</p>
+<p>Champions keep playing until they get it right.</p>
 
-<p>- Franz Kafka</p>
+<p>- Billie Jean King</p>
