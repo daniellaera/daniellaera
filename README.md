@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
 
-<p>- Estee Lauder</p>
+<p>- Johann Wolfgang von Goethe</p>
