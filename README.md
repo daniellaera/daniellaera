@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>Don?t hesitate or allow yourself to make excuses. Just get out and do it.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Christopher McCandless</p>
