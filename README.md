@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- James Allen</p>
