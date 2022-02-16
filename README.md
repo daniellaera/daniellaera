@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
 
-<p>- Robin Sharma</p>
+<p>- Norman Vincent Peale</p>
