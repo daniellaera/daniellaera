@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, you travel, and as you love, you attract.</p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>- James Allen</p>
+<p>- Ming-Dao Deng</p>
