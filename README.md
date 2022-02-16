@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Confucius</p>
