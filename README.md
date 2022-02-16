@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without the rain there would be no rainbow.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Henry Ford</p>
