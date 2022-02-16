@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>Without the rain there would be no rainbow.</p>
 
-<p>- Barack Obama</p>
+<p>- Gilbert Chesterton</p>
