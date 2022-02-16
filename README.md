@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
+<p>Don't be afraid to see what you see.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Ronald Reagan</p>
