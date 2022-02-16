@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find something you love and do it better than everyone else.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Peter A. Cohen</p>
