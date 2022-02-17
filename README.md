@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
+<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Carl Jung</p>
