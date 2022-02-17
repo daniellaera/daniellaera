@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Sun Tzu</p>
