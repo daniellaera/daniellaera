@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
 
-<p>- Pema Chodron</p>
+<p>- Kamal Ravikant</p>
