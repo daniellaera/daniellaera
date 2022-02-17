@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>- Dan Brown</p>
+<p>- Roy T. Bennett</p>
