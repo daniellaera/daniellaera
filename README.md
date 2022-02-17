@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you stop questioning, you stop learning.</p>
+<p>There is no absolute success in the world, only constant progress.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Jonathan Swift</p>
