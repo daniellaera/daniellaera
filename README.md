@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
+<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
 
-<p>- Unknown</p>
+<p>- Zen Proverb</p>
