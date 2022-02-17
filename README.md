@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
+<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Pema Chodron</p>
