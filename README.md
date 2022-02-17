@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Sathya Sai Baba</p>
