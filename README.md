@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>- Winston Churchill</p>
+<p>- Tony Robbins</p>
