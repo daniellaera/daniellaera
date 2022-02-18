@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
+<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
 
-<p>- Leo Tolstoy</p>
+<p>- Henry Ford</p>
