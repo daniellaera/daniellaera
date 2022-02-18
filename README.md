@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do every act of your life as if it were your last.</p>
+<p>The best fighter is never angry.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Lao Tzu</p>
