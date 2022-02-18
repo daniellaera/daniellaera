@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Leo Tolstoy</p>
