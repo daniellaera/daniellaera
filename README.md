@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best fighter is never angry.</p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>- Lao Tzu</p>
+<p>- Confucius</p>
