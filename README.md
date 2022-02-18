@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
 
-<p>- Lolly Daskal</p>
+<p>- D. H. Lawrence</p>
