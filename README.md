@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Bruce Lee</p>
+<p>- Martin Luther King, Jr.</p>
