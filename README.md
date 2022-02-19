@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Lao Tzu</p>
