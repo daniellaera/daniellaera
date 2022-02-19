@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>Eighty percent of success is showing up. </p>
 
-<p>- Grace Coddington</p>
+<p>- Woody Allen</p>
