@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness must be grown in one's own garden.</p>
+<p>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Toni Morrison</p>
