@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</p>
+<p>The hard path is often the right one. The river teaches more than the shore.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Maxime Lagace</p>
