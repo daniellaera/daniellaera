@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>It is far easier to start something than it is to finish it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Amelia Earhart</p>
