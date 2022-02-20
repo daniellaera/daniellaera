@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll never find rainbows if you're looking down.  </p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>- Charlie Chaplin</p>
+<p>- Herodotus</p>
