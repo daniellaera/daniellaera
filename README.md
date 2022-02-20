@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With the new day comes new strength and new thoughts.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Robert Collier</p>
