@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
+<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
 
-<p>- Winston Churchill</p>
+<p>- George Bernard Shaw</p>
