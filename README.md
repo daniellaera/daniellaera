@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the expression of one's values.</p>
+<p>You'll never find rainbows if you're looking down.  </p>
 
-<p>- Ayn Rand</p>
+<p>- Charlie Chaplin</p>
