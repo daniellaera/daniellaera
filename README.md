@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't make things happen then things will happen to you.</p>
+<p>Sadness is but a wall between two gardens.</p>
 
-<p>- Robert Collier</p>
+<p>- Kahlil Gibran</p>
