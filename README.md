@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No snowflake ever falls in the wrong place.</p>
+<p>Success is nothing more than a few simple disciplines practiced every day.</p>
 
-<p>- Zen Proverb</p>
+<p>- Jim Rohn</p>
