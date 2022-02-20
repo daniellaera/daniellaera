@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perpetual optimism is a force multiplier.</p>
+<p>Love is the expression of one's values.</p>
 
-<p>- Colin Powell</p>
+<p>- Ayn Rand</p>
