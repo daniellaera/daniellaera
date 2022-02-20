@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
 
-<p>- Criss Jami</p>
+<p>- Brian Tracy</p>
