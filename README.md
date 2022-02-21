@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>Let the beauty of what you love be what you do.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Rumi</p>
