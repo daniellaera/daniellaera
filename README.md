@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let the beauty of what you love be what you do.</p>
+<p>If I can laugh, I can live.</p>
 
-<p>- Rumi</p>
+<p>- Christopher Reeve</p>
