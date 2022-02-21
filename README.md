@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
 
-<p>- Zhuangzi</p>
+<p>- Estee Lauder</p>
