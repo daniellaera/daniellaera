@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>- Richard Bach</p>
+<p>- Ming-Dao Deng</p>
