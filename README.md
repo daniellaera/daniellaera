@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>- William James</p>
+<p>- Earl Nightingale</p>
