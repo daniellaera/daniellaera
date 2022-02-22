@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>- Brian Tracy</p>
+<p>- Winston Churchill</p>
