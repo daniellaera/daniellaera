@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>Do it with passion, or not at all.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Rosa Nouchette Carey</p>
