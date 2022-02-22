@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All great truths begin as blasphemies.</p>
+<p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Pema Chodron</p>
