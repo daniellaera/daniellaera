@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>- Og Mandino</p>
+<p>- William James</p>
