@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>- Alexander Pope</p>
+<p>- Brian Tracy</p>
