@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- Dalai Lama</p>
+<p>- Earl Nightingale</p>
