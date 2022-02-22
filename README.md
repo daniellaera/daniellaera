@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools resist. The wise embrace.</p>
+<p>Cease striving. Then there will be transformation.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Zhuangzi</p>
