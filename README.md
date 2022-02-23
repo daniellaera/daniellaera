@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I persist long enough I will win.</p>
+<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
 
-<p>- Og Mandino</p>
+<p>- St. Jerome</p>
