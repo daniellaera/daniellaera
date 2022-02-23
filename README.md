@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all those who wander are lost.</p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Napoleon Hill</p>
