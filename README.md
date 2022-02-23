@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Penny Saved is a Penny Earned</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- J.R.R. Tolkien</p>
