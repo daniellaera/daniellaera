@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others can stop you temporarily ? you are the only one who can do it permanently.</p>
+<p>Growing up is losing some illusions, in order to acquire others.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Virginia Woolf</p>
