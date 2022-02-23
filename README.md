@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If everyone is moving forward together, then success takes care of itself.</p>
+<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
 
-<p>- Henry Ford</p>
+<p>- Zig Ziglar</p>
