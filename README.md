@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
+<p>If you change the way you look at things, the things you look at change. </p>
 
-<p>- Zig Ziglar</p>
+<p>- Wayne Dyer</p>
