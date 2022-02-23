@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>- St. Jerome</p>
+<p>- Sathya Sai Baba</p>
