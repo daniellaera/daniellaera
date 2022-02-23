@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>- Virginia Woolf</p>
+<p>- Oscar Wilde</p>
