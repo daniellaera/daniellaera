@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In life you need either inspiration or desperation.</p>
+<p>If everyone is moving forward together, then success takes care of itself.</p>
 
-<p>- Tony Robbins</p>
+<p>- Henry Ford</p>
