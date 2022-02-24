@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
+<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- G.I. Gurdjieff</p>
