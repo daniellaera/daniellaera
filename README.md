@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
+<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
 
-<p>- Brian Tracy</p>
+<p>- Dogen</p>
