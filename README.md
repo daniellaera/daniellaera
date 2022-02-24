@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>- Samuel Butler</p>
+<p>- Thomas Jefferson</p>
