@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
+<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Albus Dumbledore</p>
