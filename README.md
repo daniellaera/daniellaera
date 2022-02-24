@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>There are people who have money and people who are rich.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Coco Chanel</p>
