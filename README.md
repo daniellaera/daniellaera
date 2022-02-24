@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</p>
 
-<p>- Jim Rohn</p>
+<p>- Maxime Lagace</p>
