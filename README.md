@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faith means believing the unbelievable.</p>
+<p>Don't think money does everything or you are going to end up doing everything for money.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Voltaire</p>
