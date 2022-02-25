@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I learned the value of hard work by working hard. </p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- Margaret Mead</p>
+<p>- Thomas Jefferson</p>
