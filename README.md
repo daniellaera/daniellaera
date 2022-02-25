@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who possesses most must be most afraid of loss.</p>
+<p>No one ever is defeated until defeat has been accepted as a reality.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Napoleon Hill</p>
