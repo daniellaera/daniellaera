@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real loss is only possible when you love something more than you love yourself.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Robin Williams</p>
+<p>- T.S. Eliot</p>
