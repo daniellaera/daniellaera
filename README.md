@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>- George Washington</p>
+<p>- Mary Engelbreit</p>
