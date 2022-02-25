@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Eric Hoffer</p>
