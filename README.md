@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by acceptance of the past, can you alter it.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Leonardo da Vinci</p>
