@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>No matter how tall the mountain is, it cannot block the sun.</p>
 
-<p>- Jack Butcher</p>
+<p>- Chinese Proverb</p>
