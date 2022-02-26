@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
+<p>The only way to ?find out if it will work out' is to do it.</p>
 
-<p>- Seneca</p>
+<p>- Simon Sinek</p>
