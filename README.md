@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>- Zhuangzi</p>
+<p>- Robert Greene</p>
