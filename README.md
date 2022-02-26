@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Quitter never wins ? and ? a Winner never quits.</p>
+<p>To be truly ignorant, be content with your own knowledge.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Zhuangzi</p>
