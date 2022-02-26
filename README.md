@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes not from always being right but not fearing to be wrong.</p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>- Unknown</p>
+<p>- Soren Kierkegaard</p>
