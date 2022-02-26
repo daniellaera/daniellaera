@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way to ?find out if it will work out' is to do it.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>- Simon Sinek</p>
+<p>- Naval Ravikant</p>
