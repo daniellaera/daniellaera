@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you're halfway there.</p>
+<p>A Quitter never wins ? and ? a Winner never quits.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Napoleon Hill</p>
