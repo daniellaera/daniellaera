@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are clothes that thoughts wear</p>
+<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
 
-<p>- Samuel Butler</p>
+<p>- Zen Proverb</p>
