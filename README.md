@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>We love the things we love for what they are.</p>
 
-<p>- Robert Greene</p>
+<p>- Robert Frost</p>
