@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
+<p>Confidence comes not from always being right but not fearing to be wrong.</p>
 
-<p>- Zen Proverb</p>
+<p>- Unknown</p>
