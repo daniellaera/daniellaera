@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
+<p>Paths are made by walking.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Franz Kafka</p>
