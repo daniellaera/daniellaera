@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We love the things we love for what they are.</p>
+<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
 
-<p>- Robert Frost</p>
+<p>- Herman Melville</p>
