@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>- Zen Proverb</p>
+<p>- Miguel de Cervantes</p>
