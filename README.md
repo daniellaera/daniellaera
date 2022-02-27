@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Dogen</p>
