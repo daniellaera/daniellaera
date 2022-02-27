@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live outside the law, you must be honest. </p>
+<p>Man must use what he has, not hope for what is not.</p>
 
-<p>- Bob Dylan</p>
+<p>- G.I. Gurdjieff</p>
