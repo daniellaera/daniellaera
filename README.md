@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop being a prisoner of your past. Become the architect of your future.</p>
+<p>You can't build a reputation on what you are going to do. </p>
 
-<p>- Robin Sharma</p>
+<p>- Henry Ford</p>
