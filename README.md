@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Lao Tzu</p>
