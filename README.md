@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence breeds beauty.  </p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>- Estee Lauder</p>
+<p>- Lolly Daskal</p>
