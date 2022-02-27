@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you do, not what you say you'll do.</p>
+<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
 
-<p>- Carl Jung</p>
+<p>- Eleanor Roosevelt</p>
