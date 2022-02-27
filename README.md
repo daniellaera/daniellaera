@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop comparing yourself to others and focus on your own improvement.</p>
+<p>We would accomplish many more things if we did not think of them as impossible.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Vince Lombardi</p>
