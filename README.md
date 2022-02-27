@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>Our view of the world is truly shaped by what we decide to hear.</p>
 
-<p>- Aristotle</p>
+<p>- William James</p>
