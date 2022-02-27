@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our view of the world is truly shaped by what we decide to hear.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- William James</p>
+<p>- Carl Jung</p>
