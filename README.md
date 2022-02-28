@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your life a mission - not an intermission.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>- Unknown</p>
+<p>- Lao Tzu</p>
