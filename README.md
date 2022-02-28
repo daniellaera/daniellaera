@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robin Williams</p>
