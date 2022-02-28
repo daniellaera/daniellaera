@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can't help everyone, but everyone can help someone.</p>
+<p>We are all born ignorant, but one must work hard to remain stupid.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Benjamin Franklin</p>
