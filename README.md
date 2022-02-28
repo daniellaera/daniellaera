@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The score never interested me, only the game.</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>- Mae West</p>
+<p>- Epictetus</p>
