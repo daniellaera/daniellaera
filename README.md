@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>Success is often achieved by those who don't know that failure is inevitable.</p>
 
-<p>- Epictetus</p>
+<p>- Coco Chanel</p>
