@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A needle is not sharp at both ends. </p>
+<p>The score never interested me, only the game.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Mae West</p>
