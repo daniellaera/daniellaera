@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>- Robin Williams</p>
+<p>- Carol Burnett</p>
