@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
+<p>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</p>
 
-<p>- Les Brown</p>
+<p>- Charles Spurgeon</p>
