@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never let my schooling interfere with my education.</p>
+<p>People are not disturbed by things, but by the views they take of them.</p>
 
-<p>- Mark Twain</p>
+<p>- Epictetus</p>
