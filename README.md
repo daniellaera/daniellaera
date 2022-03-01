@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
 
-<p>- Epictetus</p>
+<p>- Buddha</p>
