@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you pay a man, but what he costs you that counts.</p>
+<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
 
-<p>- Will Rogers</p>
+<p>- Lao Tzu</p>
