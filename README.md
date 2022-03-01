@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- James Allen</p>
