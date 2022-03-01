@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>There is no self-discovery without pain and loss.</p>
 
-<p>- Buddha</p>
+<p>- Anita Krizzan</p>
