@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
+<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Charles Dickens</p>
