@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
+<p>The man who removes a mountain begins by carrying away small stones.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- William Faulkner</p>
