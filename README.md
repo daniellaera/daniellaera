@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person is only by the thoughts that he chooses.</p>
+<p>No duty is more urgent than that of returning thanks.</p>
 
 <p>- James Allen</p>
