@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>I have never let my schooling interfere with my education.</p>
 
-<p>- Helen Keller</p>
+<p>- Mark Twain</p>
