@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart that gives, gathers.</p>
+<p>Life is either a daring adventure, or it is nothing.</p>
 
-<p>- Lao Tzu</p>
+<p>- Helen Keller</p>
