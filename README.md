@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who removes a mountain begins by carrying away small stones.</p>
+<p>It's not what you pay a man, but what he costs you that counts.</p>
 
-<p>- William Faulkner</p>
+<p>- Will Rogers</p>
