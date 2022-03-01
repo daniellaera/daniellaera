@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
+<p>The heart that gives, gathers.</p>
 
-<p>- A.A. Milne</p>
+<p>- Lao Tzu</p>
