@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From the errors of others, a wise man corrects his own.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Bob Proctor</p>
