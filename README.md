@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is simply what our feelings do to us.</p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>- Honore de Balzac</p>
+<p>- Genghis Khan</p>
