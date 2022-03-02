@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>- Elon Musk</p>
+<p>- Martin Luther King, Jr.</p>
