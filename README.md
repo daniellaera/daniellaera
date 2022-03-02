@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Elon Musk</p>
