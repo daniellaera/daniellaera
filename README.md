@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Motivation is what gets you started. Habit is what keeps you going.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>- Jim Rohn</p>
+<p>- Osho</p>
