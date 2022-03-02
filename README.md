@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Charles Dickens</p>
