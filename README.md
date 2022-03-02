@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>Never be bored, and you will never be boring.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Eleanor Roosevelt</p>
