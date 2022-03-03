@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man desires to live long, but no man wishes to be old.</p>
+<p>Do every act of your life as if it were your last.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Marcus Aurelius</p>
