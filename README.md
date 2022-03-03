@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What do we live for, if it is not to make life less difficult for each other?</p>
+<p>Hope is not a strategy. Luck is not a factor. Fear is not an option.</p>
 
-<p>- George Eliot</p>
+<p>- James Cameron</p>
