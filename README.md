@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one has ever become poor by giving.</p>
+<p>Every man desires to live long, but no man wishes to be old.</p>
 
-<p>- Anne Frank</p>
+<p>- Jonathan Swift</p>
