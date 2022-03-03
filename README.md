@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more acquaintances you have, the less you know them.</p>
+<p>Throw me to the wolves and I will return leading the pack.  </p>
 
-<p>- Chinese Proverb</p>
+<p>- Seneca</p>
