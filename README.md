@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- Pema Chodron</p>
+<p>- George Eliot</p>
