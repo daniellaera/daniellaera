@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
 
-<p>- Bruce Lee</p>
+<p>- Walt Whitman</p>
