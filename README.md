@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion creates, addiction consumes.</p>
+<p>Create with the heart; build with the mind.</p>
 
-<p>- Gabor Mate</p>
+<p>- Criss Jami</p>
