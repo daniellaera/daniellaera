@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you love yourself, life loves you back.</p>
+<p>Our view of the world is truly shaped by what we decide to hear.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- William James</p>
