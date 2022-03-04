@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>Worry is a waste of emotional reserve.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Ayn Rand</p>
