@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>The most courageous act is still to think for yourself. Aloud.</p>
 
-<p>- Bette Midler</p>
+<p>- Coco Chanel</p>
