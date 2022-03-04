@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Osho</p>
+<p>- Adi Da Samraj</p>
