@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
+<p>Today you are you, that is truer than true. There is no one alive who is you-er than you.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Dr. Seuss</p>
