@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't criticize what you can't understand. </p>
+<p>Every time we liberate a woman, we liberate a man. </p>
 
-<p>- Bob Dylan</p>
+<p>- Margaret Mead</p>
