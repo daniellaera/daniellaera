@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most courageous act is still to think for yourself. Aloud.</p>
+<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
 
-<p>- Coco Chanel</p>
+<p>- D. H. Lawrence</p>
