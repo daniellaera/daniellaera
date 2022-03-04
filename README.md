@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can pay the bills, I'm happy.</p>
+<p>Turn your wounds into wisdom. </p>
 
-<p>- Morgan Wootten</p>
+<p>- Oprah Winfrey</p>
