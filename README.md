@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time we liberate a woman, we liberate a man. </p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>- Margaret Mead</p>
+<p>- J.R.R. Tolkien</p>
