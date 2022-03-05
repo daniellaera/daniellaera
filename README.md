@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Robert Kiyosaki</p>
