@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody's life is either rewarding or an example.</p>
+<p>Hope means hoping when everything seems hopeless.</p>
 
-<p>- Tony Robbins</p>
+<p>- Gilbert Chesterton</p>
