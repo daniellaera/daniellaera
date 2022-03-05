@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw me to the wolves and I will return leading the pack.  </p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>- Seneca</p>
+<p>- Jonathan Swift</p>
