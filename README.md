@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>In three words I can sum up everything I've learned about life: it goes on.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robert Frost</p>
