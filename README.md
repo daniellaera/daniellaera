@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude, not aptitude, determines altitude.  </p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Thomas Jefferson</p>
