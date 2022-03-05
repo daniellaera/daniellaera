@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the noise of others opinions drown out your inner voice.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>- Steve Jobs</p>
+<p>- Carl Jung</p>
