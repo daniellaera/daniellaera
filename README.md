@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
+<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Eleanor Roosevelt</p>
