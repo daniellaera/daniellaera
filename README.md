@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- John Locke</p>
