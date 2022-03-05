@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- John Locke</p>
+<p>- Eleanor Roosevelt</p>
