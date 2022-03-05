@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In three words I can sum up everything I've learned about life: it goes on.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>- Robert Frost</p>
+<p>- Tony Robbins</p>
