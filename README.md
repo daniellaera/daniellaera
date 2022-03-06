@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's very strange that the people you love are often the people you're most cruel to.</p>
+<p>Fear does not have any special power unless you empower it by submitting to it.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Les Brown</p>
