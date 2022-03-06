@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Epictetus</p>
+<p>- Seungsahn</p>
