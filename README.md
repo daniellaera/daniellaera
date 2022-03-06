@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A path is made by walking on it.</p>
+<p>Adventure is not outside man; it is within.</p>
 
-<p>- Zhuangzi</p>
+<p>- George Eliot</p>
