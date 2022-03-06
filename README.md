@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give. </p>
+<p>Whereever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Shunryu Suzuki</p>
