@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>- Helen Keller</p>
+<p>- Carl Jung</p>
