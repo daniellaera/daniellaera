@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
+<p>If you do what you've always done, you'll get what you've always gotten.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Tony Robbins</p>
