@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Wayne Dyer</p>
