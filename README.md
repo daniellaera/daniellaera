@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>- Marcus Aurelius</p>
+<p>- Franz Kafka</p>
