@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The scariest moment is always just before you start. After that, things can only get better.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Stephen King</p>
+<p>- Charles Dickens</p>
