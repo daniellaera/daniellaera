@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>It is passion that makes man live; wisdom makes one only last.</p>
 
-<p>- Confucius</p>
+<p>- Nicolas Chamfort</p>
