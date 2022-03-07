@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take interest and even delight in doing the small things well.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>- Jim Rohn</p>
+<p>- Confucius</p>
