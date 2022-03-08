@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Judy Garland</p>
