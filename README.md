@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Repetition does not transform a lie into a truth.</p>
+<p>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Lao Tzu</p>
