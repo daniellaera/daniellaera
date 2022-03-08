@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to discover what another has discovered before.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Spencer Johnson</p>
