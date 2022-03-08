@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
+<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
 
-<p>- Unknown</p>
+<p>- Amelia Earhart</p>
