@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
+<p>You have as much laughter as you have faith.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Martin Luther</p>
