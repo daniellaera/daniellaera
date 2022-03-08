@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have as much laughter as you have faith.</p>
+<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
 
-<p>- Martin Luther</p>
+<p>- Celestine Chua</p>
