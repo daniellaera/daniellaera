@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What loneliness is more lonely than distrust?</p>
+<p>Death smiles at us all. All we can do is smile back.</p>
 
-<p>- George Eliot</p>
+<p>- Marcus Aurelius</p>
