@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honor is the foundation of courage.</p>
+<p>Repetition does not transform a lie into a truth.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Franklin D. Roosevelt</p>
