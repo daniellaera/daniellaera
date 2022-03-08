@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
 
-<p>- Beverly Sills</p>
+<p>- William Faulkner</p>
