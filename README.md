@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most difficult times for many of us are the ones we give ourselves.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Pema Chodron</p>
+<p>- Stephen King</p>
