@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Big people don't make people feel small.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>- Robin Sharma</p>
+<p>- Abraham Lincoln</p>
