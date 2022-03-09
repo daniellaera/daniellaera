@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>People think about what they don't want and attract more of the same.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Unknown</p>
