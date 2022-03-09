@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have it all. You just can't have it all at once. </p>
+<p>Reading should be a pleasure, not a chore.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Joan Rivers</p>
