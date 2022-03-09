@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are clothes that thoughts wear</p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>- Samuel Butler</p>
+<p>- Oprah Winfrey</p>
