@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Few things are more deceptive than memories.</p>
+<p>Greatness comes from living with purpose and passion.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Ralph Marston</p>
