@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For things to change, you have to change.</p>
+<p>All human wisdom is contained in these two words - Wait and Hope</p>
 
-<p>- Jim Rohn</p>
+<p>- Alexandre Dumas</p>
