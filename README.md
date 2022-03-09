@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>- Walt Whitman</p>
+<p>- Ronald Reagan</p>
