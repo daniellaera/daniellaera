@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not take life too seriously. You will never get out of it alive.</p>
+<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Sun Tzu</p>
