@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
 
-<p>- Sun Tzu</p>
+<p>- Rumi</p>
