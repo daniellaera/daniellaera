@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Guilt is perhaps the most painful companion of death.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>- Coco Chanel</p>
+<p>- Ming-Dao Deng</p>
