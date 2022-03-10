@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all those who wander are lost.</p>
+<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Napoleon Hill</p>
