@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
+<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
 
-<p>- Josh Waitzkin</p>
+<p>- Chinese Proverb</p>
