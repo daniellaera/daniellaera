@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>- Ayn Rand</p>
+<p>- Josh Waitzkin</p>
