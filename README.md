@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great acts are made up of small deeds.</p>
+<p>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</p>
 
-<p>- Lao Tzu</p>
+<p>- Paramahansa Yogananda</p>
