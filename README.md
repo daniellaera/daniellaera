@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
+<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Deepak Chopra</p>
