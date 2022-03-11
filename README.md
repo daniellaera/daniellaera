@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave to stand for what you believe in even if you stand alone.</p>
+<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Mark Twain</p>
