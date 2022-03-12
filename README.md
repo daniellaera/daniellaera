@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>- Ayn Rand</p>
+<p>- Isaac Newton</p>
