@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>Everything is possible. The impossible just takes longer.</p>
 
-<p>- Isaac Newton</p>
+<p>- Dan Brown</p>
