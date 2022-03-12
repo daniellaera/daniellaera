@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
+<p>To be great is to be misunderstood.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Ralph Waldo Emerson</p>
