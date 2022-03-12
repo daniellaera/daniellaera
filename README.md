@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who attain the middle Dominate the whole.</p>
+<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Lolly Daskal</p>
