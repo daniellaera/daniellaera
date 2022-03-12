@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
+<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
 
-<p>- Simon Sinek</p>
+<p>- Albus Dumbledore</p>
