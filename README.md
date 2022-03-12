@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is possible. The impossible just takes longer.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Dan Brown</p>
+<p>- Dr. Seuss</p>
