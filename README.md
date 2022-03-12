@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>- Steve Jobs</p>
+<p>- Simon Sinek</p>
