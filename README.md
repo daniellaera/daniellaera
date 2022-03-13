@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Roy T. Bennett</p>
