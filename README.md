@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only lose something that you have, but you cannot lose something that you are.</p>
+<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Celestine Chua</p>
