@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Richard Bach</p>
