@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Ming-Dao Deng</p>
