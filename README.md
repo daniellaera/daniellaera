@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Bodhidharma</p>
