@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
+<p>The only thing we have to fear is fear itself.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Franklin D. Roosevelt</p>
