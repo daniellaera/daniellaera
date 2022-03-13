@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
 
-<p>- Rumi</p>
+<p>- Bob Proctor</p>
