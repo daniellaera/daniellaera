@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always try to be a little kinder than necessary.</p>
+<p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Carl Jung</p>
