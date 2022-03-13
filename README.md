@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
+<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
 
-<p>- Bob Proctor</p>
+<p>- Kahlil Gibran</p>
