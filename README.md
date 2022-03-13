@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At every moment where language can't go, that's your mind.</p>
+<p>Always try to be a little kinder than necessary.</p>
 
-<p>- Bodhidharma</p>
+<p>- James Matthew Barrie</p>
