@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing we have to fear is fear itself.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Tony Robbins</p>
