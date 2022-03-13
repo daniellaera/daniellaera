@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Henry Ford</p>
