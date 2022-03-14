@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- George Eliot</p>
