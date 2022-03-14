@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Spencer Johnson</p>
