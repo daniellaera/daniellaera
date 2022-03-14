@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>- Nikola Tesla</p>
+<p>- Seneca</p>
