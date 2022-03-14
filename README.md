@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
+<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Steve Jobs</p>
