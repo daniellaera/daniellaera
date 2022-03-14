@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not regret the past. Look to the future.</p>
+<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Maya Angelou</p>
