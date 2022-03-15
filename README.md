@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Peter A. Cohen</p>
