@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be approximately right rather than exactly wrong.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>- John Tukey</p>
+<p>- Sigmund Freud</p>
