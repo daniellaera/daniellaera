@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the more you understand how your conscience works.</p>
+<p>A zen master's life is one continuous mistake.</p>
 
-<p>- Criss Jami</p>
+<p>- Dogen</p>
