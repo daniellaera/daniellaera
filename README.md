@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is your worst enemy. Risk is your best friend.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Dale Carnegie</p>
