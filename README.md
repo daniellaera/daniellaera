@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you truly expect something to be difficult, it will be.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Laurence J. Peter</p>
