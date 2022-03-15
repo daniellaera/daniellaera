@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not the knowing that is difficult, but the doing. </p>
+<p>They who have conquered doubt and fear have conquered failure.</p>
 
-<p>- Chinese Proverb</p>
+<p>- James Allen</p>
