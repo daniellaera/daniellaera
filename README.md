@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>- Kamal Ravikant</p>
+<p>- George Washington</p>
