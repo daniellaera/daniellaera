@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>What one does is what counts. Not what one had the intention of doing.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Pablo Picasso</p>
