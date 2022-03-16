@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
 
-<p>- Estee Lauder</p>
+<p>- Carl Bard</p>
