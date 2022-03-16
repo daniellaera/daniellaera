@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is filled with secrets. You can't learn them all at once.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>- Dan Brown</p>
+<p>- Oprah Winfrey</p>
