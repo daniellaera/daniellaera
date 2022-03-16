@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Productize your perspective.</p>
+<p>The future is no more uncertain than the present.</p>
 
-<p>- Jack Butcher</p>
+<p>- Walt Whitman</p>
