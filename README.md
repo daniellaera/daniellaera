@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>- Robin Sharma</p>
+<p>- Mary Engelbreit</p>
