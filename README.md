@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always remember that you are absolutely unique. Just like everyone else. </p>
+<p>He who knows how to wait need make no concessions.</p>
 
-<p>- Margaret Mead</p>
+<p>- Sigmund Freud</p>
