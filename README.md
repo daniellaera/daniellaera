@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace begins with a smile.</p>
+<p>Tradition is the illusion of permanence. </p>
 
-<p>- Mother Teresa</p>
+<p>- Woody Allen</p>
