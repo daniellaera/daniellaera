@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I cannot make my days longer so I strive to make them better.</p>
+<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Kamal Ravikant</p>
