@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I dream my painting and I paint my dream.</p>
+<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
 
-<p>- Vincent van Gogh</p>
+<p>- Oscar Wilde</p>
