@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>- Jack Butcher</p>
+<p>- Margaret Mead</p>
