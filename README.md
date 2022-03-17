@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All I can do is be me, whoever that is.</p>
+<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
 
-<p>- Bob Dylan</p>
+<p>- Robert Kiyosaki</p>
