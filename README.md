@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows how to wait need make no concessions.</p>
+<p>I dream my painting and I paint my dream.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Vincent van Gogh</p>
