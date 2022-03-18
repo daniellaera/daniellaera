@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just do what must be done. This may not be happiness but it is greatness.</p>
+<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Elon Musk</p>
