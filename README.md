@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>- Estee Lauder</p>
+<p>- Hans Christian Andersen</p>
