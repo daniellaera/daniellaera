@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>Confidence is contagious. So is lack of confidence.</p>
 
-<p>- Steve Jobs</p>
+<p>- Vince Lombardi</p>
