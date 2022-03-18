@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Epictetus</p>
+<p>- Walt Whitman</p>
