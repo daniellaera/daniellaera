@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
+<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Paramahansa Yogananda</p>
