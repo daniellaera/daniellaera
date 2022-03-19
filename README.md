@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perplexity is the beginning of knowledge.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Miguel de Cervantes</p>
