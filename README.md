@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
+<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
 
-<p>- A.A. Milne</p>
+<p>- Chinese Proverb</p>
