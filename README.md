@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
 
-<p>- Tony Robbins</p>
+<p>- Kamal Ravikant</p>
