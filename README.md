@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Worry is a waste of emotional reserve.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Ayn Rand</p>
+<p>- Conrad Hilton</p>
