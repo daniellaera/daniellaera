@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How people treat you is their karma; how you react is yours. </p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>- Wayne Dyer</p>
+<p>- John Lennon</p>
