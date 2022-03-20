@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Ralph Marston</p>
