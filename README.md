@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>The most wasted day of all is that on which we have not laughed.</p>
 
-<p>- Beverly Sills</p>
+<p>- Nicolas Chamfort</p>
