@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A goal is a dream with a deadline.</p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>- Napoleon Hill</p>
+<p>- J.R.R. Tolkien</p>
