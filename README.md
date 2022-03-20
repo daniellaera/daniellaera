@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time you enjoy wasting, was not wasted.</p>
+<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 
-<p>- John Lennon</p>
+<p>- Lao Tzu</p>
