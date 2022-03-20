@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Helen Keller</p>
