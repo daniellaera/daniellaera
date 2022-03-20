@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Marilyn Monroe</p>
