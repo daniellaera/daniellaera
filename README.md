@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get the stronger the wind gets - and it's always in your face.</p>
+<p>Success is achieved and maintained by those who try and keep trying. </p>
 
-<p>- Pablo Picasso</p>
+<p>- W. Clement Stone</p>
