@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
+<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Gurbaksh Chahal</p>
