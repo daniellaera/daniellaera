@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is only real when shared.</p>
+<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Rumi</p>
