@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is achieved and maintained by those who try and keep trying. </p>
+<p>Relax. Nothing is under control.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Adi Da Samraj</p>
