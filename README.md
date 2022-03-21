@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
+<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
 
-<p>- Rumi</p>
+<p>- Napoleon Hill</p>
