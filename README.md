@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us rather run the risk of wearing out than rusting out.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- John Wooden</p>
