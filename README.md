@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One must be deeply aware of the impermanence of the world.</p>
+<p>The best way out is always through.</p>
 
-<p>- Dogen</p>
+<p>- Robert Frost</p>
