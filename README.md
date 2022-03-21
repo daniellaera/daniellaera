@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
+<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Eckhart Tolle</p>
