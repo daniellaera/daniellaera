@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
+<p>Life is what you make it. Always has been, always will be.</p>
 
-<p>- Sun Tzu</p>
+<p>- Eleanor Roosevelt</p>
