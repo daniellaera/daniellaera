@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Short cuts make long delays.</p>
+<p>Not doing it is certainly the best way to not getting it.  </p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Wayne Gretzky</p>
