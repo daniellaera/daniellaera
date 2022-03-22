@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
+<p>How people treat you is their karma; how you react is yours. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Wayne Dyer</p>
