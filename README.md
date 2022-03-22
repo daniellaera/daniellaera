@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>Only the hand that erases can write the true thing.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Meister Eckhart</p>
