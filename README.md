@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to learn late than never.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Mahatma Gandhi</p>
