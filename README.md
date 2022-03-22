@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even a hare will bite when it is cornered. </p>
+<p>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Eric Hoffer</p>
