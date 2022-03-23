@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
+<p>Life is too important to be taken seriously.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Oscar Wilde</p>
