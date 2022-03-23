@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
+<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
 
-<p>- Aristotle</p>
+<p>- Ralph Marston</p>
