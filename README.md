@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is not about possession. Love is about appreciation.</p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>- Osho</p>
+<p>- Jack Butcher</p>
