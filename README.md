@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
+<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
 
-<p>- Ayn Rand</p>
+<p>- Spencer Johnson</p>
