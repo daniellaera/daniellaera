@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Spencer Johnson</p>
+<p>- Oscar Wilde</p>
