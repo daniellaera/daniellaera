@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is too important to be taken seriously.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>- Oscar Wilde</p>
+<p>- J.R.R. Tolkien</p>
