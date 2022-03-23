@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
+<p>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Dale Carnegie</p>
