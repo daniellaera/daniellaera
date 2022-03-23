@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>You win more from losing than winning.</p>
 
-<p>- Jack Butcher</p>
+<p>- Morgan Wootten</p>
