@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Euripides</p>
