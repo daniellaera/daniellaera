@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ego wants to go fast. The soul needs to go slow.</p>
+<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Earl Nightingale</p>
