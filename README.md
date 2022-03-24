@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>The giving of love is an education in itself.</p>
 
-<p>- Mark Twain</p>
+<p>- Eleanor Roosevelt</p>
