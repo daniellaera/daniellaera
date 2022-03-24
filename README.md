@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>- Billie Jean King</p>
+<p>- Seneca</p>
