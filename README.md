@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you believe with feeling becomes your reality. </p>
+<p>Fools read fast. Geniuses reread.</p>
 
-<p>- Brian Tracy</p>
+<p>- Maxime Lagace</p>
