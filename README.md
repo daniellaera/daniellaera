@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Mark Twain</p>
