@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>- Zen Proverb</p>
+<p>- Elon Musk</p>
