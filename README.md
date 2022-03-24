@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is acceptable. Not trying is a whole different ball park.</p>
+<p>Every strike brings me closer to the next home run. </p>
 
-<p>- Michael Jordan</p>
+<p>- Babe Ruth</p>
