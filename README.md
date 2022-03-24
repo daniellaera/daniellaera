@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The giving of love is an education in itself.</p>
+<p>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Toni Morrison</p>
