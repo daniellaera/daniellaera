@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By words the mind is winged.</p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>- Aristophanes</p>
+<p>- Billie Jean King</p>
