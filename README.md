@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is simply what our feelings do to us.</p>
+<p>Either write something worth reading or do something worth writing.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Benjamin Franklin</p>
