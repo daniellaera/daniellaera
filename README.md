@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
+<p>A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.</p>
 
-<p>- Ralph Marston</p>
+<p>- Norman Vincent Peale</p>
