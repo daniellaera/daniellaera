@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is possible. The impossible just takes longer.</p>
+<p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
 
-<p>- Dan Brown</p>
+<p>- Barack Obama</p>
