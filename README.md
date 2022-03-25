@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
+<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
 
-<p>- Zig Ziglar</p>
+<p>- G.I. Gurdjieff</p>
