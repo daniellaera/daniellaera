@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes good things fall apart so better things can fall together.</p>
+<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Henry Ward Beecher</p>
