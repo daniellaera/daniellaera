@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I admire those who do good and expect nothing in return.</p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Jiddu Krishnamurti</p>
