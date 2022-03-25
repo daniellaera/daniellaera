@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>- Unknown</p>
+<p>- Aristophanes</p>
