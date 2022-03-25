@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The price of inaction is far greater than the cost of making a mistake.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Kilian Jornet</p>
