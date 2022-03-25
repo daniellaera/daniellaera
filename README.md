@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When things go wrong, don't go with them.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Elvis Presley</p>
+<p>- Alexander Pope</p>
