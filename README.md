@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Unknown</p>
