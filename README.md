@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We will now discuss in a little more detail the Struggle for Existence.</p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>- Charles Darwin</p>
+<p>- Meister Eckhart</p>
