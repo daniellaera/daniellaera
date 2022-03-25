@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Theodore Roosevelt</p>
