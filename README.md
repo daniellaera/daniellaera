@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>We will now discuss in a little more detail the Struggle for Existence.</p>
 
-<p>- Seneca</p>
+<p>- Charles Darwin</p>
