@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Zig Ziglar</p>
