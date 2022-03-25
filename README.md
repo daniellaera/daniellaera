@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk does not cook rice.</p>
+<p>I admire those who do good and expect nothing in return.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Roy T. Bennett</p>
