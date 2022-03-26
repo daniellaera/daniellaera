@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
+<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
 
-<p>- Zen Proverb</p>
+<p>- Steve Maraboli</p>
