@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>- Bob Proctor</p>
+<p>- Aristotle</p>
