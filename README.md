@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>- Betty White</p>
+<p>- Og Mandino</p>
