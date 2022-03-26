@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- Barack Obama</p>
+<p>- Mahatma Gandhi</p>
