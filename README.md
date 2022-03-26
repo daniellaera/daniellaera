@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
 
-<p>- Chinese Proverb</p>
+<p>- Brian Tracy</p>
