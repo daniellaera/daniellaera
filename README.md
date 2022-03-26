@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
+<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Gilbert Chesterton</p>
