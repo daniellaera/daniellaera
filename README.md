@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your gift is something that you can do innately better than anything else.</p>
+<p>Enthusiasm makes up for a host of deficiencies.</p>
 
-<p>- Steve Harvey</p>
+<p>- Barack Obama</p>
