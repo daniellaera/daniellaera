@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>All I can do is be me, whoever that is.</p>
 
-<p>- St. Jerome</p>
+<p>- Bob Dylan</p>
