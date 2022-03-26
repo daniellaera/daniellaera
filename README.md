@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead an orchestra, you must turn your back on the crowd.</p>
+<p>Reading should be a pleasure, not a chore.</p>
 
-<p>- Aristotle</p>
+<p>- Joan Rivers</p>
