@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The businessman's tool is value.</p>
+<p>Showing off is the fool's idea of glory. </p>
 
-<p>- Ayn Rand</p>
+<p>- Bruce Lee</p>
