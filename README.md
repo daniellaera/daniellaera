@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Wayne Dyer</p>
