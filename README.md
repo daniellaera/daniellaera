@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most difficult times for many of us are the ones we give ourselves.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Pema Chodron</p>
+<p>- F. Scott Fitzgerald</p>
