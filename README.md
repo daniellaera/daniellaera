@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Carl Jung</p>
