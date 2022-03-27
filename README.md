@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>- Peter A. Cohen</p>
+<p>- Confucius</p>
