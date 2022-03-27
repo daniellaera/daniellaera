@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Through discipline comes freedom.</p>
+<p>The purpose of life is to contribute in some way to making things better.</p>
 
-<p>- Aristotle</p>
+<p>- Robert F. Kennedy</p>
