@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Pema Chodron</p>
