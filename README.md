@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Johann Wolfgang von Goethe</p>
