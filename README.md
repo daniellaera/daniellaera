@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Showing off is the fool's idea of glory. </p>
+<p>Simplicity is a difficult thing to achieve.  </p>
 
-<p>- Bruce Lee</p>
+<p>- Charlie Chaplin</p>
