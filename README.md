@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is to contribute in some way to making things better.</p>
+<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Elbert Hubbard</p>
