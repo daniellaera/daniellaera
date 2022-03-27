@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We make a living by what we get, but we make a life by what we give.</p>
+<p>Be a master of change rather than a victim of change.</p>
 
-<p>- Unknown</p>
+<p>- Brian Tracy</p>
