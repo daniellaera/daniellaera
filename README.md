@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To travel is to be alive, but to get somewhere is to be dead.</p>
+<p>When things go wrong, don't go with them.</p>
 
-<p>- Alan Watts</p>
+<p>- Elvis Presley</p>
