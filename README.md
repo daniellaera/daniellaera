@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</p>
+<p>The businessman's tool is value.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Ayn Rand</p>
