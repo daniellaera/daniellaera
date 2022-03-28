@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People don't care how much you know until they know how much you care.</p>
+<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- John Wooden</p>
