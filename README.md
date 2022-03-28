@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You just can't beat the person who never gives up. </p>
+<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
 
-<p>- Babe Ruth</p>
+<p>- Kahlil Gibran</p>
