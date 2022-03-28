@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
 
-<p>- Jim Rohn</p>
+<p>- George Bernard Shaw</p>
