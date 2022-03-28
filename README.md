@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>Your only obligation in any lifetime is to be true to yourself.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Richard Bach</p>
