@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your only obligation in any lifetime is to be true to yourself.</p>
+<p>There is no greater agony than bearing an untold story inside you.</p>
 
-<p>- Richard Bach</p>
+<p>- Maya Angelou</p>
