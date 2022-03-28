@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>You become stronger with every problem you face and every obstacle you overcome.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Celestine Chua</p>
