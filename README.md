@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, so shall you become. </p>
+<p>We can have more than we've got because we can become more than we are.</p>
 
-<p>- Bruce Lee</p>
+<p>- Jim Rohn</p>
