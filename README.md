@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>Remember, hope is a good thing, maybe the best of things.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Stephen King</p>
