@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
+<p>We are all here for some special reason.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Robin Sharma</p>
