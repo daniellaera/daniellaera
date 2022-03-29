@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>- Charles Dickens</p>
+<p>- Bruce Lee</p>
