@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Bob Dylan</p>
+<p>- Henry Ward Beecher</p>
