@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
+<p>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Eckhart Tolle</p>
