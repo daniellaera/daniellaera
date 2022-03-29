@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
+<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
 
-<p>- Zhuangzi</p>
+<p>- Arnold Schwarzenegger</p>
