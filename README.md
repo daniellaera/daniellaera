@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
+<p>Life does not get better by chance, it gets better by change.</p>
 
-<p>- Sydney Smith</p>
+<p>- Jim Rohn</p>
