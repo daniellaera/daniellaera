@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Think and wonder, wonder and think.</p>
+<p>If you see yourself as prosperous, you will be.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Robert Collier</p>
