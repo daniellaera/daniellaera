@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
+<p>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Bob Proctor</p>
