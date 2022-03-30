@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the mark of intelligent living.</p>
+<p>The more I want to get something done, the less I call it work.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Richard Bach</p>
