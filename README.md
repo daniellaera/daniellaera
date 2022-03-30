@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Henry Ward Beecher</p>
