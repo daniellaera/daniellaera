@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is more cheated than the selfish man.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Spencer Johnson</p>
