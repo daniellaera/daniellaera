@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>As mortals, we're ruled by conditions, not by ourselves.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Bodhidharma</p>
