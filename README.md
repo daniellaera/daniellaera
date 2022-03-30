@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
-<p>- Jack London</p>
+<p>- Zen Proverb</p>
