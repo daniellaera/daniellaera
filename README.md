@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your past does not equal your future.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>- Tony Robbins</p>
+<p>- Spencer Johnson</p>
