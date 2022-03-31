@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
+<p>Life is either a daring adventure, or nothing.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Helen Keller</p>
