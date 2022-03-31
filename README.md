@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>It is better to be looked over than overlooked.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Mae West</p>
