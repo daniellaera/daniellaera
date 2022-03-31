@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Ayn Rand</p>
+<p>- John Wooden</p>
