@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
 
-<p>- Les Brown</p>
+<p>- Henry David Thoreau</p>
