@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place where success comes before work is in the dictionary.</p>
+<p>Time stays long enough for anyone who will use it.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Leonardo da Vinci</p>
