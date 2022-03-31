@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
+<p>To live is to be willing to die over and over again.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Pema Chodron</p>
