@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Bette Midler</p>
