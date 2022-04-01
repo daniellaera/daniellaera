@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows how to wait need make no concessions.</p>
+<p>Success is getting what you want. Happiness is wanting what you get.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Andrew Carnegie</p>
