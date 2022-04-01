@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
 
-<p>- Robert Frost</p>
+<p>- Steve Maraboli</p>
