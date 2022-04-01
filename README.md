@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you genuinely want something, don't wait for it - teach yourself.</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Robin Sharma</p>
