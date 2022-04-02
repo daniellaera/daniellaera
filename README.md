@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>If you want peace, you won't get it with violence.</p>
 
-<p>- Ayn Rand</p>
+<p>- John Lennon</p>
