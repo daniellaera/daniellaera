@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ego wants to go fast. The soul needs to go slow.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Stephen Hawking</p>
