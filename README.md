@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>an action committed in anger is an action doomed to failure. </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Genghis Khan</p>
