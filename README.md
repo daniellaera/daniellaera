@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A real friend is one who walks in when the rest of the world walks out.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Unknown</p>
+<p>- Og Mandino</p>
