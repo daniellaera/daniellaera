@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do great work one must be very idle as well as very industrious.</p>
+<p>A real friend is one who walks in when the rest of the world walks out.</p>
 
-<p>- Samuel Butler</p>
+<p>- Unknown</p>
