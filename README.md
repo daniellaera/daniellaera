@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, you won't get it with violence.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>- John Lennon</p>
+<p>- Kilian Jornet</p>
