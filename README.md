@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man is affected not by events but by the view he takes of them.  </p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Seneca</p>
+<p>- Roy T. Bennett</p>
