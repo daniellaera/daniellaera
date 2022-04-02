@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most wasted day of all is that on which we have not laughed.</p>
+<p>Man is affected not by events but by the view he takes of them.  </p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Seneca</p>
