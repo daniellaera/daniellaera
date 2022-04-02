@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>- Og Mandino</p>
+<p>- J.R.R. Tolkien</p>
