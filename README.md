@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't explain your philosophy. Embody it.</p>
+<p>Empty your mind, be formless.</p>
 
-<p>- Epictetus</p>
+<p>- Bruce Lee</p>
