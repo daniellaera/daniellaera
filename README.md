@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
 
-<p>- Billie Jean King</p>
+<p>- Unknown</p>
