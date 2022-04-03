@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty your mind, be formless.</p>
+<p>Have a vision. Be demanding.</p>
 
-<p>- Bruce Lee</p>
+<p>- Colin Powell</p>
