@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have a vision. Be demanding.</p>
+<p>Fear can hold you prisoner. Hope can set you free.</p>
 
-<p>- Colin Powell</p>
+<p>- Stephen King</p>
