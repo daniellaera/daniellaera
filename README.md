@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>- George Washington</p>
+<p>- Abraham Lincoln</p>
