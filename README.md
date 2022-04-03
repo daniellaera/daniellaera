@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We win by helping each other win.</p>
+<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
 
-<p>- Jack Butcher</p>
+<p>- Judy Garland</p>
