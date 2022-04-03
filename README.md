@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change yourself - you are in control.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Martin Luther</p>
