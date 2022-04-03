@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>- Martin Luther</p>
+<p>- Amelia Earhart</p>
