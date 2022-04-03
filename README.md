@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
+<p>You're always free to change your mind and choose a different future, or a different past.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Richard Bach</p>
