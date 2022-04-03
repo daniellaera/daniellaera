@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
 
-<p>- Epictetus</p>
+<p>- George Washington</p>
