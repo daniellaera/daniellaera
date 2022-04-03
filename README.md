@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear can hold you prisoner. Hope can set you free.</p>
+<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
 
-<p>- Stephen King</p>
+<p>- Shunryu Suzuki</p>
