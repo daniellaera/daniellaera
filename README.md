@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be a little nobody, then to be an evil somebody.</p>
+<p>Life is much more successfully looked at from a single window.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- F. Scott Fitzgerald</p>
