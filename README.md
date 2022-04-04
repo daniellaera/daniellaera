@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are totally at peace with yourself, nothing can shake you.</p>
+<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Roy T. Bennett</p>
