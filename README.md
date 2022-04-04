@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Living life in style also means living a life of balance.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>- Jim Rohn</p>
+<p>- Vincent van Gogh</p>
