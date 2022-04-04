@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your outlook on life that counts.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>- Betty White</p>
+<p>- Gurbaksh Chahal</p>
