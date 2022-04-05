@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing will work unless you do.</p>
+<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
 
-<p>- Maya Angelou</p>
+<p>- Sathya Sai Baba</p>
