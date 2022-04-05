@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>Every day passes whether you participate or not.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Ming-Dao Deng</p>
