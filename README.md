@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Lolly Daskal</p>
