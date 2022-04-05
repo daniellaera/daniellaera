@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
+<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Mark Twain</p>
