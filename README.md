@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go as far as you can see and you will see further.  </p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- Zig Ziglar</p>
+<p>- James Allen</p>
