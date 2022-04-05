@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Eleanor Roosevelt</p>
