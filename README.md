@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your life-but only if you make it so.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Vince Lombardi</p>
