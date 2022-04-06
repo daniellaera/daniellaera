@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
+<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
 
-<p>- Ayn Rand</p>
+<p>- Earl Nightingale</p>
