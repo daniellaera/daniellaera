@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is the sum of small efforts, repeated day in and day out.</p>
+<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
 
-<p>- Robert Collier</p>
+<p>- Criss Jami</p>
