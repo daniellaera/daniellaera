@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Alan Watts</p>
