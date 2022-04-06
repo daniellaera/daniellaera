@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you put water into a cup, it becomes the cup.</p>
+<p>So long as we are being remembered, we remain alive.</p>
 
-<p>- Bruce Lee</p>
+<p>- Carlos Ruiz Zafon</p>
