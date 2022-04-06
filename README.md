@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not enough to win a war; it is more important to organize the peace.</p>
+<p>It is better to offer no excuse than a bad one. </p>
 
-<p>- Aristotle</p>
+<p>- George Washington</p>
