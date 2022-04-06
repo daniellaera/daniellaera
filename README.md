@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tall oaks grow from little acorns.</p>
+<p>There is no fear for one whose mind is not filled with desires.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Buddha</p>
