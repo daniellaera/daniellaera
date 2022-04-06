@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to offer no excuse than a bad one. </p>
+<p>Make your stand today. On this spot. On this day.</p>
 
-<p>- George Washington</p>
+<p>- Ming-Dao Deng</p>
