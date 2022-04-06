@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By seeking and blundering we learn.</p>
+<p>Success is the sum of small efforts, repeated day in and day out.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Robert Collier</p>
