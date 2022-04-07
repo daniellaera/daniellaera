@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>To some degree, you control your life by controlling your time.</p>
 
-<p>- Tony Robbins</p>
+<p>- Conrad Hilton</p>
