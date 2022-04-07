@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
+<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
 
-<p>- Barack Obama</p>
+<p>- Criss Jami</p>
