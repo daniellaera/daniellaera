@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Mary Engelbreit</p>
