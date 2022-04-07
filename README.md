@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must find the place inside yourself where nothing is impossible.</p>
+<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Alan Watts</p>
