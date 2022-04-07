@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never trust he who trusts everyone.</p>
+<p>Where there is anger, there is always pain underneath.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Eckhart Tolle</p>
