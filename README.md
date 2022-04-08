@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True life is lived when tiny changes occur.</p>
+<p>It is in the darkness that one finds the light.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Meister Eckhart</p>
