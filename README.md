@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Steve Harvey</p>
