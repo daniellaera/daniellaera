@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the highway to success.</p>
+<p>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</p>
 
-<p>- Og Mandino</p>
+<p>- Stephen King</p>
