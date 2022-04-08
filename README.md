@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</p>
+<p>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</p>
 
-<p>- Stephen King</p>
+<p>- Robert Kiyosaki</p>
