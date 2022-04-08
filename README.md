@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
+<p>Success is getting what you want. Happiness is wanting what you get.</p>
 
-<p>- Celestine Chua</p>
+<p>- Andrew Carnegie</p>
