@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today you are you, that is truer than true. There is no one alive who is you-er than you.</p>
+<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Kabir</p>
