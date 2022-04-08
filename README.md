@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Norman Vincent Peale</p>
