@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is not for all men, but for those who seek it.</p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>- Ayn Rand</p>
+<p>- Audrey Hepburn</p>
