@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you genuinely want something, don't wait for it - teach yourself.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Brian Tracy</p>
