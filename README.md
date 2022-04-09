@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</p>
+<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
 
-<p>- Jonathan Swift</p>
+<p>- Wayne Dyer</p>
