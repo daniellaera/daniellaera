@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are willing to believe anything other than the truth.</p>
+<p>It is your attitude, not your aptitude, that determines your altitude.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Zig Ziglar</p>
