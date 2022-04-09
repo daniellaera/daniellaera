@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The cost of leadership is self-interest.</p>
+<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
 
-<p>- Simon Sinek</p>
+<p>- Eric Hoffer</p>
