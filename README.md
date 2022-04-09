@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Ronald Reagan</p>
