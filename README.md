@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Jack London</p>
