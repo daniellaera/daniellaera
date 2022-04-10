@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No snowflake ever falls in the wrong place.</p>
+<p>Behind every beautiful thing, there's some kind of pain.</p>
 
-<p>- Zen Proverb</p>
+<p>- Bob Dylan</p>
