@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Aim for the moon. If you miss, you may hit a star.</p>
+<p>Optimism is the one quality more associated with success and happiness than any other.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Brian Tracy</p>
