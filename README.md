@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you are, be a good one.</p>
+<p>Love is the expression of one's values.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Ayn Rand</p>
