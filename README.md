@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you've got nothing, you've got nothing to lose.</p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>- Bob Dylan</p>
+<p>- W. Clement Stone</p>
