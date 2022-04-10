@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The energy of the mind is the essence of life.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>- Aristotle</p>
+<p>- Betty White</p>
