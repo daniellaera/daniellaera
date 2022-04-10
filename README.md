@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will not do incredible things without an incredible dream.</p>
+<p>Gratitude is the fairest blossom which springs from the soul.</p>
 
-<p>- John Eliot</p>
+<p>- Henry Ward Beecher</p>
