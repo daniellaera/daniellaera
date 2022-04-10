@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to learn late than never.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Betty White</p>
