@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
 
-<p>- Brian Tracy</p>
+<p>- Roy T. Bennett</p>
