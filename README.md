@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
+<p>The only lost cause is one we give up on before we enter the struggle.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Vaclav Havel</p>
