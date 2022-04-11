@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The golden opportunity you are seeking is within yourself.</p>
+<p>Growing up is losing some illusions, in order to acquire others.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Virginia Woolf</p>
