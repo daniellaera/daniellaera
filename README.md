@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Roy T. Bennett</p>
