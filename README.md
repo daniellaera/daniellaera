@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best teacher is experience and not through someone's distorted point of view.</p>
+<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Og Mandino</p>
