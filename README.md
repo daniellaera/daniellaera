@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>- Ronald Reagan</p>
+<p>- Wayne Dyer</p>
