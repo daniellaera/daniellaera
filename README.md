@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friend is the man who knows all about you, and still likes you.</p>
+<p>Wealth consists not in having great possessions, but in having few wants.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Epictetus</p>
