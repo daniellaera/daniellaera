@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>Be strong. Be confident. Be the star of your own life.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Estee Lauder</p>
