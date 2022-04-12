@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>- Henry Ford</p>
+<p>- Ming-Dao Deng</p>
