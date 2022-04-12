@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
+<p>A friend to all is a friend to none.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Aristotle</p>
