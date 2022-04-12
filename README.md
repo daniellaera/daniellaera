@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Henry Ford</p>
