@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>There are no uninteresting things, only uninterested people.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Gilbert Chesterton</p>
