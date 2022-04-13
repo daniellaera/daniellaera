@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>The whole is greater than the sum of its parts.</p>
 
-<p>- Betty White</p>
+<p>- Aristotle</p>
