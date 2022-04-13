@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
+<p>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Kabir</p>
