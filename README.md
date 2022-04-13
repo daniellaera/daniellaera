@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can bring you peace but yourself.</p>
+<p>Life is trying things to see if they work.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Ray Bradbury</p>
