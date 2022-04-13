@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life may be full of pain but that's not an excuse to give up.</p>
+<p>Wealth consists not in having great possessions, but in having few wants.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Epictetus</p>
