@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Definiteness of purpose is the starting point of all achievement. </p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Lao Tzu</p>
