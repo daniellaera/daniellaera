@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Definiteness of purpose is the starting point of all achievement. </p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Arnold Schwarzenegger</p>
