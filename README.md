@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Josh Waitzkin</p>
