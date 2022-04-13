@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show me a hero, and I'll write you a tragedy.</p>
+<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Samuel Beckett</p>
