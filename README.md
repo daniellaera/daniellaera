@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wealth consists not in having great possessions, but in having few wants.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>- Epictetus</p>
+<p>- Betty White</p>
