@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody has talent, but ability takes hard work.</p>
+<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
 
-<p>- Michael Jordan</p>
+<p>- Tony Robbins</p>
