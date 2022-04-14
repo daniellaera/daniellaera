@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Dr. Seuss</p>
