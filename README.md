@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>- Lao Tzu</p>
+<p>- Unknown</p>
