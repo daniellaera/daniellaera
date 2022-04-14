@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage Is a Love Affair with the Unknown</p>
+<p>Don't let anyone define you. You define yourself.</p>
 
-<p>- Osho</p>
+<p>- Billie Jean King</p>
