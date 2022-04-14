@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Wayne Dyer</p>
