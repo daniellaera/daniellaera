@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>- Dale Carnegie</p>
+<p>- Henry Ford</p>
