@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners don't Quit. That's why they Win.</p>
+<p>You have the ability, now apply yourself.</p>
 
-<p>- Unknown</p>
+<p>- Benjamin Mays</p>
