@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
+<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
 
-<p>- Richard Bach</p>
+<p>- Dr. Seuss</p>
