@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By seeking and blundering we learn.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Rumi</p>
