@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A journey of a thousand miles begins with a single step.</p>
+<p>Behind every cloud is another cloud.</p>
 
-<p>- Lao Tzu</p>
+<p>- Judy Garland</p>
