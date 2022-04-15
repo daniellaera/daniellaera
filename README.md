@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Chop your own wood and it will warm you twice. </p>
+<p>By seeking and blundering we learn.</p>
 
-<p>- Henry Ford</p>
+<p>- Johann Wolfgang von Goethe</p>
