@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every cloud is another cloud.</p>
+<p>Greatness comes from living with purpose and passion.</p>
 
-<p>- Judy Garland</p>
+<p>- Ralph Marston</p>
