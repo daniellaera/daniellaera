@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
+<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
 
-<p>- Og Mandino</p>
+<p>- Thomas Jefferson</p>
