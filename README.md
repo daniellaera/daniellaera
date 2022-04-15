@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
+<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
 
-<p>- Robert Greene</p>
+<p>- Og Mandino</p>
