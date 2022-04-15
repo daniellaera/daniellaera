@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If light is in your heart, you will find your way home.  </p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Rumi</p>
+<p>- Celestine Chua</p>
