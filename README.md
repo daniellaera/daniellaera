@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a long lesson in humility. </p>
+<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Amelia Earhart</p>
