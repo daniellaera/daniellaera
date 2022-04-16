@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man gotta right to decide his own destiny.</p>
+<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
 
-<p>- Bob Marley</p>
+<p>- Bob Proctor</p>
