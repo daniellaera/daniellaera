@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends upon ourselves.</p>
+<p>The only way round is through.</p>
 
-<p>- Aristotle</p>
+<p>- Robert Frost</p>
