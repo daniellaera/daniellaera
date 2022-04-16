@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I begin with an idea and then it becomes something else.</p>
+<p>Anger exceeding limits causes fear and excessive kindness eliminates respect.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Euripides</p>
