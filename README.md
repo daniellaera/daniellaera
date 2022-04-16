@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way round is through.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
-<p>- Robert Frost</p>
+<p>- Dalai Lama</p>
