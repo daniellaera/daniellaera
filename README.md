@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Bob Marley</p>
