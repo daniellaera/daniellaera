@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know the rules well, so you can break them effectively.</p>
+<p>The harder the conflict, the greater the triumph. </p>
 
-<p>- Dalai Lama</p>
+<p>- George Washington</p>
