@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.</p>
 
-<p>- Bob Proctor</p>
+<p>- Maxime Lagace</p>
