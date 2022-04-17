@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>- Tony Robbins</p>
+<p>- Anne Frank</p>
