@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is difficult to free fools from the chains they revere. </p>
+<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
 
-<p>- Voltaire</p>
+<p>- Laurence J. Peter</p>
