@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Looking after my health today gives me a better hope for tomorrow. </p>
+<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Maxime Lagace</p>
