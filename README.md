@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Curiosity is the most powerful thing you own.</p>
+<p>Life happens in the river, not the shore.</p>
 
-<p>- James Cameron</p>
+<p>- Maxime Lagace</p>
