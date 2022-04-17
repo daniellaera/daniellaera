@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
+<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Unknown</p>
