@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is the offspring of silence and meditation.</p>
+<p>Help others achieve their dreams and you will achieve yours.</p>
 
-<p>- Isaac Newton</p>
+<p>- Les Brown</p>
