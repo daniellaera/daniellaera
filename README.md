@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>Be fascinated instead of frustrated.</p>
 
-<p>- Martin Luther</p>
+<p>- Jim Rohn</p>
