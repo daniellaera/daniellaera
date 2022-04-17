@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is to be willing to die over and over again.</p>
+<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
 
-<p>- Pema Chodron</p>
+<p>- Tony Robbins</p>
