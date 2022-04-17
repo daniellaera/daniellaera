@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless you change how you are, you will always have what you got.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>- Jim Rohn</p>
+<p>- Charles Darwin</p>
