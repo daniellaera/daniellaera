@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
+<p>Mistake is a mistake only if you make it twice.</p>
 
-<p>- Robert Greene</p>
+<p>- Robin Sharma</p>
