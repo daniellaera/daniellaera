@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</p>
+<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Robert Greene</p>
