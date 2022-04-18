@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man desires to live long, but no man wishes to be old.</p>
+<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Jeffrey Gitomer</p>
