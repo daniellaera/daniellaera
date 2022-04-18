@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is filled with secrets. You can't learn them all at once.</p>
+<p>Live the moment for the moment.</p>
 
-<p>- Dan Brown</p>
+<p>- Michael Jordan</p>
