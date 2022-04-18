@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What have you done today to make someone else happy?</p>
+<p>If you're not making mistakes, then you're not doing anything.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- John Wooden</p>
