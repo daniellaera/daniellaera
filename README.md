@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Roy T. Bennett</p>
