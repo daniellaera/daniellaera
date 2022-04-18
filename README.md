@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>- Walt Disney</p>
+<p>- Michael Jordan</p>
