@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Soyen Shaku</p>
