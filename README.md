@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're not making mistakes, then you're not doing anything.</p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>- John Wooden</p>
+<p>- Judy Garland</p>
