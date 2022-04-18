@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>- Michael Jordan</p>
+<p>- Dalai Lama</p>
