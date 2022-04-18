@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life's too mysterious to take too serious.</p>
+<p>Live, travel, adventure, bless, and don't be sorry.  </p>
 
-<p>- Mary Engelbreit</p>
+<p>- Jack Kerouac</p>
