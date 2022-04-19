@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
+<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Steve Maraboli</p>
