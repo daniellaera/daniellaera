@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
 
-<p>- Elon Musk</p>
+<p>- Marcus Aurelius</p>
