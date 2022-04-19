@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to be walked over, you have to be lying down.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>- Celestine Chua</p>
+<p>- Eleanor Roosevelt</p>
