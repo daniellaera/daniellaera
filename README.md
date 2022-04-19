@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you quit once it becomes a habit.</p>
+<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
 
-<p>- Michael Jordan</p>
+<p>- Celestine Chua</p>
