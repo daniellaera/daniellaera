@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>Life would be tragic if it weren't funny.</p>
 
-<p>- Euripides</p>
+<p>- Stephen Hawking</p>
