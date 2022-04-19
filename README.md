@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Celestine Chua</p>
+<p>- Peter A. Cohen</p>
