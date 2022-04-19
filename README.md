@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
 
-<p>- Wayne Dyer</p>
+<p>- Zig Ziglar</p>
