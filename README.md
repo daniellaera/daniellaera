@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live the moment for the moment.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>- Michael Jordan</p>
+<p>- Helen Keller</p>
