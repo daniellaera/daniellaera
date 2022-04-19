@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Elon Musk</p>
