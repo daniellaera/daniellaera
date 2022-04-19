@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
 
-<p>- Elon Musk</p>
+<p>- Celestine Chua</p>
