@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you chase two rabbits, you catch none.</p>
+<p>The road to success is always under construction.</p>
 
-<p>- Confucius</p>
+<p>- Steve Harvey</p>
