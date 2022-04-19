@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
+<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Wayne Dyer</p>
