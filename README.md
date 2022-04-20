@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
+<p>Heart is what separates the good from the great.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Michael Jordan</p>
