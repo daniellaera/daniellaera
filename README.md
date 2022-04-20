@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Lolly Daskal</p>
