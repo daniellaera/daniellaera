@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.</p>
+<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Jon Kabat-Zinn</p>
