@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heart is what separates the good from the great.</p>
+<p>Seek not the good in external things;seek it in yourselves.</p>
 
-<p>- Michael Jordan</p>
+<p>- Epictetus</p>
