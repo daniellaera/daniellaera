@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
+<p>One always begins to forgive a place as soon as it's left behind.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Charles Dickens</p>
