@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the power of thought that gives man power over nature.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Chinese Proverb</p>
