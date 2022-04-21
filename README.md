@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is trying things to see if they work.</p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Albus Dumbledore</p>
