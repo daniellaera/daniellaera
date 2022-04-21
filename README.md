@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fashion fades, only style remains the same.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Coco Chanel</p>
+<p>- Norman Vincent Peale</p>
