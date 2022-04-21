@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not believe that you will reach your destination without leaving the shore. </p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Og Mandino</p>
