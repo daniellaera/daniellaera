@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want, happiness is wanting what you get.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Hans Christian Andersen</p>
