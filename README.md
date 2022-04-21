@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always seek out the seed of triumph in every adversity.</p>
+<p>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</p>
 
-<p>- Og Mandino</p>
+<p>- James Matthew Barrie</p>
