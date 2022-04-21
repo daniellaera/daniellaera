@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</p>
+<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Rumi</p>
