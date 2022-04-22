@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death is not an ending. It is a transformation.</p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Ayn Rand</p>
