@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
+<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
 
-<p>- Rumi</p>
+<p>- Ayn Rand</p>
