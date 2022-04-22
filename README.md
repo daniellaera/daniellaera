@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being entirely honest with oneself is a good exercise.</p>
+<p>If you see yourself as prosperous, you will be.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Robert Collier</p>
