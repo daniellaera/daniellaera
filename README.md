@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see yourself as prosperous, you will be.</p>
+<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
 
-<p>- Robert Collier</p>
+<p>- William Faulkner</p>
