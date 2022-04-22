@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Integrity is the ability to stand by an idea.</p>
+<p>True it is, we only hate those whom we do not know.</p>
 
-<p>- Ayn Rand</p>
+<p>- Andrew Carnegie</p>
