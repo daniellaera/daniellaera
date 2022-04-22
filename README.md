@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw me to the wolves and I will return leading the pack.  </p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Seneca</p>
+<p>- Eric Hoffer</p>
