@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes it is more important to discover what one cannot do, than what one can do.</p>
+<p>Throw me to the wolves and I will return leading the pack.  </p>
 
-<p>- Lin Yutang</p>
+<p>- Seneca</p>
