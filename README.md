@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Walt Whitman</p>
