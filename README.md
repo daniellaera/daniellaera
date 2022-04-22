@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
+<p>Sometimes it is more important to discover what one cannot do, than what one can do.</p>
 
-<p>- Ayn Rand</p>
+<p>- Lin Yutang</p>
