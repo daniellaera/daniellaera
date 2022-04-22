@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
+<p>Death is not an ending. It is a transformation.</p>
 
-<p>- William Faulkner</p>
+<p>- Ming-Dao Deng</p>
