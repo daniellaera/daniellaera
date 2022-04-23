@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every cloud is another cloud.</p>
+<p>I've always tried to go a step past wherever people expected me to end up.</p>
 
-<p>- Judy Garland</p>
+<p>- Beverly Sills</p>
