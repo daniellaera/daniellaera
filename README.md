@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our happiness depends on the habit of mind we cultivate.</p>
+<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Kamal Ravikant</p>
