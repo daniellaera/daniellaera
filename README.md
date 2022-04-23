@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
+<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Robin Sharma</p>
