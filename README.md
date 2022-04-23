@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Arnold Schwarzenegger</p>
