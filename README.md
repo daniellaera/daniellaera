@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success on the outside means nothing unless you also have success within.</p>
+<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
 
-<p>- Robin Sharma</p>
+<p>- Eleanor Roosevelt</p>
