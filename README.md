@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Steve Maraboli</p>
