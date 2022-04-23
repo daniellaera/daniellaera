@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always tried to go a step past wherever people expected me to end up.</p>
+<p>Success on the outside means nothing unless you also have success within.</p>
 
-<p>- Beverly Sills</p>
+<p>- Robin Sharma</p>
