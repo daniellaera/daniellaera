@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're never too old for anything.</p>
+<p>The giving of love is an education in itself.</p>
 
-<p>- Betty White</p>
+<p>- Eleanor Roosevelt</p>
