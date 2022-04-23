@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
+<p>You're never too old for anything.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Betty White</p>
