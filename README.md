@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work is always an antidote to depression.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Honore de Balzac</p>
