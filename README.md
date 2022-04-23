@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Robert Kiyosaki</p>
