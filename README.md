@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Samuel Beckett</p>
