@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspiration exists, but it has to find you working.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Bob Dylan</p>
