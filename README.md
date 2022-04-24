@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death walks faster than the wind and never returns what he has taken.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Herman Melville</p>
