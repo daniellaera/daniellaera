@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a question and how we live it is our answer.</p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>- Gary Keller</p>
+<p>- Audrey Hepburn</p>
