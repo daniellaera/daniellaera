@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
+<p>The privilege of a lifetime is to become who you truly are.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Carl Jung</p>
