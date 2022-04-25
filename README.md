@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your next step is simple. You are the first domino.</p>
+<p>Human beings believe just as they breathe - in order to survive.</p>
 
-<p>- Gary Keller</p>
+<p>- Carlos Ruiz Zafon</p>
