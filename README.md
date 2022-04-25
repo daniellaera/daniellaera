@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
+<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
 
-<p>- Maya Angelou</p>
+<p>- Celestine Chua</p>
