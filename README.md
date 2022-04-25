@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make improvements, not excuses. Seek respect, not attention.</p>
+<p>Better a diamond with a flaw than a pebble without one.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Chinese Proverb</p>
