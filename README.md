@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>- Henry Ford</p>
+<p>- Gary Keller</p>
