@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better a diamond with a flaw than a pebble without one.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Deepak Chopra</p>
