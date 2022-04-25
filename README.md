@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
+<p>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Bob Proctor</p>
