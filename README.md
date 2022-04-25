@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who wishes to be obeyed must know how to command.</p>
+<p>Courage is not having the strength to go on; it is going on when you don't have the strength.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Theodore Roosevelt</p>
