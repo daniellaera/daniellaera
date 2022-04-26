@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
+<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Kamal Ravikant</p>
