@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Bob Proctor</p>
