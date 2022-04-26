@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Helen Keller</p>
