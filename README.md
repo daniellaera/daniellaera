@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
 
-<p>- Bob Proctor</p>
+<p>- Napoleon Hill</p>
