@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You drown not by falling into a river, but by staying submerged in it.</p>
+<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Judy Garland</p>
