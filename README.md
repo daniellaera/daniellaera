@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Judy Garland</p>
+<p>- Eckhart Tolle</p>
