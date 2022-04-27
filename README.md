@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Helen Keller</p>
