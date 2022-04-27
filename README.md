@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>- Aristophanes</p>
+<p>- Unknown</p>
