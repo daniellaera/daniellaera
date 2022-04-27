@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Elon Musk</p>
+<p>- Barack Obama</p>
