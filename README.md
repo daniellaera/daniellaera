@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would you do if you weren't afraid?</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Carol Burnett</p>
