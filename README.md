@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive, it can achieve.</p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Zen Proverb</p>
