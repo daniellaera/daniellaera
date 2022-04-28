@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>- James Allen</p>
+<p>- Sigmund Freud</p>
