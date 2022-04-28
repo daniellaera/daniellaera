@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the royal road to the unconscious. </p>
+<p>What would you do if you weren't afraid?</p>
 
-<p>- Sigmund Freud</p>
+<p>- Spencer Johnson</p>
