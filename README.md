@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>- Unknown</p>
+<p>- Ming-Dao Deng</p>
