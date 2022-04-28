@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of empires, is the empire over one's self.</p>
+<p>Rest in reason; move in passion.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Kahlil Gibran</p>
