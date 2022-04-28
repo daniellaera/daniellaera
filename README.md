@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>- Carol Burnett</p>
+<p>- James Allen</p>
