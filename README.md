@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>- John Wooden</p>
+<p>- Sigmund Freud</p>
