@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mistake is only an error, it becomes a mistake when you fail to correct it.</p>
+<p>Everyone sees what you appear to be, few experience what you really are.</p>
 
-<p>- John Lennon</p>
+<p>- Niccolo Machiavelli</p>
