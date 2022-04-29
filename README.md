@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- James Allen</p>
