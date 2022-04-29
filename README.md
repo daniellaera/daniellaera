@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe that life is worth living and your belief will help create the fact.</p>
+<p>Wit is educated insolence.</p>
 
-<p>- William James</p>
+<p>- Aristotle</p>
