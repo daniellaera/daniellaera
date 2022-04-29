@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Steve Jobs</p>
+<p>- Pablo Picasso</p>
