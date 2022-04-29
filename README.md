@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
+<p>A mistake is only an error, it becomes a mistake when you fail to correct it.</p>
 
-<p>- Plato</p>
+<p>- John Lennon</p>
