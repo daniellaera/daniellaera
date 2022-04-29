@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must create our own world or we will die from inaction.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- Robert Greene</p>
+<p>- T.S. Eliot</p>
