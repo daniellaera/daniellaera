@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not push the boundaries, you will never know where they are.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Socrates</p>
