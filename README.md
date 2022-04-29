@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
 
-<p>- Socrates</p>
+<p>- Albus Dumbledore</p>
