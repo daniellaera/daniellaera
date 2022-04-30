@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something you've never had you must be willing to do something you've never done.</p>
+<p>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robert Greene</p>
