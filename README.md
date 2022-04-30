@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your vision will become clear only when you can look into your own heart.</p>
+<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
 
-<p>- Lolly Daskal</p>
+<p>- James Allen</p>
