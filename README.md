@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing has any power over me other than that which I give it through my conscious thoughts.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>- Tony Robbins</p>
+<p>- Carlos Ruiz Zafon</p>
