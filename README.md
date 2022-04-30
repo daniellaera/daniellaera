@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no second chances in life, except to feel remorse.</p>
+<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- St. Jerome</p>
