@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never spend your money before you have earned it.</p>
+<p>Your vision will become clear only when you can look into your own heart.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Lolly Daskal</p>
