@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>- Robert Greene</p>
+<p>- Kamal Ravikant</p>
