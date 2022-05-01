@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead an orchestra, you must turn your back on the crowd.</p>
+<p>Death smiles at us all. All we can do is smile back.</p>
 
-<p>- Aristotle</p>
+<p>- Marcus Aurelius</p>
