@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>- John Lennon</p>
+<p>- Aristotle</p>
