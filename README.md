@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Sigmund Freud</p>
