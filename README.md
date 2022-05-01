@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I cannot make my days longer so I strive to make them better.</p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>- Henry David Thoreau</p>
+<p>- Oprah Winfrey</p>
