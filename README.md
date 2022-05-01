@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Deepak Chopra</p>
