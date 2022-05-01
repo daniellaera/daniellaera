@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't program yourself, life will program you.</p>
+<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
 
-<p>- Les Brown</p>
+<p>- Paramahansa Yogananda</p>
