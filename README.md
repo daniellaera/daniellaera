@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>I cannot make my days longer so I strive to make them better.</p>
 
-<p>- Unknown</p>
+<p>- Henry David Thoreau</p>
