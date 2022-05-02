@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
 
-<p>- George Eliot</p>
+<p>- Thomas Jefferson</p>
