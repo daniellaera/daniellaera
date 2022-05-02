@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
+<p>What worries you, masters you.</p>
 
-<p>- Unknown</p>
+<p>- John Locke</p>
