@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>Your world is a living expression of how you are using and have used your mind.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Earl Nightingale</p>
