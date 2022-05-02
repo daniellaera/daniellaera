@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Huang Po</p>
+<p>- Leo Tolstoy</p>
