@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
+<p>You can't let your failures define you. You have to let your failures teach you.</p>
 
-<p>- Brian Tracy</p>
+<p>- Barack Obama</p>
