@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is much more successfully looked at from a single window.</p>
+<p>Weeds are flowers too, once you get to know them.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- A.A. Milne</p>
