@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What worries you, masters you.</p>
+<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
 
-<p>- John Locke</p>
+<p>- Earl Nightingale</p>
