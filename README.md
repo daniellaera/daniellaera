@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
+<p>Life is much more successfully looked at from a single window.</p>
 
-<p>- Earl Nightingale</p>
+<p>- F. Scott Fitzgerald</p>
