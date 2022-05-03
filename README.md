@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Normality is a paved road: It's comfortable to walk,? but no flowers grow on it.</p>
+<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Jeffrey Gitomer</p>
