@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>Paths are made by walking.</p>
 
-<p>- Gary Keller</p>
+<p>- Franz Kafka</p>
