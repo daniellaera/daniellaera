@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
 
-<p>- Lao Tzu</p>
+<p>- Zen Proverb</p>
