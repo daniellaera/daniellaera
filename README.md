@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Too many of us are not living our dreams because we are living our fears.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>- Les Brown</p>
+<p>- Henry Ward Beecher</p>
