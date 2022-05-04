@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be great is to be misunderstood.</p>
+<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Elbert Hubbard</p>
