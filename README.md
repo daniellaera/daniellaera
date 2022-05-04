@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>People don't care how much you know until they know how much you care.</p>
 
-<p>- Unknown</p>
+<p>- Theodore Roosevelt</p>
