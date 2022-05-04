@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
+<p>The smallest of actions is always better than the noblest of intentions.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Robin Sharma</p>
