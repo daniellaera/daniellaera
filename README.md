@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>It is our choices that show what we truly are, far more than our abilities.</p>
 
-<p>- Robin Sharma</p>
+<p>- Albus Dumbledore</p>
