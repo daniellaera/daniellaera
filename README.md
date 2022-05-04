@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>Too many of us are not living our dreams because we are living our fears.</p>
 
-<p>- Zen Proverb</p>
+<p>- Les Brown</p>
