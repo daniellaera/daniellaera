@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
 
-<p>- Alfred Adler</p>
+<p>- Maxime Lagace</p>
