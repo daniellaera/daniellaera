@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wiser you get, the less you care to look like a fool.</p>
+<p>Never let your memories be greater than your dreams.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Doug Ivester</p>
