@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
+<p>A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- James Allen</p>
