@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Socrates</p>
