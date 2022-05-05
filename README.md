@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lack of emotion causes lack of progress and lack of motivation.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>- Tony Robbins</p>
+<p>- Sathya Sai Baba</p>
