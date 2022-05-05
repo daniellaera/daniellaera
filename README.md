@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality, not the longevity, of one's life is what is important.</p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Les Brown</p>
