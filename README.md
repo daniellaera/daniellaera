@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Martin Luther King, Jr.</p>
