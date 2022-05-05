@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
+<p>It is easier to fight for one's principles than to live up to them. </p>
 
-<p>- Ralph Marston</p>
+<p>- Alfred Adler</p>
