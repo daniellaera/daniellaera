@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Adi Da Samraj</p>
