@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
+<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Zen Proverb</p>
