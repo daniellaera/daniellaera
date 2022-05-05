@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
+<p>The fear of death is more to be feared, than death itself.</p>
 
-<p>- Zen Proverb</p>
+<p>- Publilius Syrus</p>
