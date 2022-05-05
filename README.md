@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything eaten is killed. Every meal is a sacrifice.</p>
+<p>We must cultivate our garden. </p>
 
-<p>- Adi Da Samraj</p>
+<p>- Voltaire</p>
