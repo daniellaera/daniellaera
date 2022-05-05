@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
+<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Sathya Sai Baba</p>
