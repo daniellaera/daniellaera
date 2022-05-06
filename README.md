@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let making a living prevent you from making a life.</p>
+<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
 
-<p>- John Wooden</p>
+<p>- Bodhidharma</p>
