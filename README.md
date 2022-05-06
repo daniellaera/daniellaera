@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sorrow is how we learn to love.</p>
+<p>Watch what you say, and whaterver you say, practice it.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Soyen Shaku</p>
