@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have it all. You just can't have it all at once. </p>
+<p>Better to light a candle than to curse the darkness. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Chinese Proverb</p>
