@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is like most opinions - best unexpressed.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- John Wooden</p>
