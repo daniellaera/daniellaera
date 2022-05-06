@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
+<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
 
-<p>- Barack Obama</p>
+<p>- Socrates</p>
