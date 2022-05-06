@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners don't Quit. That's why they Win.</p>
+<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
 
-<p>- Unknown</p>
+<p>- Barack Obama</p>
