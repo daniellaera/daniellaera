@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
+<p>Awaken. Take heed, do not squander your life.</p>
 
-<p>- Criss Jami</p>
+<p>- Dogen</p>
