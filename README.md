@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you love life, don't waste time, for time is what life is made up of. </p>
+<p>Failure is feedback. Learn from it and move on.</p>
 
-<p>- Bruce Lee</p>
+<p>- Jack Butcher</p>
