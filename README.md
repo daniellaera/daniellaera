@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Zen Proverb</p>
