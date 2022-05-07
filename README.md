@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>The more people you help become successful the more successful you become.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Steve Harvey</p>
