@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Naval Ravikant</p>
