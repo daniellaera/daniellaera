@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>The few who do are the envy of the many who only watch.</p>
 
-<p>- Unknown</p>
+<p>- Jim Rohn</p>
