@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>With the new day comes new strength and new thoughts.</p>
 
-<p>- Barack Obama</p>
+<p>- Eleanor Roosevelt</p>
