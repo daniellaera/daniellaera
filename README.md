@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
+<p>Enthusiasm makes up for a host of deficiencies.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Barack Obama</p>
