@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
+<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Kabir</p>
