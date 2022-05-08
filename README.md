@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- James Allen</p>
