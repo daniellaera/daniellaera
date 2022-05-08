@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>- James Allen</p>
+<p>- Toni Morrison</p>
