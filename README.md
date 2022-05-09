@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>- Barack Obama</p>
+<p>- Pablo Picasso</p>
