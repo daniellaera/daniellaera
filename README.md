@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go and do the things you can't. That is how you get to do them.</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Aristophanes</p>
