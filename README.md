@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Chinese Proverb</p>
