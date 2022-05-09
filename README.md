@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sadness is but a wall between two gardens.</p>
+<p>Life is a process. We are a process. The universe is a process.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Anne Wilson Schaef</p>
