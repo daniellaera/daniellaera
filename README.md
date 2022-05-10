@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
+<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Deepak Chopra</p>
