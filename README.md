@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conflict cannot survive without your participation. </p>
+<p>Do the difficult things while they are easy and do the great things while they are small.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Lao Tzu</p>
