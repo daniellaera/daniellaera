@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
+<p>There is nothing more truly artistic than to love people.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Vincent van Gogh</p>
