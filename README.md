@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Eric Hoffer</p>
