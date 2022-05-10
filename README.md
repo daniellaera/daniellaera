@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We run to win, not just to be in the race.  </p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Charles Dickens</p>
