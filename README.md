@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your setback is just a setup for a comeback.</p>
+<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
 
-<p>- Steve Harvey</p>
+<p>- Charles Swindoll</p>
