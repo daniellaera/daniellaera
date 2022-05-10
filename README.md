@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never confuse a single defeat with a final defeat.</p>
+<p>What the mind can conceive, it can achieve.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Napoleon Hill</p>
