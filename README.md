@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>To do great work one must be very idle as well as very industrious.</p>
 
-<p>- Zen Proverb</p>
+<p>- Samuel Butler</p>
