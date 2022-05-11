@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Like it or not, this moment is all we really have to work with.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Criss Jami</p>
