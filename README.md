@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
+<p>To do great work one must be very idle as well as very industrious.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Samuel Butler</p>
