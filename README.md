@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>Like it or not, this moment is all we really have to work with.</p>
 
-<p>- Thomas Edison</p>
+<p>- Jon Kabat-Zinn</p>
