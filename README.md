@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>- Criss Jami</p>
+<p>- Zhuangzi</p>
