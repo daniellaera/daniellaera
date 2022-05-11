@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>- Plato</p>
+<p>- Thomas Edison</p>
