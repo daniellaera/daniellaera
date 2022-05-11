@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>- Zhuangzi</p>
+<p>- Aristophanes</p>
