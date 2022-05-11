@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Marcus Aurelius</p>
