@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>The power of man has grown in every sphere, except over himself.</p>
 
-<p>- Aristophanes</p>
+<p>- Winston Churchill</p>
