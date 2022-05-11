@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Seneca</p>
+<p>- Henry Ford</p>
