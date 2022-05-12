@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are equal; it is not birth but virtue that makes the difference.</p>
+<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
 
-<p>- Voltaire</p>
+<p>- James Allen</p>
