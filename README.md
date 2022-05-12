@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The privilege of a lifetime is to become who you truly are.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>- Carl Jung</p>
+<p>- Jim Rohn</p>
