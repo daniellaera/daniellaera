@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
+<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
 
-<p>- Zhuangzi</p>
+<p>- Isaac Newton</p>
