@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
+<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- D. H. Lawrence</p>
