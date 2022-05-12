@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
+<p>We will now discuss in a little more detail the Struggle for Existence.</p>
 
-<p>- James Allen</p>
+<p>- Charles Darwin</p>
