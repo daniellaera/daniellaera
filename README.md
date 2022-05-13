@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is not a lover who does not love forever.</p>
+<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
 
-<p>- Euripides</p>
+<p>- Charles Swindoll</p>
