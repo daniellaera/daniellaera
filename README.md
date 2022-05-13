@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
+<p>The best way to understanding is a few good examples.</p>
 
-<p>- Peter Drucker</p>
+<p>- Isaac Newton</p>
