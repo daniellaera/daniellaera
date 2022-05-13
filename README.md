@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to understanding is a few good examples.</p>
+<p>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</p>
 
-<p>- Isaac Newton</p>
+<p>- Voltaire</p>
