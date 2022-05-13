@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
+<p>Dream big and dare to fail.</p>
 
-<p>- Jim Rohn</p>
+<p>- Norman Vaughan</p>
