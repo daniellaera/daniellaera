@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big and dare to fail.</p>
+<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
 
-<p>- Norman Vaughan</p>
+<p>- Stephen Hawking</p>
