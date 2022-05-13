@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>- Herodotus</p>
+<p>- Euripides</p>
