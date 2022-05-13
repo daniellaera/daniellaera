@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
+<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Jim Rohn</p>
