@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- D. H. Lawrence</p>
