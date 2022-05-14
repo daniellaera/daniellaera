@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
 
-<p>- Samuel Butler</p>
+<p>- Elon Musk</p>
