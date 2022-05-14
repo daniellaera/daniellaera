@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is hopeless; we must hope for everything.</p>
+<p>To live is to be willing to die over and over again.</p>
 
-<p>- Euripides</p>
+<p>- Pema Chodron</p>
