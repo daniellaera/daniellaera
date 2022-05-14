@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>We live only now. Everything else is either passed or is unknown.</p>
 
-<p>- Martin Luther</p>
+<p>- Marcus Aurelius</p>
