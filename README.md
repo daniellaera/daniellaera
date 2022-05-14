@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What worries you, masters you.</p>
+<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
 
-<p>- John Locke</p>
+<p>- Nicolas Chamfort</p>
