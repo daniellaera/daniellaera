@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest fears lie in anticipation.</p>
+<p>What worries you, masters you.</p>
 
-<p>- Honore de Balzac</p>
+<p>- John Locke</p>
