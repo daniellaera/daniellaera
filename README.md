@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear of weakness only strengthens weakness.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>- Criss Jami</p>
+<p>- Sigmund Freud</p>
