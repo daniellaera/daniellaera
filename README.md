@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the royal road to the unconscious. </p>
+<p>Change is never easy, but always possible.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Barack Obama</p>
