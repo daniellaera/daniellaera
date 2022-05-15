@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can laugh, I can live.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Kamal Ravikant</p>
