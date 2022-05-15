@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I admire those who do good and expect nothing in return.</p>
+<p>The time is always right to do what is right.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Martin Luther King, Jr.</p>
