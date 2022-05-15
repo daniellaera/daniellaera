@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You live by what you thrill to, and there's the end of it.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Roy T. Bennett</p>
