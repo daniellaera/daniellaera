@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Teachers open the door. You enter by yourself. </p>
+<p>Your time is limited, so don't waste it living someone elses. life.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Steve Jobs</p>
