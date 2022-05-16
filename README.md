@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>- Steve Jobs</p>
+<p>- Henry Ford</p>
