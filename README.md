@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life.</p>
+<p>Only those who will risk going too far can possibly find out how far one can go.</p>
 
-<p>- Steve Jobs</p>
+<p>- T.S. Eliot</p>
