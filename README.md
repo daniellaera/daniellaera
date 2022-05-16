@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
+<p>Your time is limited, so don't waste it living someone elses. life.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Steve Jobs</p>
