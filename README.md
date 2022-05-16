@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
 
-<p>- Lao Tzu</p>
+<p>- Gary Keller</p>
