@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
+<p>Success and failure come and go, but don't let them define you. It's who you are that matters.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Kamal Ravikant</p>
