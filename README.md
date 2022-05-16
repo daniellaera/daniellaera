@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>- Henry Ford</p>
+<p>- Pablo Picasso</p>
