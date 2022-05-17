@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't live the same year 75 times and call it a life.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
 
-<p>- Robin Sharma</p>
+<p>- Bruce Lee</p>
