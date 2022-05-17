@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Christopher Columbus</p>
