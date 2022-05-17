@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about doing the right thing, not about doing everything right.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>- Gary Keller</p>
+<p>- Sun Tzu</p>
