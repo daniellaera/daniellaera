@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
+<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
 
-<p>- Bruce Lee</p>
+<p>- Winston Churchill</p>
