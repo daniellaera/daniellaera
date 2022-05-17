@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to what you know instead of what you fear.</p>
+<p>Mistake is a mistake only if you make it twice.</p>
 
-<p>- Richard Bach</p>
+<p>- Robin Sharma</p>
