@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be fascinated instead of frustrated.</p>
+<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
 
-<p>- Jim Rohn</p>
+<p>- Ralph Waldo Emerson</p>
