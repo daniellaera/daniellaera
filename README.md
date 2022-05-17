@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The significance of life is living.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Gary Keller</p>
