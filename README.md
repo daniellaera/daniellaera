@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>- Celestine Chua</p>
+<p>- Robert Kiyosaki</p>
