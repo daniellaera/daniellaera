@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
 
-<p>- Oscar Wilde</p>
+<p>- Brian Tracy</p>
