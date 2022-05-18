@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+<p>You are your best thing.</p>
 
-<p>- Tony Robbins</p>
+<p>- Toni Morrison</p>
