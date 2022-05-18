@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are your best thing.</p>
+<p>Stop wasting time defending your problems and work on addressing them instead.</p>
 
-<p>- Toni Morrison</p>
+<p>- Celestine Chua</p>
