@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop wasting time defending your problems and work on addressing them instead.</p>
+<p>Don't bother people for help without first trying to solve the problem yourself.</p>
 
-<p>- Celestine Chua</p>
+<p>- Colin Powell</p>
