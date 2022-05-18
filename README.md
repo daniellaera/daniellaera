@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let anyone define you. You define yourself.</p>
+<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
 
-<p>- Billie Jean King</p>
+<p>- Tony Robbins</p>
