@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
+<p>Not all of us can do great things. But we can do small things with great love.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Mother Teresa</p>
