@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is trying things to see if they work.</p>
+<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
 
-<p>- Ray Bradbury</p>
+<p>- Bruce Lee</p>
