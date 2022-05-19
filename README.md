@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the dancer and you are the dance.</p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Spencer Johnson</p>
