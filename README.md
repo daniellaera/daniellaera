@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>Your success and happiness lie in you.</p>
 
-<p>- Albert Einstein</p>
+<p>- Helen Keller</p>
