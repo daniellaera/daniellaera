@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to be looked over than overlooked.</p>
+<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
 
-<p>- Mae West</p>
+<p>- Deepak Chopra</p>
