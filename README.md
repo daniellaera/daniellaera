@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Charles Darwin</p>
