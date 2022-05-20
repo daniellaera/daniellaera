@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Gary Keller</p>
