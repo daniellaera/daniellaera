@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Aristotle</p>
