@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>Trust thyself: every heart vibrates to that iron string.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Ralph Waldo Emerson</p>
