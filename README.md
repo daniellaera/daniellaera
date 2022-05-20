@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aim at nothing, you will hit it every time.  </p>
+<p>Act the way you want to be and soon you'll be the way you act.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Les Brown</p>
