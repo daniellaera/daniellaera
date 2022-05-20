@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
+<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
 
-<p>- Aristotle</p>
+<p>- Jack London</p>
