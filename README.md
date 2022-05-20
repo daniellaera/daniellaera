@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Elon Musk</p>
