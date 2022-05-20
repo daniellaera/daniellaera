@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
+<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
 
-<p>- Celestine Chua</p>
+<p>- Dogen</p>
