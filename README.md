@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>Death is not an ending. It is a transformation.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Ming-Dao Deng</p>
