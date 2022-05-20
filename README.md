@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Celestine Chua</p>
