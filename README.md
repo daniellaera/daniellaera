@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act the way you want to be and soon you'll be the way you act.</p>
+<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
 
-<p>- Les Brown</p>
+<p>- Virginia Woolf</p>
