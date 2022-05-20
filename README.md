@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>- Elon Musk</p>
+<p>- Henry Ford</p>
