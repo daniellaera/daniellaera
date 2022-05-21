@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I skate to where the puck is going to be, not where it has been.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- George Bernard Shaw</p>
