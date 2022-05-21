@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
+<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- James Cameron</p>
