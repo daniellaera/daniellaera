@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>- Les Brown</p>
+<p>- Brian Tracy</p>
