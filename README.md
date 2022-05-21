@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
+<p>I skate to where the puck is going to be, not where it has been.</p>
 
-<p>- James Cameron</p>
+<p>- Wayne Gretzky</p>
