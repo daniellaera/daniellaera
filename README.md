@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
+<p>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Eleanor Roosevelt</p>
