@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- James Cameron</p>
