@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't get in life what you want; you get in life what you are.</p>
+<p>The only reason to be alive is to enjoy it.</p>
 
-<p>- Les Brown</p>
+<p>- Rita Mae Brown</p>
