@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
+<p>Every man desires to live long, but no man wishes to be old.</p>
 
-<p>- Dalai Lama</p>
+<p>- Jonathan Swift</p>
