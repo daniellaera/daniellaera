@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All human wisdom is contained in these two words - Wait and Hope</p>
+<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Brian Tracy</p>
