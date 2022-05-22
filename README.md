@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Brian Tracy</p>
+<p>- Socrates</p>
