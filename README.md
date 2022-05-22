@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make each day your masterpiece.</p>
+<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
 
-<p>- John Wooden</p>
+<p>- Dalai Lama</p>
