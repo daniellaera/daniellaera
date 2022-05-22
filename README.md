@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Charles Swindoll</p>
