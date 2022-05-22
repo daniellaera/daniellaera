@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Meister Eckhart</p>
