@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
 
-<p>- Les Brown</p>
+<p>- Barack Obama</p>
