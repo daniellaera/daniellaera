@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
+<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Naval Ravikant</p>
