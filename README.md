@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
+<p>All has not been said and never will be.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Samuel Beckett</p>
