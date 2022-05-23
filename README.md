@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Henry Ford</p>
