@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discontent is the first necessity of progress.</p>
+<p>Give a girl the right shoes, and she can conquer the world.</p>
 
-<p>- Thomas Edison</p>
+<p>- Bette Midler</p>
