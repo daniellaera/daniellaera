@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't climb the ladder of success with your hands in your pockets.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Bob Proctor</p>
