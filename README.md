@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we know is a drop, what we don't know is an ocean. </p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>- Isaac Newton</p>
+<p>- Benjamin Franklin</p>
