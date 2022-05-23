@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>- Bob Proctor</p>
+<p>- Chinese Proverb</p>
