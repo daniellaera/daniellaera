@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Chinese Proverb</p>
