@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
+<p>What we know is a drop, what we don't know is an ocean. </p>
 
-<p>- Charles Darwin</p>
+<p>- Isaac Newton</p>
