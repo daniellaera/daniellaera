@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>- Estee Lauder</p>
+<p>- Ayn Rand</p>
