@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What loneliness is more lonely than distrust?</p>
+<p>Your worth consists in what you are and not in what you have.</p>
 
-<p>- George Eliot</p>
+<p>- Thomas Edison</p>
