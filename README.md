@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
+<p>The greatest weariness comes from work not done.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Eric Hoffer</p>
