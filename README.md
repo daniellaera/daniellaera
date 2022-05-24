@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>Believe that life is worth living and your belief will help create the fact.</p>
 
-<p>- Dogen</p>
+<p>- William James</p>
