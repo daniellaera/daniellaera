@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
+<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Colin Powell</p>
