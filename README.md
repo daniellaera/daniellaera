@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
+<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
 
-<p>- Zig Ziglar</p>
+<p>- John Wooden</p>
