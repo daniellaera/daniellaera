@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have it all. You just can't have it all at once. </p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- William Faulkner</p>
