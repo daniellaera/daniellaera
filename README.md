@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Jack Butcher</p>
+<p>- Wayne Dyer</p>
