@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where does a thought go when it's forgotten?</p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Sigmund Freud</p>
+<p>- Wayne Dyer</p>
