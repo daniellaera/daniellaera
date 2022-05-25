@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Definitions belong to the definers, not the defined.</p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>- Toni Morrison</p>
+<p>- Alexandre Dumas</p>
