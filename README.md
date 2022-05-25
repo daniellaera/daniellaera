@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>Failure is feedback. Learn from it and move on.</p>
 
-<p>- Unknown</p>
+<p>- Jack Butcher</p>
