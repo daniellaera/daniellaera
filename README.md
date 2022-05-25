@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to lose all you have to find out who you truly are.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Sigmund Freud</p>
