@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't want anything. Then you get everything.</p>
+<p>Heart is what separates the good from the great.</p>
 
-<p>- Seungsahn</p>
+<p>- Michael Jordan</p>
