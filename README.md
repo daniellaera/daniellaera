@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every act of creation is first an act of destruction.</p>
+<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Robert Greene</p>
