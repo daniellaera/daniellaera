@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Walt Whitman</p>
