@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is a difficult thing to achieve.  </p>
+<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Plato</p>
