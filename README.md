@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</p>
+<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- John Wooden</p>
