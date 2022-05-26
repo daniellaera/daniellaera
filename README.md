@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>- Plato</p>
+<p>- Epictetus</p>
