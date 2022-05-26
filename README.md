@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</p>
+<p>If you need inspiration, don't do it.</p>
 
-<p>- Gary Keller</p>
+<p>- Elon Musk</p>
