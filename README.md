@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman is one who puts more into the world than he takes out.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Rumi</p>
