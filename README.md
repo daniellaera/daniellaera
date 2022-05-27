@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A leader leads by example, not by force.</p>
+<p>Only those who dare to fail greatly can ever achieve greatly.</p>
 
-<p>- Sun Tzu</p>
+<p>- Robert F. Kennedy</p>
