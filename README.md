@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time you enjoy wasting, was not wasted.</p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>- John Lennon</p>
+<p>- Peter Drucker</p>
