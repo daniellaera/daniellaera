@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>- Jim Rohn</p>
+<p>- John Lennon</p>
