@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
+<p>It is better to be looked over than overlooked.</p>
 
-<p>- Criss Jami</p>
+<p>- Mae West</p>
