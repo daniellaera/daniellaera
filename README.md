@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>- Dogen</p>
+<p>- Sydney Smith</p>
