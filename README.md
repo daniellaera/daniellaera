@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
+<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
 
-<p>- Sydney Smith</p>
+<p>- Henry Ford</p>
