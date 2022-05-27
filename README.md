@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You make your own luck if you stay at it long enough.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Og Mandino</p>
