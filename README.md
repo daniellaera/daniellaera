@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no next time. It's now or never.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>- Celestine Chua</p>
+<p>- Kilian Jornet</p>
