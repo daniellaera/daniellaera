@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By words the mind is winged.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>- Aristophanes</p>
+<p>- Thomas Jefferson</p>
