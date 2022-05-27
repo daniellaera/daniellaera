@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one has ever become poor by giving.</p>
+<p>By words the mind is winged.</p>
 
-<p>- Anne Frank</p>
+<p>- Aristophanes</p>
