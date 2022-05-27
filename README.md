@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>No one has ever become poor by giving.</p>
 
-<p>- Kilian Jornet</p>
+<p>- Anne Frank</p>
