@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who dare to fail greatly can ever achieve greatly.</p>
+<p>Love is not about possession. Love is about appreciation.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Osho</p>
