@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We should not look back unless it is to derive useful lessons from past errors.</p>
+<p>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.</p>
 
-<p>- George Washington</p>
+<p>- Alan Watts</p>
