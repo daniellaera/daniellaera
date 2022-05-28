@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>- Alexander Pope</p>
+<p>- Thomas Jefferson</p>
