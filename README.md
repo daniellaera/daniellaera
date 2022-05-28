@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only person you should try to be better than is the person you were yesterday.</p>
+<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
 
-<p>- Brian Tracy</p>
+<p>- G.I. Gurdjieff</p>
