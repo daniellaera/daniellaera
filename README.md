@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
-<p>- Bob Proctor</p>
+<p>- Unknown</p>
