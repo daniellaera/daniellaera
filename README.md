@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
+<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
 
-<p>- Zig Ziglar</p>
+<p>- Seneca</p>
