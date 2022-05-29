@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
 
-<p>- Unknown</p>
+<p>- Miguel de Cervantes</p>
