@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>You are the average of the five people you spend most time with.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Jim Rohn</p>
