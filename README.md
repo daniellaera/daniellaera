@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faith means believing the unbelievable.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Colin Powell</p>
