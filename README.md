@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the average of the five people you spend most time with.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Jim Rohn</p>
+<p>- Socrates</p>
