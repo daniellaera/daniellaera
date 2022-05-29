@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>- Seneca</p>
+<p>- Mary Engelbreit</p>
