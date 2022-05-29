@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by attracting the best people will you accomplish great deeds.</p>
+<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
 
-<p>- Colin Powell</p>
+<p>- Zig Ziglar</p>
