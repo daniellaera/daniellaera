@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>- Rumi</p>
+<p>- Bob Proctor</p>
