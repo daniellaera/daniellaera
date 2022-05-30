@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world doesn't always give you want, but it often gives you what you need.</p>
+<p>The one who boasts does so only out of a feeling of inferiority.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Alfred Adler</p>
