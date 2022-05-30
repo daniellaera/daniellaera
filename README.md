@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistake is a mistake only if you make it twice.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>- Robin Sharma</p>
+<p>- Sonia Ricotti</p>
