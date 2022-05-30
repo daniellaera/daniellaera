@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunity comes when you continually push forward.</p>
+<p>Loss is nothing else but change and change is nature's delight.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Marcus Aurelius</p>
