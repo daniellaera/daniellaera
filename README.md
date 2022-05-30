@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loss is nothing else but change and change is nature's delight.</p>
+<p>Nothing is hopeless; we must hope for everything.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Euripides</p>
