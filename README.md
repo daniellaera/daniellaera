@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>- Bruce Lee</p>
+<p>- Steve Maraboli</p>
