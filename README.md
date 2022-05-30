@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be great is to be misunderstood.</p>
+<p>Repetition does not transform a lie into a truth.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Franklin D. Roosevelt</p>
