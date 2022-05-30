@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- John Eliot</p>
+<p>- Elon Musk</p>
