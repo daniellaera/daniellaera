@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>- Thomas Edison</p>
+<p>- Carlos Ruiz Zafon</p>
