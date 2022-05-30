@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Thomas Edison</p>
