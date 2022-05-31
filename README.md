@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Mary Engelbreit</p>
