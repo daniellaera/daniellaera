@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any game becomes important when you know and love the players.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Michael Jordan</p>
