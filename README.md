@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before preparing to improve the world, first look around your own home three times. </p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Theodore Roosevelt</p>
