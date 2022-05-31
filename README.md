@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What one does is what counts. Not what one had the intention of doing.</p>
+<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Roy T. Bennett</p>
