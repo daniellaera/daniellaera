@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>Never spend your money before you have earned it.</p>
 
-<p>- Michael Jordan</p>
+<p>- Thomas Jefferson</p>
