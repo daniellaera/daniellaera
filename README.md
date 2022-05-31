@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
 
-<p>- Bruce Lee</p>
+<p>- Nelson Mandela</p>
