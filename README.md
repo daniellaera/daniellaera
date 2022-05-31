@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Abraham Lincoln</p>
