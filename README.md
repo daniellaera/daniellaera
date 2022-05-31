@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only man who never makes mistakes is the man who never does anything.</p>
+<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Deepak Chopra</p>
