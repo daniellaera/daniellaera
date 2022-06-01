@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adults are just children who earn money.</p>
+<p>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Ming-Dao Deng</p>
