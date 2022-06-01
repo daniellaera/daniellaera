@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>- Simon Sinek</p>
+<p>- Marcus Aurelius</p>
