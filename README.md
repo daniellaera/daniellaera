@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- Tony Robbins</p>
+<p>- Lolly Daskal</p>
