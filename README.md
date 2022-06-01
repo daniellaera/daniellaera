@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Gurbaksh Chahal</p>
