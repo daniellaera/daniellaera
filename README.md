@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time you enjoy wasting, was not wasted.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>- John Lennon</p>
+<p>- Earl Nightingale</p>
