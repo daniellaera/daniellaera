@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Simon Sinek</p>
