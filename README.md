@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>- Henry Ford</p>
+<p>- Tony Robbins</p>
