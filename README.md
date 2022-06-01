@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>We can't help everyone, but everyone can help someone.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Ronald Reagan</p>
