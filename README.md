@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Henry Ford</p>
