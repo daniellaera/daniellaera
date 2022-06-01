@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
+<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
 
-<p>- Walt Whitman</p>
+<p>- Eleanor Roosevelt</p>
