@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is to console those who are broken by life.</p>
+<p>A thing must be loved before it is lovable.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Gilbert Chesterton</p>
