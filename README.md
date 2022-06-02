@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>Common sense is not so common. </p>
 
-<p>- Deepak Chopra</p>
+<p>- Voltaire</p>
