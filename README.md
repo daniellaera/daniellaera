@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>The secret of getting ahead is getting started.</p>
 
-<p>- Unknown</p>
+<p>- Mark Twain</p>
