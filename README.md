@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>You are never too old to become younger.</p>
 
-<p>- Bodhidharma</p>
+<p>- Mae West</p>
