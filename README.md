@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Common sense is not so common. </p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>- Voltaire</p>
+<p>- Oprah Winfrey</p>
