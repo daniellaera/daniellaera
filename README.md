@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Unknown</p>
