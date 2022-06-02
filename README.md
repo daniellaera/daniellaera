@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>What one does is what counts. Not what one had the intention of doing.</p>
 
-<p>- Jack Butcher</p>
+<p>- Pablo Picasso</p>
