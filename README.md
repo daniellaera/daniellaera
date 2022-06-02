@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best teacher is experience and not through someone's distorted point of view.</p>
+<p>In order to be irreplaceable one must always be different.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Coco Chanel</p>
