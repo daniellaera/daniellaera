@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
+<p>Failure is feedback. Learn from it and move on.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Jack Butcher</p>
