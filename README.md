@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can't help everyone, but everyone can help someone.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Lao Tzu</p>
