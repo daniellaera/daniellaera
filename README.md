@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
+<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Alexander Graham Bell</p>
