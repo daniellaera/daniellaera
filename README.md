@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>- Gabor Mate</p>
+<p>- Bodhidharma</p>
