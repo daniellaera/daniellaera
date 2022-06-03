@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Night is a more quiet time to work. It aids thought.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Huang Po</p>
