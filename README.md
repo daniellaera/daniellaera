@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only be afraid of what you think you know.</p>
+<p>The best of us sometimes eat our words.  </p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Albus Dumbledore</p>
