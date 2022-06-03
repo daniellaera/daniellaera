@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Jim Rohn</p>
+<p>- Seungsahn</p>
