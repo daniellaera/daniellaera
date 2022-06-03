@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best of us sometimes eat our words.  </p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Steve Harvey</p>
