@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Jim Rohn</p>
