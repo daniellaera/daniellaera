@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you do, not what you say you'll do.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Carl Jung</p>
+<p>- Samuel Butler</p>
