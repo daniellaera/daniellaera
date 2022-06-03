@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words used to attract the dull of wit are not to be relied on.</p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
-<p>- Huang Po</p>
+<p>- Elvis Presley</p>
