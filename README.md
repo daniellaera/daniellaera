@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your dream has to be bigger than your fear.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>- Steve Harvey</p>
+<p>- Dalai Lama</p>
