@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I defeat my enemies when I make them my friends.</p>
+<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
 
-<p>- Dalai Lama</p>
+<p>- Confucius</p>
