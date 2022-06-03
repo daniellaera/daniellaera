@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- Elvis Presley</p>
+<p>- Carl Jung</p>
