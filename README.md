@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>- Samuel Butler</p>
+<p>- Jiddu Krishnamurti</p>
