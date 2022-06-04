@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We create the world and ourselves;</p>
+<p>Talk sense to a fool and he calls you foolish.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Euripides</p>
