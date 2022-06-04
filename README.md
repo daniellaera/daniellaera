@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
+<p>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</p>
 
-<p>- Tony Robbins</p>
+<p>- Paramahansa Yogananda</p>
