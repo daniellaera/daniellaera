@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>- Confucius</p>
+<p>- Albert Einstein</p>
