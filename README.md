@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>It is those who concentrate on but one thing at a time who advance in this world.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Gary Keller</p>
