@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one has ever become poor by giving.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>- Anne Frank</p>
+<p>- Marcus Aurelius</p>
