@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity: doing the same thing over and over again and expecting different results.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>- Albert Einstein</p>
+<p>- Henry Ford</p>
