@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
+<p>We create the world and ourselves;</p>
 
-<p>- Unknown</p>
+<p>- Ming-Dao Deng</p>
