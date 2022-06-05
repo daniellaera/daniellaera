@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
+<p>We can spend our whole lives escaping from the monsters of our minds.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Pema Chodron</p>
