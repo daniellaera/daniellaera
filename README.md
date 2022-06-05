@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real loss is only possible when you love something more than you love yourself.</p>
+<p>Life happens in the river, not the shore.</p>
 
-<p>- Robin Williams</p>
+<p>- Maxime Lagace</p>
