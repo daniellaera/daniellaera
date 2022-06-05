@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever happens always happens on time.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>- Zen Proverb</p>
+<p>- Kabir</p>
