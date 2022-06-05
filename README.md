@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>- Simon Sinek</p>
+<p>- Dr. Seuss</p>
