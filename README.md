@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Simon Sinek</p>
