@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the power of the mind to be unconquerable.</p>
+<p>To be totally at leisure for one day is to be immortal for one day. </p>
 
-<p>- Seneca</p>
+<p>- Chinese Proverb</p>
