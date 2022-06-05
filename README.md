@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Benjamin Franklin</p>
