@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
+<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
 
-<p>- Jim Rohn</p>
+<p>- Eric Hoffer</p>
