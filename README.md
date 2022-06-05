@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The river that flows in you also flows in me.</p>
+<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
 
-<p>- Kabir</p>
+<p>- Jim Rohn</p>
