@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>- Zen Proverb</p>
+<p>- Criss Jami</p>
