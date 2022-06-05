@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Waste not fresh tears over old griefs.</p>
+<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
 
-<p>- Euripides</p>
+<p>- Zen Proverb</p>
