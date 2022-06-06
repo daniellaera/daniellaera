@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>- Dalai Lama</p>
+<p>- Kamal Ravikant</p>
