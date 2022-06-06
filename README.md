@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love your enemies, for they tell you your faults.</p>
+<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Og Mandino</p>
