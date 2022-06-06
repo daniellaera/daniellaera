@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Thich Nhat Hanh</p>
