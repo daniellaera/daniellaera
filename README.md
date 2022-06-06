@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>Let us rather run the risk of wearing out than rusting out.</p>
 
-<p>- Jack London</p>
+<p>- Theodore Roosevelt</p>
