@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Brian Tracy</p>
+<p>- Denis Waitley</p>
