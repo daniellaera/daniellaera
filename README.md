@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pain of parting is nothing to the joy of meeting again.</p>
+<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
 
-<p>- Charles Dickens</p>
+<p>- D. H. Lawrence</p>
