@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time we liberate a woman, we liberate a man. </p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Margaret Mead</p>
+<p>- Gary Keller</p>
