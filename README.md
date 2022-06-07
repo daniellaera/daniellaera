@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The majority of what you want will come from the minority of what you do.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>- Gary Keller</p>
+<p>- Marcus Aurelius</p>
