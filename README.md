@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>For all evils there are two remedies - time and silence.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Alexandre Dumas</p>
