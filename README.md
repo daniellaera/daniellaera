@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
+<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- George Bernard Shaw</p>
