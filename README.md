@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absence makes the heart grow fonder.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Zen Proverb</p>
