@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
+<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Brian Tracy</p>
