@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Martin Luther King, Jr.</p>
