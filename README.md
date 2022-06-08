@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Deepak Chopra</p>
