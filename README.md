@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
+<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
 
-<p>- Richard Bach</p>
+<p>- Criss Jami</p>
