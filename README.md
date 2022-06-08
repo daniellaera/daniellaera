@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>The eye with which I see God is the same eye with which God sees me.</p>
 
-<p>- Elon Musk</p>
+<p>- Meister Eckhart</p>
