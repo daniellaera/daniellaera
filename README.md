@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
+<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
 
-<p>- Criss Jami</p>
+<p>- Benjamin Mays</p>
