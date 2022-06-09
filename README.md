@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</p>
+<p>Words, once they are printed, have a life of their own.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Carol Burnett</p>
