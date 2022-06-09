@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man can get rich himself unless he enriches others.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Ming-Dao Deng</p>
