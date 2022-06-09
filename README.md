@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>There is a big difference between being centered and being self-centered.</p>
 
-<p>- Kilian Jornet</p>
+<p>- Lolly Daskal</p>
