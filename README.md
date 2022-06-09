@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The primary point of this existence is to live, and all living things move and grow.</p>
+<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
 
 <p>- Ming-Dao Deng</p>
