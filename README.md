@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>If you truly love Nature, you will find beauty everywhere. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Vincent van Gogh</p>
