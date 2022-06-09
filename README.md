@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to see what you see.</p>
+<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Celestine Chua</p>
