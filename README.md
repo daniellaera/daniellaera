@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
+<p>If you're not making mistakes, then you're not doing anything.</p>
 
-<p>- Jim Rohn</p>
+<p>- John Wooden</p>
