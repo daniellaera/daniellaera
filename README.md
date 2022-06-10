@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We all give up great expectations along the way.</p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Steve Maraboli</p>
