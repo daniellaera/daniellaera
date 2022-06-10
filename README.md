@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We run to win, not just to be in the race.  </p>
+<p>Public opinion is the worst of all opinions.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Nicolas Chamfort</p>
