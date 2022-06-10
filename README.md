@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can bring you peace but yourself.</p>
+<p>It is not enough to win a war; it is more important to organize the peace.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Aristotle</p>
