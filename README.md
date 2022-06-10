@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is not about possession. Love is about appreciation.</p>
+<p>We run to win, not just to be in the race.  </p>
 
-<p>- Osho</p>
+<p>- Vince Lombardi</p>
