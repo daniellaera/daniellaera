@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who hesitates is a damned fool.</p>
+<p>We all give up great expectations along the way.</p>
 
-<p>- Mae West</p>
+<p>- Carlos Ruiz Zafon</p>
