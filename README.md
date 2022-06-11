@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
+<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Elvis Presley</p>
