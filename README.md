@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Criss Jami</p>
