@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>- Elvis Presley</p>
+<p>- W. Clement Stone</p>
