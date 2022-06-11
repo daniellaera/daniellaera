@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the more you understand how your conscience works.</p>
+<p>There is only the one reality, neither to be realized nor attained.</p>
 
-<p>- Criss Jami</p>
+<p>- Huang Po</p>
