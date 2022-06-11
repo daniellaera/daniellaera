@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
+<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
 
-<p>- Jim Rohn</p>
+<p>- Theodore Roosevelt</p>
