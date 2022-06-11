@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
+<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
 
-<p>- Mother Teresa</p>
+<p>- Kahlil Gibran</p>
