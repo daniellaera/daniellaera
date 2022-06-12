@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>- Gary Keller</p>
+<p>- Henry Ford</p>
