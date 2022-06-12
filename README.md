@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all of us can do great things. But we can do small things with great love.</p>
+<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
 
-<p>- Mother Teresa</p>
+<p>- Benjamin Franklin</p>
