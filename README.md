@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Aristotle</p>
+<p>- Leo Tolstoy</p>
