@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From error to error one discovers the entire truth.</p>
+<p>It is truth that liberates, not your effort to be free.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Jiddu Krishnamurti</p>
