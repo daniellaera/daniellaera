@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>Not all of us can do great things. But we can do small things with great love.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Mother Teresa</p>
