@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Gary Keller</p>
