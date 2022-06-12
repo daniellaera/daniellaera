@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a difference between giving directions and giving direction.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>- Simon Sinek</p>
+<p>- Mahatma Gandhi</p>
