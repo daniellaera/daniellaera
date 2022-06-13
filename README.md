@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>I must also have a dark side if I am to be whole.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Carl Jung</p>
