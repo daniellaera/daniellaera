@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things may come to those who wait, but only the things left by those who hustle.</p>
+<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
 
-<p>- Abraham Lincoln</p>
+<p>- Albert Einstein</p>
