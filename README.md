@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
 
-<p>- Charles Dickens</p>
+<p>- Chinese Proverb</p>
