@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- Albert Einstein</p>
+<p>- George Eliot</p>
