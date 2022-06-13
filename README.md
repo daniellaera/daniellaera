@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good luck is opportunity meeting preparedness.</p>
+<p>The strongest and sweetest songs yet remain to be sung.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Walt Whitman</p>
