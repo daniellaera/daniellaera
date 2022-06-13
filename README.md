@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot find peace avoiding life.</p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Gary Keller</p>
