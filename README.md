@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
+<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
 
-<p>- Denis Waitley</p>
+<p>- David Brinkley</p>
