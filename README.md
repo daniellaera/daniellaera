@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Bob Proctor</p>
+<p>- Stephen King</p>
