@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
 
-<p>- Elvis Presley</p>
+<p>- Naval Ravikant</p>
