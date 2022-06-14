@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
+<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Buddha</p>
