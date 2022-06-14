@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When asked, how do you write? I invariably answer, one word at a time.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>- Stephen King</p>
+<p>- Peter Drucker</p>
