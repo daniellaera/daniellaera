@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Lao Tzu</p>
