@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Elvis Presley</p>
