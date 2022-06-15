@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>Dream big. Start small. But most of all, start.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Simon Sinek</p>
