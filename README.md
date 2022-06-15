@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth comes at the point of resistance.</p>
+<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Zig Ziglar</p>
