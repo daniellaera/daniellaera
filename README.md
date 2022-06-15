@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big. Start small. But most of all, start.</p>
+<p>Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.</p>
 
-<p>- Simon Sinek</p>
+<p>- Roy T. Bennett</p>
