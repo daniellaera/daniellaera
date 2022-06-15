@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Penny Saved is a Penny Earned</p>
+<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Steve Maraboli</p>
