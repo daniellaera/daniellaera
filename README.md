@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show up even when you don't want to show up.</p>
+<p>Is it really possible to tell someone else what one feels?</p>
 
-<p>- Steve Harvey</p>
+<p>- Leo Tolstoy</p>
