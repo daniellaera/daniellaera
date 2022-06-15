@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
+<p>Heroes don't need to talk about what they did.</p>
 
-<p>- Nelson Mandela</p>
+<p>- W.P. Kinsella</p>
