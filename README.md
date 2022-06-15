@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise speak only of what they know.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Chinese Proverb</p>
