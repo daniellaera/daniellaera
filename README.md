@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heroes don't need to talk about what they did.</p>
+<p>Death walks faster than the wind and never returns what he has taken.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Hans Christian Andersen</p>
