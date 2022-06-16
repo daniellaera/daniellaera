@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>- Confucius</p>
+<p>- Franz Kafka</p>
