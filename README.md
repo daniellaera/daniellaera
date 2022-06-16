@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Leonardo da Vinci</p>
