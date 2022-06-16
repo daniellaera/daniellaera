@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
+<p>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</p>
 
-<p>- Kabir</p>
+<p>- Tony Robbins</p>
