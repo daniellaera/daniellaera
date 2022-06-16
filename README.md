@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
 
-<p>- Franz Kafka</p>
+<p>- Zig Ziglar</p>
