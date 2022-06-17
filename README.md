@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>The way out is in.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Thich Nhat Hanh</p>
