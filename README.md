@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place success comes before work is in the dictionary.</p>
+<p>Everything you can imagine is real.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Pablo Picasso</p>
