@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I love fools' experiments. I am always making them.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Charles Darwin</p>
+<p>- F. Scott Fitzgerald</p>
