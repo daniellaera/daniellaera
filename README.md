@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would you do if you weren't afraid?</p>
+<p>We can't help everyone, but everyone can help someone.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Ronald Reagan</p>
