@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>What would you do if you weren't afraid?</p>
 
-<p>- Zen Proverb</p>
+<p>- Spencer Johnson</p>
