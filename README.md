@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>The only normal people are the ones you don't know very well.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Alfred Adler</p>
