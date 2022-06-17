@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>- Charles Darwin</p>
+<p>- Bob Proctor</p>
