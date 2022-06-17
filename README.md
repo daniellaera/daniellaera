@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the only problem you will ever have and you are the only solution.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Bob Proctor</p>
+<p>- Zen Proverb</p>
