@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you quit once it becomes a habit.</p>
+<p>The wise warrior avoids the battle.</p>
 
-<p>- Michael Jordan</p>
+<p>- Sun Tzu</p>
