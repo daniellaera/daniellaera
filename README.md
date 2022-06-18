@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise warrior avoids the battle.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>- Sun Tzu</p>
+<p>- Paramahansa Yogananda</p>
