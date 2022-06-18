@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>Victory is always possible for the person who refuses to stop fighting.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Napoleon Hill</p>
