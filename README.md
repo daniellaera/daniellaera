@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Mary Engelbreit</p>
