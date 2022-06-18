@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Ayn Rand</p>
+<p>- Isaac Newton</p>
