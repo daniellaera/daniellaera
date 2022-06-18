@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can't help everyone, but everyone can help someone.</p>
+<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Zig Ziglar</p>
