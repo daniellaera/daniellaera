@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I learned the value of hard work by working hard. </p>
+<p>If you quit once it becomes a habit.</p>
 
-<p>- Margaret Mead</p>
+<p>- Michael Jordan</p>
