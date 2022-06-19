@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once you learn to quit, it becomes a habit.</p>
+<p>The more you give, the more comes back to you.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Napoleon Hill</p>
