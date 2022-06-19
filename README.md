@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Night is a more quiet time to work. It aids thought.</p>
+<p>To affect the quality of the day, that is the highest of arts.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Henry David Thoreau</p>
