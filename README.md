@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>- Brian Tracy</p>
+<p>- Dogen</p>
