@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
+<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
 
-<p>- Samuel Butler</p>
+<p>- Robert Greene</p>
