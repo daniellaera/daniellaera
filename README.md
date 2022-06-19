@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every great change is preceded by chaos.</p>
+<p>The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Sonia Ricotti</p>
