@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest act of kindness is worth more than the greatest intention.  </p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>- Kahlil Gibran</p>
+<p>- John Lennon</p>
