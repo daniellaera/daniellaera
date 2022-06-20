@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think is as important as as what you think.</p>
+<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
 
-<p>- Unknown</p>
+<p>- Steve Harvey</p>
