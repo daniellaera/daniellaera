@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
+<p>Lying can never save us from another lie.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Vaclav Havel</p>
