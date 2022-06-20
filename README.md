@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Robin Williams</p>
