@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>- George Washington</p>
+<p>- Zhuangzi</p>
