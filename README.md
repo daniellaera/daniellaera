@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lying can never save us from another lie.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Alexander Graham Bell</p>
