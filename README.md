@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
+<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- William James</p>
