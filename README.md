@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change begets change. Nothing propagates so fast.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>- Charles Dickens</p>
+<p>- Ming-Dao Deng</p>
