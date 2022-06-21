@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>Tomorrow is only found in the calendar of fools.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Og Mandino</p>
