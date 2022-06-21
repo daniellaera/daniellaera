@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
 
-<p>- Colin Powell</p>
+<p>- Elon Musk</p>
