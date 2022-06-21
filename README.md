@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>Don't let the noise of others opinions drown out your inner voice.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Steve Jobs</p>
