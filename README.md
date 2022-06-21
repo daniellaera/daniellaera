@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Night is a more quiet time to work. It aids thought.</p>
+<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Lolly Daskal</p>
