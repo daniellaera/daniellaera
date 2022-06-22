@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By perseverance the snail reached the ark.</p>
+<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Jack Butcher</p>
