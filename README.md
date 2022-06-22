@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are is the entry point.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>- Kabir</p>
+<p>- Hans Christian Andersen</p>
