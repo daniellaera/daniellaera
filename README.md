@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important things are the hardest to say.</p>
+<p>Do something to move yourself toward your major goal every day.</p>
 
-<p>- Stephen King</p>
+<p>- Brian Tracy</p>
