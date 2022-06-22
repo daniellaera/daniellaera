@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Eric Hoffer</p>
