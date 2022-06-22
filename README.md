@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Alan Watts</p>
+<p>- Gary Keller</p>
