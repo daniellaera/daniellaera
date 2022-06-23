@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We turn not older with years but newer every day.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Virginia Woolf</p>
