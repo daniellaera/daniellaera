@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
+<p>Most of the evil in this world is done by people with good intentions.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- T.S. Eliot</p>
