@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
 
-<p>- Robert Greene</p>
+<p>- Elon Musk</p>
