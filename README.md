@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who hesitates is a damned fool.</p>
+<p>To earn more you must learn more.</p>
 
-<p>- Mae West</p>
+<p>- Brian Tracy</p>
