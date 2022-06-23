@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
+<p>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</p>
 
-<p>- Carl Jung</p>
+<p>- Sathya Sai Baba</p>
