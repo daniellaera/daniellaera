@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the things you can't do stop you from doing what you can.</p>
+<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Eckhart Tolle</p>
