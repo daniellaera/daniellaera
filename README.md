@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Barack Obama</p>
+<p>- Ronald Reagan</p>
