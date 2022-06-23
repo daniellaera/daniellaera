@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Peter Drucker</p>
+<p>- Emily Dickinson</p>
