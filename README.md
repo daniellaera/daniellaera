@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be successful, you have to jump, there's no way around it.</p>
+<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
 
-<p>- Steve Harvey</p>
+<p>- Og Mandino</p>
