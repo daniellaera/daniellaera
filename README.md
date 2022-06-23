@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it. </p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>- Bodhidharma</p>
+<p>- J.R.R. Tolkien</p>
