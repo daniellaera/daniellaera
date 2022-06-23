@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
+<p>Management is doing things right; leadership is doing the right things.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Peter Drucker</p>
