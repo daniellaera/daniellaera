@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
+<p>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</p>
 
-<p>- Estee Lauder</p>
+<p>- Jonathan Swift</p>
