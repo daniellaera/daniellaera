@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Steve Harvey</p>
