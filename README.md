@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No duty is more urgent than that of returning thanks.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- James Allen</p>
+<p>- Eleanor Roosevelt</p>
