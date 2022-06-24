@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Eric Hoffer</p>
