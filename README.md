@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
 
-<p>- Steve Harvey</p>
+<p>- Estee Lauder</p>
