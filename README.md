@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</p>
+<p>Success and failure come and go, but don't let them define you. It's who you are that matters.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Kamal Ravikant</p>
