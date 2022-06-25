@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Eckhart Tolle</p>
