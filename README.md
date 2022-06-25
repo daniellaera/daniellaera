@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Stephen Hawking</p>
