@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- F. Scott Fitzgerald</p>
