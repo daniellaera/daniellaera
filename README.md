@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your face to the sun, as flowers know how to do.</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- J.R.R. Tolkien</p>
