@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show me a hero, and I'll write you a tragedy.</p>
+<p>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Robert Kiyosaki</p>
