@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</p>
+<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Benjamin Mays</p>
