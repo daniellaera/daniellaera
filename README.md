@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
+<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Steve Harvey</p>
