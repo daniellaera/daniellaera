@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>One of the most difficult things is not to change society - but to change yourself.</p>
 
-<p>- Les Brown</p>
+<p>- Nelson Mandela</p>
