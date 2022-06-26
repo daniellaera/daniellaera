@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your home is where your thoughts find peace.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>- Zen Proverb</p>
+<p>- Pablo Picasso</p>
