@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Henry Ward Beecher</p>
