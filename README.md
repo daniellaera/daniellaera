@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others and give something back.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Aristotle</p>
