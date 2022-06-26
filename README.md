@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Theodore Roosevelt</p>
