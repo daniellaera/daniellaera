@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>- Jim Rohn</p>
+<p>- Bob Marley</p>
