@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
+<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
 
-<p>- Sun Tzu</p>
+<p>- Lolly Daskal</p>
