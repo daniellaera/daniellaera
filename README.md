@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Steve Maraboli</p>
