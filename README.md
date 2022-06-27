@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not take life too seriously. You will never get out of it alive.</p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Les Brown</p>
