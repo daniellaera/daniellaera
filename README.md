@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Thomas Jefferson</p>
