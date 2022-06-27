@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is not an act, it is a habit.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Aristotle</p>
+<p>- Elbert Hubbard</p>
