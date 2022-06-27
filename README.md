@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
+<p>The only difference between success and failure is the ability to take action.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Alexander Graham Bell</p>
