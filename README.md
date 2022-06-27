@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</p>
+<p>Real learning comes about when the competitive spirit has ceased.</p>
 
-<p>- Sydney Smith</p>
+<p>- Jiddu Krishnamurti</p>
