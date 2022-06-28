@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is the offspring of silence and meditation.</p>
+<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
 
-<p>- Isaac Newton</p>
+<p>- Conrad Hilton</p>
