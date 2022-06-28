@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Brian Tracy</p>
+<p>- Euripides</p>
