@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your problem isn't the problem. Your reaction is the problem.</p>
+<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
 
-<p>- Unknown</p>
+<p>- Mark Twain</p>
