@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The day is for honest men, the night for thieves.</p>
+<p>Truth is the offspring of silence and meditation.</p>
 
-<p>- Euripides</p>
+<p>- Isaac Newton</p>
