@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
-<p>- Dan Brown</p>
+<p>- Paramahansa Yogananda</p>
