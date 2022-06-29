@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>You can't let your failures define you. You have to let your failures teach you.</p>
 
-<p>- Brian Tracy</p>
+<p>- Barack Obama</p>
