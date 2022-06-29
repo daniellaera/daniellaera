@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's always to soon to quit!</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Isaac Newton</p>
