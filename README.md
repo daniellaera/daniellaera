@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>- Zen Proverb</p>
+<p>- Virginia Woolf</p>
