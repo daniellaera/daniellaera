@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To every action there is always opposed an equal reaction.</p>
+<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
 
-<p>- Isaac Newton</p>
+<p>- Brian Tracy</p>
