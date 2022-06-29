@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is peace even in the storm.</p>
+<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Gilbert Chesterton</p>
