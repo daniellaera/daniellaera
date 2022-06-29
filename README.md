@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
+<p>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</p>
 
-<p>- Brian Tracy</p>
+<p>- Elon Musk</p>
