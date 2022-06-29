@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Henry Ward Beecher</p>
