@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</p>
+<p>Optimism is the one quality more associated with success and happiness than any other.</p>
 
-<p>- Elon Musk</p>
+<p>- Brian Tracy</p>
