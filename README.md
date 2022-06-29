@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Misfortune shows those who are not really friends.</p>
+<p>It's always to soon to quit!</p>
 
-<p>- Aristotle</p>
+<p>- Norman Vincent Peale</p>
