@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind is infinite, it's your doubts that are limiting.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Jack London</p>
