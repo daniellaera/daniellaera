@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
+<p>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</p>
 
-<p>- Judy Garland</p>
+<p>- Eric Hoffer</p>
