@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't want anything. Then you get everything.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>- Seungsahn</p>
+<p>- Beverly Sills</p>
