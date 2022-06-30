@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>- Beverly Sills</p>
+<p>- Judy Garland</p>
