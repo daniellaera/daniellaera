@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Alan Watts</p>
