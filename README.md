@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Elbert Hubbard</p>
