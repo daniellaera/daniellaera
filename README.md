@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot change anything unless we accept it.</p>
+<p>If what you're doing is not your passion, you have nothing to lose.</p>
 
-<p>- Carl Jung</p>
+<p>- Celestine Chua</p>
