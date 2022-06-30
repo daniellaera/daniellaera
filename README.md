@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The salvation of the world lies in the human heart.</p>
+<p>They who have conquered doubt and fear have conquered failure.</p>
 
-<p>- Vaclav Havel</p>
+<p>- James Allen</p>
