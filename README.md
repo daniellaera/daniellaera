@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience never fears midnight knocking.</p>
+<p>We think too much and feel too little.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Charlie Chaplin</p>
