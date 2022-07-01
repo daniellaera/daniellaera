@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intense love does not measure, it just gives.</p>
+<p>If you are far from the enemy, make him believe you are near.</p>
 
-<p>- Mother Teresa</p>
+<p>- Sun Tzu</p>
