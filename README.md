@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Seneca</p>
+<p>- Lao Tzu</p>
