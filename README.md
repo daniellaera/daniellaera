@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
+<p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </p>
 
-<p>- Earl Nightingale</p>
+<p>- Wayne Dyer</p>
