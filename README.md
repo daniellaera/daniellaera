@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
+<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
 
-<p>- Denis Waitley</p>
+<p>- Zig Ziglar</p>
