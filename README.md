@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who has overcome his fears will truly be free.</p>
+<p>The meaning of life is that it stops.</p>
 
-<p>- Aristotle</p>
+<p>- Franz Kafka</p>
