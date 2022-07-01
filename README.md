@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is that it stops.</p>
+<p>Intense love does not measure, it just gives.</p>
 
-<p>- Franz Kafka</p>
+<p>- Mother Teresa</p>
