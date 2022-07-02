@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Henry Ward Beecher</p>
