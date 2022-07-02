@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sadness is but a wall between two gardens.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Chinese Proverb</p>
