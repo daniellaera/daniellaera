@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>- Wayne Dyer</p>
+<p>- William James</p>
