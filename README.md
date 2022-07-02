@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rewards and punishment is the lowest form of education.</p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>- Zhuangzi</p>
+<p>- Wayne Dyer</p>
