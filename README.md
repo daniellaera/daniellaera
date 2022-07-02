@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no coming to consciousness without pain</p>
+<p>Sadness is but a wall between two gardens.</p>
 
-<p>- Carl Jung</p>
+<p>- Kahlil Gibran</p>
