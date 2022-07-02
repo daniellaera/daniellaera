@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
+<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
 
-<p>- Samuel Butler</p>
+<p>- Charles Swindoll</p>
