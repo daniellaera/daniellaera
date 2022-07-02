@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New beginnings are disguised as painful endings.</p>
+<p>There's no coming to consciousness without pain</p>
 
-<p>- Lao Tzu</p>
+<p>- Carl Jung</p>
