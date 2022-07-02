@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Unknown</p>
