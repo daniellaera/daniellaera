@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
+<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Eckhart Tolle</p>
