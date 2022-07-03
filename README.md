@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pain of parting is nothing to the joy of meeting again.</p>
+<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
 
-<p>- Charles Dickens</p>
+<p>- T.S. Eliot</p>
