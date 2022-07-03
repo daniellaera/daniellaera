@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>We are all here for some special reason.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Robin Sharma</p>
