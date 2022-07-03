@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>- Lao Tzu</p>
+<p>- Eric Hoffer</p>
