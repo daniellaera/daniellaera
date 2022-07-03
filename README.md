@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>Judge a man by his questions rather than his answers.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Voltaire</p>
