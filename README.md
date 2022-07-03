@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Ayn Rand</p>
