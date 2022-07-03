@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man should fear never beginning to live.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Lao Tzu</p>
