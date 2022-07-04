@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're always free to change your mind and choose a different future, or a different past.</p>
+<p>Adults are just children who earn money.</p>
 
-<p>- Richard Bach</p>
+<p>- Kenneth Branagh</p>
