@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want, happiness is wanting what you get.</p>
+<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Mother Teresa</p>
