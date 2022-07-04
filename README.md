@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</p>
+<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Eric Hoffer</p>
