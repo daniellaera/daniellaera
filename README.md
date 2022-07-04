@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adults are just children who earn money.</p>
+<p>The harder the conflict, the greater the triumph. </p>
 
-<p>- Kenneth Branagh</p>
+<p>- George Washington</p>
