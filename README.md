@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Mark Twain</p>
