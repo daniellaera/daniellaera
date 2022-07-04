@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Kahlil Gibran</p>
