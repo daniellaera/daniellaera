@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>- Albert Einstein</p>
+<p>- Robert Greene</p>
