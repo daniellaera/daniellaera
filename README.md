@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>The pain of parting is nothing to the joy of meeting again.</p>
 
-<p>- Colin Powell</p>
+<p>- Charles Dickens</p>
