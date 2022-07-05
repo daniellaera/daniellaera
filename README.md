@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>- Robert Greene</p>
+<p>- Henry Ford</p>
