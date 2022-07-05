@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect was invented to cover the empty place where love should be.</p>
+<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Charles Darwin</p>
