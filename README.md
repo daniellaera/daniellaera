@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The art of being wise is knowing what to overlook.</p>
+<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
 
-<p>- William James</p>
+<p>- Stephen Hawking</p>
