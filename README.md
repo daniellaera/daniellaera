@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>Real loss is only possible when you love something more than you love yourself.</p>
 
-<p>- Albert Einstein</p>
+<p>- Robin Williams</p>
