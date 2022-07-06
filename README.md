@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>Life is what you make it. Always has been, always will be.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Eleanor Roosevelt</p>
