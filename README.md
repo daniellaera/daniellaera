@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive, it can achieve.</p>
+<p>Words are clothes that thoughts wear</p>
 
-<p>- Napoleon Hill</p>
+<p>- Samuel Butler</p>
