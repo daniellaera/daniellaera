@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
+<p>Conscience is a man's compass. </p>
 
-<p>- Stephen Hawking</p>
+<p>- Vincent van Gogh</p>
