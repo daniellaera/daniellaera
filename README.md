@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
+<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
 
-<p>- Bruce Lee</p>
+<p>- Samuel Butler</p>
