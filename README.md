@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Don't cry because it's over. Smile because it happened.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Dr. Seuss</p>
