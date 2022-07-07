@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Robert Kiyosaki</p>
