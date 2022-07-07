@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enlightenment is intimacy with all things.</p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>- Dogen</p>
+<p>- W. Clement Stone</p>
