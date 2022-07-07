@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Sigmund Freud</p>
