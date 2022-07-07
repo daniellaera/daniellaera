@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
+<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Barack Obama</p>
