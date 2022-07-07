@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Aim for the moon. If you miss, you may hit a star.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Unknown</p>
