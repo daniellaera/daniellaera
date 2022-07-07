@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
+<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Ralph Waldo Emerson</p>
