@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where does a thought go when it's forgotten?</p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Ayn Rand</p>
