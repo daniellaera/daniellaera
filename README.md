@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The question isn't who is going to let me; it's who is going to stop me.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Ayn Rand</p>
+<p>- Euripides</p>
