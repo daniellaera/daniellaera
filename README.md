@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wealth is the product of man's capacity to think.</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>- Ayn Rand</p>
+<p>- J.R.R. Tolkien</p>
