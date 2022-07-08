@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never close your lips to those whom you have already opened your heart.</p>
+<p>What you become is far more important than what you get.</p>
 
-<p>- Charles Dickens</p>
+<p>- Jim Rohn</p>
