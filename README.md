@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about creating value.</p>
+<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
 
-<p>- Candice Carpenter</p>
+<p>- Naval Ravikant</p>
