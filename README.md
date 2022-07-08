@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is born deaf and dumb.</p>
+<p>Success is about creating value.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Candice Carpenter</p>
