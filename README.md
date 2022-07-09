@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not an exception, it is a prevailing attitude.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>- Colin Powell</p>
+<p>- Soren Kierkegaard</p>
