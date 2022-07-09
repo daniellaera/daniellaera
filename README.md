@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A journey of a thousand miles begins with a single step.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Lao Tzu</p>
+<p>- Barack Obama</p>
