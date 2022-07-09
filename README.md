@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</p>
+<p>Constantly think about how you could be doing things better.</p>
 
-<p>- Celestine Chua</p>
+<p>- Elon Musk</p>
