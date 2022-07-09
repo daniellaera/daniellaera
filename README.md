@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</p>
 
-<p>- Barack Obama</p>
+<p>- Celestine Chua</p>
