@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
+<p>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</p>
 
-<p>- Celestine Chua</p>
+<p>- Alan Watts</p>
