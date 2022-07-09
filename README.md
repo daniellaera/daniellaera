@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage Is a Love Affair with the Unknown</p>
+<p>Seek not the good in external things;seek it in yourselves.</p>
 
-<p>- Osho</p>
+<p>- Epictetus</p>
