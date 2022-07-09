@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>We must be free not because we claim freedom, but because we practice it.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- William Faulkner</p>
