@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Constantly think about how you could be doing things better.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>- Elon Musk</p>
+<p>- Deepak Chopra</p>
