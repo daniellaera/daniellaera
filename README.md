@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
+<p>Rest in reason; move in passion.</p>
 
-<p>- Zhuangzi</p>
+<p>- Kahlil Gibran</p>
