@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of difficulty lies opportunity.</p>
+<p>Do not be so open-minded that your brains fall out.</p>
 
-<p>- Albert Einstein</p>
+<p>- Gilbert Chesterton</p>
