@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>Intelligence is the ability to adapt to change.</p>
 
-<p>- Pema Chodron</p>
+<p>- Stephen Hawking</p>
