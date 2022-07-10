@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn the rules like a pro, so you can break them like an artist.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Zen Proverb</p>
