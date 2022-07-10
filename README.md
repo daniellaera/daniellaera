@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
 
-<p>- Jack Butcher</p>
+<p>- Marcus Aurelius</p>
