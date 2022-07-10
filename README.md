@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Zhuangzi</p>
