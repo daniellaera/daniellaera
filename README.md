@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you love someone, you love the person as they are, and not as you'd like them to be.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Pablo Picasso</p>
