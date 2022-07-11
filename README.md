@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Dale Carnegie</p>
