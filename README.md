@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>There are no shortcuts to any place worth going.</p>
 
-<p>- Aristotle</p>
+<p>- Beverly Sills</p>
