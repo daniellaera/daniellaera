@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men trust their ears less than their eyes.</p>
+<p>My definition of success is control.</p>
 
-<p>- Herodotus</p>
+<p>- Kenneth Branagh</p>
