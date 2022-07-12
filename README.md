@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>The future is no more uncertain than the present.</p>
 
-<p>- Estee Lauder</p>
+<p>- Walt Whitman</p>
