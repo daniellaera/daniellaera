@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By perseverance the snail reached the ark.</p>
+<p>In the practice of tolerance, one's enemy is the best teacher.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Dalai Lama</p>
