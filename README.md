@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
+<p>Do not look for a sanctuary in anyone except your self.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Buddha</p>
