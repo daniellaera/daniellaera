@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never fear quarrels, but seek hazardous adventures.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>- Alexandre Dumas</p>
+<p>- Vincent van Gogh</p>
