@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the practice of tolerance, one's enemy is the best teacher.</p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>- Dalai Lama</p>
+<p>- Alexandre Dumas</p>
