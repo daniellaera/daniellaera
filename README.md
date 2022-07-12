@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great minds are always feared by lesser minds.</p>
+<p>Nothing is hopeless; we must hope for everything.</p>
 
-<p>- Dan Brown</p>
+<p>- Euripides</p>
