@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never lose hope. Storms make people stronger and never last forever.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Gilbert Chesterton</p>
