@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness is a language which the deaf can hear and the blind can see.</p>
+<p>Never lose hope. Storms make people stronger and never last forever.</p>
 
-<p>- Mark Twain</p>
+<p>- Roy T. Bennett</p>
