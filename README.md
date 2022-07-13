@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think when you lose determines how long it will be until you win.</p>
+<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Confucius</p>
