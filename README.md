@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Michael Jordan</p>
