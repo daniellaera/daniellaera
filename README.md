@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
+<p>There is peace even in the storm.</p>
 
-<p>- Celestine Chua</p>
+<p>- Vincent van Gogh</p>
