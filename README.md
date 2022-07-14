@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Rumi</p>
