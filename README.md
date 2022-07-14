@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
 
-<p>- Michael Jordan</p>
+<p>- Albus Dumbledore</p>
