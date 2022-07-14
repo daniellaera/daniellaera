@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Celestine Chua</p>
