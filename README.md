@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Champions keep playing until they get it right.</p>
+<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
 
-<p>- Billie Jean King</p>
+<p>- Elon Musk</p>
