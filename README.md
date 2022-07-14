@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With the new day comes new strength and new thoughts.</p>
+<p>Bloom where you are planted!</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Mary Engelbreit</p>
