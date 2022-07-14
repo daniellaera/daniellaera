@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Maxime Lagace</p>
