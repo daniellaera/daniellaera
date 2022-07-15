@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Get busy living, or get busy dying.</p>
+<p>When a man is penalized for honesty he learns to lie.</p>
 
-<p>- Stephen King</p>
+<p>- Criss Jami</p>
