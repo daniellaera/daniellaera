@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will succeed because most people are lazy.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>- Shahir Zag</p>
+<p>- Sigmund Freud</p>
