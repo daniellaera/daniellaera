@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Herman Melville</p>
