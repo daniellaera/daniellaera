@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Samuel Butler</p>
