@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You live by what you thrill to, and there's the end of it.</p>
+<p>Realize deeply that the present moment is all you ever have. </p>
 
-<p>- D. H. Lawrence</p>
+<p>- Eckhart Tolle</p>
