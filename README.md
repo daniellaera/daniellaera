@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatness lies not in being strong, but in the right use of strength.</p>
+<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- George Eliot</p>
