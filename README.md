@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I dream my painting and I paint my dream.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Henry Ward Beecher</p>
