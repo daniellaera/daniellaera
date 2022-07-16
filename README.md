@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great things are not done by impulse, but by a series of small things brought together.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Robin Williams</p>
