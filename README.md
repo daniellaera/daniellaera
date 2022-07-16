@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Marcus Aurelius</p>
