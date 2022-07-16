@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>Gratitude is the fairest blossom which springs from the soul.</p>
 
-<p>- Zen Proverb</p>
+<p>- Henry Ward Beecher</p>
