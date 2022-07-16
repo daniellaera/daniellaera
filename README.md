@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do to others what you would not like them to do to you. </p>
+<p>One never does wrong by doing right.</p>
 
-<p>- Confucius</p>
+<p>- Norman Vincent Peale</p>
