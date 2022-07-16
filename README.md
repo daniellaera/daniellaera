@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>- Wayne Dyer</p>
+<p>- Confucius</p>
