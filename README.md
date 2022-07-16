@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One never does wrong by doing right.</p>
+<p>Associate with people who are likely to improve you.  </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Seneca</p>
