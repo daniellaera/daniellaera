@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>- Zhuangzi</p>
+<p>- Deepak Chopra</p>
