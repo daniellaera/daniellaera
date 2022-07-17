@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wisest men follow their own direction.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>- Euripides</p>
+<p>- Rumi</p>
