@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If light is in your heart, you will find your way home.  </p>
+<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
 
-<p>- Rumi</p>
+<p>- Barack Obama</p>
