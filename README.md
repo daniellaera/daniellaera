@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of getting ahead is getting started.</p>
+<p>Happiness is the absence of the striving for happiness.</p>
 
-<p>- Mark Twain</p>
+<p>- Zhuangzi</p>
