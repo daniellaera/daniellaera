@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
+<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
 
-<p>- Buddha</p>
+<p>- Ming-Dao Deng</p>
