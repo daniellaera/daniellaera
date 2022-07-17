@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time you enjoy wasting, was not wasted.</p>
+<p>Not doing it is certainly the best way to not getting it.  </p>
 
-<p>- John Lennon</p>
+<p>- Wayne Gretzky</p>
