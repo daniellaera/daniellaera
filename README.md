@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Isaac Newton</p>
