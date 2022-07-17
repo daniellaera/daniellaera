@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What gets measured gets improved.</p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>- Robin Sharma</p>
+<p>- John Lennon</p>
