@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are people who have money and people who are rich.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Coco Chanel</p>
+<p>- Martin Luther King, Jr.</p>
