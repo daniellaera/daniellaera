@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lost Time is never found again.</p>
+<p>It does not do to dwell on dreams and forget to live, remember that.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Albus Dumbledore</p>
