@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest room in the world is the room for improvement.</p>
+<p>Lost Time is never found again.</p>
 
-<p>- Unknown</p>
+<p>- Benjamin Franklin</p>
