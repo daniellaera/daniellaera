@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be totally at leisure for one day is to be immortal for one day. </p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Chinese Proverb</p>
+<p>- George Eliot</p>
