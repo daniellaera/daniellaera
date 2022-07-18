@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There will always be suffering. But we must not suffer over the suffering.</p>
+<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
 
-<p>- Alan Watts</p>
+<p>- Kenneth Branagh</p>
