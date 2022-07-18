@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Steve Harvey</p>
