@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
+<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Shahir Zag</p>
