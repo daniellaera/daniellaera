@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To earn more you must learn more.</p>
+<p>Watch what you say, and whaterver you say, practice it.</p>
 
-<p>- Brian Tracy</p>
+<p>- Soyen Shaku</p>
