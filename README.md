@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
 
 <p>- Richard Bach</p>
