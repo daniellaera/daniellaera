@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It does not do to dwell on dreams and forget to live, remember that.</p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Spencer Johnson</p>
