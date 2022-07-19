@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Zig Ziglar</p>
