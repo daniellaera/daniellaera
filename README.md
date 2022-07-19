@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot change anything unless we accept it.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Carl Jung</p>
+<p>- Eleanor Roosevelt</p>
