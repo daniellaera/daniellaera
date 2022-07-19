@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Benjamin Franklin</p>
