@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>- Lao Tzu</p>
+<p>- Abraham Lincoln</p>
