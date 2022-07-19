@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence breeds beauty.  </p>
+<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
 
-<p>- Estee Lauder</p>
+<p>- Roy T. Bennett</p>
