@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Carl Jung</p>
