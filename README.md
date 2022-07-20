@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is merely the name for the desire and pursuit of the whole.</p>
+<p>You're always free to change your mind and choose a different future, or a different past.</p>
 
-<p>- Aristophanes</p>
+<p>- Richard Bach</p>
