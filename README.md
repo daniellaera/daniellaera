@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Chinese Proverb</p>
