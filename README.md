@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
+<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Laurence J. Peter</p>
