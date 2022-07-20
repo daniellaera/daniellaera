@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is only depth of character that determines the profundity with which we face life.</p>
+<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Deepak Chopra</p>
