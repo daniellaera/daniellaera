@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always try to be a little kinder than necessary.</p>
+<p>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </p>
 
-<p>- James Matthew Barrie</p>
+<p>- Franz Kafka</p>
