@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
+<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Eleanor Roosevelt</p>
