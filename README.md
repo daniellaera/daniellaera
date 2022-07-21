@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only the one reality, neither to be realized nor attained.</p>
+<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
 
-<p>- Huang Po</p>
+<p>- Charles Spurgeon</p>
