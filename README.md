@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
+<p>Perpetual optimism is a force multiplier.</p>
 
-<p>- Gary Keller</p>
+<p>- Colin Powell</p>
