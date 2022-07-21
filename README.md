@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is knowing what not to fear.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>- Plato</p>
+<p>- Aristotle</p>
