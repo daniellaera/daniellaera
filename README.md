@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past has no power over the present moment. </p>
+<p>There is only the one reality, neither to be realized nor attained.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Huang Po</p>
