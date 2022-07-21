@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all those who wander are lost.</p>
+<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Josh Waitzkin</p>
