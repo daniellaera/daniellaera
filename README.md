@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perpetual optimism is a force multiplier.</p>
+<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
 
-<p>- Colin Powell</p>
+<p>- Confucius</p>
