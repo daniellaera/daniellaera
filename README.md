@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The glow of one warm thought is to me worth more than money.</p>
+<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Christopher McCandless</p>
