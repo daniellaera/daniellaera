@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great loves too must be endured.</p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>- Coco Chanel</p>
+<p>- Unknown</p>
