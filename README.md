@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
 
-<p>- Epictetus</p>
+<p>- Gary Keller</p>
