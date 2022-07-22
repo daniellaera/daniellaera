@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is like money, easier made than kept.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>- Samuel Butler</p>
+<p>- Alexander Graham Bell</p>
