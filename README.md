@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is nothing more than a few simple disciplines practiced every day.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Jim Rohn</p>
+<p>- Martin Luther King, Jr.</p>
