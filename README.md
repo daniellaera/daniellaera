@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Force has no place where there is need of skill. </p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>- Herodotus</p>
+<p>- Samuel Butler</p>
