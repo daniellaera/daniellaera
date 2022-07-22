@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
+<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Benjamin Mays</p>
