@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Shunryu Suzuki</p>
