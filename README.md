@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing ever goes away until it has taught us what we need to know.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>- Pema Chodron</p>
+<p>- Virginia Woolf</p>
