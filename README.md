@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Night is a more quiet time to work. It aids thought.</p>
+<p>There are more people who wish to be loved than there are who are willing to love. </p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Nicolas Chamfort</p>
