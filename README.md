@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>- Benjamin Mays</p>
+<p>- D. H. Lawrence</p>
