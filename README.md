@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>- Babe Ruth</p>
+<p>- Bob Marley</p>
