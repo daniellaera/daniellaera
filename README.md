@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>- Colin Powell</p>
+<p>- Eckhart Tolle</p>
