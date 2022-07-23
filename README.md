@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is never too late to be what you might have been.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- George Eliot</p>
+<p>- Ralph Waldo Emerson</p>
