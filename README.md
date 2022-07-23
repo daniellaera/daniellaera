@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conquer the devils with a little thing called love.</p>
+<p>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</p>
 
-<p>- Bob Marley</p>
+<p>- Charles Darwin</p>
