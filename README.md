@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy every minute of life. Never second-guess life.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Michael Jordan</p>
+<p>- Socrates</p>
