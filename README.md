@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good system shortens the road to the goal. </p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Roy T. Bennett</p>
