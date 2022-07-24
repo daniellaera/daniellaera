@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The right thing to do and the hard thing to do are usually the same.</p>
+<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Bob Proctor</p>
