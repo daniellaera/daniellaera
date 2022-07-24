@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
+<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Criss Jami</p>
