@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
+<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Zen Proverb</p>
