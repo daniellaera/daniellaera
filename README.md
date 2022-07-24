@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never spend your money before you have earned it.</p>
+<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Zen Proverb</p>
