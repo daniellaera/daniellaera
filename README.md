@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>- Lao Tzu</p>
+<p>- Pablo Picasso</p>
