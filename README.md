@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Buddha</p>
