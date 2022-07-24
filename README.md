@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more one judges, the less one loves.</p>
+<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Og Mandino</p>
