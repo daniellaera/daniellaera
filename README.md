@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
+<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
 
-<p>- Brian Tracy</p>
+<p>- W. Clement Stone</p>
