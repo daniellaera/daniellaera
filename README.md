@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever is begun in anger, ends in shame.</p>
+<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Brian Tracy</p>
