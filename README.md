@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act as if what you do makes a difference. It does.</p>
+<p>Success is getting what you want, happiness is wanting what you get.</p>
 
-<p>- William James</p>
+<p>- W.P. Kinsella</p>
