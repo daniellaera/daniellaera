@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing good ever comes of violence.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>- Martin Luther</p>
+<p>- Charles Swindoll</p>
