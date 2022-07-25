@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do what is right, not what is easy, nor what is popular.</p>
+<p>Act as if what you do makes a difference. It does.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- William James</p>
