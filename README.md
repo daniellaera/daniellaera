@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>Always try to be a little kinder than necessary.</p>
 
-<p>- Unknown</p>
+<p>- James Matthew Barrie</p>
