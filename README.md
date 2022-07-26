@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest room in the world is the room for improvement.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>- Unknown</p>
+<p>- Seungsahn</p>
