@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
+<p>You can have results or excuses, but not both.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Arnold Schwarzenegger</p>
