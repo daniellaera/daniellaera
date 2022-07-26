@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>May you live all the days of your life.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Zen Proverb</p>
