@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Johann Wolfgang von Goethe</p>
