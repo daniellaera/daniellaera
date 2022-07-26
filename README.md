@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>- Seungsahn</p>
+<p>- Mark Twain</p>
