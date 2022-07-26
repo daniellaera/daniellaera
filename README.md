@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always try to be a little kinder than necessary.</p>
+<p>The eye with which I see God is the same eye with which God sees me.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Meister Eckhart</p>
