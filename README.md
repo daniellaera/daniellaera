@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have results or excuses, but not both.</p>
+<p>Everything you can imagine is real.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Pablo Picasso</p>
