@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
 
-<p>- Meister Eckhart</p>
+<p>- Bruce Lee</p>
