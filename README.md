@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most important days in your life are the day you are born and the day you find out why.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>- Mark Twain</p>
+<p>- Criss Jami</p>
