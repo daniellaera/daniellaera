@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>Being in a good frame of mind helps keep one in the picture of health.</p>
 
-<p>- Mark Twain</p>
+<p>- Unknown</p>
