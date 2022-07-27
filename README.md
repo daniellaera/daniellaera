@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>- Criss Jami</p>
+<p>- Mark Twain</p>
