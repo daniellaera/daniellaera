@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People rarely succeed unless they have fun in what they are doing.</p>
+<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Barack Obama</p>
