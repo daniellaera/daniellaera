@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give so much away people insist on paying you.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>- Jack Butcher</p>
+<p>- Gilbert Chesterton</p>
