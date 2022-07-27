@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think when you lose determines how long it will be until you win.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Carl Jung</p>
