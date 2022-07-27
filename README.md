@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good system shortens the road to the goal. </p>
+<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Colin Powell</p>
