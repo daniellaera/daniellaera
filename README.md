@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in one thing too much and you have no room for new ideas.  </p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Ming-Dao Deng</p>
