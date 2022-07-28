@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Dudley Field Malone</p>
