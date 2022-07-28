@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The price of inaction is far greater than the cost of making a mistake.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Gary Keller</p>
