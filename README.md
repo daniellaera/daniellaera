@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Open your mind before your mouth.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>- Aristophanes</p>
+<p>- Winston Churchill</p>
