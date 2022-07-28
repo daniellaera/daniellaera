@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
 
-<p>- Og Mandino</p>
+<p>- Nikola Tesla</p>
