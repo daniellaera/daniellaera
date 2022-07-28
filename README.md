@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</p>
+<p>Better to have, and not need, than to need, and not have.</p>
 
-<p>- Robert Greene</p>
+<p>- Franz Kafka</p>
