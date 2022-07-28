@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men trust their ears less than their eyes.</p>
+<p>Believe in one thing too much and you have no room for new ideas.  </p>
 
-<p>- Herodotus</p>
+<p>- Ray Bradbury</p>
