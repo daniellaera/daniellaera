@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- Gary Keller</p>
+<p>- Mahatma Gandhi</p>
