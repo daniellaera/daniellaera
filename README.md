@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>Eighty percent of success is showing up. </p>
 
-<p>- Samuel Butler</p>
+<p>- Woody Allen</p>
