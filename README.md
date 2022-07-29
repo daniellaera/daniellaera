@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Unknown</p>
+<p>- Norman Vincent Peale</p>
