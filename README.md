@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>Don't let someone elses. opinion become your reality.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Les Brown</p>
