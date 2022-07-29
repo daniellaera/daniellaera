@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>- Steve Harvey</p>
+<p>- Unknown</p>
