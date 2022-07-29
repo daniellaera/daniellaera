@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
 
-<p>- Emily Dickinson</p>
+<p>- George Bernard Shaw</p>
