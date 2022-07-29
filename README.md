@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the true magic carpet.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Naval Ravikant</p>
