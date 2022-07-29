@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day passes whether you participate or not.</p>
+<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Kahlil Gibran</p>
