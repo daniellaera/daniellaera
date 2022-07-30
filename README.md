@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It does not matter how slowly you go so long as you do not stop.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>- Confucius</p>
+<p>- Thomas Edison</p>
