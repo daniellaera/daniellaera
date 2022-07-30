@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you know, the more you know you don't know.</p>
+<p>A person hears only what they understand.</p>
 
-<p>- Aristotle</p>
+<p>- Johann Wolfgang von Goethe</p>
