@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>As you think, so shall you become. </p>
 
-<p>- Unknown</p>
+<p>- Bruce Lee</p>
