@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Changing minds is harder than finding people who already agree.</p>
+<p>It does not matter how slowly you go so long as you do not stop.</p>
 
-<p>- Jack Butcher</p>
+<p>- Confucius</p>
