@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Sigmund Freud</p>
