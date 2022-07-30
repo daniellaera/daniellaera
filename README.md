@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is like most opinions - best unexpressed.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Alan Watts</p>
