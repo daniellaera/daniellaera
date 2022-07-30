@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, so shall you become. </p>
+<p>The more you know, the more you know you don't know.</p>
 
-<p>- Bruce Lee</p>
+<p>- Aristotle</p>
