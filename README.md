@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better a diamond with a flaw than a pebble without one.</p>
+<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Confucius</p>
