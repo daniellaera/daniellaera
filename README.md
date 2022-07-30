@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>- Og Mandino</p>
+<p>- Zen Proverb</p>
