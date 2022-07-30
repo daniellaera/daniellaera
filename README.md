@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles don't block the path, they are the path.</p>
+<p>Better a diamond with a flaw than a pebble without one.</p>
 
-<p>- Zen Proverb</p>
+<p>- Chinese Proverb</p>
