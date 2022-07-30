@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
+<p>Nothing ever goes away until it has taught us what we need to know.</p>
 
-<p>- Brian Tracy</p>
+<p>- Pema Chodron</p>
