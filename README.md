@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Nothing is easier than fault finding.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Og Mandino</p>
