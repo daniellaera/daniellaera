@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Obstacles don't block the path, they are the path.</p>
 
-<p>- Alan Watts</p>
+<p>- Zen Proverb</p>
