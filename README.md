@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person hears only what they understand.</p>
+<p>Leadership starts at the top.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Morgan Wootten</p>
