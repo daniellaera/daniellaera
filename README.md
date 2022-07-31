@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Chinese Proverb</p>
