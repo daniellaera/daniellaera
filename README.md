@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only reason to be alive is to enjoy it.</p>
+<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Celestine Chua</p>
