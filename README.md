@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>The only reason to be alive is to enjoy it.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Rita Mae Brown</p>
