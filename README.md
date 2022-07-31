@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fewer the words, the better the prayer.</p>
+<p>No one can hurt you without your consent.</p>
 
-<p>- Martin Luther</p>
+<p>- Eleanor Roosevelt</p>
