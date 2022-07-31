@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>- Alexander Pope</p>
+<p>- Kamal Ravikant</p>
