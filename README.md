@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a succession of lessons, which must be lived to be understood.</p>
+<p>To be angry is to revenge the faults of others on ourselves.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Alexander Pope</p>
