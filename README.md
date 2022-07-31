@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to give up the good to go for the great.</p>
+<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Norman Vincent Peale</p>
