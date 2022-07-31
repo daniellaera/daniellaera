@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>- Dogen</p>
+<p>- John Carmack</p>
