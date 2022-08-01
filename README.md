@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man is affected not by events but by the view he takes of them.  </p>
+<p>Life happens in the river, not the shore.</p>
 
-<p>- Seneca</p>
+<p>- Maxime Lagace</p>
