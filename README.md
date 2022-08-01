@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The constant assertion of belief is an indication of fear.</p>
+<p>Happiness depends upon ourselves.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Aristotle</p>
