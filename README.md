@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simple words, repeated daily, can change your life.</p>
+<p>The constant assertion of belief is an indication of fear.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Jiddu Krishnamurti</p>
