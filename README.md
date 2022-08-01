@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who avoid failure also avoid success.</p>
+<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Zig Ziglar</p>
