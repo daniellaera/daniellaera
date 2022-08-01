@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
+<p>Only those who will risk going too far can possibly find out how far one can go.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- T.S. Eliot</p>
