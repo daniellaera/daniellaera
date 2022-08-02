@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
+<p>What you become is far more important than what you get.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Jim Rohn</p>
