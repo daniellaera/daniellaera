@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>- Gabor Mate</p>
+<p>- Napoleon Hill</p>
