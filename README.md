@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
 
-<p>- Robert Frost</p>
+<p>- Gilbert Chesterton</p>
