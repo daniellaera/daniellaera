@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend major time on minor things.</p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>- Jim Rohn</p>
+<p>- Dale Carnegie</p>
