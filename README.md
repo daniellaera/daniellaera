@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you become is far more important than what you get.</p>
+<p>Boldness makes even the smallest animal dangerous.</p>
 
-<p>- Jim Rohn</p>
+<p>- Robert Greene</p>
