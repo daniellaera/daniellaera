@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sadness is but a wall between two gardens.</p>
+<p>Freedom lies in being bold.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Robert Frost</p>
