@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can bring you peace but yourself.</p>
+<p>Art, like morality, consists of drawing the line somewhere.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Gilbert Chesterton</p>
