@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- John Wooden</p>
