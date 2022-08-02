@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Brian Tracy</p>
