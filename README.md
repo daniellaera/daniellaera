@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
+<p>The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Sonia Ricotti</p>
