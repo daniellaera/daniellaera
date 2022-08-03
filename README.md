@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are far from the enemy, make him believe you are near.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>- Sun Tzu</p>
+<p>- Epictetus</p>
