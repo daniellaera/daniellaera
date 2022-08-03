@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>- Epictetus</p>
+<p>- Colin Powell</p>
