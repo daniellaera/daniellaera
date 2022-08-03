@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
+<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Naval Ravikant</p>
