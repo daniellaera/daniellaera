@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is planted in each person's soul will sprout.  </p>
+<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
 
-<p>- Rumi</p>
+<p>- Earl Nightingale</p>
