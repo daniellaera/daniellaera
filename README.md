@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
+<p>Do all things with love.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Og Mandino</p>
