@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, accept. If you want suffering, expect.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Robin Williams</p>
