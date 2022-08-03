@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Carlos Ruiz Zafon</p>
