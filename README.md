@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Jack London</p>
