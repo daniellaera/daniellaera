@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by attracting the best people will you accomplish great deeds.</p>
+<p>What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.</p>
 
-<p>- Colin Powell</p>
+<p>- Spencer Johnson</p>
