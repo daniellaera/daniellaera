@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Maya Angelou</p>
