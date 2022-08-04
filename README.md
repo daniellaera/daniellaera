@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Waste not fresh tears over old griefs.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>- Euripides</p>
+<p>- Deepak Chopra</p>
