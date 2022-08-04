@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let each man exercise the art he knows.</p>
+<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
 
-<p>- Aristophanes</p>
+<p>- Lolly Daskal</p>
