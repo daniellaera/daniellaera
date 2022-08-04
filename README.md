@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
+<p>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</p>
 
-<p>- Mark Twain</p>
+<p>- Steve Jobs</p>
