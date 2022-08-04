@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>Remember, today is the tomorrow you worried about yesterday.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Dale Carnegie</p>
