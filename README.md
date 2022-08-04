@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, today is the tomorrow you worried about yesterday.</p>
+<p>A wise man will be master of his mind, a fool will be its slave.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Publilius Syrus</p>
