@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
+<p>Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Steve Maraboli</p>
