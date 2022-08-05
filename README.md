@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quiet people have the loudest minds.</p>
+<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Zen Proverb</p>
