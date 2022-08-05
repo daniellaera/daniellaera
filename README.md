@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give. </p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Alexander Pope</p>
