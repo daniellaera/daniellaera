@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
+<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
 
-<p>- Richard Bach</p>
+<p>- Mary Engelbreit</p>
