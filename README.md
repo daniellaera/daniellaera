@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Forgive yourself for your faults and your mistakes and move on.</p>
 
-<p>- Unknown</p>
+<p>- Les Brown</p>
