@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude is a little thing that makes a big difference.</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>- Winston Churchill</p>
+<p>- Samuel Beckett</p>
