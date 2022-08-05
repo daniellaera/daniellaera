@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
+<p>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</p>
 
-<p>- Criss Jami</p>
+<p>- Helen Keller</p>
