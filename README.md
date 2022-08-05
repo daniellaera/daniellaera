@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave to stand for what you believe in even if you stand alone.</p>
+<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Criss Jami</p>
