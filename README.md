@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart that gives, gathers.</p>
+<p>It's not the love you make. It's the love you give. </p>
 
-<p>- Lao Tzu</p>
+<p>- Nikola Tesla</p>
