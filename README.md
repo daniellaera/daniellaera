@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
+<p>Beauty is not in the face; beauty is a light in the heart.</p>
 
-<p>- Zen Proverb</p>
+<p>- Kahlil Gibran</p>
