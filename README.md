@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a poor teacher.</p>
+<p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Wayne Dyer</p>
