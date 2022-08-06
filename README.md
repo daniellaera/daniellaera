@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something to move yourself toward your major goal every day.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>- Brian Tracy</p>
+<p>- Zen Proverb</p>
