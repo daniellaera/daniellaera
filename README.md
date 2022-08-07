@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Robert Greene</p>
