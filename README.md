@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no greater agony than bearing an untold story inside you.</p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>- Maya Angelou</p>
+<p>- Pablo Picasso</p>
