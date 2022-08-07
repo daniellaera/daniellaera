@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>- Socrates</p>
+<p>- Napoleon Hill</p>
