@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>- Robert Greene</p>
+<p>- Andrew Hendrixson</p>
