@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're not making mistakes, then you're not doing anything.</p>
+<p>There is no greater agony than bearing an untold story inside you.</p>
 
-<p>- John Wooden</p>
+<p>- Maya Angelou</p>
