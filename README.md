@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Steve Jobs</p>
+<p>- Stephen Hawking</p>
