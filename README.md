@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
+<p>All happiness depends on courage and work.</p>
 
-<p>- Henry Ford</p>
+<p>- Honore de Balzac</p>
