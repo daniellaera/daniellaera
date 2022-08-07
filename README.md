@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>Live your life as an exclamation rather than an explanation.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Isaac Newton</p>
