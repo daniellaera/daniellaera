@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Spencer Johnson</p>
