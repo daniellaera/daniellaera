@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get the stronger the wind gets - and it's always in your face.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Cherralea Morgen</p>
