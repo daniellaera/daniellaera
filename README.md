@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Steve Jobs</p>
