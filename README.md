@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no absolute success in the world, only constant progress.</p>
+<p>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Shunryu Suzuki</p>
