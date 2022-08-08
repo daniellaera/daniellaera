@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you change what you believe, you change what you do.</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Socrates</p>
