@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Few things are more deceptive than memories.</p>
+<p>All has not been said and never will be.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Samuel Beckett</p>
