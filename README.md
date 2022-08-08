@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It isn't what you do, but how you do it.</p>
+<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
 
-<p>- John Wooden</p>
+<p>- Eckhart Tolle</p>
