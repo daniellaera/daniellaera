@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
+<p>Few things are more deceptive than memories.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Carlos Ruiz Zafon</p>
