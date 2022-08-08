@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love your enemies, for they tell you your faults.</p>
+<p>For things to change, you have to change.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Jim Rohn</p>
