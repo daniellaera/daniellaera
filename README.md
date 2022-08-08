@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination means nothing without doing.  </p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Marcus Aurelius</p>
