@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The guest will judge better of a feast than the cook.</p>
+<p>Change your thoughts and you change your world.</p>
 
-<p>- Aristotle</p>
+<p>- Norman Vincent Peale</p>
