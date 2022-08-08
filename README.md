@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To become what you are not, behave as you do not.</p>
+<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Walt Disney</p>
