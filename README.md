@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change your thoughts and you change your world.</p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- T.S. Eliot</p>
