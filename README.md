@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
+<p>Imagination means nothing without doing.  </p>
 
-<p>- Alexander Pope</p>
+<p>- Charlie Chaplin</p>
