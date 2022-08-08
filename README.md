@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Roy T. Bennett</p>
