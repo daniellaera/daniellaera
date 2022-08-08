@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
+<p>Believe and you're halfway there.</p>
 
-<p>- Bob Proctor</p>
+<p>- Harry S. Truman</p>
