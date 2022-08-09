@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>Freedom lies in being bold.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Robert Frost</p>
