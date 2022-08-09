@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only the hand that erases can write the true thing.</p>
+<p>By changing nothing, nothing changes.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Celestine Chua</p>
