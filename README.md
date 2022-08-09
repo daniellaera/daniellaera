@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Gratitude is the fairest blossom which springs from the soul.</p>
+<p>It is only depth of character that determines the profundity with which we face life.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Ming-Dao Deng</p>
