@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop wasting time defending your problems and work on addressing them instead.</p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>- Celestine Chua</p>
+<p>- Zhuangzi</p>
