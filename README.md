@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength. </p>
+<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Chinese Proverb</p>
