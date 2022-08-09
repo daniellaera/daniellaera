@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
+<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Roy T. Bennett</p>
