@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
+<p>We create the world and ourselves;</p>
 
-<p>- Zhuangzi</p>
+<p>- Ming-Dao Deng</p>
