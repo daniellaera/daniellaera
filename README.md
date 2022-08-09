@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of empires, is the empire over one's self.</p>
+<p>Only the hand that erases can write the true thing.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Meister Eckhart</p>
