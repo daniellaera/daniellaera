@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>- Dogen</p>
+<p>- Earl Nightingale</p>
