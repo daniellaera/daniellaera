@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
+<p>Insanity: doing the same thing over and over again and expecting different results.</p>
 
-<p>- Gary Keller</p>
+<p>- Albert Einstein</p>
