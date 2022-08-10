@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
+<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
 
-<p>- Zen Proverb</p>
+<p>- Vaclav Havel</p>
