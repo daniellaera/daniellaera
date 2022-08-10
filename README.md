@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Spencer Johnson</p>
