@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
+<p>Every time we liberate a woman, we liberate a man. </p>
 
-<p>- Elbert Hubbard</p>
+<p>- Margaret Mead</p>
