@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Gary Keller</p>
