@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Unknown</p>
