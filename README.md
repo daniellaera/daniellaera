@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
+<p>Happiness must be grown in one's own garden.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Mary Engelbreit</p>
