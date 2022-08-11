@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Lao Tzu</p>
