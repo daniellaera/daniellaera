@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simple words, repeated daily, can change your life.</p>
+<p>It is better to offer no excuse than a bad one. </p>
 
-<p>- Maxime Lagace</p>
+<p>- George Washington</p>
