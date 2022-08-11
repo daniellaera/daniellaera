@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
 
-<p>- Thomas Edison</p>
+<p>- Naval Ravikant</p>
