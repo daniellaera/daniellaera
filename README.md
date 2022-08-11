@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
 
-<p>- Bruce Lee</p>
+<p>- Thomas Edison</p>
