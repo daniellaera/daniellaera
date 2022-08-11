@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
+<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
 
-<p>- Dalai Lama</p>
+<p>- W. Clement Stone</p>
