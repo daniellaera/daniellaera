@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
 
-<p>- Jack Butcher</p>
+<p>- Dalai Lama</p>
