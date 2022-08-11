@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is just information and an opportunity to change your course.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Marcus Aurelius</p>
