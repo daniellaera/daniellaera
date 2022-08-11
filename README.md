@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Jim Rohn</p>
