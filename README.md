@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
+<p>Failure is feedback. Learn from it and move on.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Jack Butcher</p>
