@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Living life in style also means living a life of balance.</p>
+<p>Evil is whatever distracts. </p>
 
-<p>- Jim Rohn</p>
+<p>- Franz Kafka</p>
