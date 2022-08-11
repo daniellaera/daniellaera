@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to offer no excuse than a bad one. </p>
+<p>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</p>
 
-<p>- George Washington</p>
+<p>- Steve Maraboli</p>
