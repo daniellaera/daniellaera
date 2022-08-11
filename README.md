@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>Failure is just information and an opportunity to change your course.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Oprah Winfrey</p>
