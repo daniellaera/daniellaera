@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to love anything is to realize that it may be lost.</p>
+<p>It is the power of the mind to be unconquerable.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Seneca</p>
