@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
+<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Nicolas Chamfort</p>
