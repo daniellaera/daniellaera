@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the power of the mind to be unconquerable.</p>
+<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
 
-<p>- Seneca</p>
+<p>- Shunryu Suzuki</p>
