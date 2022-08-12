@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Elon Musk</p>
