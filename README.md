@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Gilbert Chesterton</p>
