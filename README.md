@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>Happiness must be grown in one's own garden.</p>
 
-<p>- Alexander Pope</p>
+<p>- Mary Engelbreit</p>
