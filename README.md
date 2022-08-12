@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Sathya Sai Baba</p>
