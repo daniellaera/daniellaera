@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Alexander Pope</p>
