@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness must be grown in one's own garden.</p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Kabir</p>
