@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The privilege of a lifetime is to become who you truly are.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>- Carl Jung</p>
+<p>- John D. Rockefeller</p>
