@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
+<p>The privilege of a lifetime is to become who you truly are.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Carl Jung</p>
