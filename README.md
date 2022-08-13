@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Isaac Newton</p>
