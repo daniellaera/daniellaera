@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
+<p>Your purpose will be clear only when you listen to your heart.</p>
 
-<p>- A.A. Milne</p>
+<p>- Lolly Daskal</p>
