@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+<p>Never waste a minute of your precious life thinking about people you don't like.</p>
 
-<p>- Albert Einstein</p>
+<p>- Celestine Chua</p>
