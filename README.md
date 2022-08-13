@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
 
-<p>- Franz Kafka</p>
+<p>- A.A. Milne</p>
