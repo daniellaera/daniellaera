@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From error to error one discovers the entire truth.</p>
+<p>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Alexandre Dumas</p>
