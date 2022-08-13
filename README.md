@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every limit is a beginning as well as an ending.</p>
+<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
 
-<p>- George Eliot</p>
+<p>- Albert Einstein</p>
