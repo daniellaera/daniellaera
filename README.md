@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Carl Jung</p>
+<p>- Orison Swett Marden</p>
