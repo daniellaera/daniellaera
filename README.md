@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- George Washington</p>
+<p>- Sigmund Freud</p>
