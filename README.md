@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart that gives, gathers.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>- Lao Tzu</p>
+<p>- Mary Engelbreit</p>
