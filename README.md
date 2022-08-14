@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Setting goals is the first step in turning the invisible into the visible.</p>
+<p>Silence is sometimes the best answer</p>
 
-<p>- Tony Robbins</p>
+<p>- Dalai Lama</p>
