@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the true magic carpet.</p>
+<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- George Washington</p>
