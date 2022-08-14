@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is sometimes the best answer</p>
+<p>What one does is what counts. Not what one had the intention of doing.</p>
 
-<p>- Dalai Lama</p>
+<p>- Pablo Picasso</p>
