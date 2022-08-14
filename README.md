@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who cheats the earth will be cheated by the earth.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Bob Marley</p>
