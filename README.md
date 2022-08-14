@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death walks faster than the wind and never returns what he has taken.</p>
+<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Carl Jung</p>
