@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I love fools' experiments. I am always making them.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>- Charles Darwin</p>
+<p>- Chinese Proverb</p>
