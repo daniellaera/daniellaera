@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Tony Robbins</p>
