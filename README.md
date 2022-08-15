@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intense love does not measure, it just gives.</p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>- Mother Teresa</p>
+<p>- Simon Sinek</p>
