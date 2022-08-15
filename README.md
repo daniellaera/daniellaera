@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Earl Nightingale</p>
