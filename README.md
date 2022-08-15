@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The cost of leadership is self-interest.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>- Simon Sinek</p>
+<p>- Jack Butcher</p>
