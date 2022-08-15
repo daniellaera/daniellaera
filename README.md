@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He will win who knows when to fight and when not to fight.</p>
+<p>Always try to be a little kinder than necessary.</p>
 
-<p>- Sun Tzu</p>
+<p>- James Matthew Barrie</p>
