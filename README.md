@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always try to be a little kinder than necessary.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Tony Robbins</p>
