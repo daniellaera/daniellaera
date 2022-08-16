@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is found in unlikely places.</p>
+<p>The sun shines upon good and bad alike.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Hans Christian Andersen</p>
