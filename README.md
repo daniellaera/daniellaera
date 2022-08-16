@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things do not have meaning. We assign meaning to everything.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Tony Robbins</p>
+<p>- Socrates</p>
