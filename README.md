@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Tony Robbins</p>
