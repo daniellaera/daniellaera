@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The significance of life is living.</p>
+<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Eckhart Tolle</p>
