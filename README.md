@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>Once you choose hope, anything's possible.</p>
 
-<p>- Betty White</p>
+<p>- Christopher Reeve</p>
