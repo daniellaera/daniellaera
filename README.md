@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Dale Carnegie</p>
