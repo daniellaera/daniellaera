@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>- Lin Yutang</p>
+<p>- Naval Ravikant</p>
