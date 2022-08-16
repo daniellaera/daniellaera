@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
+<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Charles Dickens</p>
