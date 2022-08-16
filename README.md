@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>- Charles Dickens</p>
+<p>- Bodhidharma</p>
