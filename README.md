@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Lin Yutang</p>
