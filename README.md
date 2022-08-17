@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>Believe and you're halfway there.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Harry S. Truman</p>
