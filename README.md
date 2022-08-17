@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'd rather welcome change than cling to the past.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Euripides</p>
