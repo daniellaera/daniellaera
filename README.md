@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The day is for honest men, the night for thieves.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>- Euripides</p>
+<p>- Robert Collier</p>
