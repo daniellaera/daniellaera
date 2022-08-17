@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change begets change. Nothing propagates so fast.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>- Charles Dickens</p>
+<p>- Virginia Woolf</p>
