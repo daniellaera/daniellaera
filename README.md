@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace begins with a smile.</p>
+<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
 
-<p>- Mother Teresa</p>
+<p>- Dalai Lama</p>
