@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To perceive is to suffer.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>- Aristotle</p>
+<p>- Dale Carnegie</p>
