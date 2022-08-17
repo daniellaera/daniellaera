@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
+<p>Peace begins with a smile.</p>
 
-<p>- Robert Frost</p>
+<p>- Mother Teresa</p>
