@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>I'd rather welcome change than cling to the past.</p>
 
-<p>- Criss Jami</p>
+<p>- Robert Kiyosaki</p>
