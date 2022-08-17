@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The significance of life is living.</p>
+<p>Difficulties strengthen the mind, as labor does the body.  </p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Seneca</p>
