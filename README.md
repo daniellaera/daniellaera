@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who cannot change their minds cannot change anything.</p>
+<p>Change begets change. Nothing propagates so fast.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Charles Dickens</p>
