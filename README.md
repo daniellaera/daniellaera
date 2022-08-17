@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>- Dalai Lama</p>
+<p>- Mary Engelbreit</p>
