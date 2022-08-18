@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
+<p>Light a candle instead of cursing the darkness.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Eleanor Roosevelt</p>
