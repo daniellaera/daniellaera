@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what you make it. Always has been, always will be.</p>
+<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- John Tukey</p>
