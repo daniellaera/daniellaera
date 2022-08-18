@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Jim Rohn</p>
