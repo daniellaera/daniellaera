@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Jim Rohn</p>
+<p>- Benjamin Franklin</p>
