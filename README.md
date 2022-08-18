@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Unknown</p>
