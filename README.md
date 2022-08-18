@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is passion that makes man live; wisdom makes one only last.</p>
+<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Kamal Ravikant</p>
