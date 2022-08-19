@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your purpose will be clear only when you listen to your heart.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Colin Powell</p>
