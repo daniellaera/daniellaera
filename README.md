@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Peter A. Cohen</p>
