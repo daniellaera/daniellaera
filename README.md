@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>When you want something in life, you just gotta reach out and grab it.</p>
 
-<p>- Unknown</p>
+<p>- Christopher McCandless</p>
