@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When I let go of what I am, I become what I might be.</p>
+<p>We forge the chains we wear in life.</p>
 
-<p>- Lao Tzu</p>
+<p>- Charles Dickens</p>
