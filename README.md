@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Saying nothing sometimes says the most.</p>
+<p>The ego wants to go fast. The soul needs to go slow.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Maxime Lagace</p>
