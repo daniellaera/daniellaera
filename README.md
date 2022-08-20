@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What have you done today to make someone else happy?</p>
+<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Maxime Lagace</p>
