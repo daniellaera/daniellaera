@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Setting goals is the first step in turning the invisible into the visible.</p>
+<p>What have you done today to make someone else happy?</p>
 
-<p>- Tony Robbins</p>
+<p>- Deepam Chaterjee</p>
