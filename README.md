@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We lie the loudest when we lie to ourselves.</p>
+<p>Boldness makes even the smallest animal dangerous.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Robert Greene</p>
