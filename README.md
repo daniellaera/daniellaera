@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will succeed because most people are lazy.</p>
+<p>Do every act of your life as if it were your last.</p>
 
-<p>- Shahir Zag</p>
+<p>- Marcus Aurelius</p>
