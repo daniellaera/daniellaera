@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>- William James</p>
+<p>- Chinese Proverb</p>
