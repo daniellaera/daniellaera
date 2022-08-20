@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Boldness makes even the smallest animal dangerous.</p>
+<p>Perplexity is the beginning of knowledge.</p>
 
-<p>- Robert Greene</p>
+<p>- Kahlil Gibran</p>
