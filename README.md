@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>- Gary Keller</p>
+<p>- Vincent van Gogh</p>
