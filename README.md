@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best answer to anger is silence.</p>
+<p>Peace begins with a smile.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Mother Teresa</p>
