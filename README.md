@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Lolly Daskal</p>
