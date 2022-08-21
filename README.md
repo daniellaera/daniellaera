@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Marcus Aurelius</p>
