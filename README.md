@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Charles Dickens</p>
