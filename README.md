@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>There exists only the present instant; a Now which always and without end is itself new.</p>
 
-<p>- Herodotus</p>
+<p>- Meister Eckhart</p>
