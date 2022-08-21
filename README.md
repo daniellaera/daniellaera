@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace begins with a smile.</p>
+<p>There's more to life than being a passenger.</p>
 
-<p>- Mother Teresa</p>
+<p>- Amelia Earhart</p>
