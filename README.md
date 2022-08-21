@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
+<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Eckhart Tolle</p>
