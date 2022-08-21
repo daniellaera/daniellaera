@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Bob Dylan</p>
+<p>- Eckhart Tolle</p>
