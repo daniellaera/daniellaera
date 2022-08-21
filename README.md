@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no shortcuts to any place worth going.</p>
+<p>It is far easier to start something than it is to finish it.</p>
 
-<p>- Beverly Sills</p>
+<p>- Amelia Earhart</p>
