@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop comparing yourself to others and focus on your own improvement.</p>
+<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Theodore Roosevelt</p>
