@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
+<p>Your purpose will be clear only when you listen to your heart.</p>
 
-<p>- Tony Robbins</p>
+<p>- Lolly Daskal</p>
