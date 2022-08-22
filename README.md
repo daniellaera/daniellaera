@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing new in the world is the history you do not know.</p>
+<p>Do not fear failure but rather fear not trying.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Roy T. Bennett</p>
