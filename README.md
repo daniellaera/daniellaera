@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
+<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Peter Drucker</p>
