@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not something ready made. It comes from your own actions.</p>
+<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
 
-<p>- Dalai Lama</p>
+<p>- Judy Garland</p>
