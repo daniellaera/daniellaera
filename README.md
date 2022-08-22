@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is no more uncertain than the present.</p>
+<p>Where there's life, there's hope.</p>
 
-<p>- Walt Whitman</p>
+<p>- Stephen Hawking</p>
