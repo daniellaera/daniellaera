@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Harry S. Truman</p>
