@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Christopher McCandless</p>
