@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Carl Jung</p>
