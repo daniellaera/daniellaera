@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Peter Drucker</p>
