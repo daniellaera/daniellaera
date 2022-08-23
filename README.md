@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more one judges, the less one loves.</p>
+<p>There will always be suffering. But we must not suffer over the suffering.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Alan Watts</p>
