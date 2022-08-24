@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is only real, when shared.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Lao Tzu</p>
