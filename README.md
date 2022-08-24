@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is your worst enemy. Risk is your best friend.</p>
+<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Og Mandino</p>
