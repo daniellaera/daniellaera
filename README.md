@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
+<p>You are today where your thoughts have brought you.</p>
 
-<p>- Og Mandino</p>
+<p>- James Allen</p>
