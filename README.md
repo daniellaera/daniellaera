@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The merit of all things lies in their difficulty.</p>
+<p>What people need and what they want may be very different.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Elbert Hubbard</p>
