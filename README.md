@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't tell big dreams to small minded people.</p>
+<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
 
-<p>- Steve Harvey</p>
+<p>- Shunryu Suzuki</p>
