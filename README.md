@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think is as important as as what you think.</p>
+<p>Happiness is only real, when shared.</p>
 
-<p>- Unknown</p>
+<p>- Christopher McCandless</p>
