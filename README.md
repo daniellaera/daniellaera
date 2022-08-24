@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>- Lao Tzu</p>
+<p>- Alexandre Dumas</p>
