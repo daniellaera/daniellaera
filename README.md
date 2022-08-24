@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
+<p>A different result requires doing something different.</p>
 
-<p>- David Brinkley</p>
+<p>- Gary Keller</p>
