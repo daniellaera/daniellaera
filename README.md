@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>How you think is as important as as what you think.</p>
 
-<p>- Gary Keller</p>
+<p>- Unknown</p>
