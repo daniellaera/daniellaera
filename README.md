@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you are, be a good one.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Aristotle</p>
