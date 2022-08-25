@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
+<p>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</p>
 
-<p>- Dan Millman</p>
+<p>- Gary Keller</p>
