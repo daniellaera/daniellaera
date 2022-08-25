@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
 
-<p>- Michael Jordan</p>
+<p>- John Wooden</p>
