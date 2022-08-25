@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who know, do. Those that understand, teach.</p>
+<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
 
-<p>- Aristotle</p>
+<p>- Colin Powell</p>
