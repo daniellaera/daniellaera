@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where violence reigns, reason is weak.</p>
+<p>Change yourself and you have done your part in changing the world.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Paramahansa Yogananda</p>
