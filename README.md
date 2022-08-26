@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where words fail, music speaks.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Miguel de Cervantes</p>
