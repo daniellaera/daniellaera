@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
+<p>Reading should be a pleasure, not a chore.</p>
 
-<p>- George Washington</p>
+<p>- Joan Rivers</p>
