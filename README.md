@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The primary point of this existence is to live, and all living things move and grow.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Martin Luther King, Jr.</p>
