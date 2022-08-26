@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do every act of your life as if it were your last.</p>
+<p>It's not whether you get knocked down, its whether you get back up.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Vince Lombardi</p>
