@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must learn to live together as brothers or perish together as fools.</p>
+<p>Sometimes you have to lose all you have to find out who you truly are.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Roy T. Bennett</p>
