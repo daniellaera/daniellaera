@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not whether you get knocked down, its whether you get back up.</p>
+<p>Circumstances do not make the man, they reveal him.</p>
 
-<p>- Vince Lombardi</p>
+<p>- James Allen</p>
