@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Ralph Marston</p>
