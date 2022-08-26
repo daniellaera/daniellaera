@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reading should be a pleasure, not a chore.</p>
+<p>Do every act of your life as if it were your last.</p>
 
-<p>- Joan Rivers</p>
+<p>- Marcus Aurelius</p>
