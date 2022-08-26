@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It always seems impossible until it's done.</p>
+<p>Where words fail, music speaks.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Hans Christian Andersen</p>
