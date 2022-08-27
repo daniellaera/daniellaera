@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show up even when you don't want to show up.</p>
+<p>Without the confidence, nothing can be accomplished.</p>
 
-<p>- Steve Harvey</p>
+<p>- Sathya Sai Baba</p>
