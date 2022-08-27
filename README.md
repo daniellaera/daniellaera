@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>- Barack Obama</p>
+<p>- J.R.R. Tolkien</p>
