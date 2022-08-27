@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Charlie Chaplin</p>
