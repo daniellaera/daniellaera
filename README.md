@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Dale Carnegie</p>
