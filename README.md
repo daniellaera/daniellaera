@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day without laughter is a day wasted.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Bette Midler</p>
