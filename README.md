@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a man knows not to which port he sails, no wind is favorable.  </p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>- Seneca</p>
+<p>- C. Sean McGee</p>
