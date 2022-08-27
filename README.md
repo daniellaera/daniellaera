@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Barack Obama</p>
