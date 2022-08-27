@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you've made a mistake, it's better just to laugh at it.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>- Zen Proverb</p>
+<p>- Alexandre Dumas</p>
