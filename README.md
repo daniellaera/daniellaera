@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you seek is seeking you.</p>
+<p>If you love life, don't waste time, for time is what life is made up of. </p>
 
-<p>- Rumi</p>
+<p>- Bruce Lee</p>
