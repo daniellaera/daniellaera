@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- Naval Ravikant</p>
+<p>- James Allen</p>
