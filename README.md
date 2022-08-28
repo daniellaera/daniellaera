@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Oprah Winfrey</p>
