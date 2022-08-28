@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>- Richard Bach</p>
+<p>- Huang Po</p>
