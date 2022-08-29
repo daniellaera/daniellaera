@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Correct what you can. Learn from what you can't.</p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>- Toni Morrison</p>
+<p>- Zhuangzi</p>
