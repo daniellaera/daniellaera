@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.</p>
+<p>You have to make time, even for something as universal as staring at the stars.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- W.P. Kinsella</p>
