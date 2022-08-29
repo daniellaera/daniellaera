@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>- Stephen Hawking</p>
+<p>- Seneca</p>
