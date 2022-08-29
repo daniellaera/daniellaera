@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
+<p>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</p>
 
-<p>- Estee Lauder</p>
+<p>- Elbert Hubbard</p>
