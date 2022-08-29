@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Peter Drucker</p>
