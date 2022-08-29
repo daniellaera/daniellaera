@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Christopher Reeve</p>
