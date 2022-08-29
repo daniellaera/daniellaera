@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Begin at once to live, and count each separate day as a separate life.  </p>
+<p>The best way to predict your future is to create it.</p>
 
-<p>- Seneca</p>
+<p>- Abraham Lincoln</p>
