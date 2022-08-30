@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be able to forget means sanity.</p>
+<p>Live your life as an exclamation rather than an explanation.</p>
 
-<p>- Jack London</p>
+<p>- Isaac Newton</p>
