@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure is what lies ahead.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Honore de Balzac</p>
