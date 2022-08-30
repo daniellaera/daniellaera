@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Mark Twain</p>
+<p>- T.S. Eliot</p>
