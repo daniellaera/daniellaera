@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your worth consists in what you are and not in what you have.</p>
+<p>If you can't imagine it, you can't have it.</p>
 
-<p>- Thomas Edison</p>
+<p>- Toni Morrison</p>
