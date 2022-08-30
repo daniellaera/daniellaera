@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't imagine it, you can't have it.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>- Toni Morrison</p>
+<p>- Amelia Earhart</p>
