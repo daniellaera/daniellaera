@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find your Light; They can't love you if they can't see you.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Bette Midler</p>
+<p>- Alan Watts</p>
