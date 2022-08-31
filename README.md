@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
 
-<p>- Mark Twain</p>
+<p>- Rumi</p>
