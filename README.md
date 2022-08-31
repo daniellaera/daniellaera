@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
+<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
 
-<p>- Peter Drucker</p>
+<p>- Simon Sinek</p>
