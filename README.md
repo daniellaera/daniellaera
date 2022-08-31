@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Aristotle</p>
+<p>- Orison Swett Marden</p>
