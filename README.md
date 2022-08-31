@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Seek not the good in external things;seek it in yourselves.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>- Epictetus</p>
+<p>- Marcus Aurelius</p>
