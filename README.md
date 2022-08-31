@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best answer to anger is silence.</p>
+<p>Find your Light; They can't love you if they can't see you.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Bette Midler</p>
