@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>- Seneca</p>
+<p>- Gilbert Chesterton</p>
