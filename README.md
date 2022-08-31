@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
 
-<p>- Alan Watts</p>
+<p>- Peter Drucker</p>
