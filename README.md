@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Robert Greene</p>
