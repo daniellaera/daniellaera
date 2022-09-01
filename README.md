@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
 
-<p>- Seneca</p>
+<p>- Elon Musk</p>
