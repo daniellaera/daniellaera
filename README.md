@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The impossible can always be broken down into possibilities.</p>
+<p>If what you're doing is not your passion, you have nothing to lose.</p>
 
-<p>- Unknown</p>
+<p>- Celestine Chua</p>
