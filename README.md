@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fallacies do not cease to be fallacies because they become fashions.</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Norman Vincent Peale</p>
