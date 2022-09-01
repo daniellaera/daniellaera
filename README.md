@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>What we dwell on is who we become.</p>
 
-<p>- Dan Millman</p>
+<p>- Oprah Winfrey</p>
