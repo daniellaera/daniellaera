@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the mark of intelligent living.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Socrates</p>
