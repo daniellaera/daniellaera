@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
+<p>Nothing is permanent in this wicked world - not even our troubles.</p>
 
-<p>- Charles Dickens</p>
+<p>- Charlie Chaplin</p>
