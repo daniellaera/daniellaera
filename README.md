@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An un-examined life is not worth living.</p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>- Socrates</p>
+<p>- Albus Dumbledore</p>
