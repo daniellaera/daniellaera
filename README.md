@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
 
-<p>- Tony Robbins</p>
+<p>- Napoleon Hill</p>
