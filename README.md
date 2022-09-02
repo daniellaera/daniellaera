@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
+<p>Be curious, not judgmental.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Walt Whitman</p>
