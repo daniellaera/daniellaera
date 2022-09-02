@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</p>
+<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Roy T. Bennett</p>
