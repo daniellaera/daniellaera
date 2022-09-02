@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you do, not what you say you'll do.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>- Carl Jung</p>
+<p>- Napoleon Hill</p>
