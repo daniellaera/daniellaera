@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- Robert Greene</p>
+<p>- Theodore Roosevelt</p>
