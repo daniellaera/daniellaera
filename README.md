@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>If you let your head get too big, it'll break your neck.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Elvis Presley</p>
