@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>- Napoleon Hill</p>
+<p>- Oprah Winfrey</p>
