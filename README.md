@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't argue both sides, you can't argue.</p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>- Jack Butcher</p>
+<p>- Chinese Proverb</p>
