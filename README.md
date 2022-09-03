@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>The best thing to hold onto in life is each other.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Audrey Hepburn</p>
