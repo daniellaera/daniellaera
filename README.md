@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
+<p>If you pray for rain, be prepared to deal with some mud.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Mary Engelbreit</p>
