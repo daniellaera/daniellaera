@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
+<p>Intelligence is the ability to adapt to change.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Stephen Hawking</p>
