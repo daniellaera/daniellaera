@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best thing to hold onto in life is each other.</p>
+<p>The biggest challenge after success is shutting up about it.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Criss Jami</p>
