@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence is the ability to adapt to change.</p>
+<p>Relax. Nothing is under control.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Adi Da Samraj</p>
