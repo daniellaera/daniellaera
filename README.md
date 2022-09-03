@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Penny Saved is a Penny Earned</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Emily Dickinson</p>
