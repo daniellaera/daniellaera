@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
+<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Jim Rohn</p>
