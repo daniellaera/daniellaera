@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>- Criss Jami</p>
+<p>- Benjamin Franklin</p>
