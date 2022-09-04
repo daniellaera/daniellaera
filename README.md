@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
+<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
 
-<p>- Les Brown</p>
+<p>- Hans Christian Andersen</p>
