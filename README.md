@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
+<p>Happiness is only real, when shared.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Christopher McCandless</p>
