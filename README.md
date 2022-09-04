@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>Forever is composed of now's.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Emily Dickinson</p>
