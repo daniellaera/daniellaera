@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
 <p>- Les Brown</p>
