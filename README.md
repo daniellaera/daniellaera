@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Create with the heart; build with the mind.</p>
+<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
 
-<p>- Criss Jami</p>
+<p>- W.P. Kinsella</p>
