@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
-<p>- Brian Tracy</p>
+<p>- Zen Proverb</p>
