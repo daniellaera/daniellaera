@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whenever you do a thing, act as if all the world were watching.</p>
+<p>We must create our own world or we will die from inaction.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robert Greene</p>
