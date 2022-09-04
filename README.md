@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Brian Tracy</p>
