@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>Create with the heart; build with the mind.</p>
 
-<p>- Anne Frank</p>
+<p>- Criss Jami</p>
