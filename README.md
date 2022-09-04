@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walking with a friend in the dark is better than walking alone in the light.</p>
+<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
 
-<p>- Helen Keller</p>
+<p>- Arnold Schwarzenegger</p>
