@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must have strong minds, ready to accept facts as they are.</p>
+<p>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Aristophanes</p>
