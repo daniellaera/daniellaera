@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>- Zig Ziglar</p>
+<p>- George Bernard Shaw</p>
