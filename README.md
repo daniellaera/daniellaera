@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>- Gary Keller</p>
+<p>- Ming-Dao Deng</p>
