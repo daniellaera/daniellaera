@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who attain the middle Dominate the whole.</p>
+<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Estee Lauder</p>
