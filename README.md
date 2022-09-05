@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Gary Keller</p>
