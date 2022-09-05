@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the midst of chaos, there is also opportunity.</p>
+<p>A gentleman is one who puts more into the world than he takes out.</p>
 
-<p>- Sun Tzu</p>
+<p>- George Bernard Shaw</p>
