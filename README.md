@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</p>
+<p>Throw your heart over the fence and the rest will follow</p>
 
-<p>- Aristophanes</p>
+<p>- Norman Vincent Peale</p>
