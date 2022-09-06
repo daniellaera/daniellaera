@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Dr. Seuss</p>
