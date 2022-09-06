@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
+<p>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Elon Musk</p>
