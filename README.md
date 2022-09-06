@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If no one ever broke the rules, then we'd never advance.</p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>- Simon Sinek</p>
+<p>- Pablo Picasso</p>
