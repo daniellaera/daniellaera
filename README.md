@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who cannot control his words shows that he cannot control himself.</p>
+<p>You are not only responsible for what you say, but also for what you do not say. </p>
 
-<p>- Robert Greene</p>
+<p>- Martin Luther</p>
