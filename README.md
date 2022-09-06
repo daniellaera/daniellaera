@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</p>
+<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
 
-<p>- Sydney Smith</p>
+<p>- George Bernard Shaw</p>
