@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest doer must also be a great dreamer.</p>
+<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Richard Bach</p>
