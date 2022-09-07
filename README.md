@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Steve Jobs</p>
