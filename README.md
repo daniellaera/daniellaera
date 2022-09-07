@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you give, the more comes back to you.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Peter A. Cohen</p>
