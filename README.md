@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Small men think they are small; great men never know they are great. </p>
+<p>The more you give, the more comes back to you.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Napoleon Hill</p>
