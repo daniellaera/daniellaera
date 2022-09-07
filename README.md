@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>People think about what they don't want and attract more of the same.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Unknown</p>
