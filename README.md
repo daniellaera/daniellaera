@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>Small men think they are small; great men never know they are great. </p>
 
-<p>- Kamal Ravikant</p>
+<p>- Chinese Proverb</p>
