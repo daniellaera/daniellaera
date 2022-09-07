@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.</p>
+<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
 
-<p>- Margaret Mead</p>
+<p>- Laurence J. Peter</p>
