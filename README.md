@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
 
-<p>- Seneca</p>
+<p>- D. H. Lawrence</p>
