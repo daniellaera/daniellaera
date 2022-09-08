@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people find fault like there is a reward for it.  </p>
+<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Chinese Proverb</p>
