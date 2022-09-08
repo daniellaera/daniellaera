@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
 
-<p>- Voltaire</p>
+<p>- Zig Ziglar</p>
