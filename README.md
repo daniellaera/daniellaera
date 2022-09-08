@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.</p>
+<p>The smallest act of kindness is worth more than the greatest intention.  </p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Kahlil Gibran</p>
