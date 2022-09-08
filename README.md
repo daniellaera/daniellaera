@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>Follow your instincts. That is where true wisdom manifests itself.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Oprah Winfrey</p>
