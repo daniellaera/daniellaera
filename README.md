@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>Some people find fault like there is a reward for it.  </p>
 
-<p>- Les Brown</p>
+<p>- Zig Ziglar</p>
