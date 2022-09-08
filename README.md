@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
+<p>If you love life, don't waste time, for time is what life is made up of. </p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Bruce Lee</p>
