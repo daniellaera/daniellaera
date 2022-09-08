@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest act of kindness is worth more than the greatest intention.  </p>
+<p>To get angry is like to revenge yourself for the guilt of others.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Jonathan Swift</p>
