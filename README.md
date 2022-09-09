@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Roy T. Bennett</p>
