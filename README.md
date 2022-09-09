@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I succeeded by saying what everyone else is thinking.</p>
+<p>The only people without problems are those in cemeteries.</p>
 
-<p>- Joan Rivers</p>
+<p>- Tony Robbins</p>
