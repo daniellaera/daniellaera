@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>There is nothing more truly artistic than to love people.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Vincent van Gogh</p>
