@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life would be tragic if it weren't funny.</p>
+<p>Until you change how you get things done, you'll never know what works best.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Roy T. Bennett</p>
