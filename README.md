@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
+<p>I admire those who do good and expect nothing in return.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Roy T. Bennett</p>
