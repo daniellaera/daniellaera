@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Eleanor Roosevelt</p>
