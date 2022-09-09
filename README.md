@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not the knowing that is difficult, but the doing. </p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Woody Allen</p>
