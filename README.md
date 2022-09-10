@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goals are the fuel in the furnace of achievement.</p>
+<p>The businessman's tool is value.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ayn Rand</p>
