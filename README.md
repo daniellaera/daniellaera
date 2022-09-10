@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
+<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
 
-<p>- Mark Twain</p>
+<p>- Alan Watts</p>
