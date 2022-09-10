@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success comes to those who become success conscious.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>- Napoleon Hill</p>
+<p>- T.S. Eliot</p>
