@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Maxime Lagace</p>
