@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Seungsahn</p>
