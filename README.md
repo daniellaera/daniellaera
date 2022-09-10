@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
+<p>Sad thing is, you can still love someone and be wrong for them.</p>
 
-<p>- Lao Tzu</p>
+<p>- Elvis Presley</p>
