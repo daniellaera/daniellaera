@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- Estee Lauder</p>
+<p>- Eckhart Tolle</p>
