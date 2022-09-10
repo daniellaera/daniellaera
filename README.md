@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</p>
+<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
 
-<p>- Simon Sinek</p>
+<p>- Robert Greene</p>
