@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The businessman's tool is value.</p>
+<p>Trust, like the soul, never returns once it is gone.</p>
 
-<p>- Ayn Rand</p>
+<p>- Publilius Syrus</p>
