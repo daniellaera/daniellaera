@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>High thoughts must have high language.</p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>- Aristophanes</p>
+<p>- Deepak Chopra</p>
