@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Norman Vincent Peale</p>
