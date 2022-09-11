@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>Your worth consists in what you are and not in what you have.</p>
 
-<p>- Jack Butcher</p>
+<p>- Thomas Edison</p>
