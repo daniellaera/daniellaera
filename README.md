@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way out is through.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>- Robert Frost</p>
+<p>- Walt Whitman</p>
