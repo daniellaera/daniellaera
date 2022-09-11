@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
+<p>There are no shortcuts to any place worth going.</p>
 
-<p>- Og Mandino</p>
+<p>- Beverly Sills</p>
