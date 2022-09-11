@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Jack Butcher</p>
