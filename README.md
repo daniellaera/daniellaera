@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the true magic carpet.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Alfred Adler</p>
