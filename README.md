@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you do today can improve all your tomorrows.</p>
+<p>Fiction is the truth inside the lie.</p>
 
-<p>- Ralph Marston</p>
+<p>- Stephen King</p>
