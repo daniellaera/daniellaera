@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Og Mandino</p>
