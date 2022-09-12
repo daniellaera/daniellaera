@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
+<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
 
-<p>- Steve Harvey</p>
+<p>- C. Sean McGee</p>
