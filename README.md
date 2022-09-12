@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not what happened to me, I am what I choose to become.</p>
+<p>Never be bored, and you will never be boring.</p>
 
-<p>- Carl Jung</p>
+<p>- Eleanor Roosevelt</p>
