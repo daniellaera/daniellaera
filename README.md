@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>- Dalai Lama</p>
+<p>- Albert Einstein</p>
