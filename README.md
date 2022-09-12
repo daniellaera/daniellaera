@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To find yourself, think for yourself.</p>
+<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
 
-<p>- Socrates</p>
+<p>- Dalai Lama</p>
