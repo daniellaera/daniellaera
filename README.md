@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we have the less we own.</p>
+<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Richard Bach</p>
