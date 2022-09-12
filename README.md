@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>- Tony Robbins</p>
+<p>- Albert Einstein</p>
