@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Andrew Hendrixson</p>
