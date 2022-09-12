@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>Poverty and hardship are created by false thinking.</p>
 
-<p>- Albert Einstein</p>
+<p>- Bodhidharma</p>
