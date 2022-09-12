@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great deeds are usually wrought at great risks.</p>
+<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
 
-<p>- Herodotus</p>
+<p>- Christopher Reeve</p>
