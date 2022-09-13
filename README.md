@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>You must welcome change as the rule but not as your ruler. </p>
 
-<p>- Mae West</p>
+<p>- Denis Waitley</p>
