@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes adversity is what you need to face in order to become successful.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Kenneth Branagh</p>
