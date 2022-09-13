@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live simply, expect little, give much.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Spencer Johnson</p>
