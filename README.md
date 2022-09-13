@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's very strange that the people you love are often the people you're most cruel to.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Robert Greene</p>
