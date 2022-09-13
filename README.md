@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
+<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
 
-<p>- Richard Bach</p>
+<p>- Laurence J. Peter</p>
