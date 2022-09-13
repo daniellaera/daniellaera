@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
 
-<p>- Beverly Sills</p>
+<p>- John Wooden</p>
