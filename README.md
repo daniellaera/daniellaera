@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>- Unknown</p>
+<p>- Carlos Ruiz Zafon</p>
