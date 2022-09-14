@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
+<p>A journey of a thousand miles begins with a single step.</p>
 
-<p>- Dalai Lama</p>
+<p>- Lao Tzu</p>
