@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New beginnings are disguised as painful endings.</p>
+<p>From error to error one discovers the entire truth.</p>
 
-<p>- Lao Tzu</p>
+<p>- Sigmund Freud</p>
