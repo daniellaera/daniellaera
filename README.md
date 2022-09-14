@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A journey of a thousand miles begins with a single step.</p>
+<p>Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.</p>
 
-<p>- Lao Tzu</p>
+<p>- John D. Rockefeller</p>
