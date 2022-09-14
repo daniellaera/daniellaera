@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>Act as if what you do makes a difference. It does.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- William James</p>
