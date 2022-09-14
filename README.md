@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing will work unless you do.</p>
+<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
 
-<p>- Maya Angelou</p>
+<p>- Dalai Lama</p>
