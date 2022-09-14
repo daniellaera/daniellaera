@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the most difficult things is not to change society - but to change yourself.</p>
+<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Dogen</p>
