@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act as if what you do makes a difference. It does.</p>
+<p>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</p>
 
-<p>- William James</p>
+<p>- Deepak Chopra</p>
