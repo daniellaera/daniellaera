@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The single biggest problem in communication is the illusion that it has taken place.</p>
+<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Oprah Winfrey</p>
