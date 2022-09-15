@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>- Unknown</p>
+<p>- Steve Harvey</p>
