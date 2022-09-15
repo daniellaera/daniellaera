@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot teach a crab to walk straight.</p>
+<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
 
-<p>- Aristophanes</p>
+<p>- Unknown</p>
