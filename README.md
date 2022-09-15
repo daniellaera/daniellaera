@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't look for meaning in the words. Listen to the silences.</p>
+<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Naval Ravikant</p>
