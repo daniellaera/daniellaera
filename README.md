@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Worry is a waste of emotional reserve.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Ayn Rand</p>
+<p>- Socrates</p>
