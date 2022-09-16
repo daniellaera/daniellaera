@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>Never be bored, and you will never be boring.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Eleanor Roosevelt</p>
