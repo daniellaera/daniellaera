@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Zig Ziglar</p>
+<p>- William Faulkner</p>
