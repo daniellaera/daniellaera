@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By failing to prepare, you are preparing to fail.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Christopher McCandless</p>
