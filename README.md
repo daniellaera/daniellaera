@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Laurence J. Peter</p>
