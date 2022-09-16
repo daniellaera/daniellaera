@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
+<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
 
-<p>- William Faulkner</p>
+<p>- Earl Nightingale</p>
