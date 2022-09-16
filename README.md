@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rivers know this: there is no hurry. We shall get there some day.</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>- A.A. Milne</p>
+<p>- Bob Proctor</p>
