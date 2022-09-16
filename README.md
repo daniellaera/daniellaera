@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only reason to be alive is to enjoy it.</p>
+<p>Rivers know this: there is no hurry. We shall get there some day.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- A.A. Milne</p>
