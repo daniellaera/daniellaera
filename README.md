@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.</p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>- Charles Dickens</p>
+<p>- Samuel Butler</p>
