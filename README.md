@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world doesn't always give you want, but it often gives you what you need.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Martin Luther King, Jr.</p>
