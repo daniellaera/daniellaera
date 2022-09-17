@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As a man thinketh in his heart, so shall he be.</p>
+<p>Don't live the same year 75 times and call it a life.</p>
 
-<p>- James Allen</p>
+<p>- Robin Sharma</p>
