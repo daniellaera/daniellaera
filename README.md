@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.</p>
+<p>Knowing yourself is the beginning of all wisdom.</p>
 
-<p>- John Eliot</p>
+<p>- Aristotle</p>
