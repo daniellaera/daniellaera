@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
 
-<p>- Samuel Butler</p>
+<p>- G.I. Gurdjieff</p>
