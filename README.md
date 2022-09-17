@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>The world doesn't always give you want, but it often gives you what you need.</p>
 
-<p>- Steve Harvey</p>
+<p>- Naval Ravikant</p>
