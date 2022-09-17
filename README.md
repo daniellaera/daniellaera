@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't live the same year 75 times and call it a life.</p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>- Robin Sharma</p>
+<p>- Thomas Jefferson</p>
