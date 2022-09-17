@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>- Dan Millman</p>
+<p>- James Allen</p>
