@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can change your mind, you can change your life.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>- William James</p>
+<p>- Chinese Proverb</p>
