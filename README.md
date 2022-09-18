@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>If you can change your mind, you can change your life.</p>
 
-<p>- Richard Bach</p>
+<p>- William James</p>
