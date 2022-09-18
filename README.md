@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The chief danger in life is that you may take too many precautions.</p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>- Alfred Adler</p>
+<p>- Orison Swett Marden</p>
