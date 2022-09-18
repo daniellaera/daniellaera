@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I begin with an idea and then it becomes something else.</p>
+<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Napoleon Hill</p>
