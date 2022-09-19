@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction.</p>
+<p>Just get out and do it. You will be very, very glad that you did.</p>
 
-<p>- Steve Harvey</p>
+<p>- Christopher McCandless</p>
