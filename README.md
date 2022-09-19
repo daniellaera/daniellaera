@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just get out and do it. You will be very, very glad that you did.</p>
+<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Dan Millman</p>
