@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
+<p>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</p>
 
-<p>- Dan Millman</p>
+<p>- Earl Nightingale</p>
