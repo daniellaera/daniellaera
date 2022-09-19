@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
+<p>Life is what you make it. Always has been, always will be.</p>
 
-<p>- Henry Ford</p>
+<p>- Eleanor Roosevelt</p>
