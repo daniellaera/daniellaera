@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't everything, but wanting to win is.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Marilyn Monroe</p>
