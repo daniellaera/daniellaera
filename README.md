@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
+<p>Winning isn't everything, but wanting to win is.</p>
 
-<p>- Henry Ford</p>
+<p>- Vince Lombardi</p>
