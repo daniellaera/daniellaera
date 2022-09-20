@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must have strong minds, ready to accept facts as they are.</p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Johann Wolfgang von Goethe</p>
