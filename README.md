@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
+<p>All religions, arts and sciences are branches of the same tree. </p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Albert Einstein</p>
