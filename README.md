@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
 
-<p>- Robert Collier</p>
+<p>- Anne Wilson Schaef</p>
