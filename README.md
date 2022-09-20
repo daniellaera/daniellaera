@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
+<p>The decisions of our past are the architects of our present.</p>
 
-<p>- Brian Tracy</p>
+<p>- Dan Brown</p>
