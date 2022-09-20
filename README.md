@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all of us can do great things. But we can do small things with great love.</p>
+<p>Take into account that great love and great achievements involve great risk.</p>
 
-<p>- Mother Teresa</p>
+<p>- Dalai Lama</p>
