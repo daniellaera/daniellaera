@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy when you can, and endure when you must.</p>
+<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Sathya Sai Baba</p>
