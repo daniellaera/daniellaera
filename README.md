@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>- Dalai Lama</p>
+<p>- Zhuangzi</p>
