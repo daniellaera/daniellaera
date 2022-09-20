@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The decisions of our past are the architects of our present.</p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>- Dan Brown</p>
+<p>- Robert Kiyosaki</p>
