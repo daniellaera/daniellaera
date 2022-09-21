@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest fears lie in anticipation.</p>
+<p>Keep your face to the sunshine and you cannot see the shadows.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Helen Keller</p>
