@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All wealth is the product of labor.</p>
+<p>Your success and happiness lie in you.</p>
 
-<p>- John Locke</p>
+<p>- Helen Keller</p>
