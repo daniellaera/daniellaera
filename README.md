@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you try to micromanage yourself all you're going to do is make yourself miserable.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Plato</p>
