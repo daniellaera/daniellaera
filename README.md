@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
+<p>Have a vision. Be demanding.</p>
 
-<p>- Ralph Marston</p>
+<p>- Colin Powell</p>
