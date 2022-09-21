@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
 
-<p>- Spencer Johnson</p>
+<p>- John Carmack</p>
