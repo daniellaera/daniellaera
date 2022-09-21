@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>To the mind that is still, the whole universe surrenders.</p>
 
-<p>- Grace Coddington</p>
+<p>- Lao Tzu</p>
