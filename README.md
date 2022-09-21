@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your face to the sunshine and you cannot see the shadows.</p>
+<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
 
-<p>- Helen Keller</p>
+<p>- Paramahansa Yogananda</p>
