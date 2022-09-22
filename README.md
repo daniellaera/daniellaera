@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about creating value.</p>
+<p>Love is merely the name for the desire and pursuit of the whole.</p>
 
-<p>- Candice Carpenter</p>
+<p>- Aristophanes</p>
