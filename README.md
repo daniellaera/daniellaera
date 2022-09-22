@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simple words, repeated daily, can change your life.</p>
+<p>There is no greater agony than bearing an untold story inside you.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Maya Angelou</p>
