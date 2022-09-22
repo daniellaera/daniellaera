@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
+<p>Excellence is not an exception, it is a prevailing attitude.</p>
 
-<p>- Criss Jami</p>
+<p>- Colin Powell</p>
