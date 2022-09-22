@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</p>
+<p>With the new day comes new strength and new thoughts.</p>
 
-<p>- Peter Drucker</p>
+<p>- Eleanor Roosevelt</p>
