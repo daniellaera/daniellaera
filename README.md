@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- Criss Jami</p>
