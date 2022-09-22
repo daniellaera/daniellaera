@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are more people who wish to be loved than there are who are willing to love. </p>
+<p>It is difficult to free fools from the chains they revere. </p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Voltaire</p>
