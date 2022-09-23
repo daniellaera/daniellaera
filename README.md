@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>You will not do incredible things without an incredible dream.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- John Eliot</p>
