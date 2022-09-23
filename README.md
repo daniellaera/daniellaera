@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If no one ever broke the rules, then we'd never advance.</p>
+<p>In spite of everything, I shall rise again.</p>
 
-<p>- Simon Sinek</p>
+<p>- Vincent van Gogh</p>
