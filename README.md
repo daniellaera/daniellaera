@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will not do incredible things without an incredible dream.</p>
+<p>When a man is penalized for honesty he learns to lie.</p>
 
-<p>- John Eliot</p>
+<p>- Criss Jami</p>
