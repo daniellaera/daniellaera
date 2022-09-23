@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you put water into a cup, it becomes the cup.</p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>- Bruce Lee</p>
+<p>- J.R.R. Tolkien</p>
