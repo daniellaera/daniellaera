@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is happy unless he believes he is.</p>
+<p>If you want to achieve greatness stop asking for permission.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Unknown</p>
