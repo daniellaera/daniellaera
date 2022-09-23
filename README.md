@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to achieve greatness stop asking for permission.</p>
+<p>We create the world and ourselves;</p>
 
-<p>- Unknown</p>
+<p>- Ming-Dao Deng</p>
