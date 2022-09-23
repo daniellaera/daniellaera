@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We think too much and feel too little.</p>
+<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Osho</p>
