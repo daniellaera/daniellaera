@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something to move yourself toward your major goal every day.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>- Brian Tracy</p>
+<p>- Kamal Ravikant</p>
