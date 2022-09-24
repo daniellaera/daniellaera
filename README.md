@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
 
 <p>- Earl Nightingale</p>
