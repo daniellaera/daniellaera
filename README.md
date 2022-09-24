@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
+<p>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Stephen King</p>
