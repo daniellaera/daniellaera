@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
-<p>- Walt Whitman</p>
+<p>- Paramahansa Yogananda</p>
