@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is an essence of when you are fearless, you become more creative.</p>
+<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- T.S. Eliot</p>
