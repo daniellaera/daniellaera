@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
 
-<p>- Richard Bach</p>
+<p>- Gilbert Chesterton</p>
