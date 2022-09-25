@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Gurbaksh Chahal</p>
