@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
+<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Paramahansa Yogananda</p>
