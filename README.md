@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>- Winston Churchill</p>
+<p>- Richard Bach</p>
