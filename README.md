@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stress happens when the mind resists what is.</p>
+<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
 
-<p>- Dan Millman</p>
+<p>- Chinese Proverb</p>
