@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cease striving. Then there will be transformation.</p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
 
-<p>- Zhuangzi</p>
+<p>- Zig Ziglar</p>
