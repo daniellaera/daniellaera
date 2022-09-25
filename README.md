@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of your greatest lessons come from your darkest moments.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>- Roger Lee</p>
+<p>- Lolly Daskal</p>
