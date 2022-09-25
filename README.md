@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Napoleon Hill</p>
