@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must cultivate our garden. </p>
+<p>Life should be touched, not strangled.  </p>
 
-<p>- Voltaire</p>
+<p>- Ray Bradbury</p>
