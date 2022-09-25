@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>- Zhuangzi</p>
+<p>- Jonathan Swift</p>
