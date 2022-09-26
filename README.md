@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dance first. Think later. It's the natural order.</p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Martin Luther</p>
