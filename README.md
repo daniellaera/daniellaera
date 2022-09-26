@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>- Deepak Chopra</p>
+<p>- T.S. Eliot</p>
