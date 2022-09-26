@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only reason to be alive is to enjoy it.</p>
+<p>We become what we believe.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Lolly Daskal</p>
