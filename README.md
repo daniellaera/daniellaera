@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The score never interested me, only the game.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>- Mae West</p>
+<p>- Aristotle</p>
