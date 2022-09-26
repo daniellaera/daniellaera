@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>The healthiest response to life is joy.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Deepak Chopra</p>
