@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
+<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
 
-<p>- Michael Jordan</p>
+<p>- Celestine Chua</p>
