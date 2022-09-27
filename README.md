@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Zhuangzi</p>
