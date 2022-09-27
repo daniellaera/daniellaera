@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
+<p>The fear of death is more to be feared, than death itself.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Publilius Syrus</p>
