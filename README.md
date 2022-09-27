@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If everyone is moving forward together, then success takes care of itself.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>- Henry Ford</p>
+<p>- Dr. Seuss</p>
