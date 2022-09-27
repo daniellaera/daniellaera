@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
+<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Unknown</p>
