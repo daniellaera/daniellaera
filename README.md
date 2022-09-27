@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sorrow is how we learn to love.</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Henry David Thoreau</p>
