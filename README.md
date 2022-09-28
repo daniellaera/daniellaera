@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>The world doesn't always give you want, but it often gives you what you need.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Naval Ravikant</p>
