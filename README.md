@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Deeds will not be less valiant because they are upraised.</p>
+<p>Only the hand that erases can write the true thing.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Meister Eckhart</p>
