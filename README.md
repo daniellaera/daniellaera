@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Seneca</p>
+<p>- George Bernard Shaw</p>
