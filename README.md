@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</p>
+<p>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</p>
 
-<p>- Sydney Smith</p>
+<p>- Lao Tzu</p>
