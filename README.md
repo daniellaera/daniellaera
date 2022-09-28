@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to find yourself is to lose yourself in the service of others.</p>
+<p>Go for it now. The future is promised to no one. </p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Wayne Dyer</p>
