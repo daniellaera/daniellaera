@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
+<p>Behind every beautiful thing, there's some kind of pain.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Bob Dylan</p>
