@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </p>
+<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
 
-<p>- Martin Luther</p>
+<p>- Arnold Schwarzenegger</p>
