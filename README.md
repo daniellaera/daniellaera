@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Vincent van Gogh</p>
