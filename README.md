@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every beautiful thing, there's some kind of pain.</p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>- Bob Dylan</p>
+<p>- J.R.R. Tolkien</p>
