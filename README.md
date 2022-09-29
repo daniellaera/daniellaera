@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>- Bodhidharma</p>
+<p>- Ming-Dao Deng</p>
