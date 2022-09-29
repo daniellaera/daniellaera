@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
+<p>I learned the value of hard work by working hard. </p>
 
-<p>- John Wooden</p>
+<p>- Margaret Mead</p>
