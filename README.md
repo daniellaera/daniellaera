@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I learned the value of hard work by working hard. </p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>- Margaret Mead</p>
+<p>- William James</p>
