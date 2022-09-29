@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
+<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Andrew Carnegie</p>
