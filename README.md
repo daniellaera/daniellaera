@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Alexandre Dumas</p>
