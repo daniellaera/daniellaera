@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
+<p>Decide what your truth is. Then live it.</p>
 
-<p>- Criss Jami</p>
+<p>- Kamal Ravikant</p>
