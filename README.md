@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide what your truth is. Then live it.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Sun Tzu</p>
