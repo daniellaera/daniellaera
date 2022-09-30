@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the midst of chaos, there is also opportunity.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>- Sun Tzu</p>
+<p>- Roy T. Bennett</p>
