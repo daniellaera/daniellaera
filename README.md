@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Steve Maraboli</p>
