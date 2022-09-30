@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</p>
+<p>Wit is educated insolence.</p>
 
-<p>- Stephen King</p>
+<p>- Aristotle</p>
