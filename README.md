@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>- Winston Churchill</p>
+<p>- Carl Jung</p>
