@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It isn't what you do, but how you do it.</p>
+<p>We become what we believe.</p>
 
-<p>- John Wooden</p>
+<p>- Lolly Daskal</p>
