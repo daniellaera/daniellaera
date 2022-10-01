@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To love means loving the unlovable.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Adi Da Samraj</p>
