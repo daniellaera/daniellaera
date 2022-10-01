@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>The art of being wise is knowing what to overlook.</p>
 
-<p>- Zen Proverb</p>
+<p>- William James</p>
