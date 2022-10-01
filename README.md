@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
+<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
 
-<p>- Voltaire</p>
+<p>- Gilbert Chesterton</p>
