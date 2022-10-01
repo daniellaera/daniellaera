@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>The purpose of life is to contribute in some way to making things better.</p>
 
-<p>- George Eliot</p>
+<p>- Robert F. Kennedy</p>
