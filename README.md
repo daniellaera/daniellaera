@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your outlook on life that counts.</p>
+<p>Human beings believe just as they breathe - in order to survive.</p>
 
-<p>- Betty White</p>
+<p>- Carlos Ruiz Zafon</p>
