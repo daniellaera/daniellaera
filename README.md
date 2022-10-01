@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to light a candle than to curse the darkness. </p>
+<p>It's your outlook on life that counts.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Betty White</p>
