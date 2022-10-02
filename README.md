@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life.</p>
+<p>Intense love does not measure, it just gives.</p>
 
-<p>- Steve Jobs</p>
+<p>- Mother Teresa</p>
