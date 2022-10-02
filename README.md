@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intense love does not measure, it just gives.</p>
+<p>The world makes way for the man who knows where he is going.</p>
 
-<p>- Mother Teresa</p>
+<p>- Ralph Waldo Emerson</p>
