@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
+<p>There is no path to Peace. Peace is the path.</p>
 
-<p>- Walt Whitman</p>
+<p>- Dan Millman</p>
