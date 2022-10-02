@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
+<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Kenji Miyazawa</p>
