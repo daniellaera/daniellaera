@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Amelia Earhart</p>
