@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
+<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
 
-<p>- Brian Tracy</p>
+<p>- Wayne Dyer</p>
