@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the expression of one's values.</p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>- Ayn Rand</p>
+<p>- Marcus Aurelius</p>
