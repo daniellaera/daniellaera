@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
+<p>Your time is limited, so don't waste it living someone elses. life.</p>
 
-<p>- Og Mandino</p>
+<p>- Steve Jobs</p>
