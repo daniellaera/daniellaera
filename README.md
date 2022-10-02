@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Og Mandino</p>
