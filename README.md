@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Elbert Hubbard</p>
