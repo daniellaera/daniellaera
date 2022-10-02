@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
 
-<p>- Henry Ford</p>
+<p>- Jack Kerouac</p>
