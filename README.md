@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>- Brian Tracy</p>
+<p>- Jon Kabat-Zinn</p>
