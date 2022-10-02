@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
+<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
 
-<p>- Celestine Chua</p>
+<p>- Walt Whitman</p>
