@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunities multiply as they are seized.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>- Sun Tzu</p>
+<p>- Tony Robbins</p>
