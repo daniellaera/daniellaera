@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
+<p>Fear is what stops you. Courage is what keeps you going.</p>
 
-<p>- Colin Powell</p>
+<p>- Unknown</p>
