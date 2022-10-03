@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man is affected not by events but by the view he takes of them.  </p>
+<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
 
-<p>- Seneca</p>
+<p>- Carlos Ruiz Zafon</p>
