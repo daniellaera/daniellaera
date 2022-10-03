@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>Man is affected not by events but by the view he takes of them.  </p>
 
-<p>- Jim Rohn</p>
+<p>- Seneca</p>
