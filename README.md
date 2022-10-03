@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success on the outside means nothing unless you also have success within.</p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>- Robin Sharma</p>
+<p>- Judy Garland</p>
