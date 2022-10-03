@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
+<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
 
-<p>- Jack Butcher</p>
+<p>- Ming-Dao Deng</p>
