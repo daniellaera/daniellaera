@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Roy T. Bennett</p>
