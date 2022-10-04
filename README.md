@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our view of the world is truly shaped by what we decide to hear.</p>
+<p>Cleverness is not wisdom.</p>
 
-<p>- William James</p>
+<p>- Euripides</p>
