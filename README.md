@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Walt Whitman</p>
