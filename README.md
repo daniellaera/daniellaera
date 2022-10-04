@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing new in the world is the history you do not know.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>- Harry S. Truman</p>
+<p>- G.I. Gurdjieff</p>
