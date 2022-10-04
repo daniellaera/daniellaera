@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let your mind stop you.</p>
+<p>True friendship ought never to conceal what it thinks. </p>
 
-<p>- Steve Harvey</p>
+<p>- St. Jerome</p>
