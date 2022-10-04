@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is the glory of expression.</p>
+<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
 
-<p>- Walt Whitman</p>
+<p>- Norman Vincent Peale</p>
