@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure is what lies ahead.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Harry S. Truman</p>
