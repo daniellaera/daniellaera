@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>- Jim Rohn</p>
+<p>- J.R.R. Tolkien</p>
