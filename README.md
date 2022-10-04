@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can live without money, but I cannot live without love.</p>
+<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
 
-<p>- Judy Garland</p>
+<p>- George Bernard Shaw</p>
