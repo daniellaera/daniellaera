@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>Make each day a new horizon.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Christopher McCandless</p>
