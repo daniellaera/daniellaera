@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
+<p>Fool me once, shame on you; fool me twice, shame on me. </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Chinese Proverb</p>
