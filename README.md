@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
+<p>Turn your wounds into wisdom. </p>
 
-<p>- Sonia Ricotti</p>
+<p>- Oprah Winfrey</p>
