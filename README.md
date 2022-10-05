@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be curious, not judgmental.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>- Walt Whitman</p>
+<p>- Deepak Chopra</p>
