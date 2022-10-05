@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
+<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
 
-<p>- Charles Darwin</p>
+<p>- Napoleon Hill</p>
