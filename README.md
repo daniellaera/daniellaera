@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>It is better to light a single candle than to curse the darkness.</p>
 
-<p>- Aristotle</p>
+<p>- Eleanor Roosevelt</p>
