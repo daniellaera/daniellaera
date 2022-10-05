@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Sonia Ricotti</p>
