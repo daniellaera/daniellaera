@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make improvements, not excuses. Seek respect, not attention.</p>
+<p>The essence of the Way is detachment.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Bodhidharma</p>
