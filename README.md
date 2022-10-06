@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
+<p>Evil is whatever distracts. </p>
 
-<p>- Bob Marley</p>
+<p>- Franz Kafka</p>
