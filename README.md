@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>Confidence comes not from always being right but not fearing to be wrong.</p>
 
-<p>- Seneca</p>
+<p>- Unknown</p>
