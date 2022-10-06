@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The essence of the Way is detachment.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>- Bodhidharma</p>
+<p>- Tony Robbins</p>
