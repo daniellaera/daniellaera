@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
 
-<p>- Mae West</p>
+<p>- Zen Proverb</p>
