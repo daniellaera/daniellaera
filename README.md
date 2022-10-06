@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Evil is whatever distracts. </p>
+<p>Being entirely honest with oneself is a good exercise.</p>
 
-<p>- Franz Kafka</p>
+<p>- Sigmund Freud</p>
