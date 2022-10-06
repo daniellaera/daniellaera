@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No snowflake ever falls in the wrong place.</p>
+<p>Make improvements, not excuses. Seek respect, not attention.</p>
 
-<p>- Zen Proverb</p>
+<p>- Roy T. Bennett</p>
