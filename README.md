@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
 <p>- Zen Proverb</p>
