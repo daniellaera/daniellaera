@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is difficult, that's why most people judge.</p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>- Carl Jung</p>
+<p>- Seneca</p>
