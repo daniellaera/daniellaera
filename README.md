@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes not from always being right but not fearing to be wrong.</p>
+<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
 
-<p>- Unknown</p>
+<p>- Maxime Lagace</p>
