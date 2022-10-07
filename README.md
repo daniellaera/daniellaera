@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</p>
 
-<p>- Dogen</p>
+<p>- Plato</p>
