@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
+<p>Wherever you are is the entry point.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Kabir</p>
