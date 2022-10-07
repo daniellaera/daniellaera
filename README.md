@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Les Brown</p>
