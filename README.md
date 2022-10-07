@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dogen</p>
