@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is the price that life exacts for granting peace.</p>
+<p>To be totally at leisure for one day is to be immortal for one day. </p>
 
-<p>- Amelia Earhart</p>
+<p>- Chinese Proverb</p>
