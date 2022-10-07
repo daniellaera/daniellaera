@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- James Allen</p>
