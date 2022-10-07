@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>- Dan Millman</p>
+<p>- George Eliot</p>
