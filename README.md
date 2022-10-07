@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
+<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- George Bernard Shaw</p>
