@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
+<p>If you look for perfection, you'll never be content.</p>
 
-<p>- Ayn Rand</p>
+<p>- Leo Tolstoy</p>
