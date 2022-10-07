@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be totally at leisure for one day is to be immortal for one day. </p>
+<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Miguel de Cervantes</p>
