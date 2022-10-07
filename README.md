@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather die on my feet than live on my knees.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>- Euripides</p>
+<p>- Henry Ward Beecher</p>
