@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is never too late to be what you might have been.</p>
+<p>Courage is the price that life exacts for granting peace.</p>
 
-<p>- George Eliot</p>
+<p>- Amelia Earhart</p>
