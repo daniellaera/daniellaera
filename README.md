@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction.</p>
+<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
 
-<p>- Steve Harvey</p>
+<p>- Alexander Pope</p>
