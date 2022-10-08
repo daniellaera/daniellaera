@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place success comes before work is in the dictionary.</p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Simon Sinek</p>
