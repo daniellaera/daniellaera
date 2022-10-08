@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Meister Eckhart</p>
+<p>- Denis Waitley</p>
