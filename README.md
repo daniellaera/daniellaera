@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to offer no excuse than a bad one. </p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>- George Washington</p>
+<p>- Aristophanes</p>
