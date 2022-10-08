@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>Life isn't about finding yourself. Life is about creating yourself.</p>
 
-<p>- Samuel Butler</p>
+<p>- George Bernard Shaw</p>
