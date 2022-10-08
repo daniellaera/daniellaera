@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life isn't about finding yourself. Life is about creating yourself.</p>
+<p>Success is a poor teacher.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Robert Kiyosaki</p>
