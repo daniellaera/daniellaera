@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art, like morality, consists of drawing the line somewhere.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Les Brown</p>
