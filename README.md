@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>- Steve Jobs</p>
+<p>- Vince Lombardi</p>
