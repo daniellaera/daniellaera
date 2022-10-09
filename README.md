@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life and forget your age.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Leo Tolstoy</p>
