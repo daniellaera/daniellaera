@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Jon Kabat-Zinn</p>
