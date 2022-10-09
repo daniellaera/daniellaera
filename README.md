@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Carl Jung</p>
