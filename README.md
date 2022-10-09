@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
+<p>Great things are not done by impulse, but by a series of small things brought together.</p>
 
-<p>- Carl Jung</p>
+<p>- Vincent van Gogh</p>
