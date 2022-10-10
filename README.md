@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</p>
+<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Colin Powell</p>
