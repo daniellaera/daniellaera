@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your world is a living expression of how you are using and have used your mind.</p>
+<p>Don't hate the player. Change the game.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Steve Harvey</p>
