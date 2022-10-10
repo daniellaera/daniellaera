@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
+<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- John Wooden</p>
