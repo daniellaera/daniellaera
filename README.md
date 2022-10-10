@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>- Osho</p>
+<p>- Vincent van Gogh</p>
