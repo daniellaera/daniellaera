@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
+<p>You only live once, but if you do it right, once is enough.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Mae West</p>
