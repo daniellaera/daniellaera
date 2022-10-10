@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't hate the player. Change the game.</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>- Steve Harvey</p>
+<p>- Bodhidharma</p>
