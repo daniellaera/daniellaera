@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>- Henry Ford</p>
+<p>- John Lennon</p>
