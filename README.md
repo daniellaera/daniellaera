@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</p>
+<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Ming-Dao Deng</p>
