@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't live the same year 75 times and call it a life.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>- Robin Sharma</p>
+<p>- Unknown</p>
