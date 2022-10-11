@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>- Colin Powell</p>
+<p>- Aristotle</p>
