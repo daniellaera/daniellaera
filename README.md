@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only time you run out of chances is when you stop taking them.</p>
+<p>The smallest of actions is always better than the noblest of intentions.</p>
 
-<p>- Unknown</p>
+<p>- Robin Sharma</p>
