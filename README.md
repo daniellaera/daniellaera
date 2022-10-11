@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Aristotle</p>
