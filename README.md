@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Pablo Picasso</p>
