@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Till it has loved, no man or woman can become itself.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Sydney Smith</p>
