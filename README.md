@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is during our darkest moments that we must focus to see the light.</p>
+<p>There is no self-discovery without pain and loss.</p>
 
-<p>- Aristotle</p>
+<p>- Anita Krizzan</p>
