@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- Robin Sharma</p>
+<p>- Eckhart Tolle</p>
