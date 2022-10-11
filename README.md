@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For the things we have to learn before we can do them, we learn by doing them.</p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>- Aristotle</p>
+<p>- Emily Dickinson</p>
