@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I begin with an idea and then it becomes something else.</p>
+<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Eckhart Tolle</p>
