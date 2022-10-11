@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder you work, the harder it is to surrender.</p>
+<p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Carl Jung</p>
