@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
+<p>Choose a job you love, and you will never have to work a day in your life. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Confucius</p>
