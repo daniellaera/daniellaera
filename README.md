@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
+<p>Eighty percent of success is showing up. </p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Woody Allen</p>
