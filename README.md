@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I persist long enough I will win.</p>
+<p>Go as far as you can see and you will see further.  </p>
 
-<p>- Og Mandino</p>
+<p>- Zig Ziglar</p>
