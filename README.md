@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>Thinking is difficult, that's why most people judge.</p>
 
-<p>- Confucius</p>
+<p>- Carl Jung</p>
