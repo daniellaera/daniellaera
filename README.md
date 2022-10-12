@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>The hard path is often the right one. The river teaches more than the shore.</p>
 
-<p>- Martin Luther</p>
+<p>- Maxime Lagace</p>
