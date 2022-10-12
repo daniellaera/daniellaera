@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Eighty percent of success is showing up. </p>
+<p>Lack of emotion causes lack of progress and lack of motivation.</p>
 
-<p>- Woody Allen</p>
+<p>- Tony Robbins</p>
