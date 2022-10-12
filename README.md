@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go as far as you can see and you will see further.  </p>
+<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Leonardo da Vinci</p>
