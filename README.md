@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm. Be kind.</p>
+<p>Wealth is the product of man's capacity to think.</p>
 
-<p>- Colin Powell</p>
+<p>- Ayn Rand</p>
