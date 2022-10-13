@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Jon Kabat-Zinn</p>
