@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is literally what he thinks.</p>
+<p>No problem can be solved from the same level of consciousness that created it.</p>
 
-<p>- James Allen</p>
+<p>- Albert Einstein</p>
