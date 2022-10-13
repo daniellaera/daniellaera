@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Thomas Edison</p>
