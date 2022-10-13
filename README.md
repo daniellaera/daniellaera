@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lack of emotion causes lack of progress and lack of motivation.</p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
-<p>- Tony Robbins</p>
+<p>- Paramahansa Yogananda</p>
