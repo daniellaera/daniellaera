@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the root is strong, the fruit is sweet.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>- Bob Marley</p>
+<p>- Thomas Jefferson</p>
