@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is destiny.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>- Heraclitus</p>
+<p>- Carl Jung</p>
