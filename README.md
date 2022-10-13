@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot change anything unless we accept it.</p>
+<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
 
-<p>- Carl Jung</p>
+<p>- Marcus Aurelius</p>
