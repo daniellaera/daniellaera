@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're curious, you find lots of interesting things to do.</p>
+<p>There's more to life than being a passenger.</p>
 
-<p>- Walt Disney</p>
+<p>- Amelia Earhart</p>
