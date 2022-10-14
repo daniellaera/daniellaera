@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be prepared is half the victory. </p>
+<p>Life is a balance of holding on and letting go.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Rumi</p>
