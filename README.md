@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Pema Chodron</p>
