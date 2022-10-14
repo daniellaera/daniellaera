@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is a difficult thing to achieve.  </p>
+<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Vincent van Gogh</p>
