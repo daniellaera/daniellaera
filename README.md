@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is much more successfully looked at from a single window.</p>
+<p>Simplicity is a difficult thing to achieve.  </p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Charlie Chaplin</p>
