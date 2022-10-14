@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tall oaks grow from little acorns.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Pablo Picasso</p>
