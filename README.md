@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
+<p>Those who cannot change their minds cannot change anything.</p>
 
-<p>- Bruce Lee</p>
+<p>- George Bernard Shaw</p>
