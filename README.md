@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who cannot change their minds cannot change anything.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Miguel de Cervantes</p>
