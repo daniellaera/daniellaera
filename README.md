@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Dan Millman</p>
