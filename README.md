@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
+<p>Life is much more successfully looked at from a single window.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- F. Scott Fitzgerald</p>
