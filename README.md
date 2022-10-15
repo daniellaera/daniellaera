@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>- Criss Jami</p>
+<p>- Dan Millman</p>
