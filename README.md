@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Here and now...breathe and relax...in battle and in life.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>- Dan Millman</p>
+<p>- Peter Drucker</p>
