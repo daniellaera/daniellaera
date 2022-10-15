@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you have only one smile in you give it to the people you love.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>- Maya Angelou</p>
+<p>- Chinese Proverb</p>
