@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The mind is the limit.</p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Robert Kiyosaki</p>
