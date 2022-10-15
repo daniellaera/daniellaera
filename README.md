@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
+<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
 
-<p>- Mark Manson</p>
+<p>- Criss Jami</p>
