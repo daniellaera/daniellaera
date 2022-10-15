@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>Love is the energy of life.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Robert Browning</p>
