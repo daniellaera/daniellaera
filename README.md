@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Until we can manage time, we can manage nothing else.</p>
+<p>When you're curious, you find lots of interesting things to do.</p>
 
-<p>- Peter Drucker</p>
+<p>- Walt Disney</p>
