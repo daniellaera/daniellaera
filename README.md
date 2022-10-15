@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
 
-<p>- Chinese Proverb</p>
+<p>- Bodhidharma</p>
