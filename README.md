@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the energy of life.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>- Robert Browning</p>
+<p>- Maya Angelou</p>
