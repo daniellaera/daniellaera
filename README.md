@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Thich Nhat Hanh</p>
