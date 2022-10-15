@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no way to happiness - happiness is the way.</p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Christopher McCandless</p>
