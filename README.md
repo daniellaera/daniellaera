@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It always seems impossible until it's done.</p>
+<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Mark Manson</p>
