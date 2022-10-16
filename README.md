@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the expression of one's values.</p>
+<p>A mountain never yields to the wind no matter how strong it is.</p>
 
-<p>- Ayn Rand</p>
+<p>- Zen Proverb</p>
