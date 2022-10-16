@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
+<p>Time heals what reason cannot.  </p>
 
-<p>- Shahir Zag</p>
+<p>- Seneca</p>
