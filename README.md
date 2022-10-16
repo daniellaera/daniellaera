@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
 
-<p>- Earl Nightingale</p>
+<p>- John Tukey</p>
