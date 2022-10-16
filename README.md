@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
+<p>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Ming-Dao Deng</p>
