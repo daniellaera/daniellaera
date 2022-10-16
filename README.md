@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>Life is a journey, not a destination.</p>
 
-<p>- Charles Dickens</p>
+<p>- Dan Millman</p>
