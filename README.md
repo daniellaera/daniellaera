@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>- James Allen</p>
+<p>- Eckhart Tolle</p>
