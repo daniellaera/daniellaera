@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do your best. What you plant now, you will harvest later.</p>
+<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
 
-<p>- Og Mandino</p>
+<p>- Celestine Chua</p>
