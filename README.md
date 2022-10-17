@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
+<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
 
-<p>- Celestine Chua</p>
+<p>- Mary Engelbreit</p>
