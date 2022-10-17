@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Aim for the moon. If you miss, you may hit a star.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Dogen</p>
