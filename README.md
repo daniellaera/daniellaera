@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- W. Clement Stone</p>
