@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place where success comes before work is in the dictionary.</p>
+<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Maxime Lagace</p>
