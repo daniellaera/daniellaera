@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is the offspring of silence and meditation.</p>
+<p>The scariest moment is always just before you start. After that, things can only get better.</p>
 
-<p>- Isaac Newton</p>
+<p>- Stephen King</p>
