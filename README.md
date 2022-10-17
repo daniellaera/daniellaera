@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to be great to start, but you have to start to be great.  </p>
+<p>Never give way to laziness.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Bhagavad Gita</p>
