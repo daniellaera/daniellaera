@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
+<p>You don't have to be great to start, but you have to start to be great.  </p>
 
-<p>- John Tukey</p>
+<p>- Zig Ziglar</p>
