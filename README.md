@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Yanni</p>
