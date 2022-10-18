@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise warrior avoids the battle.</p>
+<p>Hope is not a strategy. Luck is not a factor. Fear is not an option.</p>
 
-<p>- Sun Tzu</p>
+<p>- James Cameron</p>
