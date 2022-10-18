@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>- Seneca</p>
+<p>- Tony Robbins</p>
