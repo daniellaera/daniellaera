@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it. </p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>- Bodhidharma</p>
+<p>- Seneca</p>
