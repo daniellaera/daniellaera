@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Estee Lauder</p>
+<p>- Unknown</p>
