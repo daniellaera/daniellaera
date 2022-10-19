@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Dalai Lama</p>
