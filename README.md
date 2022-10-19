@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
 
-<p>- George Addair</p>
+<p>- George Bernard Shaw</p>
