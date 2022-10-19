@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no significance in life without struggle.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Gurbaksh Chahal</p>
