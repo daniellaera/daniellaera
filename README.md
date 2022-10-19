@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you decide to do, make sure it makes you happy.</p>
+<p>The score never interested me, only the game.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Mae West</p>
