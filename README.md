@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find something you love and do it better than everyone else.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Paulo Coelho</p>
