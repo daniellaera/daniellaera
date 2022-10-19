@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot always do great things in life, but we can do small things with great love.</p>
+<p>Every great change is preceded by chaos.</p>
 
-<p>- Dan Millman</p>
+<p>- Deepak Chopra</p>
