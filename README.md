@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are now, and you do become, what you think about.</p>
+<p>Create each day anew.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Morihei Ueshiba</p>
