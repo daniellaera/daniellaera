@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every great change is preceded by chaos.</p>
+<p>You are now, and you do become, what you think about.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Earl Nightingale</p>
