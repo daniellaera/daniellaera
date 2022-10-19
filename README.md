@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Dan Millman</p>
