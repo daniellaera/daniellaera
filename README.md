@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Maxime Lagace</p>
+<p>- George Addair</p>
