@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Robert Collier</p>
