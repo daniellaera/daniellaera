@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Seneca</p>
