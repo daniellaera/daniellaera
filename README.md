@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time heals what reason cannot.  </p>
+<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
 
-<p>- Seneca</p>
+<p>- Sun Tzu</p>
