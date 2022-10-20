@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We've got to live, no matter how many skies have fallen.</p>
+<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Winston Churchill</p>
