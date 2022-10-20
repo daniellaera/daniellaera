@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can see it in your mind, you can hold it in your mind.</p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>- Steve Harvey</p>
+<p>- Helen Keller</p>
