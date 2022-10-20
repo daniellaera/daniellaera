@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>- Winston Churchill</p>
+<p>- Zen Proverb</p>
