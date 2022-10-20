@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Steve Harvey</p>
