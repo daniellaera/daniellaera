@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing worse than being blind is having sight but no vision.</p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>- Helen Keller</p>
+<p>- Jeffrey Gitomer</p>
