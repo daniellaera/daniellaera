@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Earl Nightingale</p>
