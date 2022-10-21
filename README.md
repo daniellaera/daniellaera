@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Distant water does not put out a nearby fire.</p>
+<p>All leaders are readers.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Jim Rohn</p>
