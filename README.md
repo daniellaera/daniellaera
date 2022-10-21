@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The enemy is a very good teacher.</p>
+<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
 
-<p>- Dalai Lama</p>
+<p>- Yanni</p>
