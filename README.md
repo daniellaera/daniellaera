@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All leaders are readers.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>- Jim Rohn</p>
+<p>- Oprah Winfrey</p>
