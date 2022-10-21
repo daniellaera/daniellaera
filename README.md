@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Chinese Proverb</p>
