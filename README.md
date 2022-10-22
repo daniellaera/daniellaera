@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Start each day with a positive thought and a grateful heart.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Franz Kafka</p>
