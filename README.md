@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>True it is, we only hate those whom we do not know.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Andrew Carnegie</p>
