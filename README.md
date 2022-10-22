@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>- Winston Churchill</p>
+<p>- Paulo Coelho</p>
