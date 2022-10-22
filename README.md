@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Simon Sinek</p>
