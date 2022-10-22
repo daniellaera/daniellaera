@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take interest and even delight in doing the small things well.</p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>- Jim Rohn</p>
+<p>- Sigmund Freud</p>
