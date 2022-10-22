@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
+<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
 
-<p>- Sigmund Freud</p>
+<p>- Eckhart Tolle</p>
