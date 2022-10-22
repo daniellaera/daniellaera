@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficulties strengthen the mind, as labor does the body.  </p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>- Seneca</p>
+<p>- Norman Vincent Peale</p>
