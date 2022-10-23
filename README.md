@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
+<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
 
-<p>- Criss Jami</p>
+<p>- Charles Dickens</p>
