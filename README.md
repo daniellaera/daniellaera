@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Henry Ward Beecher</p>
