@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you make a choice, you change the future.</p>
+<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Thomas Jefferson</p>
