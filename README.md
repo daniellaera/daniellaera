@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be approximately right rather than exactly wrong.</p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>- John Tukey</p>
+<p>- Unknown</p>
