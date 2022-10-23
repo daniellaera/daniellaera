@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Og Mandino</p>
