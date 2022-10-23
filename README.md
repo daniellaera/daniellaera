@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
+<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- James Allen</p>
