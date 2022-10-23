@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Peter Drucker</p>
