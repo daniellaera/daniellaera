@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
+<p>It is truth that liberates, not your effort to be free.</p>
 
-<p>- Lao Tzu</p>
+<p>- Jiddu Krishnamurti</p>
