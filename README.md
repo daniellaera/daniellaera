@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True it is, we only hate those whom we do not know.</p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Estee Lauder</p>
