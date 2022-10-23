@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>- James Allen</p>
+<p>- John Tukey</p>
