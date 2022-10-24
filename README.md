@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman is one who puts more into the world than he takes out.</p>
+<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Tony Robbins</p>
