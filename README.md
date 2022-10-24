@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Benjamin Franklin</p>
