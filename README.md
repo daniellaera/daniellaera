@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>- Joyce Meyer</p>
+<p>- Henry Ford</p>
