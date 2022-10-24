@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
+<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
 
-<p>- Tony Robbins</p>
+<p>- Roy T. Bennett</p>
