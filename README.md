@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>Talk sense to a fool and he calls you foolish.</p>
 
-<p>- Mae West</p>
+<p>- Euripides</p>
