@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peaceful is the one who expects nothing.</p>
+<p>From error to error one discovers the entire truth.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Sigmund Freud</p>
