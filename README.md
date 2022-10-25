@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
 
-<p>- Jack London</p>
+<p>- Eleanor Roosevelt</p>
