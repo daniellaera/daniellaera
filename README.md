@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Earl Nightingale</p>
