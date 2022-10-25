@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>- Euripides</p>
+<p>- Jack London</p>
