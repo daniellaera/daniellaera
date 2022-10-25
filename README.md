@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure is what lies ahead.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Les Brown</p>
