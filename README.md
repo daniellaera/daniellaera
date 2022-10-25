@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Martin Luther King, Jr.</p>
