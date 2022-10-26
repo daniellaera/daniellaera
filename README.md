@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
+<p>Never whine, never complain, never try to justify yourself.</p>
 
-<p>- Unknown</p>
+<p>- Robert Greene</p>
