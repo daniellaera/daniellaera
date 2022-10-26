@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
+<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
 
-<p>- Estee Lauder</p>
+<p>- Wayne Dyer</p>
