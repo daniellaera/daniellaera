@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave enough to suck at something new.</p>
+<p>With the new day comes new strength and new thoughts.</p>
 
-<p>- Unknown</p>
+<p>- Eleanor Roosevelt</p>
