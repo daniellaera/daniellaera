@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
+<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Estee Lauder</p>
