@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
+<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Carlos Ruiz Zafon</p>
