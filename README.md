@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be prepared is half the victory. </p>
+<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Jeffrey Gitomer</p>
