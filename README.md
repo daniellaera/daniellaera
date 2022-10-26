@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>We tend to live up to our expectations.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Earl Nightingale</p>
