@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>- Plato</p>
+<p>- Genghis Khan</p>
