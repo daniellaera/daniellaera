@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
+<p>Relax. Nothing is under control.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Adi Da Samraj</p>
