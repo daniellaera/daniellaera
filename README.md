@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
 
-<p>- Albert Einstein</p>
+<p>- Mark Twain</p>
