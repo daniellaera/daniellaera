@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Action is the foundational key to all success.</p>
+<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Thich Nhat Hanh</p>
