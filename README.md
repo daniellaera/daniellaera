@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Begin now to be what you will be hereafter.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>- St. Jerome</p>
+<p>- Charles Darwin</p>
