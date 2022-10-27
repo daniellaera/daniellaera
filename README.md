@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If life were predictable it would cease to be life, and be without flavor.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Conrad Hilton</p>
