@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We tend to live up to our expectations.</p>
+<p>How much pain they have cost us, the evils which have never happened.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Thomas Jefferson</p>
