@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Judy Garland</p>
