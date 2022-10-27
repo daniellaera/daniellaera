@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final; failure is never fatal.</p>
+<p>Begin now to be what you will be hereafter.</p>
 
-<p>- Conrad Hilton</p>
+<p>- St. Jerome</p>
