@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.</p>
+<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
 
-<p>- James Allen</p>
+<p>- Sun Tzu</p>
