@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The season of failure is the best time for sowing the seeds of success. </p>
+<p>If there were no God, there would be no atheists.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Gilbert Chesterton</p>
