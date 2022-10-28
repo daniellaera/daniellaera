@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of difficulty lies opportunity.</p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>- Albert Einstein</p>
+<p>- Henry David Thoreau</p>
