@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Vincent van Gogh</p>
