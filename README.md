@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't think money does everything or you are going to end up doing everything for money.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>- Voltaire</p>
+<p>- Paulo Coelho</p>
