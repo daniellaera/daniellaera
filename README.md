@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
+<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
 
-<p>- Tony Robbins</p>
+<p>- Audrey Hepburn</p>
