@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only when I fall do I get up again.</p>
+<p>The season of failure is the best time for sowing the seeds of success. </p>
 
-<p>- Vincent van Gogh</p>
+<p>- Paramahansa Yogananda</p>
