@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
+<p>The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- James Allen</p>
