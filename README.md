@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others achieve their dreams and you will achieve yours.</p>
+<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
 
-<p>- Les Brown</p>
+<p>- William James</p>
