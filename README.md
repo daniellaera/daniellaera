@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
+<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
 
-<p>- Seungsahn</p>
+<p>- Ming-Dao Deng</p>
