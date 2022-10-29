@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- Zen Proverb</p>
+<p>- Lolly Daskal</p>
