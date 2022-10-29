@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
+<p>We have more possibilities available in each moment than we realize.</p>
 
-<p>- Criss Jami</p>
+<p>- Thich Nhat Hanh</p>
