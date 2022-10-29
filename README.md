@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
+<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Sathya Sai Baba</p>
