@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where violence reigns, reason is weak.</p>
+<p>Who you are is defined by what you're willing to struggle for.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Mark Manson</p>
