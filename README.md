@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Norman Vincent Peale</p>
