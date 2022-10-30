@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Thomas Jefferson</p>
