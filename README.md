@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When things go wrong, don't go with them.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>- Elvis Presley</p>
+<p>- Bob Proctor</p>
