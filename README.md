@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Mary Engelbreit</p>
