@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
+<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
 
-<p>- Dalai Lama</p>
+<p>- D. H. Lawrence</p>
