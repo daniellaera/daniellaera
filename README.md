@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what you make it. Always has been, always will be.</p>
+<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Winston Churchill</p>
