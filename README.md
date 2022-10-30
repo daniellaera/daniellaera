@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>Life is what you make it. Always has been, always will be.</p>
 
-<p>- Peter Drucker</p>
+<p>- Eleanor Roosevelt</p>
