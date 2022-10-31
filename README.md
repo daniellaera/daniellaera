@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger begins with folly, and ends with repentance. </p>
+<p>Life is like underwear, should be changed twice a day.  </p>
 
-<p>- Beverly Sills</p>
+<p>- Ray Bradbury</p>
