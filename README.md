@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Barack Obama</p>
