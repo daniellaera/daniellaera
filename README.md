@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is trying things to see if they work.</p>
+<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Joan Rivers</p>
