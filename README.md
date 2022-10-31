@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always seek out the seed of triumph in every adversity.</p>
+<p>Never be bored, and you will never be boring.</p>
 
-<p>- Og Mandino</p>
+<p>- Eleanor Roosevelt</p>
