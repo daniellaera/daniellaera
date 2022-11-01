@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is doing what you don't want to do but know you should do.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Brian Tracy</p>
