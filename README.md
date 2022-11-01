@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to keep breaking your heart until it opens.</p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>- Rumi</p>
+<p>- Heraclitus</p>
