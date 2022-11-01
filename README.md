@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life and forget your age.</p>
+<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Dogen</p>
