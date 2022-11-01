@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Socrates</p>
