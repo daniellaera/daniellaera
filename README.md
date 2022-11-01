@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just get out and do it. You will be very, very glad that you did.</p>
+<p>You have to keep breaking your heart until it opens.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Rumi</p>
