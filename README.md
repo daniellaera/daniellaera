@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give. </p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Alan Watts</p>
