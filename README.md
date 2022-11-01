@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Tony Robbins</p>
+<p>- Oscar Wilde</p>
