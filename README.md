@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Mark Twain</p>
