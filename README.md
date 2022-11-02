@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love the life you live, live the life you love.</p>
+<p>No man is happy who does not think himself so.</p>
 
-<p>- Bob Marley</p>
+<p>- Norman Vincent Peale</p>
