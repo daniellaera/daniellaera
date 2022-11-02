@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is always right to do what is right.</p>
+<p>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Elon Musk</p>
