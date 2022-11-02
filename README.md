@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your wounds into wisdom. </p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Joyce Meyer</p>
