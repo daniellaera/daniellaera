@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in one thing too much and you have no room for new ideas.  </p>
+<p>Truth is the offspring of silence and meditation.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Isaac Newton</p>
