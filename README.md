@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
+<p>Fishing is much more than fish.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Herbert Hoover</p>
