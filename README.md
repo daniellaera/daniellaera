@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</p>
+<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
 
-<p>- Elon Musk</p>
+<p>- Eckhart Tolle</p>
