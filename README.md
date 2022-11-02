@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the first signs of the beginning of understanding is the wish to die. </p>
+<p>The time is always right to do what is right.</p>
 
-<p>- Franz Kafka</p>
+<p>- Martin Luther King, Jr.</p>
