@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no absolute success in the world, only constant progress.</p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Paulo Coelho</p>
