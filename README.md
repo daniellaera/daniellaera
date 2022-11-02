@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
+<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
 
-<p>- Criss Jami</p>
+<p>- Peter A. Cohen</p>
