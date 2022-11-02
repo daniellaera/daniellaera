@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is richest who is content with the least, for content is the wealth of nature.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>- Socrates</p>
+<p>- Epictetus</p>
