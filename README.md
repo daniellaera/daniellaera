@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- Tony Robbins</p>
+<p>- F. Scott Fitzgerald</p>
