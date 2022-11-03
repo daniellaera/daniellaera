@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Colin Powell</p>
+<p>- John Wooden</p>
