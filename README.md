@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always tried to go a step past wherever people expected me to end up.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>- Beverly Sills</p>
+<p>- Charles Dickens</p>
