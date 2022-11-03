@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let making a living prevent you from making a life.</p>
+<p>The best way to understanding is a few good examples.</p>
 
-<p>- John Wooden</p>
+<p>- Isaac Newton</p>
