@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
+<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
 
-<p>- Estee Lauder</p>
+<p>- Martin Luther King, Jr.</p>
