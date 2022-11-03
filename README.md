@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be able to forget means sanity.</p>
+<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
 
-<p>- Jack London</p>
+<p>- Aristotle</p>
