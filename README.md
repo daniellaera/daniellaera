@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Lolly Daskal</p>
