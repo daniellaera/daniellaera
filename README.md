@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop comparing yourself to others and focus on your own improvement.</p>
+<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Pablo Picasso</p>
