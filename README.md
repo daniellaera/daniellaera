@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We need never be ashamed of our tears.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>- Charles Dickens</p>
+<p>- Tony Robbins</p>
