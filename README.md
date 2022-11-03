@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is happy who does not think himself so.</p>
+<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Hans Christian Andersen</p>
