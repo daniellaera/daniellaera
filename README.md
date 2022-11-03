@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun is new each day.</p>
+<p>Until you change how you get things done, you'll never know what works best.</p>
 
-<p>- Heraclitus</p>
+<p>- Roy T. Bennett</p>
