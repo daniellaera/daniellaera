@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
 
-<p>- Bob Dylan</p>
+<p>- Celestine Chua</p>
