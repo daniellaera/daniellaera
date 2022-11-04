@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>- Criss Jami</p>
+<p>- Soyen Shaku</p>
