@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friendship that can cease has never been real. </p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- St. Jerome</p>
+<p>- Eckhart Tolle</p>
