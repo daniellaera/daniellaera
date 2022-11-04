@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goals are the fuel in the furnace of achievement.</p>
+<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
 
-<p>- Brian Tracy</p>
+<p>- Plato</p>
