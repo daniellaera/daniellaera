@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</p>
 
-<p>- George Eliot</p>
+<p>- Bette Midler</p>
