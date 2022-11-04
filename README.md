@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>- Plato</p>
+<p>- Hans Christian Andersen</p>
