@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>- Epictetus</p>
+<p>- Jim Rohn</p>
