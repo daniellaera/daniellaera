@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all here for some special reason.</p>
+<p>Our deeds determine us, as much as we determine our deeds.</p>
 
-<p>- Robin Sharma</p>
+<p>- George Eliot</p>
