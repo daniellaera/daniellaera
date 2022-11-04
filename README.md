@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>We are all here for some special reason.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Robin Sharma</p>
