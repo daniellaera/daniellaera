@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
 
-<p>- Simon Sinek</p>
+<p>- Paramahansa Yogananda</p>
