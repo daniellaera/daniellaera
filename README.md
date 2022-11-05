@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>You can often change your circumstances by changing your attitude.</p>
 
-<p>- Charles Dickens</p>
+<p>- Eleanor Roosevelt</p>
