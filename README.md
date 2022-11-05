@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot always do great things in life, but we can do small things with great love.</p>
+<p>Those who seek the easy way do not seek the true way.</p>
 
-<p>- Dan Millman</p>
+<p>- Dogen</p>
