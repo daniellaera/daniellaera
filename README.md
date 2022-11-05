@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
 
-<p>- Margaret Mead</p>
+<p>- Simon Sinek</p>
