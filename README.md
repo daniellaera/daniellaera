@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not what happened to me, I am what I choose to become.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>- Carl Jung</p>
+<p>- Thomas Jefferson</p>
