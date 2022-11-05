@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no such thing as a great talent without great willpower.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Harry S. Truman</p>
