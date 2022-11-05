@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rest in reason; move in passion.</p>
+<p>We will now discuss in a little more detail the Struggle for Existence.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Charles Darwin</p>
