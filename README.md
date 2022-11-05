@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who seek the easy way do not seek the true way.</p>
+<p>The more we value things, the less we value ourselves.  </p>
 
-<p>- Dogen</p>
+<p>- Bruce Lee</p>
