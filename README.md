@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>- Aristophanes</p>
+<p>- Les Brown</p>
