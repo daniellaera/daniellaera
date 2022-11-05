@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The right thing to do and the hard thing to do are usually the same.</p>
+<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Mahatma Gandhi</p>
