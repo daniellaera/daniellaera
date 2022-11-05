@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
+<p>I am not what happened to me, I am what I choose to become.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Carl Jung</p>
