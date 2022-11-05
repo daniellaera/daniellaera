@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
 
-<p>- Les Brown</p>
+<p>- Unknown</p>
