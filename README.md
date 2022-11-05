@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>- Simon Sinek</p>
+<p>- Steve Maraboli</p>
