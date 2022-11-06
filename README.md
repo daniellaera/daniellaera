@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is really work unless you would rather be doing something else. </p>
+<p>Live your life as an exclamation rather than an explanation.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Isaac Newton</p>
