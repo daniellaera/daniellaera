@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is to contribute in some way to making things better.</p>
+<p>Never let the fear of striking out keep you from playing the game.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Babe Ruth</p>
