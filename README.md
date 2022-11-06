@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life as an exclamation rather than an explanation.</p>
+<p>Don't be afraid to see what you see.</p>
 
-<p>- Isaac Newton</p>
+<p>- Ronald Reagan</p>
