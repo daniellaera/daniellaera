@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tall oaks grow from little acorns.</p>
+<p>To be truly ignorant, be content with your own knowledge.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Zhuangzi</p>
