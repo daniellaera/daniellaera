@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Champions keep playing until they get it right.</p>
+<p>You are your best thing.</p>
 
-<p>- Billie Jean King</p>
+<p>- Toni Morrison</p>
