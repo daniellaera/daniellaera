@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the fear of striking out keep you from playing the game.</p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>- Babe Ruth</p>
+<p>- Albert Einstein</p>
