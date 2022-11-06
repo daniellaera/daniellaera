@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>- Buddha</p>
+<p>- Seneca</p>
