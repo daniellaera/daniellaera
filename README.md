@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no shortcuts to any place worth going. </p>
+<p>The trouble with the rat race is that even if you win, you're still a rat.</p>
 
-<p>- Beverly Sills</p>
+<p>- Lily Tomlin</p>
