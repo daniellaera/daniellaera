@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>- John Tukey</p>
+<p>- Gilbert Chesterton</p>
