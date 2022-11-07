@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A real friend is one who walks in when the rest of the world walks out.</p>
+<p>We make a living by what we get, but we make a life by what we give.</p>
 
 <p>- Unknown</p>
