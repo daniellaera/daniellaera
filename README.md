@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is the greatest friend.</p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>- Lao Tzu</p>
+<p>- Seneca</p>
