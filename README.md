@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>It is only depth of character that determines the profundity with which we face life.</p>
 
-<p>- Thomas Edison</p>
+<p>- Ming-Dao Deng</p>
