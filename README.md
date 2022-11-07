@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>You are free, and that is why you are lost.</p>
 
-<p>- Zhuangzi</p>
+<p>- Franz Kafka</p>
