@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We make a living by what we get, but we make a life by what we give.</p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>- Unknown</p>
+<p>- Martin Luther King, Jr.</p>
