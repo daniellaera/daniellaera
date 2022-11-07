@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
+<p>A real friend is one who walks in when the rest of the world walks out.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Unknown</p>
