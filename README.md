@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Thomas Jefferson</p>
