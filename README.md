@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>The road to success is always under construction.</p>
 
-<p>- Dan Brown</p>
+<p>- Steve Harvey</p>
