@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death smiles at us all. All we can do is smile back.</p>
+<p>Best be yourself, imperial, plain, and true.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Robert Browning</p>
