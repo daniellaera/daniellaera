@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
 <p>- Eckhart Tolle</p>
