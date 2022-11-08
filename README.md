@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You win more from losing than winning.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Andrew Carnegie</p>
