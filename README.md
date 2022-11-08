@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You came empty handed, and you will leave empty handed.</p>
+<p>Not doing it is certainly the best way to not getting it.  </p>
 
-<p>- Bhagavad Gita</p>
+<p>- Wayne Gretzky</p>
