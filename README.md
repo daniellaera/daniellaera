@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tall oaks grow from little acorns.</p>
+<p>You cannot have a positive life and a negative mind.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Joyce Meyer</p>
