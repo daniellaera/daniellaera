@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Hans Christian Andersen</p>
