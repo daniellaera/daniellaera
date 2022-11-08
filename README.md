@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>Without the rain there would be no rainbow.</p>
 
-<p>- Isaac Newton</p>
+<p>- Gilbert Chesterton</p>
