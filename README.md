@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Mahatma Gandhi</p>
