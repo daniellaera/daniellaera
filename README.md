@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
+<p>Great minds are always feared by lesser minds.</p>
 
-<p>- Osho</p>
+<p>- Dan Brown</p>
