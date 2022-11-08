@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can see through others only when we can see through ourselves.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>- Bruce Lee</p>
+<p>- Christopher Columbus</p>
