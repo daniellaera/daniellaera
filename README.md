@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>- Henry Ford</p>
+<p>- Barack Obama</p>
