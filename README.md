@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>- Zen Proverb</p>
+<p>- Albert Einstein</p>
