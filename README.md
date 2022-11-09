@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Science can flourish only in an atmosphere of free speech. </p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>- Albert Einstein</p>
+<p>- Henry Ford</p>
