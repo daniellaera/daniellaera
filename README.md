@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most powerful warriors are patience and time.</p>
+<p>By seeking and blundering we learn.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Johann Wolfgang von Goethe</p>
