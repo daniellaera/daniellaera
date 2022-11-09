@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can't help everyone, but everyone can help someone.</p>
+<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
 
-<p>- Ronald Reagan</p>
+<p>- Nicolas Chamfort</p>
