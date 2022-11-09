@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goodness is the only investment that never fails.</p>
+<p>There is no absolute success in the world, only constant progress.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Jonathan Swift</p>
