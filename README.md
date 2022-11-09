@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Epictetus</p>
