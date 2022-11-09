@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By seeking and blundering we learn.</p>
+<p>It is better to light a single candle than to curse the darkness.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Eleanor Roosevelt</p>
