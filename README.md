@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your worth consists in what you are and not in what you have.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Thomas Edison</p>
+<p>- Steve Maraboli</p>
