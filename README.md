@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect is earned by effort not age, all things age without effort.</p>
+<p>Make improvements, not excuses. Seek respect, not attention.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Roy T. Bennett</p>
