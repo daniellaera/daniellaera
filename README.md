@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Peace. Peace is the path.</p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>- Dan Millman</p>
+<p>- Chinese Proverb</p>
