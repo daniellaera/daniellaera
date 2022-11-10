@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men who have achieved great things have been great dreamers. </p>
+<p>Never lose hope. Storms make people stronger and never last forever.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Roy T. Bennett</p>
