@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder the conflict, the greater the triumph. </p>
+<p>Truth is like most opinions - best unexpressed.</p>
 
-<p>- George Washington</p>
+<p>- Kenneth Branagh</p>
