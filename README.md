@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Lolly Daskal</p>
