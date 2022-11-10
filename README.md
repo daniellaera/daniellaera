@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never lose hope. Storms make people stronger and never last forever.</p>
+<p>The final mystery is oneself.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Oscar Wilde</p>
