@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't want anything. Then you get everything.</p>
+<p>Keep your friends close, and your enemies closer.</p>
 
-<p>- Seungsahn</p>
+<p>- Sun Tzu</p>
