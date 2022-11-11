@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.</p>
+<p>Darkness is the absence of light.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Kamal Ravikant</p>
