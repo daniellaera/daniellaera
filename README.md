@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>- Michael Jordan</p>
+<p>- Jon Kabat-Zinn</p>
