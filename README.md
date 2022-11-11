@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best of us sometimes eat our words.  </p>
+<p>If you look for perfection, you'll never be content.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Leo Tolstoy</p>
