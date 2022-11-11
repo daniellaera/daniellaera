@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
+<p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Aristotle</p>
