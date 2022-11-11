@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't feed a hundred people, then feed just one.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>- Mother Teresa</p>
+<p>- Brian Tracy</p>
