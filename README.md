@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you look for perfection, you'll never be content.</p>
+<p>The best fighter is never angry.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Lao Tzu</p>
