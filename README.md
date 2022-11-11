@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Richard Bach</p>
