@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
+<p>The eye with which I see God is the same eye with which God sees me.</p>
 
-<p>- Aristotle</p>
+<p>- Meister Eckhart</p>
