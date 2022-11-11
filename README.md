@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best fighter is never angry.</p>
+<p>Optimism is the one quality more associated with success and happiness than any other.</p>
 
-<p>- Lao Tzu</p>
+<p>- Brian Tracy</p>
