@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>If you can't feed a hundred people, then feed just one.</p>
 
-<p>- Brian Tracy</p>
+<p>- Mother Teresa</p>
