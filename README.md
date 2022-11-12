@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
+<p>Tradition is the illusion of permanence. </p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Woody Allen</p>
