@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
+<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Miguel de Cervantes</p>
