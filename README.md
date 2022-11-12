@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We tend to live up to our expectations.</p>
+<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Albus Dumbledore</p>
