@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
+<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
 
-<p>- Sydney Smith</p>
+<p>- Denis Waitley</p>
