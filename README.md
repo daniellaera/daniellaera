@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>- Marilyn Monroe</p>
+<p>- Henry Ford</p>
