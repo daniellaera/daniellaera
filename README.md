@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in one thing too much and you have no room for new ideas.  </p>
+<p>Love is merely the name for the desire and pursuit of the whole.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Aristophanes</p>
