@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk slowly but never walk backward.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>- Unknown</p>
+<p>- Spencer Johnson</p>
