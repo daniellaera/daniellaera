@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Dogen</p>
+<p>- Martin Luther King, Jr.</p>
