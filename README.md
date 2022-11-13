@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- C. Sean McGee</p>
