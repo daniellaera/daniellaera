@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are possessed by nothing possess everything.</p>
+<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- William Faulkner</p>
