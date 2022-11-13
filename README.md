@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a process. We are a process. The universe is a process.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Ralph Waldo Emerson</p>
