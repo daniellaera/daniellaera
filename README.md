@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>- Beverly Sills</p>
+<p>- Soren Kierkegaard</p>
