@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not a problem to be solved, but a reality to be experienced.</p>
+<p>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Gabor Mate</p>
