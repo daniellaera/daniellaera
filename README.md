@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Bob Marley</p>
