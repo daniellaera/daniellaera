@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Alexander Graham Bell</p>
