@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
+<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
 
-<p>- Jack Butcher</p>
+<p>- Og Mandino</p>
