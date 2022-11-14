@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is more important than knowledge.</p>
+<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
 
-<p>- Albert Einstein</p>
+<p>- Jack Butcher</p>
