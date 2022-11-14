@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
+<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Elon Musk</p>
