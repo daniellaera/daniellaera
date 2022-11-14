@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>- Elon Musk</p>
+<p>- Ming-Dao Deng</p>
