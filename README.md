@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>A fear of weakness only strengthens weakness.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Criss Jami</p>
