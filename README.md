@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most effective way to do it, is to do it.</p>
+<p>Life is about not knowing and then doing something anyway.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Mark Manson</p>
