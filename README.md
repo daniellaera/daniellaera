@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>- Wayne Dyer</p>
+<p>- John D. Rockefeller</p>
