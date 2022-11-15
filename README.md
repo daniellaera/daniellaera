@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
+<p>Failure is acceptable. Not trying is a whole different ball park.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Michael Jordan</p>
