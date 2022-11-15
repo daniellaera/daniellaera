@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>Your purpose will be clear only when you listen to your heart.</p>
 
-<p>- Euripides</p>
+<p>- Lolly Daskal</p>
