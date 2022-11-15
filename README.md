@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do anything, but let it produce joy.</p>
+<p>Perplexity is the beginning of knowledge.</p>
 
-<p>- Walt Whitman</p>
+<p>- Kahlil Gibran</p>
