@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your purpose will be clear only when you listen to your heart.</p>
+<p>A gentleman is one who puts more into the world than he takes out.</p>
 
-<p>- Lolly Daskal</p>
+<p>- George Bernard Shaw</p>
