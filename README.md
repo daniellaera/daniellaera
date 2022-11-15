@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every beautiful thing, there's some kind of pain.</p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>- Bob Dylan</p>
+<p>- Wayne Dyer</p>
