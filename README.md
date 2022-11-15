@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>Question everything. Learn something. Answer nothing.</p>
 
-<p>- Jack Butcher</p>
+<p>- Euripides</p>
