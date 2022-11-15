@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>Behind every beautiful thing, there's some kind of pain.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Bob Dylan</p>
