@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
+<p>Just do what must be done. This may not be happiness but it is greatness.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- George Bernard Shaw</p>
