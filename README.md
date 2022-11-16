@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great deeds are usually wrought at great risks.</p>
+<p>Be like a postage stamp. Stick to it until you get there.</p>
 
-<p>- Herodotus</p>
+<p>- Bob Proctor</p>
