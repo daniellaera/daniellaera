@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
 
-<p>- Estee Lauder</p>
+<p>- Elon Musk</p>
