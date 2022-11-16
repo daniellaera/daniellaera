@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Penny Saved is a Penny Earned</p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Herodotus</p>
