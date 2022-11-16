@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't go forward and backwards at the same time.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>- Steve Harvey</p>
+<p>- Carlos Ruiz Zafon</p>
