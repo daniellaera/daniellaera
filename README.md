@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- Zen Proverb</p>
+<p>- Meister Eckhart</p>
