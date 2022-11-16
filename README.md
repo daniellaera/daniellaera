@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be like a postage stamp. Stick to it until you get there.</p>
+<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
 
-<p>- Bob Proctor</p>
+<p>- Kamal Ravikant</p>
