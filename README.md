@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction.</p>
+<p>Heal the past, live the present, dream the future.</p>
 
-<p>- Steve Harvey</p>
+<p>- Mary Engelbreit</p>
