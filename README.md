@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heal the past, live the present, dream the future.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Alan Watts</p>
