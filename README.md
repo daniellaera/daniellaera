@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
+<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
 
-<p>- Elon Musk</p>
+<p>- Charles Dickens</p>
