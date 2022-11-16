@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judge your success by what you had to give up in order to get it.</p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>- Dalai Lama</p>
+<p>- Estee Lauder</p>
