@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>- Charles Dickens</p>
+<p>- Benjamin Franklin</p>
