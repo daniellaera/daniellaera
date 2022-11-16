@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faith means believing the unbelievable.</p>
+<p>The road to success is always under construction.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Steve Harvey</p>
