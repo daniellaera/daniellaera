@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is rarely pure and never simple. </p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Dalai Lama</p>
