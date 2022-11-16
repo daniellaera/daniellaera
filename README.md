@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Avoiding failure is to avoid progress.</p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>- Unknown</p>
+<p>- Aristophanes</p>
