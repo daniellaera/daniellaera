@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Kamal Ravikant</p>
