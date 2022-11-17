@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Audrey Hepburn</p>
