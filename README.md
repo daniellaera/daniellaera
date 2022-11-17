@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will not do incredible things without an incredible dream.</p>
+<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
 
-<p>- John Eliot</p>
+<p>- James Allen</p>
