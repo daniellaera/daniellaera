@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
+<p>We make a living by what we get, but we make a life by what we give.</p>
 
-<p>- Albert Einstein</p>
+<p>- Unknown</p>
