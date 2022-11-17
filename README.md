@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
+<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- F. Scott Fitzgerald</p>
