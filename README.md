@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By seeking and blundering we learn.</p>
+<p>The fear of death is more to be feared, than death itself.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Publilius Syrus</p>
