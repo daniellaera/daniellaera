@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>- Robert Frost</p>
+<p>- Pablo Picasso</p>
