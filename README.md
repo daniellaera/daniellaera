@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A goal is a dream with a deadline.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Napoleon Hill</p>
+<p>- John Eliot</p>
