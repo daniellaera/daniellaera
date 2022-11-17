@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise learn many things from their enemies.</p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>- Aristophanes</p>
+<p>- Albert Einstein</p>
