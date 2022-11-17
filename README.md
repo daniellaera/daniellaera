@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
+<p>Do something to move yourself toward your major goal every day.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Brian Tracy</p>
