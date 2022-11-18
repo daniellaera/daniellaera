@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act as if what you do makes a difference. It does.</p>
+<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
 
-<p>- William James</p>
+<p>- Shunryu Suzuki</p>
