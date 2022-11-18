@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
+<p>If you've never eaten while crying you don t know what life tastes like.</p>
 
-<p>- Brian Tracy</p>
+<p>- Johann Wolfgang von Goethe</p>
