@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing has more strength than dire necessity.</p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>- Euripides</p>
+<p>- Emily Dickinson</p>
