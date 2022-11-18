@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Chinese Proverb</p>
