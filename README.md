@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
+<p>Act as if what you do makes a difference. It does.</p>
 
-<p>- Kabir</p>
+<p>- William James</p>
