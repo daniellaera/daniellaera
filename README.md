@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reading should be a pleasure, not a chore.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>- Joan Rivers</p>
+<p>- Paulo Coelho</p>
