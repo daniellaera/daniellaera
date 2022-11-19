@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
+<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
 
-<p>- Celestine Chua</p>
+<p>- Josh Waitzkin</p>
