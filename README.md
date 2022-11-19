@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You do not read a book for the book's sake, but for your own.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Chinese Proverb</p>
