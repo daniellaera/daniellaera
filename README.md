@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To improve is to change, so to be perfect is to change often.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>- Winston Churchill</p>
+<p>- Dr. Seuss</p>
