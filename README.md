@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who seek the easy way do not seek the true way.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>- Dogen</p>
+<p>- Earl Nightingale</p>
