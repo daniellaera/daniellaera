@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Andrew Carnegie</p>
