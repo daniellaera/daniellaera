@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Truth is the offspring of silence and meditation.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Isaac Newton</p>
