@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man sees in the world what he carries in his heart.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Socrates</p>
