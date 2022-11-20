@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't always championships.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>- Michael Jordan</p>
+<p>- Bruce Lee</p>
