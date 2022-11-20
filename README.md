@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
+<p>Within every desire is the mechanics of its fulfillment.</p>
 
-<p>- William James</p>
+<p>- Deepak Chopra</p>
