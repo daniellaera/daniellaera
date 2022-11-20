@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Stephen Hawking</p>
