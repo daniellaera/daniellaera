@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
+<p>Attitude is a little thing that makes a big difference.</p>
 
-<p>- Alexander Pope</p>
+<p>- Winston Churchill</p>
