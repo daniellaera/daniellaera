@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easier to lose than to win.  </p>
+<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Carl Jung</p>
