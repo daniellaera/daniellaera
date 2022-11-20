@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A loving heart is the truest wisdom.</p>
+<p>Winning isn't everything, but wanting to win is.</p>
 
-<p>- Charles Dickens</p>
+<p>- Vince Lombardi</p>
