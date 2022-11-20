@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Honore de Balzac</p>
