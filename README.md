@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Stephen Hawking</p>
