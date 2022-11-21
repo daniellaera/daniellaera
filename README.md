@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no value in anything until it is finished. </p>
+<p>Truth is the offspring of silence and meditation.</p>
 
-<p>- Genghis Khan</p>
+<p>- Isaac Newton</p>
