@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
+<p>Courage Is a Love Affair with the Unknown</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Osho</p>
