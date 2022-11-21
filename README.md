@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is the offspring of silence and meditation.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>- Isaac Newton</p>
+<p>- Roy T. Bennett</p>
