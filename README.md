@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we dwell on is who we become.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Audrey Hepburn</p>
