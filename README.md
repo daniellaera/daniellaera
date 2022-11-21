@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
+<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
 
-<p>- Heraclitus</p>
+<p>- Morihei Ueshiba</p>
