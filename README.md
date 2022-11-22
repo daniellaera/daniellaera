@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
+<p>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</p>
 
-<p>- Mother Teresa</p>
+<p>- Plato</p>
