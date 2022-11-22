@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the more you understand how your conscience works.</p>
+<p>It all depends on what you choose to believe.</p>
 
-<p>- Criss Jami</p>
+<p>- Spencer Johnson</p>
