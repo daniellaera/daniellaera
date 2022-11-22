@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It all depends on what you choose to believe.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Earl Nightingale</p>
