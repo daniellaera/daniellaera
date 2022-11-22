@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
+<p>A fool sees himself as another, but a wise man sees others as himself.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Dogen</p>
