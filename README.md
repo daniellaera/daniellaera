@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
+<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Morihei Ueshiba</p>
