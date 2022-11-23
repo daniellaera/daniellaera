@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
+<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Ming-Dao Deng</p>
