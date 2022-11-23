@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- James Cameron</p>
