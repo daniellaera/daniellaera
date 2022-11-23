@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
+<p>The idea of ourselves is our escape from the fact of what we really are.</p>
 
-<p>- Ayn Rand</p>
+<p>- Jiddu Krishnamurti</p>
