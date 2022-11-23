@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>One of the most difficult things is not to change society - but to change yourself.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Nelson Mandela</p>
