@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
+<p>All life is a manifestation of the spirit, the manifestation of love.</p>
 
-<p>- Walt Whitman</p>
+<p>- Morihei Ueshiba</p>
