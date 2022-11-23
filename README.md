@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It all depends on what you choose to believe.</p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Mae West</p>
