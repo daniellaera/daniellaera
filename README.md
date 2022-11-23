@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The idea of ourselves is our escape from the fact of what we really are.</p>
+<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Shunryu Suzuki</p>
