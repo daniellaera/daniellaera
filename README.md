@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I love myself I love you. If I love you I love myself.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>- Rumi</p>
+<p>- Christopher McCandless</p>
