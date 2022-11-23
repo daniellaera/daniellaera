@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>Some people dream of success, while others wake up and work hard at it.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Napoleon Hill</p>
