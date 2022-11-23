@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is merely the name for the desire and pursuit of the whole.</p>
+<p>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</p>
 
-<p>- Aristophanes</p>
+<p>- Josh Waitzkin</p>
