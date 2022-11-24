@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>Little minds have little worries, big minds have no time for worries.</p>
 
-<p>- Robin Williams</p>
+<p>- Ralph Waldo Emerson</p>
