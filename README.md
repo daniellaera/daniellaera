@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When one does not have what one wants, one must want what one has.</p>
+<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Colin Powell</p>
