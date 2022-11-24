@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One small positive thought can change your whole day.</p>
+<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Dan Millman</p>
