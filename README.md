@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Andrew Carnegie</p>
