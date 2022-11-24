@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>- Colin Powell</p>
+<p>- Eckhart Tolle</p>
