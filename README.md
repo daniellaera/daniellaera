@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- William James</p>
