@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>- Dan Millman</p>
+<p>- Miguel de Cervantes</p>
