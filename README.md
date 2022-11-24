@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
+<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
 
-<p>- A.A. Milne</p>
+<p>- Lao Tzu</p>
