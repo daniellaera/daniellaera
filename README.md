@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Judy Garland</p>
