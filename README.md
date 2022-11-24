@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
 
-<p>- Judy Garland</p>
+<p>- Bruce Lee</p>
