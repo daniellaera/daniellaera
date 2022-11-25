@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I live by letting things happen.</p>
+<p>Don't wish it were easier, wish you were better.</p>
 
-<p>- Dogen</p>
+<p>- Jim Rohn</p>
