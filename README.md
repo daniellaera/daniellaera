@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
+<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Dalai Lama</p>
