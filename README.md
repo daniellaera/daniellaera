@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great minds are always feared by lesser minds.</p>
+<p>The past has no power over the present moment. </p>
 
-<p>- Dan Brown</p>
+<p>- Eckhart Tolle</p>
