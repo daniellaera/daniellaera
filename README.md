@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your neighbor is the man who needs you.</p>
+<p>Go as far as you can see and you will see further.  </p>
 
-<p>- Elbert Hubbard</p>
+<p>- Zig Ziglar</p>
