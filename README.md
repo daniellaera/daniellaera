@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Chinese Proverb</p>
