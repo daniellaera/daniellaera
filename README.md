@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wish it were easier, wish you were better.</p>
+<p>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</p>
 
-<p>- Jim Rohn</p>
+<p>- Richard Bach</p>
