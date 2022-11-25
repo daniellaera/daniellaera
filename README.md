@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Richard Bach</p>
+<p>- Stephen Hawking</p>
