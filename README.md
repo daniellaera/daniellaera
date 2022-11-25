@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>There is no path to Love. Love is the path.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Dan Millman</p>
