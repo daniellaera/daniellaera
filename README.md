@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give so much away people insist on paying you.</p>
+<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
 
-<p>- Jack Butcher</p>
+<p>- Naval Ravikant</p>
