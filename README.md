@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is only real, when shared.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Earl Nightingale</p>
