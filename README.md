@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>Happiness depends on your mindset and attitude.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- Roy T. Bennett</p>
