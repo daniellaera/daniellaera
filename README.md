@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
+<p>I have no methods; all I do is accept people as they are.</p>
 
-<p>- Dan Brown</p>
+<p>- Joan Rivers</p>
