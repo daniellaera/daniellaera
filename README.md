@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no truth. There is only perception.</p>
+<p>Create each day anew.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Morihei Ueshiba</p>
