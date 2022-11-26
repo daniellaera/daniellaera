@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Pablo Picasso</p>
