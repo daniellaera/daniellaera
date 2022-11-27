@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>Success is within the reach of just about everyone.</p>
 
-<p>- Steve Harvey</p>
+<p>- Lolly Daskal</p>
