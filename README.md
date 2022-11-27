@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>- Richard Bach</p>
+<p>- Steve Harvey</p>
