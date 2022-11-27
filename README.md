@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Roy T. Bennett</p>
