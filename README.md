@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</p>
+<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
 
-<p>- Sydney Smith</p>
+<p>- Dr. Seuss</p>
