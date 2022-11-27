@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</p>
 
-<p>- Tony Robbins</p>
+<p>- Unknown</p>
