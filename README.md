@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>A Rolling Stone Gathers No Moss.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Publilius Syrus</p>
