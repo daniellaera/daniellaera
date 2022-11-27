@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
+<p>When I let go of what I am, I become what I might be.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Lao Tzu</p>
