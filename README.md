@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
 
-<p>- Mother Teresa</p>
+<p>- Wayne Dyer</p>
