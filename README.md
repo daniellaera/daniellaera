@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>The time is now, the place is here. Stay in the present.</p>
 
-<p>- Unknown</p>
+<p>- Dan Millman</p>
