@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cleverness is not wisdom.</p>
+<p>If you want to keep your memories, you first have to live them.</p>
 
-<p>- Euripides</p>
+<p>- Bob Dylan</p>
