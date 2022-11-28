@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Unknown</p>
