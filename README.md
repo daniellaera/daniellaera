@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One must be poor to know the luxury of giving.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- George Eliot</p>
+<p>- Conrad Hilton</p>
