@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Samuel Beckett</p>
