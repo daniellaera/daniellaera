@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
+<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
 
-<p>- Barack Obama</p>
+<p>- Stephen Hawking</p>
