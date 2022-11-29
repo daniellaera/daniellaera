@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>Love is merely the name for the desire and pursuit of the whole.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Aristophanes</p>
