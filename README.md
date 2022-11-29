@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>- Stephen King</p>
+<p>- Joyce Meyer</p>
