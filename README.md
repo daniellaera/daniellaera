@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never take your position for granted and never let any favors you receive go to your head.</p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>- Robert Greene</p>
+<p>- Mae West</p>
