@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</p>
+<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
 
-<p>- Steve Jobs</p>
+<p>- David Brinkley</p>
