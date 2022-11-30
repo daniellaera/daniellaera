@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Kahlil Gibran</p>
