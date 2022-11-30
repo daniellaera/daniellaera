@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Seungsahn</p>
