@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Isaac Newton</p>
