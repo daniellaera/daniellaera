@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
 
-<p>- Barack Obama</p>
+<p>- Kabir</p>
