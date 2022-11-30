@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's much better to do good in a way that no one knows anything about it.</p>
+<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Ralph Waldo Emerson</p>
