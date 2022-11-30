@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise learn many things from their enemies.</p>
+<p>Go for it now. The future is promised to no one.</p>
 
-<p>- Aristophanes</p>
+<p>- Wayne Dyer</p>
