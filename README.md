@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
+<p>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</p>
 
-<p>- Dan Millman</p>
+<p>- Gabor Mate</p>
