@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
+<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- A.A. Milne</p>
