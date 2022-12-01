@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
+<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- D. H. Lawrence</p>
