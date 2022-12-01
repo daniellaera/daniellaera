@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
+<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
 
-<p>- Bruce Lee</p>
+<p>- Marcus Aurelius</p>
