@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>- Unknown</p>
+<p>- Audrey Hepburn</p>
