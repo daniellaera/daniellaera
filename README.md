@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>- Brian Tracy</p>
+<p>- James Allen</p>
