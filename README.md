@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Michael Jordan</p>
+<p>- Dogen</p>
