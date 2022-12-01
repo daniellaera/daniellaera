@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</p>
+<p>Life should be touched, not strangled.  </p>
 
-<p>- Gabor Mate</p>
+<p>- Ray Bradbury</p>
