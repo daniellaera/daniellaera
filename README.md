@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>- Lao Tzu</p>
+<p>- Steve Jobs</p>
