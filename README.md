@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place success comes before work is in the dictionary.</p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Dr. Seuss</p>
