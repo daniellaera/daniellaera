@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is planted in each person's soul will sprout.  </p>
+<p>Always turn a negative situation into a positive situation.</p>
 
-<p>- Rumi</p>
+<p>- Michael Jordan</p>
