@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline yourself, and others won't need to.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>- John Wooden</p>
+<p>- Franklin D. Roosevelt</p>
