@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can calculate the worth of a man by the number of his enemies.</p>
+<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Judy Garland</p>
