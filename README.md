@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
+<p>All human beings can alter their lives by altering their attitudes.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Andrew Carnegie</p>
