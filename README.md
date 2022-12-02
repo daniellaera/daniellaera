@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To the world you may be one person; but to one person you may be the world.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Robin Sharma</p>
