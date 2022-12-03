@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Billie Jean King</p>
