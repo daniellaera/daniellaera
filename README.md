@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every blessing ignored becomes a curse.</p>
+<p>With the new day comes new strength and new thoughts.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Eleanor Roosevelt</p>
