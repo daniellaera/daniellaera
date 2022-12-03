@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All our knowledge has its origins in our perceptions.</p>
+<p>Absurdity is the ecstasy of intellectualism.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Criss Jami</p>
