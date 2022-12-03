@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is possible. The impossible just takes longer.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>- Dan Brown</p>
+<p>- Miguel de Cervantes</p>
