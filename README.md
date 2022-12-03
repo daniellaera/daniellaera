@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All human beings can alter their lives by altering their attitudes.</p>
+<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Aristotle</p>
