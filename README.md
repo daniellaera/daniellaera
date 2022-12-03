@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must cultivate our garden. </p>
+<p>Everything is possible. The impossible just takes longer.</p>
 
-<p>- Voltaire</p>
+<p>- Dan Brown</p>
