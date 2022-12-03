@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
+<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Theodore Roosevelt</p>
