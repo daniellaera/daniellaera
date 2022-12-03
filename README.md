@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
 
-<p>- St. Jerome</p>
+<p>- Earl Nightingale</p>
