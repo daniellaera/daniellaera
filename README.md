@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are, it's the place you need to be.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Celestine Chua</p>
