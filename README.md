@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>Even though you are on the right track - you will get run over if you just sit there.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Will Rogers</p>
