@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even though you are on the right track - you will get run over if you just sit there.</p>
+<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
 
-<p>- Will Rogers</p>
+<p>- Charles Dickens</p>
