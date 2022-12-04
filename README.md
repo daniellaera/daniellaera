@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>Confidence is contagious. So is lack of confidence.</p>
 
-<p>- Billie Jean King</p>
+<p>- Vince Lombardi</p>
