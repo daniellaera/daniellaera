@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is contagious. So is lack of confidence.</p>
+<p>So long as we are being remembered, we remain alive.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Carlos Ruiz Zafon</p>
