@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Albert Einstein</p>
