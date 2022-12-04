@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Science can flourish only in an atmosphere of free speech. </p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>- Albert Einstein</p>
+<p>- Estee Lauder</p>
