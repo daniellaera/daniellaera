@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peaceful is the one who expects nothing.</p>
+<p>Peace begins with a smile.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Mother Teresa</p>
