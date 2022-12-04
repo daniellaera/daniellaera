@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't make things happen then things will happen to you.</p>
+<p>Luck is a matter of preparation meeting opportunity.</p>
 
-<p>- Robert Collier</p>
+<p>- Oprah Winfrey</p>
