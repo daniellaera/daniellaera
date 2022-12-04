@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pursuit of mastery bears gifts. </p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>- Gary Keller</p>
+<p>- Vincent van Gogh</p>
