@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is a matter of preparation meeting opportunity.</p>
+<p>You don't have to be great to start, but you have to start to be great.  </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Zig Ziglar</p>
