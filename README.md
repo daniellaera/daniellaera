@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Mark Twain</p>
