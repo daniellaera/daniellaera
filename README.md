@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True it is, we only hate those whom we do not know.</p>
+<p>There is peace even in the storm.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Vincent van Gogh</p>
