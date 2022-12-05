@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heroes don't need to talk about what they did.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Sathya Sai Baba</p>
