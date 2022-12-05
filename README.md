@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
+<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Tony Robbins</p>
