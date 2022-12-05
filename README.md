@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
+<p>True it is, we only hate those whom we do not know.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Andrew Carnegie</p>
