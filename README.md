@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
+<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Amelia Earhart</p>
