@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is peace even in the storm.</p>
+<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Alfred Adler</p>
