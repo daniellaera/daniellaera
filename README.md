@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's more to life than being a passenger.</p>
+<p>Champions keep playing until they get it right.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Billie Jean King</p>
