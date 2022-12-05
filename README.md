@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Abraham Lincoln</p>
