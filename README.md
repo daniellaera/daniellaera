@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a balance of holding on and letting go.</p>
+<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
 
-<p>- Rumi</p>
+<p>- Franklin D. Roosevelt</p>
