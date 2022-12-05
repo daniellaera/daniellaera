@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
+<p>The first principle of success is desire.</p>
 
-<p>- Alfred Adler</p>
+<p>- Robert Collier</p>
