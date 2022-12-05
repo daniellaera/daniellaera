@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where violence reigns, reason is weak.</p>
+<p>There's more to life than being a passenger.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Amelia Earhart</p>
