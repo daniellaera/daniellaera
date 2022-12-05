@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humans and prosperity never endure side by side for long.</p>
+<p>Where violence reigns, reason is weak.</p>
 
-<p>- Herodotus</p>
+<p>- Nicolas Chamfort</p>
