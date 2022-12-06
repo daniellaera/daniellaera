@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>Receive without pride, let go without attachment.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Marcus Aurelius</p>
