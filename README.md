@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without pride, let go without attachment.</p>
+<p>The secret of getting ahead is getting started.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Mark Twain</p>
