@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>That some achieve great success is proof to all that others can achieve it as well.</p>
+<p>One must be poor to know the luxury of giving.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- George Eliot</p>
