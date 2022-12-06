@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Invisible things are the only realities.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Socrates</p>
