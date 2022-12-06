@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is richest who is content with the least, for content is the wealth of nature.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>- Socrates</p>
+<p>- Les Brown</p>
