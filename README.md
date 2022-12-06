@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You just can't beat the person who never gives up. </p>
+<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
 
-<p>- Babe Ruth</p>
+<p>- Heraclitus</p>
