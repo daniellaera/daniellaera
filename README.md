@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
 
-<p>- Og Mandino</p>
+<p>- Elon Musk</p>
