@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>- Les Brown</p>
+<p>- Abraham Lincoln</p>
