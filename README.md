@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A path is made by walking on it.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>- Zhuangzi</p>
+<p>- Mahatma Gandhi</p>
