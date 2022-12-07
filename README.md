@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The scariest monsters are the ones that lurk within our souls.</p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- John Wooden</p>
