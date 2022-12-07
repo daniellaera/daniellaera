@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>- Earl Nightingale</p>
+<p>- Orison Swett Marden</p>
