@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>- Anne Frank</p>
+<p>- Unknown</p>
