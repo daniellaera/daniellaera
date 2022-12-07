@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
+<p>If you've never eaten while crying you don t know what life tastes like.</p>
 
-<p>- Osho</p>
+<p>- Johann Wolfgang von Goethe</p>
