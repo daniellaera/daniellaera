@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be strong. Be confident. Be the star of your own life.</p>
+<p>The pursuit of mastery bears gifts. </p>
 
-<p>- Estee Lauder</p>
+<p>- Gary Keller</p>
