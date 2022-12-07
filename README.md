@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the change that you want to see in the world.</p>
+<p>Being in a good frame of mind helps keep one in the picture of health.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Unknown</p>
