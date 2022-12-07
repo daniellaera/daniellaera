@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Osho</p>
