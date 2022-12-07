@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>The scariest monsters are the ones that lurk within our souls.</p>
 
-<p>- Unknown</p>
+<p>- Edgar Allan Poe</p>
