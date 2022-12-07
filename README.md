@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try all things, hold fast that which is good.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- John Locke</p>
+<p>- Earl Nightingale</p>
