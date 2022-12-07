@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- John Eliot</p>
