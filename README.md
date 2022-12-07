@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be true to yourself, help others, make each day your masterpiece</p>
+<p>Men are disturbed not by things, but by the view which they take of them.</p>
 
-<p>- John Wooden</p>
+<p>- Epictetus</p>
