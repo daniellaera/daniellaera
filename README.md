@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
+<p>Be strong. Be confident. Be the star of your own life.</p>
 
-<p>- John Eliot</p>
+<p>- Estee Lauder</p>
