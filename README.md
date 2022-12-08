@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyday is a second chance.</p>
+<p>You are the only real obstacle in your path to a fulfilling life.</p>
 
-<p>- Unknown</p>
+<p>- Les Brown</p>
