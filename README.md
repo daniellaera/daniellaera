@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
+<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Steve Harvey</p>
