@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Steve Harvey</p>
+<p>- J.R.R. Tolkien</p>
