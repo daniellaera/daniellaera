@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
+<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Paulo Coelho</p>
