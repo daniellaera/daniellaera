@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>Real learning comes about when the competitive spirit has ceased.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Jiddu Krishnamurti</p>
