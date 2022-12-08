@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</p>
+<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
 
-<p>- Elon Musk</p>
+<p>- Tony Robbins</p>
