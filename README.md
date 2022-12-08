@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adults are just children who earn money.</p>
+<p>Success is a consequence and must not be a goal.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Gustave Flaubert</p>
