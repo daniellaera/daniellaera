@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Conrad Hilton</p>
