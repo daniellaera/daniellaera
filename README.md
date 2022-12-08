@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
+<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
 
-<p>- Tony Robbins</p>
+<p>- Paulo Coelho</p>
