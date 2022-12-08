@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
+<p>The secret of life is to fall seven times and to get up eight times.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Paulo Coelho</p>
