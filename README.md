@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
+<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
 
-<p>- Celestine Chua</p>
+<p>- Ayn Rand</p>
