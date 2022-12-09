@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing external to you has any power over you.</p>
+<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Sydney Smith</p>
