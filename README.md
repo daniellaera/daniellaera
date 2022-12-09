@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>True prayer has no set form.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Morihei Ueshiba</p>
