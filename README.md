@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</p>
+<p>All I can do is be me, whoever that is.</p>
 
-<p>- Seneca</p>
+<p>- Bob Dylan</p>
