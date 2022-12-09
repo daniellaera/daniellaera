@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Ayn Rand</p>
