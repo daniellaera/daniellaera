@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know yourself and you will win all battles.</p>
+<p>There is no such thing as a great talent without great willpower.</p>
 
-<p>- Sun Tzu</p>
+<p>- Honore de Balzac</p>
