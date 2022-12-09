@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Eckhart Tolle</p>
