@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All I can do is be me, whoever that is.</p>
+<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
 
-<p>- Bob Dylan</p>
+<p>- Kamal Ravikant</p>
