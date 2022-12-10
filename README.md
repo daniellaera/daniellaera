@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- William James</p>
