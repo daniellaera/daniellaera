@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't let your failures define you. You have to let your failures teach you.</p>
+<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
 
-<p>- Barack Obama</p>
+<p>- Paulo Coelho</p>
