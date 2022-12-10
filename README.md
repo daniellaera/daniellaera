@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools talk, cowards are silent, wise men listen.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Socrates</p>
