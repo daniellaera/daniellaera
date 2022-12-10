@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do what you've always done, you'll get what you've always gotten.</p>
+<p>Fools talk, cowards are silent, wise men listen.</p>
 
-<p>- Tony Robbins</p>
+<p>- Carlos Ruiz Zafon</p>
