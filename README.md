@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>- Barack Obama</p>
+<p>- Virginia Woolf</p>
