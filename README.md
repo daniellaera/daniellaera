@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>There are more people who wish to be loved than there are who are willing to love. </p>
 
-<p>- Paulo Coelho</p>
+<p>- Nicolas Chamfort</p>
