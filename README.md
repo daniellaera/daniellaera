@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</p>
 
-<p>- Unknown</p>
+<p>- Dan Millman</p>
