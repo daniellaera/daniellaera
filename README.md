@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the only problem you will ever have and you are the only solution.</p>
+<p>I must also have a dark side if I am to be whole.</p>
 
-<p>- Bob Proctor</p>
+<p>- Carl Jung</p>
