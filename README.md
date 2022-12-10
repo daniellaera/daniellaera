@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>You can't tell big dreams to small minded people.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Steve Harvey</p>
