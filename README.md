@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I live by letting things happen.</p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>- Dogen</p>
+<p>- Marcus Aurelius</p>
