@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Waste no more time arguing about what a good man should be. Be one.</p>
+<p>Tis not too late to seek a newer world.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Heraclitus</p>
