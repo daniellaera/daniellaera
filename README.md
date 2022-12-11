@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Saying nothing sometimes says the most.</p>
+<p>Only those who will risk going too far can possibly find out how far one can go.</p>
 
-<p>- Emily Dickinson</p>
+<p>- T.S. Eliot</p>
