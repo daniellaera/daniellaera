@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you do, not what you say you'll do.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>- Carl Jung</p>
+<p>- Kahlil Gibran</p>
