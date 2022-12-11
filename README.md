@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Chinese Proverb</p>
