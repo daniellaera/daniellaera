@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>I live by letting things happen.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Dogen</p>
