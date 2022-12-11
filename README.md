@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loss is nothing else but change and change is nature's delight.</p>
+<p>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Norman Vincent Peale</p>
