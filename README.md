@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
+<p>Loss is nothing else but change and change is nature's delight.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Marcus Aurelius</p>
