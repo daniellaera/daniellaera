@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past has no power over the present moment. </p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Lolly Daskal</p>
