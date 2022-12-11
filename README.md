@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>Tradition is the illusion of permanence. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Woody Allen</p>
