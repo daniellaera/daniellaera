@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</p>
+<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Robert Kiyosaki</p>
