@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Well done is better than well said.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Chinese Proverb</p>
