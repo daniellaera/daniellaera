@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make failure your teacher, not your undertaker.  </p>
+<p>Those who seek the easy way do not seek the true way.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Dogen</p>
