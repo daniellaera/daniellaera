@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
+<p>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</p>
 
-<p>- A.A. Milne</p>
+<p>- Mark Twain</p>
