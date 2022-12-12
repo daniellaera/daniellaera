@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can stop one heart from breaking, I shall not live in vain.</p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Lao Tzu</p>
