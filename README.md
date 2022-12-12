@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>By words the mind is winged.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Aristophanes</p>
