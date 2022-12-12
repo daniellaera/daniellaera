@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little progress each day adds up to big results.</p>
+<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
 
-<p>- Unknown</p>
+<p>- Bruce Lee</p>
