@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>- Mark Twain</p>
+<p>- Samuel Butler</p>
