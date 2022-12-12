@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
+<p>What the mind can conceive, it can achieve.</p>
 
-<p>- Denis Waitley</p>
+<p>- Napoleon Hill</p>
