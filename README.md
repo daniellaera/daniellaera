@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you are, be a good one.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Alan Watts</p>
