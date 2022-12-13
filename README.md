@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of your greatest lessons come from your darkest moments.</p>
+<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
 
-<p>- Roger Lee</p>
+<p>- Dogen</p>
