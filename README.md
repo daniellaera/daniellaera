@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a long lesson in humility. </p>
+<p>To handle yourself, use your head; to handle others, use your heart.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Eleanor Roosevelt</p>
