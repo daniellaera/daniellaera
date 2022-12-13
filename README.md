@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>You just can't beat the person who never gives up. </p>
 
-<p>- Aristophanes</p>
+<p>- Babe Ruth</p>
