@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>Whatever you are, be a good one.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Abraham Lincoln</p>
