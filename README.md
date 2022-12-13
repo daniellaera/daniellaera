@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>The less you respond to negative people, the more positive your life will become.</p>
 
-<p>- Dalai Lama</p>
+<p>- Paulo Coelho</p>
