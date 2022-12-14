@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
+<p>Know your gifts and share them.</p>
 
-<p>- Steve Harvey</p>
+<p>- Les Brown</p>
