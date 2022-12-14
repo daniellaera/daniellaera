@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>Do not wait for leaders; do it alone, person to person.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Mother Teresa</p>
