@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk to someone about themselves and they'll listen for hours.</p>
+<p>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Bhagavad Gita</p>
