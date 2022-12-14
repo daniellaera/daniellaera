@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all here for some special reason.</p>
+<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
 
-<p>- Robin Sharma</p>
+<p>- Steve Harvey</p>
