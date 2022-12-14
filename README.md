@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- James Allen</p>
