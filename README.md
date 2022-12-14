@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk to someone about themselves and they'll listen for hours.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Charles Dickens</p>
