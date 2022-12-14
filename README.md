@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest act of kindness is worth more than the greatest intention.  </p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Theodore Roosevelt</p>
