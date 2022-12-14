@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not wait for leaders; do it alone, person to person.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Mother Teresa</p>
+<p>- Lao Tzu</p>
