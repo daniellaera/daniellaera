@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</p>
 
-<p>- Judy Garland</p>
+<p>- Celestine Chua</p>
