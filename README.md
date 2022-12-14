@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Brian Tracy</p>
