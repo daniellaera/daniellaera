@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let making a living prevent you from making a life.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>- John Wooden</p>
+<p>- Dale Carnegie</p>
