@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who cannot be a good follower cannot be a good leader.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>- Aristotle</p>
+<p>- Genghis Khan</p>
