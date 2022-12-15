@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>The source of a true smile is an awakened mind.</p>
 
-<p>- Charles Dickens</p>
+<p>- Thich Nhat Hanh</p>
