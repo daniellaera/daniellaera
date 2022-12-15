@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</p>
+<p>Nothing is permanent in this wicked world - not even our troubles.</p>
 
-<p>- John Lennon</p>
+<p>- Charlie Chaplin</p>
