@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning never exhausts the mind. </p>
+<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Paulo Coelho</p>
