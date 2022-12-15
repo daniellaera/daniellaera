@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>- Steve Harvey</p>
+<p>- Pablo Picasso</p>
