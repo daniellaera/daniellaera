@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is failure.</p>
+<p>Learning never exhausts the mind. </p>
 
-<p>- Michael Jordan</p>
+<p>- Leonardo da Vinci</p>
