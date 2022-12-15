@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
 
-<p>- Richard Bach</p>
+<p>- Albus Dumbledore</p>
