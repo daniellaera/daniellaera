@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>Follow the man who seeks the truth; run from the man who has found it.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Vaclav Havel</p>
