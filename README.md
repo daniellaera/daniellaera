@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Follow the man who seeks the truth; run from the man who has found it.</p>
+<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Richard Bach</p>
