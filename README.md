@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't walk away from things that I think are unfinished.</p>
+<p>Life is a process. We are a process. The universe is a process.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Anne Wilson Schaef</p>
