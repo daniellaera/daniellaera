@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- George Eliot</p>
