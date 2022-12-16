@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The strongest and sweetest songs yet remain to be sung.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>- Walt Whitman</p>
+<p>- Harry S. Truman</p>
