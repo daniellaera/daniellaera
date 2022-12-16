@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
+<p>Wisdom is doing now what you are going to be happy with later on.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Joyce Meyer</p>
