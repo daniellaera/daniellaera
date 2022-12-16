@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a process. We are a process. The universe is a process.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Carlos Ruiz Zafon</p>
