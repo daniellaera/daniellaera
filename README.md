@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do two things at once is to do neither.</p>
+<p>The more you know, the more you know you don't know.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Aristotle</p>
