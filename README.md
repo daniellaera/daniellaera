@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing new in the world is the history you do not know.</p>
+<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Eric Hoffer</p>
