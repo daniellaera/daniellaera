@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
+<p>It is your attitude, not your aptitude, that determines your altitude.</p>
 
-<p>- Aristotle</p>
+<p>- Zig Ziglar</p>
