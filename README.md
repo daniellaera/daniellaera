@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>You win more from losing than winning.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Morgan Wootten</p>
