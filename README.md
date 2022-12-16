@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>- Sydney Smith</p>
+<p>- Beverly Sills</p>
