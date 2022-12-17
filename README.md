@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all born ignorant, but one must work hard to remain stupid.</p>
+<p>I will not walk backward in life.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- J.R.R. Tolkien</p>
