@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Genghis Khan</p>
