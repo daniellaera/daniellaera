@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment of happiness requires a great amount of Ignorance</p>
+<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Celestine Chua</p>
