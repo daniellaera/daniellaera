@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Robin Williams</p>
