@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
+<p>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Robert Kiyosaki</p>
