@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</p>
+<p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Pema Chodron</p>
