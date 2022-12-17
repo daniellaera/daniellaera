@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No great mind has ever existed without a touch of madness.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Aristotle</p>
+<p>- Conrad Hilton</p>
