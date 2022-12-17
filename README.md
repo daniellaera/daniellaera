@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
+<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Arnold Schwarzenegger</p>
