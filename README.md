@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faults are yours to fix, not to curse.</p>
+<p>The person who cannot control his words shows that he cannot control himself.</p>
 
-<p>- Colin Powell</p>
+<p>- Robert Greene</p>
