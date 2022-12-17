@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>- Seungsahn</p>
+<p>- Chinese Proverb</p>
