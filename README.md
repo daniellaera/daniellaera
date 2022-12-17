@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wisdom is doing now what you are going to be happy with later on.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Ralph Marston</p>
