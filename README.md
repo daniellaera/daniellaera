@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
 
-<p>- Naval Ravikant</p>
+<p>- James Matthew Barrie</p>
