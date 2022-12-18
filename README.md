@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who look for the bad in people will surely find it.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Theodore Roosevelt</p>
