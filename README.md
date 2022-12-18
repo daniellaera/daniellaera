@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>- John Tukey</p>
+<p>- Mark Twain</p>
