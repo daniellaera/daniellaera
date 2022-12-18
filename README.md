@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>- Lao Tzu</p>
+<p>- Eric Hoffer</p>
