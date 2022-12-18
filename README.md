@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never lose hope. Storms make people stronger and never last forever.</p>
+<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Conrad Hilton</p>
