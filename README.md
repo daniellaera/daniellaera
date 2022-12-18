@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Bruce Lee</p>
