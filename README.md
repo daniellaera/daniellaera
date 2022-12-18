@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the time is gone, you can never get it back.</p>
+<p>Never put off to tomorrow what you can do to-day.</p>
 
-<p>- Stephen King</p>
+<p>- Thomas Jefferson</p>
