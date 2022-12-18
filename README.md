@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
+<p>Your time is limited, so don't waste it living someone elses. life.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Steve Jobs</p>
