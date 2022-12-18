@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Steve Jobs</p>
+<p>- Steve Maraboli</p>
