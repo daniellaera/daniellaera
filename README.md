@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
+<p>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- T.S. Eliot</p>
