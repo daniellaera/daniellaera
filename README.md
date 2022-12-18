@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to not feel hopeless is to get up and do something.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>- Barack Obama</p>
+<p>- Naval Ravikant</p>
