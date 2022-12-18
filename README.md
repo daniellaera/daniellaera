@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never put off to tomorrow what you can do to-day.</p>
+<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Bhagavad Gita</p>
