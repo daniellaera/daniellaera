@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can see through others only when we can see through ourselves.</p>
+<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
 
-<p>- Bruce Lee</p>
+<p>- Celestine Chua</p>
