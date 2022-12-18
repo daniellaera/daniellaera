@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>Do something worth remembering.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Elvis Presley</p>
