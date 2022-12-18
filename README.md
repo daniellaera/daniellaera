@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If there's a definition of freedom, I think it's this: living life on your terms.</p>
+<p>Those who look for the bad in people will surely find it.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Abraham Lincoln</p>
