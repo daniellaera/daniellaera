@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even though you are on the right track - you will get run over if you just sit there.</p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>- Will Rogers</p>
+<p>- Elon Musk</p>
