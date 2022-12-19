@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>- Herman Melville</p>
+<p>- Andrew Hendrixson</p>
