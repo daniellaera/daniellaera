@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you need inspiration, don't do it.</p>
+<p>Best be yourself, imperial, plain, and true.</p>
 
-<p>- Elon Musk</p>
+<p>- Robert Browning</p>
