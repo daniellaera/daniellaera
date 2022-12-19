@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lost Time is never found again.</p>
+<p>Never let the fear of striking out keep you from playing the game.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Babe Ruth</p>
