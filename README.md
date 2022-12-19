@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</p>
+<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Zen Proverb</p>
