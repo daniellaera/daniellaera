@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>- Elon Musk</p>
+<p>- Zig Ziglar</p>
