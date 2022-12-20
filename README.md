@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Begin now to be what you will be hereafter.</p>
+<p>It is passion that makes man live; wisdom makes one only last.</p>
 
-<p>- St. Jerome</p>
+<p>- Nicolas Chamfort</p>
