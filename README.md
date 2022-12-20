@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- William Faulkner</p>
+<p>- Gary Keller</p>
