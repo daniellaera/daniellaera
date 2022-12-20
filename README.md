@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a question and how we live it is our answer.</p>
+<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
 
-<p>- Gary Keller</p>
+<p>- Brian Tracy</p>
