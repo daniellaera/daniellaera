@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
+<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Dogen</p>
