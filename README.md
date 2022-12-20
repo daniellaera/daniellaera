@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>The hard path is often the right one. The river teaches more than the shore.</p>
 
-<p>- Alan Watts</p>
+<p>- Maxime Lagace</p>
