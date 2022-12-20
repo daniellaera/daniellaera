@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
 
-<p>- Genghis Khan</p>
+<p>- Carl Jung</p>
