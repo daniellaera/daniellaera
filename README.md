@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every act of creation is first an act of destruction.</p>
+<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Nicolas Chamfort</p>
