@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
+<p>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</p>
 
-<p>- Brian Tracy</p>
+<p>- Colin Powell</p>
