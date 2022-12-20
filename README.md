@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is passion that makes man live; wisdom makes one only last.</p>
+<p>Embody what you teach, and teach only what you have embodied.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Dan Millman</p>
