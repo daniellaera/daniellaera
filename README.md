@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do your duty and a little more and the future will take care of itself.</p>
+<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- William James</p>
