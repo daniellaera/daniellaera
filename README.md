@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Harry S. Truman</p>
