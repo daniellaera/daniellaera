@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>Love is the expression of one's values.</p>
 
-<p>- Robert Greene</p>
+<p>- Ayn Rand</p>
