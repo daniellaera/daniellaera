@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all readers are leaders, but all leaders are readers.</p>
+<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Elon Musk</p>
