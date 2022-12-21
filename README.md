@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
+<p>It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.</p>
 
-<p>- William James</p>
+<p>- Jiddu Krishnamurti</p>
