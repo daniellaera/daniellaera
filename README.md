@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only be afraid of what you think you know.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Henry Ford</p>
