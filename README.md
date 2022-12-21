@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality means doing it right when no one is looking.</p>
+<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
 
-<p>- Henry Ford</p>
+<p>- Lao Tzu</p>
