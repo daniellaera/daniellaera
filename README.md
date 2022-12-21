@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.</p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Jiddu Krishnamurti</p>
