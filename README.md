@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Thomas Edison</p>
