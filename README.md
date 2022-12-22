@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
+<p>Every saint has a past, and every sinner has a future.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Oscar Wilde</p>
