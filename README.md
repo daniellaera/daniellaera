@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
+<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
 
-<p>- Mark Twain</p>
+<p>- Jim Rohn</p>
