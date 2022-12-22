@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The decisions of our past are the architects of our present.</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>- Dan Brown</p>
+<p>- J.R.R. Tolkien</p>
