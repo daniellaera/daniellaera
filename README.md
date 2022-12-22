@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you love life, don't waste time, for time is what life is made up of. </p>
+<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
 
-<p>- Bruce Lee</p>
+<p>- James Allen</p>
