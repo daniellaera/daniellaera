@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
+<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
 
-<p>- James Allen</p>
+<p>- Jack Butcher</p>
