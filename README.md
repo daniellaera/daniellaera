@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to sit back and observe, not everything needs a reaction.</p>
+<p>It takes half your life before you discover life is a do-it-yourself project.</p>
 
-<p>- Unknown</p>
+<p>- Napoleon Hill</p>
