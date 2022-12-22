@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
+<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Zig Ziglar</p>
