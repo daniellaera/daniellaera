@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
+<p>The decisions of our past are the architects of our present.</p>
 
-<p>- Robert Greene</p>
+<p>- Dan Brown</p>
