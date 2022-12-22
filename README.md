@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Maxime Lagace</p>
