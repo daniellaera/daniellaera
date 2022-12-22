@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, so shall you become. </p>
+<p>If you love life, don't waste time, for time is what life is made up of. </p>
 
 <p>- Bruce Lee</p>
