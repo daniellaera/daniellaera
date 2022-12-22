@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
+<p>Wealth is the product of man's capacity to think.</p>
 
-<p>- Jack Butcher</p>
+<p>- Ayn Rand</p>
