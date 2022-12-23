@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Big people don't make people feel small.</p>
+<p>Hope means hoping when everything seems hopeless.</p>
 
-<p>- Robin Sharma</p>
+<p>- Gilbert Chesterton</p>
