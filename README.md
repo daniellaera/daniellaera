@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All has not been said and never will be.</p>
+<p>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Brian Tracy</p>
