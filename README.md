@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just do what must be done. This may not be happiness but it is greatness.</p>
+<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Mary Engelbreit</p>
