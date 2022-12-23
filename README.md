@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</p>
+<p>All has not been said and never will be.</p>
 
-<p>- Mark Twain</p>
+<p>- Samuel Beckett</p>
