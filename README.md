@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything begins with an idea.</p>
+<p>A gentleman is one who puts more into the world than he takes out.</p>
 
-<p>- Earl Nightingale</p>
+<p>- George Bernard Shaw</p>
