@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Weeds are flowers too, once you get to know them.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>- A.A. Milne</p>
+<p>- Roy T. Bennett</p>
