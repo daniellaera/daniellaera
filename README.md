@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear does not have any special power unless you empower it by submitting to it.</p>
+<p>Weeds are flowers too, once you get to know them.</p>
 
-<p>- Les Brown</p>
+<p>- A.A. Milne</p>
