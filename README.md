@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Betty White</p>
