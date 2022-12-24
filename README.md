@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>The wiser you get, the less you care to look like a fool.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Maxime Lagace</p>
