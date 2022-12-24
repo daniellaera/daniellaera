@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Christopher McCandless</p>
