@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
 
-<p>- Seneca</p>
+<p>- Earl Nightingale</p>
