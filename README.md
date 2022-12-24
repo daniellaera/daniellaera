@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Chinese Proverb</p>
