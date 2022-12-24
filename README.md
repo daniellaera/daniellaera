@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>The primary point of this existence is to live, and all living things move and grow.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Ming-Dao Deng</p>
