@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>an action committed in anger is an action doomed to failure. </p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>- Genghis Khan</p>
+<p>- Henry David Thoreau</p>
