@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
 
-<p>- Og Mandino</p>
+<p>- Ayn Rand</p>
