@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Ralph Waldo Emerson</p>
