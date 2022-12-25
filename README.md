@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can live a whole life time never being awake.</p>
+<p>It is well known that those who do not trust themselves never trust others.</p>
 
-<p>- Dan Millman</p>
+<p>- Alfred Adler</p>
