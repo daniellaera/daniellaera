@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Herman Melville</p>
