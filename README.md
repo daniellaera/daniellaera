@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
+<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
 
-<p>- Margaret Mead</p>
+<p>- Chinese Proverb</p>
