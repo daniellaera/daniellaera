@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your stand today. On this spot. On this day.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Paramahansa Yogananda</p>
