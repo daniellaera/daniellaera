@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is well known that those who do not trust themselves never trust others.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>- Alfred Adler</p>
+<p>- Leonardo da Vinci</p>
