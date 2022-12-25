@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
+<p>Winners are not people who never fail, but people who never quit.</p>
 
-<p>- Ayn Rand</p>
+<p>- Arnold Schwarzenegger</p>
