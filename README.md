@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>Your home is where your thoughts find peace.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Zen Proverb</p>
