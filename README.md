@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
+<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Margaret Mead</p>
