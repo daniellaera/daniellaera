@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is literally what he thinks.</p>
+<p>I like the dreams of the future better than the history of the past.</p>
 
-<p>- James Allen</p>
+<p>- Thomas Jefferson</p>
