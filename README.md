@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>Great minds are always feared by lesser minds.</p>
 
-<p>- Unknown</p>
+<p>- Dan Brown</p>
