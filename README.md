@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Till it has loved, no man or woman can become itself.</p>
+<p>Little minds have little worries, big minds have no time for worries.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Ralph Waldo Emerson</p>
