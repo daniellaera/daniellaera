@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>You are the average of the five people you spend the most time with.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Jim Rohn</p>
