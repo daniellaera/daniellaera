@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Celestine Chua</p>
