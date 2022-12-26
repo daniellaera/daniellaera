@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
+<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Ayn Rand</p>
