@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>- Chinese Proverb</p>
+<p>- John D. Rockefeller</p>
