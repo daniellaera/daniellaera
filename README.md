@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Alfred Adler</p>
