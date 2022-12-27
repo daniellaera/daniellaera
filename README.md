@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conquer the devils with a little thing called love.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>- Bob Marley</p>
+<p>- Samuel Butler</p>
