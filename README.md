@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I hear and I forget. I see and I remember. I do and I understand. </p>
+<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
 
-<p>- Confucius</p>
+<p>- Margaret Mead</p>
