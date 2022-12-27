@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no greater agony than bearing an untold story inside you.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>- Maya Angelou</p>
+<p>- Carl Jung</p>
