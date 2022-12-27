@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Paulo Coelho</p>
