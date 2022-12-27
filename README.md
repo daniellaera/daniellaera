@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Evil is whatever distracts. </p>
+<p>Man's character is his fate.</p>
 
-<p>- Franz Kafka</p>
+<p>- Heraclitus</p>
