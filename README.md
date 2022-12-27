@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can live without money, but I cannot live without love.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>- Judy Garland</p>
+<p>- Dogen</p>
