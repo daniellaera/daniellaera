@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>- Margaret Mead</p>
+<p>- Harry S. Truman</p>
