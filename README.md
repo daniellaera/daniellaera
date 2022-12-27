@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>- Beverly Sills</p>
+<p>- Bob Marley</p>
