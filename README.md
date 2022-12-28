@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>- Tony Robbins</p>
+<p>- J.R.R. Tolkien</p>
