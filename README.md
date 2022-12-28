@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>Don't try to steer the river.</p>
 
-<p>- Tony Robbins</p>
+<p>- Deepak Chopra</p>
