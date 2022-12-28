@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>If you can handle rejection, you'll learn to get everything you want.</p>
 
-<p>- Sun Tzu</p>
+<p>- Tony Robbins</p>
