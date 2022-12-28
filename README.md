@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>Beauty is not in the face; beauty is a light in the heart.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Kahlil Gibran</p>
