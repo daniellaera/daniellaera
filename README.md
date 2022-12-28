@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beauty is not in the face; beauty is a light in the heart.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Tony Robbins</p>
