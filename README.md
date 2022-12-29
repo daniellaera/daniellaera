@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tis not too late to seek a newer world.</p>
+<p>We suffer more often in imagination than in reality.</p>
 
-<p>- Heraclitus</p>
+<p>- Seneca</p>
