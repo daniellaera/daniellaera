@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ability is a poor man's wealth.</p>
+<p>The less you talk about your shame, the more of it you have.</p>
 
-<p>- John Wooden</p>
+<p>- Mark Manson</p>
