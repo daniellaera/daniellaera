@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
+<p>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Tony Robbins</p>
