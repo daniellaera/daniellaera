@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be able to forget means sanity.</p>
+<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
 
-<p>- Jack London</p>
+<p>- Thich Nhat Hanh</p>
