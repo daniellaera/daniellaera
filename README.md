@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
+<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
 
-<p>- Charles Dickens</p>
+<p>- Kamal Ravikant</p>
