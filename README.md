@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no such thing as a great talent without great willpower.</p>
+<p>Fear can hold you prisoner. Hope can set you free.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Stephen King</p>
