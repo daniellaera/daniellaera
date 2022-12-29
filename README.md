@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people find fault like there is a reward for it.  </p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Paulo Coelho</p>
