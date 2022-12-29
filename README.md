@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't just sit there. Do something. The answers will follow.</p>
+<p>No one is useless in this world who lightens the burdens of another.</p>
 
-<p>- Mark Manson</p>
+<p>- Charles Dickens</p>
