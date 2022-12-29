@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
 
-<p>- Lao Tzu</p>
+<p>- Ronald Reagan</p>
