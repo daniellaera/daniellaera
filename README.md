@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
+<p>There is no such thing as a great talent without great willpower.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Honore de Balzac</p>
