@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</p>
+<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
 
-<p>- Tony Robbins</p>
+<p>- Charles Dickens</p>
