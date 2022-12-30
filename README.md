@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
+<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Naval Ravikant</p>
