@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must find the place inside yourself where nothing is impossible.</p>
+<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
 
-<p>- Les Brown</p>
+<p>- Celestine Chua</p>
