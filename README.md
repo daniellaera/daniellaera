@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothes thoughts wear.</p>
+<p>Rest in reason; move in passion.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Kahlil Gibran</p>
