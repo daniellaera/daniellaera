@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success and failure come and go, but don't let them define you. It's who you are that matters.</p>
+<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Rumi</p>
