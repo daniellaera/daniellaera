@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
+<p>Those who seek the easy way do not seek the true way.</p>
 
-<p>- James Allen</p>
+<p>- Dogen</p>
