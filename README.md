@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
+<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
 
-<p>- Rumi</p>
+<p>- Les Brown</p>
