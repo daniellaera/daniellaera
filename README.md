@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>Patience is a bitter plant, but its fruit is sweet.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Chinese Proverb</p>
