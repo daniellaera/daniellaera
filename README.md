@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
+<p>Make failure your teacher, not your undertaker.  </p>
 
-<p>- Thomas Edison</p>
+<p>- Zig Ziglar</p>
