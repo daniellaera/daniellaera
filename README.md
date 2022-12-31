@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Mary Engelbreit</p>
