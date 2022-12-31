@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every limit is a beginning as well as an ending.</p>
+<p>Life would be tragic if it weren't funny.</p>
 
-<p>- George Eliot</p>
+<p>- Stephen Hawking</p>
