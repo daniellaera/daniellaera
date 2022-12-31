@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
+<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Confucius</p>
