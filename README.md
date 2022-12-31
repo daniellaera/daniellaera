@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>Every limit is a beginning as well as an ending.</p>
 
-<p>- Eric Hoffer</p>
+<p>- George Eliot</p>
