@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Teachers open the door. You enter by yourself. </p>
+<p>Be yourself; everyone else is already taken </p>
 
-<p>- Chinese Proverb</p>
+<p>- Oscar Wilde</p>
