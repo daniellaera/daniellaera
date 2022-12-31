@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When asked, how do you write? I invariably answer, one word at a time.</p>
+<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
 
-<p>- Stephen King</p>
+<p>- Brian Tracy</p>
