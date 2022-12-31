@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
+<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
 
-<p>- Genghis Khan</p>
+<p>- Vincent van Gogh</p>
