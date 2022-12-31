@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't feed a hundred people, then feed just one.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Mother Teresa</p>
+<p>- Stephen King</p>
