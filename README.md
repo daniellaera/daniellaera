@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep others in suspense, cultivate an air of unpredictability.</p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>- Robert Greene</p>
+<p>- Abraham Lincoln</p>
