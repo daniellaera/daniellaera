@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear does not have any special power unless you empower it by submitting to it.</p>
+<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
 
-<p>- Les Brown</p>
+<p>- Zig Ziglar</p>
