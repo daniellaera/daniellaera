@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Steve Maraboli</p>
