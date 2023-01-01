@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>- Brian Tracy</p>
+<p>- Oprah Winfrey</p>
