@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are as many opinions as there are experts.</p>
+<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Wayne Dyer</p>
