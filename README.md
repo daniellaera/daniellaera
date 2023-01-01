@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We should not look back unless it is to derive useful lessons from past errors.</p>
+<p>Fear does not have any special power unless you empower it by submitting to it.</p>
 
-<p>- George Washington</p>
+<p>- Les Brown</p>
