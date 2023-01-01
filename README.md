@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Celestine Chua</p>
