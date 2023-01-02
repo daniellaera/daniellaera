@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ponder and deliberate before you make a move.</p>
+<p>Where you are right now doesn't have to determine where you'll end up.</p>
 
-<p>- Sun Tzu</p>
+<p>- Barack Obama</p>
