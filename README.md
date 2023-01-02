@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you're halfway there.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Thomas Jefferson</p>
