@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
+<p>Never waste a minute of your precious life thinking about people you don't like.</p>
 
-<p>- Criss Jami</p>
+<p>- Celestine Chua</p>
