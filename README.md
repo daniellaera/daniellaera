@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
 
-<p>- Carol Burnett</p>
+<p>- Steve Harvey</p>
