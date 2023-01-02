@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only person you should try to be better than is the person you were yesterday.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>- Brian Tracy</p>
+<p>- Sun Tzu</p>
