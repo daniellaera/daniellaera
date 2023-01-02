@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>- Barack Obama</p>
+<p>- Les Brown</p>
