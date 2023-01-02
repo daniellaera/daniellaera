@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>Believe you can and you're halfway there.</p>
 
-<p>- John Eliot</p>
+<p>- Theodore Roosevelt</p>
