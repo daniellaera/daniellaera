@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tomorrow is only found in the calendar of fools.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>- Og Mandino</p>
+<p>- Sigmund Freud</p>
