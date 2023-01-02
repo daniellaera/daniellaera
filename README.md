@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you're halfway there.</p>
+<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Kahlil Gibran</p>
