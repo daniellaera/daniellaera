@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>- Steve Harvey</p>
+<p>- Soyen Shaku</p>
