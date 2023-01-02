@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
+<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Criss Jami</p>
