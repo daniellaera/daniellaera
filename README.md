@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>A minute's success pays the failure of years.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robert Browning</p>
