@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Zen Proverb</p>
+<p>- Henry Ford</p>
