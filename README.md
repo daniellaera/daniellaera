@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A minute's success pays the failure of years.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>- Robert Browning</p>
+<p>- Paulo Coelho</p>
