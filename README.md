@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it is not right, do not do it, if it is not true, do not say it.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Dale Carnegie</p>
