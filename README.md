@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what you make it. Always has been, always will be.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Niccolo Machiavelli</p>
