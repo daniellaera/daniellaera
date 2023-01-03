@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What do we live for, if it is not to make life less difficult for each other?</p>
+<p>Our deeds determine us, as much as we determine our deeds.</p>
 
 <p>- George Eliot</p>
