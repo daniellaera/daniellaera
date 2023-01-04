@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Ralph Marston</p>
