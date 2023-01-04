@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If fear is too strong, the genius is suppressed.</p>
+<p>Who you are is defined by what you're willing to struggle for.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Mark Manson</p>
