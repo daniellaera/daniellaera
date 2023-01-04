@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Only Thing That Is Constant Is Change</p>
+<p>Every man is guilty of all the good he did not do. </p>
 
-<p>- Heraclitus</p>
+<p>- Voltaire</p>
