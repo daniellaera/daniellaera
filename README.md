@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Health is the greatest of all possessions.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Peter Drucker</p>
