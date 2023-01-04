@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
+<p>Life has no limitations except the ones you make.</p>
 
-<p>- Colin Powell</p>
+<p>- Les Brown</p>
