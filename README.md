@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Brian Tracy</p>
