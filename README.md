@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
+<p>Attitude, not aptitude, determines altitude.  </p>
 
-<p>- Lao Tzu</p>
+<p>- Zig Ziglar</p>
