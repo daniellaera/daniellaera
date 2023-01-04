@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>- Brian Tracy</p>
+<p>- Og Mandino</p>
