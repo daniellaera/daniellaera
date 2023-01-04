@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
+<p>Be patient and calm; no one can catch fish in anger.</p>
 
-<p>- Ralph Marston</p>
+<p>- Herbert Hoover</p>
