@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
+<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
 
-<p>- Charles Dickens</p>
+<p>- Colin Powell</p>
