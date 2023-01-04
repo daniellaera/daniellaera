@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
+<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Wayne Gretzky</p>
