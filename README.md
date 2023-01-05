@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Brian Tracy</p>
