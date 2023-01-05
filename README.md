@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
+<p>If you genuinely want something, don't wait for it - teach yourself.</p>
 
-<p>- Lao Tzu</p>
+<p>- Gurbaksh Chahal</p>
