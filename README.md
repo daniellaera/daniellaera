@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Laurence J. Peter</p>
