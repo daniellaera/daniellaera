@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Stephen Hawking</p>
