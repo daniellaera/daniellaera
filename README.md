@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>If you're not making mistakes, then you're not doing anything.</p>
 
-<p>- Dalai Lama</p>
+<p>- John Wooden</p>
