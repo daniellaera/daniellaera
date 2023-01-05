@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
+<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
 
-<p>- Harry S. Truman</p>
+<p>- Bruce Lee</p>
