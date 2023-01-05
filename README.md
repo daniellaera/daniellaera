@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>- Jim Rohn</p>
+<p>- Paulo Coelho</p>
