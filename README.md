@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awaken. Take heed, do not squander your life.</p>
+<p>There is no such thing as a great talent without great willpower.</p>
 
-<p>- Dogen</p>
+<p>- Honore de Balzac</p>
