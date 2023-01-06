@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no such thing as a great talent without great willpower.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Mark Manson</p>
