@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The universe doesn't allow perfection.</p>
+<p>No man is free who is not master of himself.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Epictetus</p>
