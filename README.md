@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Earl Nightingale</p>
