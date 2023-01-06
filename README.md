@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Awaken. Take heed, do not squander your life.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Dogen</p>
