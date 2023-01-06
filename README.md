@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the better you get. Unless you're a banana.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>- Betty White</p>
+<p>- Vincent van Gogh</p>
