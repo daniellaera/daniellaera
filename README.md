@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Kahlil Gibran</p>
