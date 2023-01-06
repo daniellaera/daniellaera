@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walking with a friend in the dark is better than walking alone in the light.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>- Helen Keller</p>
+<p>- Betty White</p>
