@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
+<p>Start each day with a positive thought and a grateful heart.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Roy T. Bennett</p>
