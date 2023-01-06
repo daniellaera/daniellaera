@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</p>
 
-<p>- George Washington</p>
+<p>- Harry S. Truman</p>
