@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Huang Po</p>
