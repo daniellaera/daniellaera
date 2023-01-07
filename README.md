@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Light a candle instead of cursing the darkness.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Seungsahn</p>
