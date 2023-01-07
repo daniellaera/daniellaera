@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>A clear conscience is the sure sign of a bad memory.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Mark Twain</p>
