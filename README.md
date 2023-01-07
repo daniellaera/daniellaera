@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>Do what is right, not what is easy, nor what is popular.</p>
 
-<p>- Euripides</p>
+<p>- Roy T. Bennett</p>
