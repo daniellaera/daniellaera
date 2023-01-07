@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience is the sure sign of a bad memory.</p>
+<p>Good things aren't supposed to just fall into your lap.</p>
 
-<p>- Mark Twain</p>
+<p>- Audrey Hepburn</p>
