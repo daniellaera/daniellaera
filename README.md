@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must learn to live together as brothers or perish together as fools.</p>
+<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Unknown</p>
