@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
+<p>We can't help everyone, but everyone can help someone.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Ronald Reagan</p>
