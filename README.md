@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We suffer more often in imagination than in reality.  </p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>- Seneca</p>
+<p>- Chinese Proverb</p>
