@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Motivation gets you going and habit gets you there.  </p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>- Zig Ziglar</p>
+<p>- Seneca</p>
