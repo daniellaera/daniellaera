@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Harry S. Truman</p>
