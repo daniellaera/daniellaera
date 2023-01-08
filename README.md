@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
+<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Andrew Carnegie</p>
