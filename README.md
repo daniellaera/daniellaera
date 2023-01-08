@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
 
-<p>- Henry Ford</p>
+<p>- Albus Dumbledore</p>
