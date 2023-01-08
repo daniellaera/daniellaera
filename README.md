@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
 
-<p>- Harry S. Truman</p>
+<p>- Bruce Lee</p>
