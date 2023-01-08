@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Beverly Sills</p>
