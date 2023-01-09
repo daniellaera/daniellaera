@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>- John Wooden</p>
+<p>- Abraham Lincoln</p>
