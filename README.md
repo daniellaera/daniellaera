@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
+<p>Sometimes you have to lose all you have to find out who you truly are.</p>
 
-<p>- Unknown</p>
+<p>- Roy T. Bennett</p>
