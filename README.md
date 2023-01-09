@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
+<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Dogen</p>
