@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>I must also have a dark side if I am to be whole.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Carl Jung</p>
