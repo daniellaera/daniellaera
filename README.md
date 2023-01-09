@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
+<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
 
-<p>- Earl Nightingale</p>
+<p>- George Bernard Shaw</p>
