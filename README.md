@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you've got; it's what you do that makes the difference.</p>
+<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
 
-<p>- Celestine Chua</p>
+<p>- Unknown</p>
