@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>If everyone is moving forward together, then success takes care of itself.</p>
 
-<p>- Dan Millman</p>
+<p>- Henry Ford</p>
