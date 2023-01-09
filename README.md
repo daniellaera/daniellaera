@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Virginia Woolf</p>
