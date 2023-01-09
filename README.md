@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
+<p>The time is now, the place is here. Stay in the present.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Dan Millman</p>
