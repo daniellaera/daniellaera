@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>It's not what you've got; it's what you do that makes the difference.</p>
 
-<p>- Peter Drucker</p>
+<p>- Celestine Chua</p>
