@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to lose all you have to find out who you truly are.</p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Tony Robbins</p>
