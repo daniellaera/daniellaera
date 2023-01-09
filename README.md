@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If everyone is moving forward together, then success takes care of itself.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>- Henry Ford</p>
+<p>- Albert Einstein</p>
