@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a gift, even when pain is your teacher.</p>
+<p>Your time is limited, so don't waste it living someone elses. life.</p>
 
-<p>- Michael Jordan</p>
+<p>- Steve Jobs</p>
