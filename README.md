@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
+<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
 
-<p>- Bruce Lee</p>
+<p>- Denis Waitley</p>
