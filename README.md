@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Zig Ziglar</p>
