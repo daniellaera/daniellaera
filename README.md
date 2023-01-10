@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time you enjoy wasting, was not wasted.</p>
+<p>Learning is a gift, even when pain is your teacher.</p>
 
-<p>- John Lennon</p>
+<p>- Michael Jordan</p>
