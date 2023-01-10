@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life.</p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>- Steve Jobs</p>
+<p>- Bruce Lee</p>
