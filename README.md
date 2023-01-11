@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Thich Nhat Hanh</p>
