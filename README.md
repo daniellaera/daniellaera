@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awaken. Take heed, do not squander your life.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>- Dogen</p>
+<p>- Kabir</p>
