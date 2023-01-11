@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you change what you believe, you change what you do.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>- Spencer Johnson</p>
+<p>- Wayne Dyer</p>
