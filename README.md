@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never spend your money before you have earned it.</p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Meister Eckhart</p>
