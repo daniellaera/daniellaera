@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't learn to do, but learn in doing.</p>
+<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
 
-<p>- Samuel Butler</p>
+<p>- Tony Robbins</p>
