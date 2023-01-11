@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Rita Mae Brown</p>
