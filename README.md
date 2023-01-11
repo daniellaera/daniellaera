@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big. Start small. But most of all, start.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>- Simon Sinek</p>
+<p>- Zhuangzi</p>
