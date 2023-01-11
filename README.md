@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Mark Manson</p>
