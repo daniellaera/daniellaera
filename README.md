@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Henry David Thoreau</p>
