@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
+<p>None but ourselves can free our minds.</p>
 
-<p>- Woody Allen</p>
+<p>- Bob Marley</p>
