@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
+<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Kahlil Gibran</p>
