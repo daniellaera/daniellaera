@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find something you love and do it better than everyone else.</p>
+<p>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Wayne Gretzky</p>
