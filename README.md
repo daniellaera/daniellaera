@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never settle for the crumbs of life.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>- Og Mandino</p>
+<p>- Lao Tzu</p>
