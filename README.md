@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Lao Tzu</p>
+<p>- Gurbaksh Chahal</p>
