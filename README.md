@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best answer to anger is silence.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Walt Disney</p>
