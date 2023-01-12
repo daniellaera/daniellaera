@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</p>
+<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Dan Brown</p>
