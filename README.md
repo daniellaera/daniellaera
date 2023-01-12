@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners don't Quit. That's why they Win.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>- Unknown</p>
+<p>- Og Mandino</p>
