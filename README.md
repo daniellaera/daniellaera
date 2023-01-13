@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
+<p>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</p>
 
-<p>- Elvis Presley</p>
+<p>- Og Mandino</p>
