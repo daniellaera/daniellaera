@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>While some of us act without thinking, too many of us think without acting.</p>
+<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
 
-<p>- Dan Millman</p>
+<p>- Zig Ziglar</p>
