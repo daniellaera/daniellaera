@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>While some of us act without thinking, too many of us think without acting.</p>
 
-<p>- George Eliot</p>
+<p>- Dan Millman</p>
