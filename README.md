@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place success comes before work is in the dictionary.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Unknown</p>
