@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A golden cage is still just a cage.</p>
+<p>You can calculate the worth of a man by the number of his enemies.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Gustave Flaubert</p>
