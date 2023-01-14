@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Dale Carnegie</p>
