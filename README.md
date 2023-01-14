@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way out is through.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- Robert Frost</p>
+<p>- James Allen</p>
