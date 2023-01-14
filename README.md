@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best thing to hold onto in life is each other.</p>
+<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Marcus Aurelius</p>
