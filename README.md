@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not stop thinking of life as an adventure.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- D. H. Lawrence</p>
