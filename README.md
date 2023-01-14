@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
+<p>Only he who has no use for the empire is fit to be entrusted with it.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Zhuangzi</p>
