@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The question isn't who is going to let me; it's who is going to stop me.</p>
+<p>You have to make time, even for something as universal as staring at the stars.</p>
 
-<p>- Ayn Rand</p>
+<p>- W.P. Kinsella</p>
