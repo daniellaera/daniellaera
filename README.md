@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whenever people agree with me I always feel I must be wrong.</p>
+<p>The only way out is through.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Robert Frost</p>
