@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
+<p>Whenever people agree with me I always feel I must be wrong.</p>
 
-<p>- Bob Marley</p>
+<p>- Oscar Wilde</p>
