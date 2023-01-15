@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Betty White</p>
