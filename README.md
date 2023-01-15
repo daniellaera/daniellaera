@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>- Betty White</p>
+<p>- Sonia Ricotti</p>
