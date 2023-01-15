@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Until you change how you get things done, you'll never know what works best.</p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Aristophanes</p>
