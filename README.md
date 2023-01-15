@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who attain the middle Dominate the whole.</p>
+<p>Do something worth remembering.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Elvis Presley</p>
