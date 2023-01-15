@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fool sees himself as another, but a wise man sees others as himself.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>- Dogen</p>
+<p>- Ming-Dao Deng</p>
