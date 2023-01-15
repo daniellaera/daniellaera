@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Public opinion is the worst of all opinions.</p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Roy T. Bennett</p>
