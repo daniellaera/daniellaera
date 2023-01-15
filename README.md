@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Lao Tzu</p>
