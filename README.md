@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>When I let go of what I am, I become what I might be.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Lao Tzu</p>
