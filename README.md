@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A zen master's life is one continuous mistake.</p>
+<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
 
-<p>- Dogen</p>
+<p>- D. H. Lawrence</p>
