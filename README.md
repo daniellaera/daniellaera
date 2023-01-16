@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
 
-<p>- Robin Sharma</p>
+<p>- Steve Harvey</p>
