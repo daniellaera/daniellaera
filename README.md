@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>The birth of the mind is the death of the senses.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Dan Millman</p>
