@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>- Zen Proverb</p>
+<p>- Robin Sharma</p>
