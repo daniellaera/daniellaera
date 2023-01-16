@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
+<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Heraclitus</p>
