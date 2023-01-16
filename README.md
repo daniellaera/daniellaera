@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </p>
+<p>If you need inspiration, don't do it.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Elon Musk</p>
