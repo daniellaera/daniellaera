@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
+<p>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </p>
 
-<p>- Leo Tolstoy</p>
+<p>- Oprah Winfrey</p>
