@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your life a mission - not an intermission.</p>
+<p>Don't cry because it's over. Smile because it happened.</p>
 
-<p>- Unknown</p>
+<p>- Dr. Seuss</p>
