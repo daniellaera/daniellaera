@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words without actions are the assassins of idealism.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Leo Tolstoy</p>
