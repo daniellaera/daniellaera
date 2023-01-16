@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>- Heraclitus</p>
+<p>- Bob Dylan</p>
