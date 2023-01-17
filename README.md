@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stumble over something that's behind you.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>- Steve Harvey</p>
+<p>- Brian Tracy</p>
