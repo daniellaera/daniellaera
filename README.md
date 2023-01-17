@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, accept. If you want suffering, expect.</p>
+<p>By failing to prepare, you are preparing to fail.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Benjamin Franklin</p>
