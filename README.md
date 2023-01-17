@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>- Bob Proctor</p>
+<p>- Oprah Winfrey</p>
