@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>- Criss Jami</p>
+<p>- Herbert Hoover</p>
