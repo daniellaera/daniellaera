@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Emily Dickinson</p>
