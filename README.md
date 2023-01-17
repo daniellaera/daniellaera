@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To become what you are not, behave as you do not.</p>
+<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Criss Jami</p>
