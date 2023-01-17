@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
+<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
 
-<p>- Tony Robbins</p>
+<p>- Kamal Ravikant</p>
