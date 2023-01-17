@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faults are yours to fix, not to curse.</p>
+<p>Don't stumble over something that's behind you.</p>
 
-<p>- Colin Powell</p>
+<p>- Steve Harvey</p>
