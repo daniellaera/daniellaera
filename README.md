@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your past does not equal your future.</p>
+<p>If you don't program yourself, life will program you.</p>
 
-<p>- Tony Robbins</p>
+<p>- Les Brown</p>
