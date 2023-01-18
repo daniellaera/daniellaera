@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What are we doing here, that is the question.</p>
+<p>Friends ask you questions; enemies question you.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Criss Jami</p>
