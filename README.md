@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
+<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Joan Rivers</p>
