@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Saying nothing sometimes says the most.</p>
+<p>Our deeds determine us, as much as we determine our deeds.</p>
 
-<p>- Emily Dickinson</p>
+<p>- George Eliot</p>
