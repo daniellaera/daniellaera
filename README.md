@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
+<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
 
-<p>- Elon Musk</p>
+<p>- Simon Sinek</p>
