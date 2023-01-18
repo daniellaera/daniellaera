@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
 
-<p>- Criss Jami</p>
+<p>- Laurence J. Peter</p>
