@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't program yourself, life will program you.</p>
+<p>Life is either a daring adventure, or it is nothing.</p>
 
-<p>- Les Brown</p>
+<p>- Helen Keller</p>
