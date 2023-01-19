@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Voltaire</p>
+<p>- Lao Tzu</p>
