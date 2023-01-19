@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not a skill. It is an attitude. </p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>- Ralph Marston</p>
+<p>- Bob Marley</p>
