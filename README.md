@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no self-discovery without pain and loss.</p>
+<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Robert Kiyosaki</p>
