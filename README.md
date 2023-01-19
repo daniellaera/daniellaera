@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>There is no self-discovery without pain and loss.</p>
 
-<p>- Lao Tzu</p>
+<p>- Anita Krizzan</p>
