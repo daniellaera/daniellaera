@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The salvation of the world lies in the human heart.</p>
+<p>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Ralph Marston</p>
