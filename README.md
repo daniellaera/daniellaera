@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is contagious. So is lack of confidence.</p>
+<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
 
-<p>- Vince Lombardi</p>
+<p>- Bruce Lee</p>
