@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
+<p>Until you change how you get things done, you'll never know what works best.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Roy T. Bennett</p>
