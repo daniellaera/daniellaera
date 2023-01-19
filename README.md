@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Epictetus</p>
