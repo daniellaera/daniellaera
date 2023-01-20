@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
+<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Vincent van Gogh</p>
