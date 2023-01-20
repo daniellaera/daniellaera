@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beauty is not in the face; beauty is a light in the heart.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Theodore Roosevelt</p>
