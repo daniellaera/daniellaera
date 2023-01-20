@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>- John Wooden</p>
+<p>- Eric Hoffer</p>
