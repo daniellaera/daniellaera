@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All has not been said and never will be.</p>
+<p>You cannot have a positive life and a negative mind.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Joyce Meyer</p>
