@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
+<p>All has not been said and never will be.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Samuel Beckett</p>
