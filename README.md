@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Jim Rohn</p>
