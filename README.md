@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
+<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
 
-<p>- Jim Rohn</p>
+<p>- Naval Ravikant</p>
