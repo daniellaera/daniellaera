@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be able to forget means sanity.</p>
+<p>Do your duty and a little more and the future will take care of itself.</p>
 
-<p>- Jack London</p>
+<p>- Andrew Carnegie</p>
