@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>Life is a succession of lessons, which must be lived to be understood.</p>
 
-<p>- Kabir</p>
+<p>- Ralph Waldo Emerson</p>
