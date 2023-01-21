@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The reward of suffering is experience.</p>
+<p>If you cannot understand something, then you have understood it incorrectly.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Kabir</p>
