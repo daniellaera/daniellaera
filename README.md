@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have the mind or you can have the moment.</p>
+<p>To be able to forget means sanity.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Jack London</p>
