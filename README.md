@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Walt Whitman</p>
