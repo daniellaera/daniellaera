@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Age is a very high price to pay for maturity.</p>
+<p>The score never interested me, only the game.</p>
 
-<p>- William James</p>
+<p>- Mae West</p>
