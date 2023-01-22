@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Harry S. Truman</p>
