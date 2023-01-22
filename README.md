@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man's worth is no greater than his ambitions.</p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Bob Marley</p>
