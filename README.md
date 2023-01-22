@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools read fast. Geniuses reread.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>- Maxime Lagace</p>
+<p>- George Eliot</p>
