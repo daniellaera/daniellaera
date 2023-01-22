@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is never too late to be what you might have been.</p>
+<p>Do not wait for leaders; do it alone, person to person.</p>
 
-<p>- George Eliot</p>
+<p>- Mother Teresa</p>
