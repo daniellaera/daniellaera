@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's more to life than being a passenger.</p>
+<p>A man's worth is no greater than his ambitions.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Marcus Aurelius</p>
