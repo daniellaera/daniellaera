@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I succeeded by saying what everyone else is thinking.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Joan Rivers</p>
+<p>- Lao Tzu</p>
