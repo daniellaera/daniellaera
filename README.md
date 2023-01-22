@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The hard path is often the right one. The river teaches more than the shore.</p>
+<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Albus Dumbledore</p>
