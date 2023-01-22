@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
+<p>The hard path is often the right one. The river teaches more than the shore.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Maxime Lagace</p>
