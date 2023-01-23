@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New beginnings are disguised as painful endings.</p>
+<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
 
-<p>- Lao Tzu</p>
+<p>- Anne Wilson Schaef</p>
