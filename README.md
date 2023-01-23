@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
+<p>It does not do to dwell on dreams and forget to live, remember that.</p>
 
-<p>- Shahir Zag</p>
+<p>- Albus Dumbledore</p>
