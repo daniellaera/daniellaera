@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>The world is changed by your example, not by your opinion.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Paulo Coelho</p>
