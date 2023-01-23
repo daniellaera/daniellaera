@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life may be full of pain but that's not an excuse to give up.</p>
+<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Thomas Jefferson</p>
