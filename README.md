@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What are we doing here, that is the question.</p>
+<p>Life can be wonderful if you're not afraid of it.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Charlie Chaplin</p>
