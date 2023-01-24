@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a good animal, true to your instincts.</p>
+<p>You'll see it when you believe it. </p>
 
-<p>- D. H. Lawrence</p>
+<p>- Wayne Dyer</p>
