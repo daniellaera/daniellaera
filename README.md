@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time flies whether you are having fun or not.</p>
+<p>It all depends on what you choose to believe.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Spencer Johnson</p>
