@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
+<p>Do not be so open-minded that your brains fall out.</p>
 
-<p>- Simon Sinek</p>
+<p>- Gilbert Chesterton</p>
