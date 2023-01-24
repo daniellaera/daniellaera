@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My definition of success is control.</p>
+<p>There is no value in anything until it is finished. </p>
 
-<p>- Kenneth Branagh</p>
+<p>- Genghis Khan</p>
