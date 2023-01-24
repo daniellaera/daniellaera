@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>My definition of success is control.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Kenneth Branagh</p>
