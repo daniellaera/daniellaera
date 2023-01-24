@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>- St. Jerome</p>
+<p>- Steve Harvey</p>
