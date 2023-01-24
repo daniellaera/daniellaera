@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Mary Engelbreit</p>
