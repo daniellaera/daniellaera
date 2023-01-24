@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Honore de Balzac</p>
