@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
+<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
 
-<p>- James Allen</p>
+<p>- Oprah Winfrey</p>
