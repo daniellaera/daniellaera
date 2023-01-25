@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength. </p>
+<p>Remember to look up at the stars and not down at your feet.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Stephen Hawking</p>
