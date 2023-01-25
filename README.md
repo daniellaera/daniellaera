@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important battle is one to conquer yourself.</p>
+<p>You cannot have a positive life and a negative mind.</p>
 
-<p>- Yanni</p>
+<p>- Joyce Meyer</p>
