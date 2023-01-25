@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember to look up at the stars and not down at your feet.</p>
+<p>The most important battle is one to conquer yourself.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Yanni</p>
