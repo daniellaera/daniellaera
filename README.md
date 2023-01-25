@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>When you want something in life, you just gotta reach out and grab it.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Christopher McCandless</p>
