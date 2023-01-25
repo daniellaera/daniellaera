@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want something in life, you just gotta reach out and grab it.</p>
+<p>Chase your passion, not your pension. </p>
 
-<p>- Christopher McCandless</p>
+<p>- Denis Waitley</p>
