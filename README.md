@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</p>
 
-<p>- Socrates</p>
+<p>- Paramahansa Yogananda</p>
