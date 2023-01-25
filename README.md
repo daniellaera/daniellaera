@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>- Dan Millman</p>
+<p>- Ayn Rand</p>
