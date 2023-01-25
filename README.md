@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot have a positive life and a negative mind.</p>
+<p>People tend to complicate their own lives, as if living weren't already complicated enough.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Carlos Ruiz Zafon</p>
