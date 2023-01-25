@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are enlightened never stop forging themselves.</p>
+<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Paramahansa Yogananda</p>
