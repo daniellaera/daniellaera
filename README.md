@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>Big people don't make people feel small.</p>
 
-<p>- Steve Harvey</p>
+<p>- Robin Sharma</p>
