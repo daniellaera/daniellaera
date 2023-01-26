@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
 
-<p>- Unknown</p>
+<p>- Jim Rohn</p>
