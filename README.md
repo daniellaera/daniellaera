@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>He who violates another's honor loses his own.</p>
 
-<p>- Albert Einstein</p>
+<p>- Publilius Syrus</p>
