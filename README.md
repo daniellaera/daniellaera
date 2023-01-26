@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>- Jim Rohn</p>
+<p>- Meister Eckhart</p>
