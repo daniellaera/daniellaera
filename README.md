@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The price of inaction is far greater than the cost of making a mistake.</p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Albert Einstein</p>
