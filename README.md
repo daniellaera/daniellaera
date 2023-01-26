@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>- Bob Marley</p>
+<p>- Steve Harvey</p>
