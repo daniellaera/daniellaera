@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The right thing to do and the hard thing to do are usually the same.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Kamal Ravikant</p>
