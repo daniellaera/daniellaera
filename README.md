@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not stuck where you are unless you decide to be.  </p>
+<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Oprah Winfrey</p>
