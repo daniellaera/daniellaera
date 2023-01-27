@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Tony Robbins</p>
