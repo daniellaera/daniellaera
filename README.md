@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>There are no mistakes in life, only lessons.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Robin Sharma</p>
