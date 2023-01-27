@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Mark Twain</p>
