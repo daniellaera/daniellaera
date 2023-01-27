@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little impatience will spoil great plans.</p>
+<p>Where we fall are the stepping-stones for our journey.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Lolly Daskal</p>
