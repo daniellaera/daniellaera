@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do all things with love.</p>
+<p>In the middle of difficulty lies opportunity.</p>
 
-<p>- Og Mandino</p>
+<p>- Albert Einstein</p>
