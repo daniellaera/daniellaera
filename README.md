@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big and dare to fail.</p>
+<p>Do all things with love.</p>
 
-<p>- Norman Vaughan</p>
+<p>- Og Mandino</p>
