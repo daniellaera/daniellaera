@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no mistakes in life, only lessons.</p>
+<p>You are not stuck where you are unless you decide to be.  </p>
 
-<p>- Robin Sharma</p>
+<p>- Wayne Dyer</p>
