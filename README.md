@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>- Mark Twain</p>
+<p>- Naval Ravikant</p>
