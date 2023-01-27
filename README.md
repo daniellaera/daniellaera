@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of questions you ask.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>- Tony Robbins</p>
+<p>- Plato</p>
