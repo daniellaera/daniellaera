@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a question and how we live it is our answer.</p>
+<p>Teachers open the door. You enter by yourself. </p>
 
-<p>- Gary Keller</p>
+<p>- Chinese Proverb</p>
