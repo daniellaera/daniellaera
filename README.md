@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what happens to you, but how you react to it that matters.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>- Epictetus</p>
+<p>- Chinese Proverb</p>
