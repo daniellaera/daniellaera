@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</p>
+<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
 
-<p>- Brian Tracy</p>
+<p>- Sun Tzu</p>
