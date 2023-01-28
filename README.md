@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time goes from present to past.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Gary Keller</p>
