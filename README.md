@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Distant water does not put out a nearby fire.</p>
+<p>Remain calm. Be kind.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Colin Powell</p>
