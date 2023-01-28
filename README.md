@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We should not look back unless it is to derive useful lessons from past errors.</p>
+<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
 
-<p>- George Washington</p>
+<p>- Bruce Lee</p>
