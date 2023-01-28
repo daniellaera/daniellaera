@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>- Thomas Edison</p>
+<p>- Dogen</p>
