@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
+<p>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</p>
 
-<p>- Bruce Lee</p>
+<p>- Brian Tracy</p>
