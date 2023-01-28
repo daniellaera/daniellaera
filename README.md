@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
 
-<p>- Dale Carnegie</p>
+<p>- James Matthew Barrie</p>
