@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>- Bruce Lee</p>
+<p>- Zen Proverb</p>
