@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth comes at the point of resistance.</p>
+<p>If anything is worth doing, do it with all your heart.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Buddha</p>
