@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>- Coco Chanel</p>
+<p>- Mae West</p>
