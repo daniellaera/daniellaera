@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before anything else, preparation is the key to success.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Charles Dickens</p>
