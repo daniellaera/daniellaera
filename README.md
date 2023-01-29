@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</p>
 
-<p>- Mae West</p>
+<p>- Tony Robbins</p>
