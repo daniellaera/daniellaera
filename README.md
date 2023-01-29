@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>- Tony Robbins</p>
+<p>- Amelia Earhart</p>
