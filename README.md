@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing external to you has any power over you.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Josh Waitzkin</p>
