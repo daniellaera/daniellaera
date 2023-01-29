@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If anything is worth doing, do it with all your heart.</p>
+<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
 
-<p>- Buddha</p>
+<p>- Steve Jobs</p>
