@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Ralph Waldo Emerson</p>
