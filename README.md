@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>Failing is another stepping stone to greatness.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Oprah Winfrey</p>
