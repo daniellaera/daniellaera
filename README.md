@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
+<p>The more I want to get something done, the less I call it work.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Richard Bach</p>
