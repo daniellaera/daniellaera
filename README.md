@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to be great to start, but you have to start to be great.  </p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Jim Rohn</p>
