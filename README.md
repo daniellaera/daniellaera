@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Unknown</p>
