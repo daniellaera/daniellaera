@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
+<p>You don't have to be great to start, but you have to start to be great.  </p>
 
-<p>- George Washington</p>
+<p>- Zig Ziglar</p>
