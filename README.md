@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>- Helen Keller</p>
+<p>- Robin Williams</p>
