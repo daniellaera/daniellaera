@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>Peace if possible, truth at all costs.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Martin Luther</p>
