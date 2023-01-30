@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to light a candle than to curse the darkness. </p>
+<p>Thinking will not overcome fear but action will. </p>
 
-<p>- Chinese Proverb</p>
+<p>- W. Clement Stone</p>
