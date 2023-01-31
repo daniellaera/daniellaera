@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
 <p>- Paramahansa Yogananda</p>
