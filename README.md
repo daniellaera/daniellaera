@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
 
-<p>- Jim Rohn</p>
+<p>- Paulo Coelho</p>
