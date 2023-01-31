@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>- Unknown</p>
+<p>- Jim Rohn</p>
