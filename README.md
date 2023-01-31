@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
+<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
 
-<p>- Zen Proverb</p>
+<p>- Judy Garland</p>
