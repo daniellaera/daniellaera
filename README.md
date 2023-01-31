@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Virginia Woolf</p>
