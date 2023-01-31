@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>If you let your head get too big, it'll break your neck.</p>
 
-<p>- Voltaire</p>
+<p>- Elvis Presley</p>
