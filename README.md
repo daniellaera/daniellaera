@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>- Les Brown</p>
+<p>- Aristotle</p>
