@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you let your head get too big, it'll break your neck.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- Elvis Presley</p>
+<p>- Gilbert Chesterton</p>
