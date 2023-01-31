@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
+<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
 
-<p>- Simon Sinek</p>
+<p>- Zen Proverb</p>
