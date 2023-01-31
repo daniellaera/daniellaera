@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Start each day with a positive thought and a grateful heart.</p>
+<p>A Rolling Stone Gathers No Moss.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Publilius Syrus</p>
