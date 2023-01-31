@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rewards and punishment is the lowest form of education.</p>
+<p>We can't help everyone, but everyone can help someone.</p>
 
-<p>- Zhuangzi</p>
+<p>- Ronald Reagan</p>
