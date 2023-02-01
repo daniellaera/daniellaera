@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
+<p>Everybody by your side ain't on your side.</p>
 
-<p>- Judy Garland</p>
+<p>- Steve Harvey</p>
