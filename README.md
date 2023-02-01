@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>- Brian Tracy</p>
+<p>- Huang Po</p>
