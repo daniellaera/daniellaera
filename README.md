@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real growth comes through intense, difficult, and challenging situations.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>- Kamal Ravikant</p>
+<p>- Brian Tracy</p>
