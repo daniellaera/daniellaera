@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody by your side ain't on your side.</p>
+<p>Fear is your worst enemy. Risk is your best friend.</p>
 
-<p>- Steve Harvey</p>
+<p>- Gurbaksh Chahal</p>
