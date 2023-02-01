@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is your worst enemy. Risk is your best friend.</p>
+<p>What gets measured gets improved.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Robin Sharma</p>
