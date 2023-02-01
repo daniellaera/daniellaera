@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Unknown</p>
+<p>- Gary Keller</p>
