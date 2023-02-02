@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hut full of laughter is richer than a palace full of sadness.</p>
+<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
 
-<p>- Zen Proverb</p>
+<p>- George Bernard Shaw</p>
