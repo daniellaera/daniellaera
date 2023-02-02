@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just do the best you can. No one can do more than that.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>- John Wooden</p>
+<p>- Carlos Ruiz Zafon</p>
