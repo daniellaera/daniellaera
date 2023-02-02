@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every hour of every day is an unspeakably perfect miracle.</p>
+<p>Heaven is right where you are standing.</p>
 
-<p>- Walt Whitman</p>
+<p>- Morihei Ueshiba</p>
