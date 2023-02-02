@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>A tiny change today brings a dramatically different tomorrow.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Richard Bach</p>
