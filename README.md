@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
+<p>The time is now, the place is here. Stay in the present.</p>
 
-<p>- Carl Bard</p>
+<p>- Dan Millman</p>
