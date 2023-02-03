@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>- Robert Greene</p>
+<p>- Robin Williams</p>
