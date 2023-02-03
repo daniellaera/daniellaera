@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no self-discovery without pain and loss.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>- Anita Krizzan</p>
+<p>- Ray Bradbury</p>
