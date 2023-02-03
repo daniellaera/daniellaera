@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>There is no self-discovery without pain and loss.</p>
 
-<p>- Dan Millman</p>
+<p>- Anita Krizzan</p>
