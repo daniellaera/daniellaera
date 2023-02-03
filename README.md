@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
+<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
 
-<p>- Ayn Rand</p>
+<p>- Robert Greene</p>
