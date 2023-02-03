@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The question is not what you look at, but what you see.</p>
+<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Naval Ravikant</p>
