@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no self-discovery without pain and loss.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Honore de Balzac</p>
