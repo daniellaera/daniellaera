@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>Circumstances do not make the man, they reveal him.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- James Allen</p>
