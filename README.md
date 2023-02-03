@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love the life you live, live the life you love.</p>
+<p>The pain of parting is nothing to the joy of meeting again.</p>
 
-<p>- Bob Marley</p>
+<p>- Charles Dickens</p>
