@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
+<p>We forge the chains we wear in life.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Charles Dickens</p>
