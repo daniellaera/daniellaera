@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
+<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Ayn Rand</p>
