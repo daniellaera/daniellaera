@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We forge the chains we wear in life.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Charles Dickens</p>
+<p>- Alexander Pope</p>
