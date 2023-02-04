@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Kahlil Gibran</p>
