@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Start each day with a positive thought and a grateful heart.</p>
+<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Bruce Lee</p>
