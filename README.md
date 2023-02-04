@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Music is like creating an emotional painting. The sounds are the colors.</p>
+<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
 
-<p>- Yanni</p>
+<p>- Coco Chanel</p>
