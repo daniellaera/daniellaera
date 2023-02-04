@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
+<p>Get mad, then get over it.</p>
 
-<p>- Coco Chanel</p>
+<p>- Colin Powell</p>
