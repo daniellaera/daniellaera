@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>True friendship ought never to conceal what it thinks. </p>
 
-<p>- Kahlil Gibran</p>
+<p>- St. Jerome</p>
