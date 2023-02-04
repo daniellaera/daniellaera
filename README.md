@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
 
-<p>- Denis Waitley</p>
+<p>- Nikola Tesla</p>
