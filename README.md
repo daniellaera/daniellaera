@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>- Denis Waitley</p>
+<p>- Henry Ford</p>
