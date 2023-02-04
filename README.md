@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>- Bruce Lee</p>
+<p>- Deepak Chopra</p>
