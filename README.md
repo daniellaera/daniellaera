@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Paulo Coelho</p>
