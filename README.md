@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know the rules well, so you can break them effectively.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Dalai Lama</p>
+<p>- Denis Waitley</p>
