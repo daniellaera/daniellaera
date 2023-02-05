@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I dream my painting and I paint my dream.</p>
+<p>Who you are is defined by what you're willing to struggle for.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Mark Manson</p>
