@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn from the rejection and turn it into an opportunity!</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Samuel Beckett</p>
