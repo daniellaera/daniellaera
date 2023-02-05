@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>It is your attitude, not your aptitude, that determines your altitude.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Zig Ziglar</p>
