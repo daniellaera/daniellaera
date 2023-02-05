@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Maxime Lagace</p>
