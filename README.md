@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength. </p>
+<p>Everyday you can take a tiny step in the right direction.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Unknown</p>
