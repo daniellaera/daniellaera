@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
+<p>There exists only the present instant; a Now which always and without end is itself new.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Meister Eckhart</p>
