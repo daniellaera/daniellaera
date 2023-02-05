@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
+<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Gilbert Chesterton</p>
