@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fortunate are those who take the first steps.</p>
+<p>Help others achieve their dreams and you will achieve yours.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Les Brown</p>
