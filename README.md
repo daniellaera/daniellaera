@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
+<p>Fortunate are those who take the first steps.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Paulo Coelho</p>
