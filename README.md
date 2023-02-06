@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Lily Tomlin</p>
