@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>- Charles Darwin</p>
+<p>- Les Brown</p>
