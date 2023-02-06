@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to change others' minds is with affection, and not anger.</p>
+<p>Kindness is a language which the deaf can hear and the blind can see.</p>
 
-<p>- Dalai Lama</p>
+<p>- Mark Twain</p>
