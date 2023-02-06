@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enlightenment is intimacy with all things.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>- Dogen</p>
+<p>- John Wooden</p>
