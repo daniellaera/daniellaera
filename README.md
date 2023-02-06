@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>- Lily Tomlin</p>
+<p>- C. Sean McGee</p>
