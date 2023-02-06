@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- John Wooden</p>
+<p>- Charles Darwin</p>
