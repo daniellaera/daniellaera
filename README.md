@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Roy T. Bennett</p>
