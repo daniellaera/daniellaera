@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fewer the words, the better the prayer.</p>
+<p>Be thankful for everything that happens in your life; it's all an experience.</p>
 
-<p>- Martin Luther</p>
+<p>- Roy T. Bennett</p>
