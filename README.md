@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
 
-<p>- Steve Harvey</p>
+<p>- Celestine Chua</p>
