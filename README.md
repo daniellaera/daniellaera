@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never to suffer would never to have been blessed.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Harry S. Truman</p>
