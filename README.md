@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>The purpose of life is to contribute in some way to making things better.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Robert F. Kennedy</p>
