@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Herbert Hoover</p>
