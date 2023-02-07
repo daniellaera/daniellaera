@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing new in the world is the history you do not know.</p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Joyce Meyer</p>
