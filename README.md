@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>- Celestine Chua</p>
+<p>- Steve Harvey</p>
