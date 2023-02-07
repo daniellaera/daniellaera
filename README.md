@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Steve Harvey</p>
