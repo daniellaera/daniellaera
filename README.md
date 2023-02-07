@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judge a man by his questions rather than his answers.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>- Voltaire</p>
+<p>- Chinese Proverb</p>
