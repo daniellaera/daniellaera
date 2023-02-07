@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>- Deepak Chopra</p>
+<p>- Miguel de Cervantes</p>
