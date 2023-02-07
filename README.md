@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>- Joyce Meyer</p>
+<p>- D. H. Lawrence</p>
