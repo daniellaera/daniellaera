@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Bodhidharma</p>
