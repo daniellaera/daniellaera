@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
+<p>Trusting our intuition often saves us from disaster. </p>
 
-<p>- Celestine Chua</p>
+<p>- Anne Wilson Schaef</p>
