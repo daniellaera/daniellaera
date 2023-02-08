@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place success comes before work is in the dictionary.</p>
+<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Lao Tzu</p>
