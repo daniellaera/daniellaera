@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We all give up great expectations along the way.</p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Wayne Dyer</p>
