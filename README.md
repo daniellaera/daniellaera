@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
+<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Mary Engelbreit</p>
