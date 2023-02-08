@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
+<p>Your neighbor is the man who needs you.</p>
 
-<p>- Zen Proverb</p>
+<p>- Elbert Hubbard</p>
