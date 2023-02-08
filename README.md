@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freeing oneself from words is liberation. </p>
+<p>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</p>
 
-<p>- Bodhidharma</p>
+<p>- Socrates</p>
