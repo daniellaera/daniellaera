@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>Trusting our intuition often saves us from disaster. </p>
 
-<p>- Wayne Dyer</p>
+<p>- Anne Wilson Schaef</p>
