@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is like most opinions - best unexpressed.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Vince Lombardi</p>
