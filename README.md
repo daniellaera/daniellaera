@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make failure your teacher, not your undertaker.  </p>
+<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Zen Proverb</p>
