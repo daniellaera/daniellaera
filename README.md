@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Socrates</p>
