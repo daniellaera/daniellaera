@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>- Barack Obama</p>
+<p>- Gary Keller</p>
