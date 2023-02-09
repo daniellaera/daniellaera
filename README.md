@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Peter A. Cohen</p>
