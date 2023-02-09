@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who say it cannot be done should not interrupt those who are doing it.</p>
+<p>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Arnold Schwarzenegger</p>
