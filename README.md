@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>- Judy Garland</p>
+<p>- Jon Kabat-Zinn</p>
