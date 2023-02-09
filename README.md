@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't explain your philosophy. Embody it.</p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>- Epictetus</p>
+<p>- Confucius</p>
