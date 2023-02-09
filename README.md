@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you stop questioning, you stop learning.</p>
+<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Barack Obama</p>
