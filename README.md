@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>Never be bored, and you will never be boring.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Eleanor Roosevelt</p>
