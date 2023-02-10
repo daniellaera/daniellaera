@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust is built and maintained by many small actions over time.</p>
+<p>Where there is anger, there is always pain underneath.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Eckhart Tolle</p>
