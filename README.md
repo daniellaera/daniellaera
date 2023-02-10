@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave enough to suck at something new.</p>
+<p>The way out is in.</p>
 
-<p>- Unknown</p>
+<p>- Thich Nhat Hanh</p>
