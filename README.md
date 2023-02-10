@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're never too old for anything.</p>
+<p>The desire for more positive experience is itself a negative experience.</p>
 
-<p>- Betty White</p>
+<p>- Mark Manson</p>
