@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ming-Dao Deng</p>
