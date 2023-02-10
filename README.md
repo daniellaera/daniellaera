@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Dogen</p>
