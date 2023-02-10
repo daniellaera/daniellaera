@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way out is in.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Zen Proverb</p>
