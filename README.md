@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No snowflake ever falls in the wrong place.</p>
+<p>You're never too old for anything.</p>
 
-<p>- Zen Proverb</p>
+<p>- Betty White</p>
