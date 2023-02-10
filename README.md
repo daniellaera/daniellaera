@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The desire for more positive experience is itself a negative experience.</p>
+<p>We create the world and ourselves;</p>
 
-<p>- Mark Manson</p>
+<p>- Ming-Dao Deng</p>
