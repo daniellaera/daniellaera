@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a process. We are a process. The universe is a process.</p>
+<p>Trust is built and maintained by many small actions over time.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Lolly Daskal</p>
