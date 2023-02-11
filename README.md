@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>- Brian Tracy</p>
+<p>- Sun Tzu</p>
