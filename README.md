@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is more cheated than the selfish man.</p>
+<p>Work out your own salvation. Do not depend on others.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Buddha</p>
