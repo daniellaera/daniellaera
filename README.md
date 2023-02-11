@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
+<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
 
-<p>- Criss Jami</p>
+<p>- Kahlil Gibran</p>
