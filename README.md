@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing makes a man broad-minded like adversity.</p>
+<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
 
-<p>- Will Rogers</p>
+<p>- Robert Kiyosaki</p>
