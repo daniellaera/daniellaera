@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
+<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Celestine Chua</p>
