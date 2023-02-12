@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faults are yours to fix, not to curse.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>- Colin Powell</p>
+<p>- Ayn Rand</p>
