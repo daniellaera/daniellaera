@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is destiny.</p>
+<p>All human wisdom is contained in these two words - Wait and Hope</p>
 
-<p>- Heraclitus</p>
+<p>- Alexandre Dumas</p>
