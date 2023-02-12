@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a consequence and must not be a goal.</p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Lao Tzu</p>
