@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try all things, hold fast that which is good.</p>
+<p>Success is a consequence and must not be a goal.</p>
 
-<p>- John Locke</p>
+<p>- Gustave Flaubert</p>
