@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The score never interested me, only the game.</p>
+<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
 
-<p>- Mae West</p>
+<p>- Zig Ziglar</p>
