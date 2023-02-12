@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
+<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
 
-<p>- Peter Drucker</p>
+<p>- Ronald Reagan</p>
