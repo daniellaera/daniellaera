@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
+<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
 
-<p>- Zig Ziglar</p>
+<p>- Tony Robbins</p>
