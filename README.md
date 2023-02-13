@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even the smallest person can change the course of the future.</p>
+<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Bob Proctor</p>
