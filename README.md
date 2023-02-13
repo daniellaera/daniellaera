@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
+<p>He that can have patience can have what he will.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Benjamin Franklin</p>
