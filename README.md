@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing makes a man broad-minded like adversity.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>- Will Rogers</p>
+<p>- Simon Sinek</p>
