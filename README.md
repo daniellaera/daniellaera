@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not stuck where you are unless you decide to be.  </p>
+<p>Nothing makes a man broad-minded like adversity.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Will Rogers</p>
