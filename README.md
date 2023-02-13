@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words, once they are printed, have a life of their own.</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>- Carol Burnett</p>
+<p>- J.R.R. Tolkien</p>
