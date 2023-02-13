@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have as much laughter as you have faith.</p>
+<p>Nothing is particularly hard if you divide it into small jobs. </p>
 
-<p>- Martin Luther</p>
+<p>- Henry Ford</p>
