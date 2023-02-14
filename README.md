@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
+<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Bob Marley</p>
