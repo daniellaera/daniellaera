@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
 
-<p>- Unknown</p>
+<p>- Aristotle</p>
