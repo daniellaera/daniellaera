@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without the rain there would be no rainbow.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Ronald Reagan</p>
