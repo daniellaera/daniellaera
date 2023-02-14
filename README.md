@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving back involves a certain amount of giving up.</p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>- Colin Powell</p>
+<p>- Martin Luther</p>
