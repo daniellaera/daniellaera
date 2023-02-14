@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
+<p>Giving back involves a certain amount of giving up.</p>
 
-<p>- Helen Keller</p>
+<p>- Colin Powell</p>
