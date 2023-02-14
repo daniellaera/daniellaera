@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For the things we have to learn before we can do them, we learn by doing them.</p>
+<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
 
-<p>- Aristotle</p>
+<p>- Unknown</p>
