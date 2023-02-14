@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
+<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Ralph Waldo Emerson</p>
