@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who say it cannot be done should not interrupt those who are doing it.</p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Charles Dickens</p>
