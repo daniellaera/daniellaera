@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
+<p>One never does wrong by doing right.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Norman Vincent Peale</p>
