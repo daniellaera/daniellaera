@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
 
-<p>- Pema Chodron</p>
+<p>- Napoleon Hill</p>
