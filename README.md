@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past has no power over the present moment. </p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Hans Christian Andersen</p>
