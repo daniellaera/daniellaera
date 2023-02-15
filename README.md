@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to understanding is a few good examples.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>- Isaac Newton</p>
+<p>- Margaret Mead</p>
