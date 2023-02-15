@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>The friendship that can cease has never been real. </p>
 
-<p>- Alexander Pope</p>
+<p>- St. Jerome</p>
