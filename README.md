@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
+<p>No man becomes rich unless he enriches others.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Andrew Carnegie</p>
