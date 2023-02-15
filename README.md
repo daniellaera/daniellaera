@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one ever said life was fair. Just Eventful.</p>
+<p>The best way to understanding is a few good examples.</p>
 
-<p>- Carol Burnett</p>
+<p>- Isaac Newton</p>
