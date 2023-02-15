@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality means doing it right when no one is looking.</p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>- Henry Ford</p>
+<p>- George Washington</p>
