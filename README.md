@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you resist, persists.</p>
+<p>Leadership starts at the top.</p>
 
-<p>- Carl Jung</p>
+<p>- Morgan Wootten</p>
