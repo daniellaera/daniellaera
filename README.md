@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
+<p>Nothing is easier than fault finding.</p>
 
-<p>- John Tukey</p>
+<p>- Og Mandino</p>
