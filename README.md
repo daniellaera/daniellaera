@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- Huang Po</p>
+<p>- Thomas Jefferson</p>
