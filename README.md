@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>The truth is rarely pure and never simple. </p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Oscar Wilde</p>
