@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Albert Einstein</p>
+<p>- Ralph Waldo Emerson</p>
