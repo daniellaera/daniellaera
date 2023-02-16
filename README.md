@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little impatience will spoil great plans.</p>
+<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Roy T. Bennett</p>
