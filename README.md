@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Pablo Picasso</p>
