@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day wasted on others is not wasted on one's self.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>- Charles Dickens</p>
+<p>- Ronald Reagan</p>
