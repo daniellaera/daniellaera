@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the fish is caught we pay no more attention to the trap.</p>
+<p>The measure of who we are is what we do with what we have.</p>
 
-<p>- Huang Po</p>
+<p>- Vince Lombardi</p>
