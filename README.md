@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
+<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Huang Po</p>
