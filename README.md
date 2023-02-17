@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>Life should be touched, not strangled.  </p>
 
-<p>- Jim Rohn</p>
+<p>- Ray Bradbury</p>
