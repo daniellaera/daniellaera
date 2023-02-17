@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- Gary Keller</p>
+<p>- Charles Dickens</p>
