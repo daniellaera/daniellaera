@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
+<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
 
-<p>- Brian Tracy</p>
+<p>- Winston Churchill</p>
