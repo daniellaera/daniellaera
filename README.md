@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Maya Angelou</p>
