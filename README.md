@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
+<p>Never trust he who trusts everyone.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Carlos Ruiz Zafon</p>
