@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way out is in.</p>
+<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Michael Jordan</p>
