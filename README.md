@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>- Dogen</p>
+<p>- Chinese Proverb</p>
