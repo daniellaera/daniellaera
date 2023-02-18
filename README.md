@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is like money, easier made than kept.</p>
+<p>Being in a good frame of mind helps keep one in the picture of health.</p>
 
-<p>- Samuel Butler</p>
+<p>- Unknown</p>
