@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live outside the law, you must be honest. </p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>- Bob Dylan</p>
+<p>- Rumi</p>
