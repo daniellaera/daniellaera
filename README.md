@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never trust he who trusts everyone.</p>
+<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Naval Ravikant</p>
