@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>- Chinese Proverb</p>
+<p>- Bob Dylan</p>
