@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a poor teacher.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Hans Christian Andersen</p>
