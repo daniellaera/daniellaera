@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest fears lie in anticipation.</p>
+<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Jack Butcher</p>
