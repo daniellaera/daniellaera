@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Plants grow weak without wind.</p>
+<p>Loving thoughts and actions are clearly beneficial for our physical and mental health.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Dalai Lama</p>
