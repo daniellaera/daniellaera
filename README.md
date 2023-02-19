@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be yourself; everyone else is already taken </p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Albert Einstein</p>
