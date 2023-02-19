@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important things are the hardest to say.</p>
+<p>A man's worth is no greater than his ambitions.</p>
 
-<p>- Stephen King</p>
+<p>- Marcus Aurelius</p>
