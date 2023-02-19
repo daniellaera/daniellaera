@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
+<p>It's better to stand by someone's side than by yourself.</p>
 
-<p>- Albert Einstein</p>
+<p>- Jack London</p>
