@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never to suffer would never to have been blessed.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Honore de Balzac</p>
