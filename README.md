@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
+<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 
-<p>- Jack Butcher</p>
+<p>- Vaclav Havel</p>
