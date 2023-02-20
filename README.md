@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
+<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
 
-<p>- Ralph Marston</p>
+<p>- Naval Ravikant</p>
