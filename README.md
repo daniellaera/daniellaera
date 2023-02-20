@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>- Osho</p>
+<p>- Peter Drucker</p>
