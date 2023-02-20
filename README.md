@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>- Isaac Newton</p>
+<p>- Margaret Mead</p>
