@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy is a commodity, execution is an art.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>- Peter Drucker</p>
+<p>- Steve Jobs</p>
