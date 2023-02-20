@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>- Naval Ravikant</p>
+<p>- C. Sean McGee</p>
