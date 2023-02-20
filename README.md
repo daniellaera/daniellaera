@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dreamers are the saviors of the worlds.</p>
+<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
 
-<p>- James Allen</p>
+<p>- Osho</p>
