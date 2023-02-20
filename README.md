@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
+<p>No one ever said life was fair. Just Eventful.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Carol Burnett</p>
