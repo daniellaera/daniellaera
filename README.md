@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Anne Frank</p>
