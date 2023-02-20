@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Morihei Ueshiba</p>
