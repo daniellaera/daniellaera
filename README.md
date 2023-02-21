@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people feel the rain. Others just get wet. </p>
+<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
 
-<p>- Bob Dylan</p>
+<p>- Tony Robbins</p>
