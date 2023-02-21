@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be approximately right rather than exactly wrong.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>- John Tukey</p>
+<p>- Kamal Ravikant</p>
