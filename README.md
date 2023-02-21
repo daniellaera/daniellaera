@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
+<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
 
-<p>- Dalai Lama</p>
+<p>- Zig Ziglar</p>
