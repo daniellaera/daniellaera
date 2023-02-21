@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
 
-<p>- Dalai Lama</p>
+<p>- Andrew Carnegie</p>
