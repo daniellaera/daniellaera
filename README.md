@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Invisible things are the only realities.</p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Earl Nightingale</p>
