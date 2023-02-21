@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
 
-<p>- Samuel Butler</p>
+<p>- Paramahansa Yogananda</p>
