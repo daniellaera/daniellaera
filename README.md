@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
+<p>Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- John Eliot</p>
