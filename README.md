@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your next step is simple. You are the first domino.</p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>- Gary Keller</p>
+<p>- Samuel Butler</p>
