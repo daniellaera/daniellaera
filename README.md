@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money poisons you when you've got it, and starves you when you haven't.</p>
+<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </p>
 
-<p>- D. H. Lawrence</p>
+<p>- Steve Jobs</p>
