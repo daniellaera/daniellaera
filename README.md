@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership is solving problems</p>
+<p>We need a backbone, not a wishbone.</p>
 
-<p>- Colin Powell</p>
+<p>- Joyce Meyer</p>
