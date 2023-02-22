@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no significance in life without struggle.</p>
+<p>Why do you stay in prison when the door is so wide open?</p>
 
-<p>- Lolly Daskal</p>
+<p>- Rumi</p>
