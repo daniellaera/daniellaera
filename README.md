@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
 
-<p>- Robert Collier</p>
+<p>- Eleanor Roosevelt</p>
