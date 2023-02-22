@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
+<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Maxime Lagace</p>
