@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Confucius</p>
