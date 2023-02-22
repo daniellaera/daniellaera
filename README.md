@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is rarely pure and never simple. </p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>- Oscar Wilde</p>
+<p>- D. H. Lawrence</p>
