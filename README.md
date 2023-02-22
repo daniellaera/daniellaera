@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
+<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Robert Collier</p>
