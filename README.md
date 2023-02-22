@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We need a backbone, not a wishbone.</p>
+<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Maya Angelou</p>
