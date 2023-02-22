@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>Leadership is solving problems</p>
 
-<p>- Dan Millman</p>
+<p>- Colin Powell</p>
