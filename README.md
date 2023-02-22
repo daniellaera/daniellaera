@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
+<p>As you love yourself, life loves you back.</p>
 
-<p>- Mark Twain</p>
+<p>- Kamal Ravikant</p>
