@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>- Maya Angelou</p>
+<p>- Huang Po</p>
