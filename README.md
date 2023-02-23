@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Carl Jung</p>
