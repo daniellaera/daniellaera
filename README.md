@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you do, not what you say you'll do.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>- Carl Jung</p>
+<p>- Peter Drucker</p>
