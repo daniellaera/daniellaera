@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only the educated are free.</p>
+<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
 
-<p>- Epictetus</p>
+<p>- Michael Jordan</p>
