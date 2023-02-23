@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot have a positive life and a negative mind.</p>
+<p>Wit is educated insolence.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Aristotle</p>
