@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Normal is the average of deviance.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Honore de Balzac</p>
