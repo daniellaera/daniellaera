@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
+<p>As a matter of fact is an expression that precedes many an expression that isn't.</p>
 
-<p>- Robert Greene</p>
+<p>- Laurence J. Peter</p>
