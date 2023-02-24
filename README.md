@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>All wealth is the product of labor.</p>
 
-<p>- Socrates</p>
+<p>- John Locke</p>
