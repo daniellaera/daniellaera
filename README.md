@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>Do anything, but let it produce joy.</p>
 
-<p>- Steve Harvey</p>
+<p>- Walt Whitman</p>
