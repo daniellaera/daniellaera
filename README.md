@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never confuse a single defeat with a final defeat.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Unknown</p>
