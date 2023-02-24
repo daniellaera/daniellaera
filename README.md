@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The strongest and sweetest songs yet remain to be sung.</p>
+<p>Knowledge isn't power until it is applied.</p>
 
-<p>- Walt Whitman</p>
+<p>- Dale Carnegie</p>
