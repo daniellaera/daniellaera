@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners don't Quit. That's why they Win.</p>
+<p>The strongest and sweetest songs yet remain to be sung.</p>
 
-<p>- Unknown</p>
+<p>- Walt Whitman</p>
