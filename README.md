@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Brian Tracy</p>
+<p>- F. Scott Fitzgerald</p>
