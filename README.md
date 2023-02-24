@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poverty and hardship are created by false thinking.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>- Bodhidharma</p>
+<p>- Miguel de Cervantes</p>
