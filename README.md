@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be prepared is half the victory. </p>
+<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Robert Greene</p>
