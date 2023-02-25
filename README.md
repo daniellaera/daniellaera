@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Mahatma Gandhi</p>
