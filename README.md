@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Zig Ziglar</p>
