@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>- Napoleon Hill</p>
+<p>- Miguel de Cervantes</p>
