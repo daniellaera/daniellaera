@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>- Samuel Butler</p>
+<p>- Joyce Meyer</p>
