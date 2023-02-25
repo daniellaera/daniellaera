@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Les Brown</p>
