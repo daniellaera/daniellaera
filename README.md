@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>Some people dream of success, while others wake up and work hard at it.</p>
 
-<p>- Osho</p>
+<p>- Napoleon Hill</p>
