@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
+<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Hans Christian Andersen</p>
