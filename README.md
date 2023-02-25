@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
 
-<p>- Les Brown</p>
+<p>- Herodotus</p>
