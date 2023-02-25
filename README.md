@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
+<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Andrew Carnegie</p>
