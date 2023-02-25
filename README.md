@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of your thoughts.</p>
+<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
 
-<p>- Unknown</p>
+<p>- Theodore Roosevelt</p>
