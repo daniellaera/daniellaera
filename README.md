@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without pride, let go without attachment.</p>
+<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Rita Mae Brown</p>
