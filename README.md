@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>Weeds are flowers too, once you get to know them.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- A.A. Milne</p>
