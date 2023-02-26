@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
+<p>Every poem should remind the reader that they are going to die.</p>
 
-<p>- Celestine Chua</p>
+<p>- Edgar Allan Poe</p>
