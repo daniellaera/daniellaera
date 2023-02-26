@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Kahlil Gibran</p>
