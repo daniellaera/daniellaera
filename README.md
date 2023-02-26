@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Weeds are flowers too, once you get to know them.</p>
+<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
 
-<p>- A.A. Milne</p>
+<p>- Celestine Chua</p>
