@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can not live your life just based on what everyone else thinks.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Isaac Newton</p>
