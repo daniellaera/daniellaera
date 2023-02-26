@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All cruelty springs from weakness.  </p>
+<p>We suffer more often in imagination than in reality.</p>
 
 <p>- Seneca</p>
