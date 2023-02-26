@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to carry a positive action, we must develop here a positive vision.</p>
+<p>Teachers open the door. You enter by yourself. </p>
 
-<p>- Dalai Lama</p>
+<p>- Chinese Proverb</p>
