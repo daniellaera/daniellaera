@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is nothing more than a few simple disciplines practiced every day.</p>
+<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
 
-<p>- Jim Rohn</p>
+<p>- F. Scott Fitzgerald</p>
