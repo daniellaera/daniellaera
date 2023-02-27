@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
+<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Og Mandino</p>
