@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>Appear weak when you are strong, and strong when you are weak.</p>
 
-<p>- James Allen</p>
+<p>- Sun Tzu</p>
