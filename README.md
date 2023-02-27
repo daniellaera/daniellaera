@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
+<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
 
-<p>- Og Mandino</p>
+<p>- Unknown</p>
