@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of empires, is the empire over one's self.</p>
+<p>We should not look back unless it is to derive useful lessons from past errors.</p>
 
-<p>- Publilius Syrus</p>
+<p>- George Washington</p>
