@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>Everything that irritates us about others.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Carl Jung</p>
