@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
+<p>Everybody by your side ain't on your side.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Steve Harvey</p>
