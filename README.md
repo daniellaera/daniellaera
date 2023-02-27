@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
+<p>The greatest of empires, is the empire over one's self.</p>
 
-<p>- Unknown</p>
+<p>- Publilius Syrus</p>
