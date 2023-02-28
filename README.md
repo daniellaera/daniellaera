@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death walks faster than the wind and never returns what he has taken.</p>
+<p>Don't hate the player. Change the game.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Steve Harvey</p>
