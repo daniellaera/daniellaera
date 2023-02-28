@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Woody Allen</p>
