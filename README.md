@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>Death walks faster than the wind and never returns what he has taken.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Hans Christian Andersen</p>
