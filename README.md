@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>Success is the sum of small efforts, repeated day in and day out.</p>
 
-<p>- Bodhidharma</p>
+<p>- Robert Collier</p>
