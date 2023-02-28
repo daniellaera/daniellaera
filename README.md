@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you done it, it ain't bragging.</p>
+<p>The hard path is often the right one. The river teaches more than the shore.</p>
 
-<p>- Walt Whitman</p>
+<p>- Maxime Lagace</p>
