@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is the sum of small efforts, repeated day in and day out.</p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>- Robert Collier</p>
+<p>- Walt Whitman</p>
