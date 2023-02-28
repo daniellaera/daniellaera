@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The hard path is often the right one. The river teaches more than the shore.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Maxime Lagace</p>
+<p>- George Bernard Shaw</p>
