@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Celestine Chua</p>
