@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't hate the player. Change the game.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>- Steve Harvey</p>
+<p>- Abraham Lincoln</p>
