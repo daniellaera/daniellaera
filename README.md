@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to be walked over, you have to be lying down.</p>
+<p>It's not whether you get knocked down, its whether you get back up.</p>
 
-<p>- Celestine Chua</p>
+<p>- Vince Lombardi</p>
