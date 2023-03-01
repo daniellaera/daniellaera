@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul is neither born, and nor does it die.</p>
+<p>We build too many walls and not enough bridges.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Isaac Newton</p>
