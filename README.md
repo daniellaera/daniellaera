@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Distant water does not put out a nearby fire.</p>
+<p>Our view of the world is truly shaped by what we decide to hear.</p>
 
-<p>- Chinese Proverb</p>
+<p>- William James</p>
