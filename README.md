@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>The more people you help become successful the more successful you become.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Steve Harvey</p>
