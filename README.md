@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find your Light; They can't love you if they can't see you.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>- Bette Midler</p>
+<p>- Deepak Chopra</p>
