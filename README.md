@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conflict cannot survive without your participation. </p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Chinese Proverb</p>
