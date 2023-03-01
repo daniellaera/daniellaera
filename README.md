@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
+<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
 
-<p>- Dan Millman</p>
+<p>- Colin Powell</p>
