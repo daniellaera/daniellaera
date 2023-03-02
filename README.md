@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Elegance does not consist in putting on a new dress.</p>
+<p>Best be yourself, imperial, plain, and true.</p>
 
-<p>- Coco Chanel</p>
+<p>- Robert Browning</p>
