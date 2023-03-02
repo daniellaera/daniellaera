@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
 
-<p>- Steve Harvey</p>
+<p>- Herodotus</p>
