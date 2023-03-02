@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freeing oneself from words is liberation. </p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>- Bodhidharma</p>
+<p>- Og Mandino</p>
