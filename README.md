@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every drop in the ocean counts. </p>
+<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
 
-<p>- Yoko Ono</p>
+<p>- Earl Nightingale</p>
