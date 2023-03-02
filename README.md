@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are far from the enemy, make him believe you are near.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Sun Tzu</p>
+<p>- George Addair</p>
