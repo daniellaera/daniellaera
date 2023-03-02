@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more people you help become successful the more successful you become.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
 <p>- Steve Harvey</p>
