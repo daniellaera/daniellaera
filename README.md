@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
 
-<p>- Robert Browning</p>
+<p>- Aristotle</p>
