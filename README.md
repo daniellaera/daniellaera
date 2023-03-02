@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Alan Watts</p>
