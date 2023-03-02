@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>Before you can see the Light, you have to deal with the darkness.</p>
 
-<p>- Herodotus</p>
+<p>- Dan Millman</p>
