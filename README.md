@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no limitations except those we create for ourselves.</p>
+<p>The greatest miracle is to be alive.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Thich Nhat Hanh</p>
