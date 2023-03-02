@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you can see the Light, you have to deal with the darkness.</p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>- Dan Millman</p>
+<p>- Sathya Sai Baba</p>
