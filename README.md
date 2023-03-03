@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
+<p>Success is about creating value.</p>
 
-<p>- Bob Dylan</p>
+<p>- Candice Carpenter</p>
