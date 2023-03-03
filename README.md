@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</p>
+<p>All great truths begin as blasphemies.</p>
 
-<p>- Ralph Marston</p>
+<p>- George Bernard Shaw</p>
