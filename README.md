@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
+<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Charles Dickens</p>
