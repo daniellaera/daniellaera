@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
 
-<p>- Bodhidharma</p>
+<p>- George Bernard Shaw</p>
