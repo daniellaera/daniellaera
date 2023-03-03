@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
+<p>You're never too old for anything.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Betty White</p>
