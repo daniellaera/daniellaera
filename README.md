@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, today is the tomorrow you worried about yesterday.</p>
+<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
 
-<p>- Dale Carnegie</p>
+<p>- Wayne Dyer</p>
