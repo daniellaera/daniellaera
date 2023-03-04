@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all readers are leaders, but all leaders are readers.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Harry S. Truman</p>
+<p>- Denis Waitley</p>
