@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is the worst thing about the present.</p>
+<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- James Cameron</p>
