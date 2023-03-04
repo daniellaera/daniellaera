@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either write something worth reading or do something worth writing.</p>
+<p>It isn't what you do, but how you do it.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- John Wooden</p>
