@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</p>
+<p>Begin now to be what you will be hereafter.</p>
 
-<p>- Mark Manson</p>
+<p>- St. Jerome</p>
