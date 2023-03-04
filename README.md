@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The season of failure is the best time for sowing the seeds of success. </p>
+<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Steve Maraboli</p>
