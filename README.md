@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Roy T. Bennett</p>
