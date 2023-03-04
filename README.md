@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
+<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Bruce Lee</p>
