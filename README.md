@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fall into a ditch makes you wiser.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Harry S. Truman</p>
