@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
+<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
 
-<p>- Denis Waitley</p>
+<p>- Anita Krizzan</p>
