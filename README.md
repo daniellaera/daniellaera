@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Showing off is the fool's idea of glory. </p>
+<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
 
-<p>- Bruce Lee</p>
+<p>- Mark Twain</p>
