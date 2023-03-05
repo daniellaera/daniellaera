@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or nothing.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>- Helen Keller</p>
+<p>- Brian Tracy</p>
