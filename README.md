@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter what happens in life, never lose sight of who you are.</p>
+<p>Freedom itself demands discomfort.</p>
 
-<p>- Yanni</p>
+<p>- Mark Manson</p>
