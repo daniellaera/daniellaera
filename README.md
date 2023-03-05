@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom itself demands discomfort.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>- Mark Manson</p>
+<p>- Robert Collier</p>
