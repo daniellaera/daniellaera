@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a journey, not a destination.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>- Dan Millman</p>
+<p>- Albert Einstein</p>
