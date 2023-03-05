@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is in your own heart.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Roy T. Bennett</p>
