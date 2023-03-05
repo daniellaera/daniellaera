@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want more luck, take more chances.</p>
+<p>When you're curious, you find lots of interesting things to do.</p>
 
-<p>- Brian Tracy</p>
+<p>- Walt Disney</p>
