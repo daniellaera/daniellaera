@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Seneca</p>
