@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>I don't walk away from things that I think are unfinished.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Arnold Schwarzenegger</p>
