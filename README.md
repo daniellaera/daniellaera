@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heart is what separates the good from the great.</p>
+<p>If I can stop one heart from breaking, I shall not live in vain.</p>
 
-<p>- Michael Jordan</p>
+<p>- Emily Dickinson</p>
