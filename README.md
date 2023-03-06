@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>Growing up is losing some illusions, in order to acquire others.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Virginia Woolf</p>
