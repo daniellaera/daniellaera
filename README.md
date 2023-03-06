@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most powerful warriors are patience and time.</p>
+<p>Love is the absence of judgment.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Dalai Lama</p>
