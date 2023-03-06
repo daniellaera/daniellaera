@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can stop one heart from breaking, I shall not live in vain.</p>
+<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Christopher Reeve</p>
