@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>- Unknown</p>
+<p>- Leo Tolstoy</p>
