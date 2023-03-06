@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
 
-<p>- Dalai Lama</p>
+<p>- Buddha</p>
