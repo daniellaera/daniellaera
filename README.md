@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Unknown</p>
