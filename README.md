@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Joyce Meyer</p>
