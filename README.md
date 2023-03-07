@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enlightenment is intimacy with all things.</p>
+<p>There's no next time. It's now or never.</p>
 
-<p>- Dogen</p>
+<p>- Celestine Chua</p>
