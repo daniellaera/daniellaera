@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you think adventure is dangerous, try routine; it is lethal.</p>
+<p>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Robert Greene</p>
