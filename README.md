@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
+<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Steve Maraboli</p>
