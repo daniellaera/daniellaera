@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your very silence shows you agree.</p>
+<p>It all depends on what you choose to believe.</p>
 
-<p>- Euripides</p>
+<p>- Spencer Johnson</p>
