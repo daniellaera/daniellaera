@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- Jack London</p>
+<p>- Lolly Daskal</p>
