@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
+<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Aristotle</p>
