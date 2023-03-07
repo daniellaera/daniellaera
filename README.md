@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
+<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Celestine Chua</p>
