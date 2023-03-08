@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the change that you want to see in the world.</p>
+<p>The more one judges, the less one loves.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Honore de Balzac</p>
