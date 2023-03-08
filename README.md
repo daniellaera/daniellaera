@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to be walked over, you have to be lying down.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>- Celestine Chua</p>
+<p>- Mahatma Gandhi</p>
