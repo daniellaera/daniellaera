@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no next time. It's now or never.</p>
+<p>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</p>
 
-<p>- Celestine Chua</p>
+<p>- Jonathan Swift</p>
