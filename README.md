@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
+<p>Don't let the fear of losing be greater than the excitement of winning.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Robert Kiyosaki</p>
