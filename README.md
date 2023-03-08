@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
+<p>Confidence breeds beauty.  </p>
 
-<p>- Seungsahn</p>
+<p>- Estee Lauder</p>
