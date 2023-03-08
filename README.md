@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Celestine Chua</p>
