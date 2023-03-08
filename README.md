@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop wasting time defending your problems and work on addressing them instead.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>- Celestine Chua</p>
+<p>- Unknown</p>
