@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes a change of perspective is all it takes to see the light.</p>
+<p>Stop wasting time defending your problems and work on addressing them instead.</p>
 
-<p>- Dan Brown</p>
+<p>- Celestine Chua</p>
