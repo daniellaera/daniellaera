@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</p>
+<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
 
-<p>- Elon Musk</p>
+<p>- Christopher Reeve</p>
