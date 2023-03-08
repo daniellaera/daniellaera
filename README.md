@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only time you run out of chances is when you stop taking them.</p>
+<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
 
-<p>- Unknown</p>
+<p>- Albert Einstein</p>
