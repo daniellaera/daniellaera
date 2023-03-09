@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>- William Faulkner</p>
+<p>- Naval Ravikant</p>
