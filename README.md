@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are illusions of the mind.</p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Alexandre Dumas</p>
