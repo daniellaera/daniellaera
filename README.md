@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
 
-<p>- Naval Ravikant</p>
+<p>- George Washington</p>
