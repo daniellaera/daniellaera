@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is always right to do what is right.</p>
+<p>All problems are illusions of the mind.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Eckhart Tolle</p>
