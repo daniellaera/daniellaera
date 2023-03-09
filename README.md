@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We all give up great expectations along the way.</p>
+<p>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Zen Proverb</p>
