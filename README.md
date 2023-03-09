@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a succession of lessons, which must be lived to be understood.</p>
+<p>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Bob Proctor</p>
