@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Carlos Ruiz Zafon</p>
