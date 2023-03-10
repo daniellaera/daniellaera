@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live outside the law, you must be honest. </p>
+<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
 
-<p>- Bob Dylan</p>
+<p>- Richard Bach</p>
