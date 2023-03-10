@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If anything is worth doing, do it with all your heart.</p>
+<p>Victory is always possible for the person who refuses to stop fighting.</p>
 
-<p>- Buddha</p>
+<p>- Napoleon Hill</p>
