@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't program yourself, life will program you.</p>
+<p>Enthusiasm makes up for a host of deficiencies.</p>
 
-<p>- Les Brown</p>
+<p>- Barack Obama</p>
