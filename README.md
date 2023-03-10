@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of change is to focus all your energy not on fighting the old, but on building the new.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>- Dan Millman</p>
+<p>- Bob Dylan</p>
