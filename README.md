@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
 
-<p>- Barack Obama</p>
+<p>- Judy Garland</p>
