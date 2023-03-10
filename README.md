@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>- Robin Sharma</p>
+<p>- Franz Kafka</p>
