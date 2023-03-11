@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Eighty percent of success is showing up. </p>
+<p>Choose to be optimistic, it feels better.</p>
 
-<p>- Woody Allen</p>
+<p>- Dalai Lama</p>
