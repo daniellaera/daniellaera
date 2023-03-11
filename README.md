@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>You can never get enough of what you don't need to make you happy.</p>
 
-<p>- Lao Tzu</p>
+<p>- Eric Hoffer</p>
