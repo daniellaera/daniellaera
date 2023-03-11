@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage Is a Love Affair with the Unknown</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>- Osho</p>
+<p>- J.R.R. Tolkien</p>
