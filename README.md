@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Pablo Picasso</p>
