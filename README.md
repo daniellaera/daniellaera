@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Norman Vincent Peale</p>
