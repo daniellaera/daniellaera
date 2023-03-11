@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>Courage Is a Love Affair with the Unknown</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Osho</p>
