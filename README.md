@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I begin with an idea and then it becomes something else.</p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Martin Luther King, Jr.</p>
