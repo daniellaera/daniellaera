@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Mark Twain</p>
