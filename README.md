@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>- Anne Frank</p>
+<p>- Lao Tzu</p>
