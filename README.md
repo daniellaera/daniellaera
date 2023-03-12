@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Mark Twain</p>
