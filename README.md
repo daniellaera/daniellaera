@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>You are the only real obstacle in your path to a fulfilling life.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Les Brown</p>
