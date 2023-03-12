@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Mark Twain</p>
