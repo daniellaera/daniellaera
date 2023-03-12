@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who removes a mountain begins by carrying away small stones.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- William Faulkner</p>
+<p>- Eric Hoffer</p>
