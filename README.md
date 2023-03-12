@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one is useless in this world who lightens the burdens of another.</p>
+<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
 
-<p>- Charles Dickens</p>
+<p>- Naval Ravikant</p>
