@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
 
-<p>- Euripides</p>
+<p>- Naval Ravikant</p>
