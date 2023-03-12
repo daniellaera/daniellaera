@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your spirit is the true shield.</p>
+<p>Whoever is happy will make others happy too.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Anne Frank</p>
