@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is the worst thing about the present.</p>
+<p>Waste not fresh tears over old griefs.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Euripides</p>
