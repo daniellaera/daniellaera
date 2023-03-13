@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that irritates us about others.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>- Carl Jung</p>
+<p>- James Allen</p>
