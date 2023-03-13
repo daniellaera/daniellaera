@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is the greatest friend.</p>
+<p>The future is the worst thing about the present.</p>
 
-<p>- Lao Tzu</p>
+<p>- Gustave Flaubert</p>
