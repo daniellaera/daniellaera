@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>You can't make someone feel good about themselves until you feel good about yourself.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Robin Sharma</p>
