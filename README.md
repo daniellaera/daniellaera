@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
+<p>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</p>
 
-<p>- Ayn Rand</p>
+<p>- Gary Keller</p>
