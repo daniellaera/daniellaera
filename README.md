@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are easily shocked should be shocked more often.</p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>- Mae West</p>
+<p>- Jonathan Swift</p>
