@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we value things, the less we value ourselves.  </p>
+<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
 
-<p>- Bruce Lee</p>
+<p>- Ayn Rand</p>
