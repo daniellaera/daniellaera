@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</p>
 
-<p>- Lao Tzu</p>
+<p>- Unknown</p>
