@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why do you stay in prison when the door is so wide open?</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Rumi</p>
+<p>- James Allen</p>
