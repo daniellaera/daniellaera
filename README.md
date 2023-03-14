@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person is only by the thoughts that he chooses.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>- James Allen</p>
+<p>- Deepak Chopra</p>
