@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Tony Robbins</p>
