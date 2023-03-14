@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise speak only of what they know.</p>
+<p>From morning till night, we should never rely on a single thing.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Huang Po</p>
