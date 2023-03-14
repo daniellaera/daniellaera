@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>- John Wooden</p>
+<p>- Audrey Hepburn</p>
