@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give more than you think you can, trusting that you are richer than you think.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Honore de Balzac</p>
