@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can live a whole life time never being awake.</p>
+<p>Allow motion to equal emotion.</p>
 
-<p>- Dan Millman</p>
+<p>- Elbert Hubbard</p>
