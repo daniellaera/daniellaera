@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
+<p>The wise speak only of what they know.</p>
 
-<p>- Pablo Picasso</p>
+<p>- J.R.R. Tolkien</p>
