@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>The grass is greener where you water it.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Neil Barringham</p>
