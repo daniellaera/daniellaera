@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The grass is greener where you water it.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>- Neil Barringham</p>
+<p>- Sun Tzu</p>
