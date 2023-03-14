@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rivers know this: there is no hurry. We shall get there some day.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>- A.A. Milne</p>
+<p>- Deepak Chopra</p>
