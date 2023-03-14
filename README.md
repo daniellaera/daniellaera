@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From morning till night, we should never rely on a single thing.</p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>- Huang Po</p>
+<p>- Steve Harvey</p>
