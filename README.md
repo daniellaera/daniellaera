@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way out is always through.</p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>- Robert Frost</p>
+<p>- Steve Maraboli</p>
