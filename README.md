@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there's life, there's hope.</p>
+<p>Peaceful is the one who expects nothing.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Maxime Lagace</p>
