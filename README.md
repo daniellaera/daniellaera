@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
+<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Jeffrey Gitomer</p>
