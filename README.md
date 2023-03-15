@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>Your success and happiness lie in you.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Helen Keller</p>
