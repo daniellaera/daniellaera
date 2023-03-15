@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is sometimes the best answer.</p>
+<p>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</p>
 
-<p>- Dalai Lama</p>
+<p>- Earl Nightingale</p>
