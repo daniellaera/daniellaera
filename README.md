@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The great use of life is to spend it for something that will outlast it.</p>
+<p>Time heals what reason cannot.  </p>
 
-<p>- William James</p>
+<p>- Seneca</p>
