@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By seeking and blundering we learn.</p>
+<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Andrew Carnegie</p>
