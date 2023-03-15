@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>The art of being happy lies in the power of extracting happiness from common things.</p>
 
-<p>- Jim Rohn</p>
+<p>- Henry Ward Beecher</p>
