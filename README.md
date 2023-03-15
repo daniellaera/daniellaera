@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time heals what reason cannot.  </p>
+<p>Abundance of knowledge does not teach men to be wise.</p>
 
-<p>- Seneca</p>
+<p>- Heraclitus</p>
