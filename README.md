@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
+<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Steve Jobs</p>
