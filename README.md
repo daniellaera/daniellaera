@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To affect the quality of the day, that is the highest of arts.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Earl Nightingale</p>
