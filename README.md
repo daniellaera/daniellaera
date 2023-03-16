@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Walt Disney</p>
+<p>- Peter A. Cohen</p>
