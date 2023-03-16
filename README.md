@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>- Steve Harvey</p>
+<p>- Theodore Roosevelt</p>
