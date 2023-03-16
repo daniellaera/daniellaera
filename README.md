@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect is earned by effort not age, all things age without effort.</p>
+<p>Convinced myself, I seek not to convince.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Edgar Allan Poe</p>
