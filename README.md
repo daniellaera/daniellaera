@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you're halfway there.</p>
+<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Roy T. Bennett</p>
