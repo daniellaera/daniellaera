@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The merit of all things lies in their difficulty.</p>
+<p>To affect the quality of the day, that is the highest of arts.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Henry David Thoreau</p>
