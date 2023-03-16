@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If ever you feel like an animal among men, be a lion.</p>
+<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
 
-<p>- Criss Jami</p>
+<p>- Charles Darwin</p>
