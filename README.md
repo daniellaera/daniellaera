@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>- Charles Darwin</p>
+<p>- Alexandre Dumas</p>
