@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Yanni</p>
