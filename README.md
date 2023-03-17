@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life as an exclamation rather than an explanation.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>- Isaac Newton</p>
+<p>- Joyce Meyer</p>
