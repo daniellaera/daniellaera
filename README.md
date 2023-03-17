@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focused, hard work is the real key to success.</p>
+<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
 
-<p>- John Carmack</p>
+<p>- Roy T. Bennett</p>
