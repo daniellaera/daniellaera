@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Margaret Mead</p>
+<p>- Peter A. Cohen</p>
