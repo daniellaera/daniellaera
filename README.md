@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>Focused, hard work is the real key to success.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- John Carmack</p>
