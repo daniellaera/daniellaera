@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>- Unknown</p>
+<p>- Aristotle</p>
