@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Paulo Coelho</p>
