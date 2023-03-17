@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't settle, and don't struggle.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Aristotle</p>
