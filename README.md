@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Estee Lauder</p>
