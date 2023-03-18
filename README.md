@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Invisible things are the only realities.</p>
+<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Eric Hoffer</p>
