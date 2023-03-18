@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
+<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Sun Tzu</p>
