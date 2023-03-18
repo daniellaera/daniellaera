@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Saying nothing sometimes says the most.</p>
+<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Zen Proverb</p>
