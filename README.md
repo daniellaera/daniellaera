@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment is a fresh beginning.</p>
+<p>Peaceful is the one who expects nothing.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Maxime Lagace</p>
