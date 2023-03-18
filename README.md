@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All things come into being by conflict of opposites.</p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>- Heraclitus</p>
+<p>- C. Sean McGee</p>
