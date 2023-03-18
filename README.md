@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>To earn more you must learn more.</p>
 
-<p>- Les Brown</p>
+<p>- Brian Tracy</p>
