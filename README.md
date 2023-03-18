@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</p>
 
-<p>- Alexander Pope</p>
+<p>- Sydney Smith</p>
