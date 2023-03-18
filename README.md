@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you admire was once a beginner.</p>
+<p>Forgive yourself for your faults and your mistakes and move on.</p>
 
-<p>- Jack Butcher</p>
+<p>- Les Brown</p>
