@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To earn more you must learn more.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
 <p>- Brian Tracy</p>
