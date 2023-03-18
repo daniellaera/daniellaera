@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All human beings can alter their lives by altering their attitudes.</p>
+<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Josh Waitzkin</p>
