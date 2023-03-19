@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</p>
+<p>When you are totally at peace with yourself, nothing can shake you.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Deepam Chaterjee</p>
