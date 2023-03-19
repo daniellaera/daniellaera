@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
+<p>Small men think they are small; great men never know they are great. </p>
 
-<p>- Spencer Johnson</p>
+<p>- Chinese Proverb</p>
