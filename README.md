@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A leader is one who knows the way, goes the way, and shows the way.</p>
+<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
 
-<p>- Unknown</p>
+<p>- Morgan Wootten</p>
