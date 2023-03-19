@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man becomes rich unless he enriches others.</p>
+<p>Life is about not knowing and then doing something anyway.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Mark Manson</p>
