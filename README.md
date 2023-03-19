@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
+<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
 
-<p>- Og Mandino</p>
+<p>- Steve Jobs</p>
