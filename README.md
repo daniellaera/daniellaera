@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Small men think they are small; great men never know they are great. </p>
+<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Og Mandino</p>
