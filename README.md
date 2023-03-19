@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are totally at peace with yourself, nothing can shake you.</p>
+<p>Change yourself - you are in control.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Mahatma Gandhi</p>
