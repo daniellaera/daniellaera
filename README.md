@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
+<p>Rewards and punishment is the lowest form of education.</p>
 
-<p>- Estee Lauder</p>
+<p>- Zhuangzi</p>
