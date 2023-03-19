@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
+<p>A leader is one who knows the way, goes the way, and shows the way.</p>
 
-<p>- Ayn Rand</p>
+<p>- Unknown</p>
