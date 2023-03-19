@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
+<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
 
-<p>- Morgan Wootten</p>
+<p>- Eckhart Tolle</p>
