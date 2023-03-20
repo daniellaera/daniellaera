@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- James Allen</p>
