@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focused, hard work is the real key to success.</p>
+<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
 
-<p>- John Carmack</p>
+<p>- Bob Marley</p>
