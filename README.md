@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The destiny of man is in his own soul. </p>
+<p>Knowledge isn't power until it is applied.</p>
 
-<p>- Herodotus</p>
+<p>- Dale Carnegie</p>
