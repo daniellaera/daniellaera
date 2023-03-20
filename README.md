@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
+<p>Guilt is perhaps the most painful companion of death.</p>
 
-<p>- Ralph Marston</p>
+<p>- Coco Chanel</p>
