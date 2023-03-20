@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
+<p>Adventure is worthwhile in itself.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Amelia Earhart</p>
