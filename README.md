@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adventure is worthwhile in itself.</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Kamal Ravikant</p>
