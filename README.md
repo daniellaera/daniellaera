@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fears are nothing more than a state of mind.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Ralph Marston</p>
