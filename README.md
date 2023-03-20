@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>Focused, hard work is the real key to success.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- John Carmack</p>
