@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Marilyn Monroe</p>
