@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Guilt is perhaps the most painful companion of death.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>- Coco Chanel</p>
+<p>- Josh Waitzkin</p>
