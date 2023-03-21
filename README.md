@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence is the ability to adapt to change.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Barack Obama</p>
