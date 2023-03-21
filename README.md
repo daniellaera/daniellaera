@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
 
-<p>- Peter Drucker</p>
+<p>- Jeffrey Gitomer</p>
