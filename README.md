@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When people are free to do as they please, they usually imitate each other.</p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>- Eric Hoffer</p>
+<p>- C. Sean McGee</p>
