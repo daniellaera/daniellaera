@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Simon Sinek</p>
