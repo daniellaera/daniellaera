@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy every minute of life. Never second-guess life.</p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>- Michael Jordan</p>
+<p>- Paulo Coelho</p>
