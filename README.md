@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Invisible things are the only realities.</p>
+<p>Success is within the reach of just about everyone.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Lolly Daskal</p>
