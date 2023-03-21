@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is exact correspondence with reality. </p>
+<p>The soul is neither born, and nor does it die.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Bhagavad Gita</p>
