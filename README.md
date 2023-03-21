@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Kabir</p>
+<p>- Eric Hoffer</p>
