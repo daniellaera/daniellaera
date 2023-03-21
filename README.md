@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the better you get. Unless you're a banana.</p>
+<p>It does not do to dwell on dreams and forget to live, remember that.</p>
 
-<p>- Betty White</p>
+<p>- Albus Dumbledore</p>
