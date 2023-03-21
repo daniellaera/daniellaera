@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Betty White</p>
