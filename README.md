@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
+<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Arnold Schwarzenegger</p>
