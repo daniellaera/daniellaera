@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>We all give up great expectations along the way.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Carlos Ruiz Zafon</p>
