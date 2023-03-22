@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Naval Ravikant</p>
