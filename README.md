@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We all give up great expectations along the way.</p>
+<p>The sun shines upon good and bad alike.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Hans Christian Andersen</p>
