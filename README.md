@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Use your smile to change the world but don't let the world change your smile.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>- Unknown</p>
+<p>- Mary Engelbreit</p>
