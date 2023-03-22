@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Belief creates the actual fact.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>- William James</p>
+<p>- Virginia Woolf</p>
