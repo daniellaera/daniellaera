@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear not the path of Truth for the lack of People walking on it.</p>
+<p>Great things are not done by impulse, but by a series of small things brought together.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Vincent van Gogh</p>
