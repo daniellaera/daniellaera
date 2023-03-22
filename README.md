@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tall oaks grow from little acorns.</p>
+<p>When you are totally at peace with yourself, nothing can shake you.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Deepam Chaterjee</p>
