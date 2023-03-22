@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Unknown</p>
