@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>- Dan Millman</p>
+<p>- Andrew Carnegie</p>
