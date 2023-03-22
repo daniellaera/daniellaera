@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Bruce Lee</p>
