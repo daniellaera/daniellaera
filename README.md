@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>- Bruce Lee</p>
+<p>- Aristotle</p>
