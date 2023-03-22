@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun shines upon good and bad alike.</p>
+<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- George Bernard Shaw</p>
