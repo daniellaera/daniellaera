@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lying can never save us from another lie.</p>
+<p>How to get more opportunity: Create more opportunity for others.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Jack Butcher</p>
