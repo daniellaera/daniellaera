@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greater the impact you want to make, the greater your influence needs to be.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Martin Luther King, Jr.</p>
