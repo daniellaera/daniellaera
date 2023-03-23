@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must accept finite disappointment, but never lose infinite hope.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Orison Swett Marden</p>
