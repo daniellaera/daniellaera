@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How to get more opportunity: Create more opportunity for others.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>- Jack Butcher</p>
+<p>- Mark Twain</p>
