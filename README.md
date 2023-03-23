@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
+<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
 
-<p>- Robert Collier</p>
+<p>- Jon Kabat-Zinn</p>
