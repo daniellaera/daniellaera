@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will not do incredible things without an incredible dream.</p>
+<p>Life happens in the river, not the shore.</p>
 
-<p>- John Eliot</p>
+<p>- Maxime Lagace</p>
