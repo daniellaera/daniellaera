@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All power is from within and therefore under our control.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>- Robert Collier</p>
+<p>- Christopher Columbus</p>
