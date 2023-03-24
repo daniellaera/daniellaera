@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>- Unknown</p>
+<p>- Steve Harvey</p>
