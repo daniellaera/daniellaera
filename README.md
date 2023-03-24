@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
+<p>Freedom from desire leads to inner peace.</p>
 
-<p>- Mark Manson</p>
+<p>- Lao Tzu</p>
