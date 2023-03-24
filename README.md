@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom from desire leads to inner peace.</p>
+<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
 
-<p>- Lao Tzu</p>
+<p>- Epictetus</p>
