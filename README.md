@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>Any game becomes important when you know and love the players.</p>
 
-<p>- Maxime Lagace</p>
+<p>- W.P. Kinsella</p>
