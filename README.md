@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
 
-<p>- Samuel Butler</p>
+<p>- Deepak Chopra</p>
