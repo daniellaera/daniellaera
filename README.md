@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
+<p>You have the potential for greatness.</p>
 
-<p>- Rumi</p>
+<p>- Steve Harvey</p>
