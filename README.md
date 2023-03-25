@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Pema Chodron</p>
+<p>- George Eliot</p>
