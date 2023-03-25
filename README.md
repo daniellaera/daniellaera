@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the potential for greatness.</p>
+<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
 
-<p>- Steve Harvey</p>
+<p>- Confucius</p>
