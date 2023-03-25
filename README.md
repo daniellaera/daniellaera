@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Barack Obama</p>
