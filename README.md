@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
+<p>No one can hurt you without your consent.</p>
 
-<p>- Henry Ford</p>
+<p>- Eleanor Roosevelt</p>
