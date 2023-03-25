@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</p>
 
-<p>- Alexander Pope</p>
+<p>- Tony Robbins</p>
