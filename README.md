@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>- Confucius</p>
+<p>- Abraham Lincoln</p>
