@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
+<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Elbert Hubbard</p>
