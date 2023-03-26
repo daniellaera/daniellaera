@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>- Steve Harvey</p>
+<p>- Harry S. Truman</p>
