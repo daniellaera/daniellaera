@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is literally what he thinks.</p>
+<p>Do every act of your life as if it were your last.</p>
 
-<p>- James Allen</p>
+<p>- Marcus Aurelius</p>
