@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends on your mindset and attitude.</p>
+<p>A good stance and posture reflect a proper state of mind.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Morihei Ueshiba</p>
