@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>- Huang Po</p>
+<p>- Steve Harvey</p>
