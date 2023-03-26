@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Pema Chodron</p>
