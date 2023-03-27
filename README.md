@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>The way to change others' minds is with affection, and not anger.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Dalai Lama</p>
