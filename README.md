@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realistic people do not accomplish extraordinary things.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>- John Eliot</p>
+<p>- Sathya Sai Baba</p>
