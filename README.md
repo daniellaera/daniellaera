@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>Confidence is contagious. So is lack of confidence.</p>
 
-<p>- Thomas Edison</p>
+<p>- Vince Lombardi</p>
