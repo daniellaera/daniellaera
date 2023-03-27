@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An ounce of performance is worth pounds of promises.</p>
+<p>A man that flies from his fear may find that he has only taken a short cut to meet it.</p>
 
-<p>- Mae West</p>
+<p>- J.R.R. Tolkien</p>
