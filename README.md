@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>One of the most difficult things is not to change society - but to change yourself.</p>
 
-<p>- Albert Einstein</p>
+<p>- Nelson Mandela</p>
