@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm an optimist by choice not by stupidity.</p>
+<p>Realistic people do not accomplish extraordinary things.</p>
 
-<p>- Yanni</p>
+<p>- John Eliot</p>
