@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
+<p>Listen to what you know instead of what you fear.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Richard Bach</p>
