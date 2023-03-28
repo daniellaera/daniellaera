@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
+<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Lao Tzu</p>
