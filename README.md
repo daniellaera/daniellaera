@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
+<p>Whenever you do a thing, act as if all the world were watching.</p>
 
-<p>- Dan Millman</p>
+<p>- Thomas Jefferson</p>
