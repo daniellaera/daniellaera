@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pen is the tongue of the mind. </p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Bruce Lee</p>
