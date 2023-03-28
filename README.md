@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is anger, there is always pain underneath.</p>
+<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Dan Millman</p>
