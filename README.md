@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Vincent van Gogh</p>
