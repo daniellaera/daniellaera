@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only I can change my life. No one can do it for me.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>- Carol Burnett</p>
+<p>- Miguel de Cervantes</p>
