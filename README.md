@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You just can't beat the person who never gives up. </p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>- Babe Ruth</p>
+<p>- Albert Einstein</p>
