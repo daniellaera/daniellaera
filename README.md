@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
+<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Oprah Winfrey</p>
