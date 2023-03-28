@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
+<p>What one does is what counts. Not what one had the intention of doing.</p>
 
-<p>- Celestine Chua</p>
+<p>- Pablo Picasso</p>
