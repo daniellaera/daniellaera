@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- Aristophanes</p>
+<p>- Lolly Daskal</p>
