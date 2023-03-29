@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter how slow you go, as long as you don't stop.</p>
+<p>All life is a manifestation of the spirit, the manifestation of love.</p>
 
-<p>- Confucius</p>
+<p>- Morihei Ueshiba</p>
