@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>- Dan Brown</p>
+<p>- Lolly Daskal</p>
