@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no significance in life without struggle.</p>
+<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Dan Brown</p>
