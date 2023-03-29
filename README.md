@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't program yourself, life will program you.</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>- Les Brown</p>
+<p>- Aristophanes</p>
