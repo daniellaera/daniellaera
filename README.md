@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
+<p>If you don't program yourself, life will program you.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Les Brown</p>
