@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Ayn Rand</p>
