@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not something ready made. It comes from your own actions.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>- Dalai Lama</p>
+<p>- Eleanor Roosevelt</p>
