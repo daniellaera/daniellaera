@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>A mistake is only an error, it becomes a mistake when you fail to correct it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- John Lennon</p>
