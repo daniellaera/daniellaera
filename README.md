@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a balance of holding on and letting go.</p>
+<p>The Art of Peace begins with you.</p>
 
-<p>- Rumi</p>
+<p>- Morihei Ueshiba</p>
