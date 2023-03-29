@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>Do not fear failure but rather fear not trying.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Roy T. Bennett</p>
