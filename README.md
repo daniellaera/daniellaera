@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Older men declare war. But it is youth that must fight and die.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Sigmund Freud</p>
