@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freeing oneself from words is liberation. </p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>- Bodhidharma</p>
+<p>- Arnold Schwarzenegger</p>
