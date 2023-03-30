@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
+<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
 
-<p>- Charles Darwin</p>
+<p>- Zig Ziglar</p>
