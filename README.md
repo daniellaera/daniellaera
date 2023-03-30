@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Alexandre Dumas</p>
