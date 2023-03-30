@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive those who have hurt you.</p>
+<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
 
-<p>- Les Brown</p>
+<p>- Laurence J. Peter</p>
