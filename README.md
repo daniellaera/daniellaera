@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspiration exists, but it has to find you working.</p>
+<p>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Orison Swett Marden</p>
