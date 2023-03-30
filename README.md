@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>See what you're doing wrong, laugh at it, change and do better.</p>
+<p>I have never let my schooling interfere with my education.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Mark Twain</p>
