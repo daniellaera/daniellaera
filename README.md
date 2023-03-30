@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
+<p>Older men declare war. But it is youth that must fight and die.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Herbert Hoover</p>
