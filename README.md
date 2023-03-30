@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never let my schooling interfere with my education.</p>
+<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
 
-<p>- Mark Twain</p>
+<p>- Charles Darwin</p>
