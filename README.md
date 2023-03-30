@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
+<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Roy T. Bennett</p>
