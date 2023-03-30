@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </p>
 
-<p>- Maxime Lagace</p>
+<p>- Wayne Dyer</p>
