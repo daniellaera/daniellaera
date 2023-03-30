@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All life is a manifestation of the spirit, the manifestation of love.</p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Bodhidharma</p>
