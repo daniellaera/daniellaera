@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Norman Vincent Peale</p>
