@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
+<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- James Allen</p>
