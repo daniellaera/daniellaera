@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One loses many laughs by not laughing at oneself.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Henry Ford</p>
