@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>- Voltaire</p>
+<p>- Mary Engelbreit</p>
