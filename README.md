@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
+<p>Boldness makes even the smallest animal dangerous.</p>
 
-<p>- Jim Rohn</p>
+<p>- Robert Greene</p>
