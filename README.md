@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
+<p>People tend to complicate their own lives, as if living weren't already complicated enough.</p>
 
-<p>- Carl Jung</p>
+<p>- Carlos Ruiz Zafon</p>
