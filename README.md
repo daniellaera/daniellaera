@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>- Franz Kafka</p>
+<p>- Simon Sinek</p>
