@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One must be poor to know the luxury of giving.</p>
+<p>From the errors of others, a wise man corrects his own.</p>
 
-<p>- George Eliot</p>
+<p>- Publilius Syrus</p>
