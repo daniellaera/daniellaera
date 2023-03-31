@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reality is nothing but a collective hunch.</p>
+<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Jim Rohn</p>
