@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
+<p>One must be poor to know the luxury of giving.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- George Eliot</p>
