@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>It is not fair to ask of others what you are not willing to do yourself.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Eleanor Roosevelt</p>
