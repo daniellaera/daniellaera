@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>Don't let the noise of others opinions drown out your inner voice.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Steve Jobs</p>
