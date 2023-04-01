@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want. Happiness is wanting what you get.</p>
+<p>Nothing has any power over me other than that which I give it through my conscious thoughts.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Tony Robbins</p>
