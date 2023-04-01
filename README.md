@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
+<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
 
-<p>- Steve Jobs</p>
+<p>- Nicolas Chamfort</p>
