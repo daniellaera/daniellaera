@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
+<p>What people need and what they want may be very different.</p>
 
-<p>- John Tukey</p>
+<p>- Elbert Hubbard</p>
