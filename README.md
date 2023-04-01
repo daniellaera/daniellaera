@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>Imagination is the beginning of creation.</p>
 
-<p>- Henry Ford</p>
+<p>- George Bernard Shaw</p>
