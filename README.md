@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A minute's success pays the failure of years.</p>
+<p>Little by little, one travels far.</p>
 
-<p>- Robert Browning</p>
+<p>- J.R.R. Tolkien</p>
