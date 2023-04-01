@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>Facts are the enemy of truth. </p>
 
-<p>- Henry Ford</p>
+<p>- Miguel de Cervantes</p>
