@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cleverness is not wisdom.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Euripides</p>
+<p>- Conrad Hilton</p>
