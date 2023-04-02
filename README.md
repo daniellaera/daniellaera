@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forget safety. Live where you fear to live.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>- Rumi</p>
+<p>- Walt Disney</p>
