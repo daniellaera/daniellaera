@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>To be great is to be misunderstood.</p>
 
-<p>- Lao Tzu</p>
+<p>- Ralph Waldo Emerson</p>
