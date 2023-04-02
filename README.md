@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>Everything has its beauty, but not everyone sees it. </p>
 
-<p>- Pema Chodron</p>
+<p>- Confucius</p>
