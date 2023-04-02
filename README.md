@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Productize your perspective.</p>
+<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
 
-<p>- Jack Butcher</p>
+<p>- John Wooden</p>
