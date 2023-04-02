@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to get started is to quit talking and begin doing.</p>
+<p>The smallest act of kindness is worth more than the greatest intention.  </p>
 
-<p>- Walt Disney</p>
+<p>- Kahlil Gibran</p>
