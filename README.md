@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be great is to be misunderstood.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Peter A. Cohen</p>
