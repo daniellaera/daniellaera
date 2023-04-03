@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
 
-<p>- Bob Proctor</p>
+<p>- Lolly Daskal</p>
