@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember we're all in this alone.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Eleanor Roosevelt</p>
