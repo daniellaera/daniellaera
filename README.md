@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Sathya Sai Baba</p>
