@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
+<p>Those who are enlightened never stop forging themselves.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Morihei Ueshiba</p>
