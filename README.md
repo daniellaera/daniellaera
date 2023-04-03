@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discontent is the first necessity of progress.</p>
+<p>An intelligent person hires people who are more intelligent than he is.</p>
 
-<p>- Thomas Edison</p>
+<p>- Robert Kiyosaki</p>
