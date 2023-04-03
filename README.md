@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pursuit of mastery bears gifts. </p>
+<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
 
-<p>- Gary Keller</p>
+<p>- Ralph Marston</p>
