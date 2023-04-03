@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where focus goes, energy flows.</p>
+<p>Make failure your teacher, not your undertaker.  </p>
 
-<p>- Tony Robbins</p>
+<p>- Zig Ziglar</p>
