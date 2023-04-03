@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An intelligent person hires people who are more intelligent than he is.</p>
+<p>It's easier to lose than to win.  </p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Wayne Gretzky</p>
