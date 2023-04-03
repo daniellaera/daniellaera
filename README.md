@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are enlightened never stop forging themselves.</p>
+<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Spencer Johnson</p>
