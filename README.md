@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</p>
+<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Theodore Roosevelt</p>
