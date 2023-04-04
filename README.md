@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who cannot control his words shows that he cannot control himself.</p>
+<p>To belittle, you have to be little.</p>
 
-<p>- Robert Greene</p>
+<p>- Kahlil Gibran</p>
