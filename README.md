@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>The person who cannot control his words shows that he cannot control himself.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Robert Greene</p>
