@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nature does not hurry, yet everything is accomplished.</p>
+<p>Even a hare will bite when it is cornered. </p>
 
-<p>- Lao Tzu</p>
+<p>- Chinese Proverb</p>
