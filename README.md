@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We will now discuss in a little more detail the Struggle for Existence.</p>
+<p>When you love someone, you love the person as they are, and not as you'd like them to be.</p>
 
-<p>- Charles Darwin</p>
+<p>- Leo Tolstoy</p>
