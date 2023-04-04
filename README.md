@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all self-made, but only the successful will admit it.</p>
+<p>Cease striving. Then there will be transformation.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Zhuangzi</p>
