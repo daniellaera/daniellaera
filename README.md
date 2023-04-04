@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Happiness. Happiness is the path.</p>
+<p>Be curious, not judgmental.</p>
 
-<p>- Dan Millman</p>
+<p>- Walt Whitman</p>
