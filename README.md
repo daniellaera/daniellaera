@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
+<p>The road to success and the road to failure are almost exactly the same.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Colin R. Davis</p>
