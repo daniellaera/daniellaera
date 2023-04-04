@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>- Celestine Chua</p>
+<p>- Christopher McCandless</p>
