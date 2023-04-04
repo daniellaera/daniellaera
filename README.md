@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
+<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
 
-<p>- Bodhidharma</p>
+<p>- Robert F. Kennedy</p>
