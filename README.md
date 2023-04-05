@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there's life, there's hope.</p>
+<p>Be where your enemy is not.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Sun Tzu</p>
