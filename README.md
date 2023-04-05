@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a long lesson in humility. </p>
+<p>Mistake is a mistake only if you make it twice.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Robin Sharma</p>
