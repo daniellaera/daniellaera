@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to not feel hopeless is to get up and do something.</p>
+<p>The ability to observe without evaluating is the highest form of intelligence.</p>
 
-<p>- Barack Obama</p>
+<p>- Jiddu Krishnamurti</p>
