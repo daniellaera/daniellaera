@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about doing the right thing, not about doing everything right.</p>
+<p>It is better to be looked over than overlooked.</p>
 
-<p>- Gary Keller</p>
+<p>- Mae West</p>
