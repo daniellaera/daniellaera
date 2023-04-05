@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>- Kabir</p>
+<p>- Dan Millman</p>
