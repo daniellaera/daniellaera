@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>- Albert Einstein</p>
+<p>- Bob Dylan</p>
