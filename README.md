@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be where your enemy is not.</p>
+<p>Life is a long lesson in humility. </p>
 
-<p>- Sun Tzu</p>
+<p>- James Matthew Barrie</p>
