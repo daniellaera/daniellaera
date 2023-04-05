@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>Insanity: doing the same thing over and over again and expecting different results.</p>
 
-<p>- Bob Dylan</p>
+<p>- Albert Einstein</p>
