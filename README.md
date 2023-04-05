@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity: doing the same thing over and over again and expecting different results.</p>
+<p>If I persist long enough I will win.</p>
 
-<p>- Albert Einstein</p>
+<p>- Og Mandino</p>
