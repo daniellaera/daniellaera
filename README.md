@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Lao Tzu</p>
+<p>- Emily Dickinson</p>
