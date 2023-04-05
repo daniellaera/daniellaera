@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>It's possible in ways both large or small to make a difference in someone's life.</p>
 
-<p>- Dan Millman</p>
+<p>- Yanni</p>
