@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Steve Harvey</p>
