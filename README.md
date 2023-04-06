@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
+<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Rumi</p>
