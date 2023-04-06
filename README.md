@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Oprah Winfrey</p>
