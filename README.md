@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</p>
+<p>It is not enough to win a war; it is more important to organize the peace.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Aristotle</p>
