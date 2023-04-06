@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>Your success and happiness lie in you.</p>
 
-<p>- Lin Yutang</p>
+<p>- Helen Keller</p>
