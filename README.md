@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>- Kabir</p>
+<p>- Yanni</p>
