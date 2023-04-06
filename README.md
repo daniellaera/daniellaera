@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
+<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
 
-<p>- Steve Harvey</p>
+<p>- Thomas Jefferson</p>
