@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</p>
+<p>Watch what you say, and whatever you say, practice it.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Soyen Shaku</p>
