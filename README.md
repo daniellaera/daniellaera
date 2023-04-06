@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>Stay away from people who makes you feel like you are wasting their time.</p>
 
-<p>- Tony Robbins</p>
+<p>- Paulo Coelho</p>
