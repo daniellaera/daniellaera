@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>- Criss Jami</p>
+<p>- Gary Keller</p>
