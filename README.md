@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to offer no excuse than a bad one. </p>
+<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
 
-<p>- George Washington</p>
+<p>- Chinese Proverb</p>
