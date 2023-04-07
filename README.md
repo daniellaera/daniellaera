@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your next step is simple. You are the first domino.</p>
+<p>Every man is guilty of all the good he did not do. </p>
 
-<p>- Gary Keller</p>
+<p>- Voltaire</p>
