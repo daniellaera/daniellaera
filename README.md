@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not how much we give but how much love we put into giving.</p>
+<p>Let the beauty of what you love be what you do.</p>
 
-<p>- Mother Teresa</p>
+<p>- Rumi</p>
