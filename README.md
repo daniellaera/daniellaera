@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We take care of the future best by taking care of the present now.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Mother Teresa</p>
