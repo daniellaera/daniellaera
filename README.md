@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I do not seek. I find.</p>
+<p>Lack of emotion causes lack of progress and lack of motivation.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Tony Robbins</p>
