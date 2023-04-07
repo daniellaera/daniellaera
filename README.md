@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you believe with feeling becomes your reality. </p>
+<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
 
 <p>- Brian Tracy</p>
