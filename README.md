@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength. </p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Steve Jobs</p>
