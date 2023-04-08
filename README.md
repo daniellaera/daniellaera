@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
 
-<p>- Albert Einstein</p>
+<p>- Elvis Presley</p>
