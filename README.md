@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>That some achieve great success is proof to all that others can achieve it as well.</p>
+<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Jon Kabat-Zinn</p>
