@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>- Osho</p>
+<p>- Abraham Lincoln</p>
