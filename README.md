@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
+<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
 
-<p>- Elvis Presley</p>
+<p>- Ayn Rand</p>
