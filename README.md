@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I love fools' experiments. I am always making them.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>- Charles Darwin</p>
+<p>- Dr. Seuss</p>
