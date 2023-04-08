@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Elbert Hubbard</p>
