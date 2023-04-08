@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
+<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
 
-<p>- Zen Proverb</p>
+<p>- Osho</p>
