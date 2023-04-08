@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
+<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
 
-<p>- Elon Musk</p>
+<p>- Deepak Chopra</p>
