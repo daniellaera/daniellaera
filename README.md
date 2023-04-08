@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goodness is the only investment that never fails.</p>
+<p>Those who are easily shocked should be shocked more often.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Mae West</p>
