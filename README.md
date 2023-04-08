@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
+<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Zen Proverb</p>
