@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>- Franz Kafka</p>
+<p>- Albert Einstein</p>
