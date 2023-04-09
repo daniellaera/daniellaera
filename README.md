@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
+<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Andrew Carnegie</p>
