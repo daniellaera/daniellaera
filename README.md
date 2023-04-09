@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Deepak Chopra</p>
