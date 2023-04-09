@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Steve Jobs</p>
+<p>- Maxime Lagace</p>
