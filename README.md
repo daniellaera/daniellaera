@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all of us can do great things. But we can do small things with great love.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Mother Teresa</p>
+<p>- Henry Ford</p>
