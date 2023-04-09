@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Bodhidharma</p>
+<p>- Paulo Coelho</p>
