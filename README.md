@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most courageous act is still to think for yourself. Aloud.</p>
+<p>Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.</p>
 
-<p>- Coco Chanel</p>
+<p>- Sydney Smith</p>
