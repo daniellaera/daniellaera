@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what happens to you while you're busy making other plans.</p>
+<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
 
-<p>- John Lennon</p>
+<p>- Robin Sharma</p>
