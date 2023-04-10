@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.</p>
+<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
 
-<p>- Alfred Adler</p>
+<p>- Maxime Lagace</p>
