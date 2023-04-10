@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
+<p>It doesn't matter what you do, only how well you do it.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Dan Millman</p>
