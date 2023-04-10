@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The enemy is a very good teacher.</p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>- Dalai Lama</p>
+<p>- Pablo Picasso</p>
