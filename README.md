@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
+<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Criss Jami</p>
