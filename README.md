@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>If you put water into a cup, it becomes the cup.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Bruce Lee</p>
