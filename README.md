@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
+<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 
-<p>- Dogen</p>
+<p>- Mother Teresa</p>
