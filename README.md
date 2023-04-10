@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little progress each day adds up to big results.</p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>- Unknown</p>
+<p>- Audrey Hepburn</p>
