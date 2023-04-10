@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>You cannot find peace avoiding life.</p>
 
 <p>- Virginia Woolf</p>
