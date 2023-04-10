@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to understanding is a few good examples.</p>
+<p>A little progress each day adds up to big results.</p>
 
-<p>- Isaac Newton</p>
+<p>- Unknown</p>
