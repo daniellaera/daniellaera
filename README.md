@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings can alter their lives by altering their attitudes of mind.</p>
+<p>The highest level of wisdom is when you not only accept but love adversity.</p>
 
-<p>- William James</p>
+<p>- Maxime Lagace</p>
