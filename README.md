@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.</p>
+<p>Human beings can alter their lives by altering their attitudes of mind.</p>
 
-<p>- James Allen</p>
+<p>- William James</p>
