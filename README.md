@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There will always be suffering. But we must not suffer over the suffering.</p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>- Alan Watts</p>
+<p>- Barack Obama</p>
