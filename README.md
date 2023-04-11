@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
+<p>Great minds are always feared by lesser minds.</p>
 
-<p>- Mark Manson</p>
+<p>- Dan Brown</p>
