@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realistic people do not accomplish extraordinary things.</p>
+<p>Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.</p>
 
-<p>- John Eliot</p>
+<p>- Mark Manson</p>
