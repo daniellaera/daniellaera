@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
 
-<p>- Helen Keller</p>
+<p>- Maxime Lagace</p>
