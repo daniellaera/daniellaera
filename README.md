@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>- Gary Keller</p>
+<p>- Aristophanes</p>
