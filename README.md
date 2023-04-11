@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>- Barack Obama</p>
+<p>- Alfred Adler</p>
