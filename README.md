@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>- Mother Teresa</p>
+<p>- Stephen Hawking</p>
