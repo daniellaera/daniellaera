@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man is guilty of all the good he did not do. </p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>- Voltaire</p>
+<p>- Alexandre Dumas</p>
