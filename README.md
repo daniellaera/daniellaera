@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can change your mind, you can change your life.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>- William James</p>
+<p>- Leonardo da Vinci</p>
