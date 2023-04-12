@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Andrew Carnegie</p>
