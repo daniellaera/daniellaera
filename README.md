@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
+<p>In three words I can sum up everything I've learned about life: it goes on.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Robert Frost</p>
