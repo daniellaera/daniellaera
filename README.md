@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Thomas Edison</p>
