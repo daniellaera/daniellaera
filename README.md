@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
 
-<p>- Brian Tracy</p>
+<p>- Johann Wolfgang von Goethe</p>
