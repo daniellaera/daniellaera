@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nature does not hurry, yet everything is accomplished.</p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>- Lao Tzu</p>
+<p>- Samuel Butler</p>
