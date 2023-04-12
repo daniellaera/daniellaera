@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
 
-<p>- Samuel Butler</p>
+<p>- Eckhart Tolle</p>
