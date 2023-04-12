@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
+<p>Nature does not hurry, yet everything is accomplished.</p>
 
-<p>- Thomas Edison</p>
+<p>- Lao Tzu</p>
