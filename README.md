@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man should fear never beginning to live.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Morihei Ueshiba</p>
