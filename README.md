@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest deception men suffer is from their own opinions.</p>
+<p>People are doing the best that they can from their own level of consciousness.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Deepak Chopra</p>
