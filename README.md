@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>- William James</p>
+<p>- Sonia Ricotti</p>
