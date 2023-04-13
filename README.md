@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Betty White</p>
