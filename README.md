@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Love. Love is the path.</p>
+<p>All wealth is the product of labor.</p>
 
-<p>- Dan Millman</p>
+<p>- John Locke</p>
