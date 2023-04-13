@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life begins where fear ends.</p>
+<p>Never trust he who trusts everyone.</p>
 
-<p>- Osho</p>
+<p>- Carlos Ruiz Zafon</p>
