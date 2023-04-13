@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you talk about your shame, the more of it you have.</p>
+<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
 
-<p>- Mark Manson</p>
+<p>- Henry Ward Beecher</p>
