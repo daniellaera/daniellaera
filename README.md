@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All wealth is the product of labor.</p>
+<p>Life begins where fear ends.</p>
 
-<p>- John Locke</p>
+<p>- Osho</p>
