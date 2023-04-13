@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything worth doing is worth doing slowly.</p>
+<p>It is far easier to start something than it is to finish it.</p>
 
-<p>- Mae West</p>
+<p>- Amelia Earhart</p>
