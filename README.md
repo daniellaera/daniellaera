@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>The greatest doer must also be a great dreamer.</p>
 
-<p>- Steve Harvey</p>
+<p>- Theodore Roosevelt</p>
