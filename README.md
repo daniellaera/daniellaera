@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Misfortune shows those who are not really friends.</p>
+<p>The way of success is the way of continuous pursuit of knowledge.</p>
 
-<p>- Aristotle</p>
+<p>- Napoleon Hill</p>
