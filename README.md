@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Art of Peace begins with you.</p>
+<p>Your gift is something that you can do innately better than anything else.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Steve Harvey</p>
