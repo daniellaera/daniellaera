@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men do not attract which they want but that which they are.</p>
+<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
 
-<p>- James Allen</p>
+<p>- John Locke</p>
