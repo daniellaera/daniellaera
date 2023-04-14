@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Steve Harvey</p>
