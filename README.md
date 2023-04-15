@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>- Kabir</p>
+<p>- Brian Tracy</p>
