@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>- Criss Jami</p>
+<p>- Cherralea Morgen</p>
