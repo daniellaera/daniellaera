@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Deepak Chopra</p>
