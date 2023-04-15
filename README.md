@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>There are no limitations to the mind except those we acknowledge...</p>
 
-<p>- Unknown</p>
+<p>- Napoleon Hill</p>
