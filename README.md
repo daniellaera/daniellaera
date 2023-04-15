@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try to be a rainbow in someone's cloud.</p>
+<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
 
-<p>- Maya Angelou</p>
+<p>- Samuel Butler</p>
