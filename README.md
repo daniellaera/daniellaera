@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time is a game played beautifully by children.</p>
+<p>What you seek is seeking you.</p>
 
-<p>- Heraclitus</p>
+<p>- Rumi</p>
