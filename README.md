@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Curiosity is the most powerful thing you own.</p>
+<p>The journey, not the destination matters.</p>
 
-<p>- James Cameron</p>
+<p>- T.S. Eliot</p>
