@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you seek is seeking you.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>- Rumi</p>
+<p>- Unknown</p>
