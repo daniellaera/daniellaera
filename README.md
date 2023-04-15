@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear does not have any special power unless you empower it by submitting to it.</p>
+<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
 
-<p>- Les Brown</p>
+<p>- Unknown</p>
