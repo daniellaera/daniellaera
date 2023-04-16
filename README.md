@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Barack Obama</p>
