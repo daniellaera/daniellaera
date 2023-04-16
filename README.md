@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Wayne Dyer</p>
+<p>- James Allen</p>
