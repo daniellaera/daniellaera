@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
+<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Eckhart Tolle</p>
