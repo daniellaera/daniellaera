@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>- Epictetus</p>
+<p>- Jonathan Swift</p>
