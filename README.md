@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every act of creation is first an act of destruction.</p>
+<p>There is little success where there is little laughter.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Andrew Carnegie</p>
