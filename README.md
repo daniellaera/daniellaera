@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Pablo Picasso</p>
