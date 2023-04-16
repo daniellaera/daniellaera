@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Arnold Schwarzenegger</p>
