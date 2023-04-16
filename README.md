@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is only depth of character that determines the profundity with which we face life.</p>
+<p>Some people feel the rain. Others just get wet. </p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Bob Dylan</p>
