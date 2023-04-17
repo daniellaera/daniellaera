@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is rarely pure and never simple. </p>
+<p>Luck is a matter of preparation meeting opportunity.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Oprah Winfrey</p>
