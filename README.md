@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not conquer self, you will be conquered by self.</p>
+<p>The only way out is through.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Robert Frost</p>
