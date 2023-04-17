@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
+<p>Adults are just children who earn money.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Kenneth Branagh</p>
