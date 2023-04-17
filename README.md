@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
+<p>Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Og Mandino</p>
