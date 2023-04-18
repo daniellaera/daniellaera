@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
 <p>- Richard Bach</p>
