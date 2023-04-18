@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>Before you can see the Light, you have to deal with the darkness.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Dan Millman</p>
