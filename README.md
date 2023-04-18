@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live in the sunshine, swim the sea, drink the wild air.</p>
+<p>Fortunate are those who take the first steps.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Paulo Coelho</p>
