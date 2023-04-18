@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Wayne Dyer</p>
