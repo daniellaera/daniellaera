@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
+<p>Be a master of change rather than a victim of change.</p>
 
-<p>- John Eliot</p>
+<p>- Brian Tracy</p>
