@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you can see the Light, you have to deal with the darkness.</p>
+<p>Don't let your mind stop you.</p>
 
-<p>- Dan Millman</p>
+<p>- Steve Harvey</p>
