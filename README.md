@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Brian Tracy</p>
