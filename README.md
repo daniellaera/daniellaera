@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Unknown</p>
+<p>- Robert Kiyosaki</p>
