@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
 
-<p>- Brian Tracy</p>
+<p>- Unknown</p>
