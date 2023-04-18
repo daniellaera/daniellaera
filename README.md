@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't hate the player. Change the game.</p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>- Steve Harvey</p>
+<p>- John Wooden</p>
