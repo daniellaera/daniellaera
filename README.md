@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise warrior avoids the battle.</p>
+<p>Don't hate the player. Change the game.</p>
 
-<p>- Sun Tzu</p>
+<p>- Steve Harvey</p>
