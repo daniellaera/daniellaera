@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let your mind stop you.</p>
+<p>It is better to learn late than never.</p>
 
-<p>- Steve Harvey</p>
+<p>- Publilius Syrus</p>
