@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Pema Chodron</p>
