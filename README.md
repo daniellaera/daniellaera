@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>True life is lived when tiny changes occur.</p>
 
-<p>- Robert Browning</p>
+<p>- Leo Tolstoy</p>
