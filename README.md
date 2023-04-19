@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Deepak Chopra</p>
