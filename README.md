@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm an optimist by choice not by stupidity.</p>
+<p>Lying can never save us from another lie.</p>
 
-<p>- Yanni</p>
+<p>- Vaclav Havel</p>
