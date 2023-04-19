@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
+<p>Luck is a matter of preparation meeting opportunity.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Oprah Winfrey</p>
