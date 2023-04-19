@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
+<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
 
-<p>- Samuel Butler</p>
+<p>- Rumi</p>
