@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>Whenever you do a thing, act as if all the world were watching.</p>
 
-<p>- Pema Chodron</p>
+<p>- Thomas Jefferson</p>
