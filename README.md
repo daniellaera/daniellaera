@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True life is lived when tiny changes occur.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Walt Disney</p>
