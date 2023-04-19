@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't, you must. If you must, you can.</p>
+<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
 
-<p>- Tony Robbins</p>
+<p>- Jack Kerouac</p>
