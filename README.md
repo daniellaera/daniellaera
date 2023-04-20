@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Herman Melville</p>
