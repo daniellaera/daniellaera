@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise learn many things from their enemies.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- Aristophanes</p>
+<p>- Gilbert Chesterton</p>
