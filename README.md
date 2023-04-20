@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>- Tony Robbins</p>
+<p>- D. H. Lawrence</p>
