@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success and the road to failure are almost exactly the same.</p>
+<p>The quieter you become, the more you are able to hear.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Rumi</p>
