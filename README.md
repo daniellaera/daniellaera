@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>The heart wants what it wants - or else it does not care.</p>
 
-<p>- Herman Melville</p>
+<p>- Emily Dickinson</p>
