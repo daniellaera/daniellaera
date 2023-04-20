@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>The road to success and the road to failure are almost exactly the same.</p>
 
-<p>- Bob Proctor</p>
+<p>- Colin R. Davis</p>
