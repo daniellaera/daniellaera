@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
+<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Mother Teresa</p>
