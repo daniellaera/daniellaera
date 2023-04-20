@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Euripides</p>
