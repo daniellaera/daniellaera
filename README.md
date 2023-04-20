@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
+<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
 
-<p>- Mother Teresa</p>
+<p>- Charles Swindoll</p>
