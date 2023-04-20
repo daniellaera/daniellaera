@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>Don't cry because it's over. Smile because it happened.</p>
 
-<p>- Seneca</p>
+<p>- Dr. Seuss</p>
