@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
+<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Stephen Hawking</p>
