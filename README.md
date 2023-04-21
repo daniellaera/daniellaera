@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
+<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
 
-<p>- Winston Churchill</p>
+<p>- Paramahansa Yogananda</p>
