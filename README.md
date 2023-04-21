@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>Give a girl the right shoes, and she can conquer the world.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Bette Midler</p>
