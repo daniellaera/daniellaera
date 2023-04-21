@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>If you need inspiration, don't do it.</p>
 
-<p>- George Eliot</p>
+<p>- Elon Musk</p>
