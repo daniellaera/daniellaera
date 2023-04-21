@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Harry S. Truman</p>
