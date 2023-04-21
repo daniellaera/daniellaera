@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Aristotle</p>
