@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is the worst thing about the present.</p>
+<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Martin Luther King, Jr.</p>
