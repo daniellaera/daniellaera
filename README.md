@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is planted in each person's soul will sprout.  </p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>- Rumi</p>
+<p>- Brian Tracy</p>
