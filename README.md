@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Eric Hoffer</p>
