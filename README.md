@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life without love is like a tree without blossoms or fruit.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Vincent van Gogh</p>
