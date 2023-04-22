@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>- Samuel Butler</p>
+<p>- Rumi</p>
