@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </p>
+<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Jon Kabat-Zinn</p>
