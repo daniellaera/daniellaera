@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</p>
+<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
 
-<p>- Brian Tracy</p>
+<p>- Chinese Proverb</p>
