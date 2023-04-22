@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your outlook on life that counts.</p>
+<p>When it hurts - observe. Life is trying to teach you something.</p>
 
-<p>- Betty White</p>
+<p>- Anita Krizzan</p>
