@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it hurts - observe. Life is trying to teach you something.</p>
+<p>Success is often achieved by those who don't know that failure is inevitable.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Coco Chanel</p>
