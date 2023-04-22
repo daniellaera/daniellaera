@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must create our own world or we will die from inaction.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- Robert Greene</p>
+<p>- Amelia Earhart</p>
