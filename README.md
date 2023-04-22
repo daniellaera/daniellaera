@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
 
-<p>- Brian Tracy</p>
+<p>- Dogen</p>
