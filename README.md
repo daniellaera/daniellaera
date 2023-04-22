@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
+<p>We must create our own world or we will die from inaction.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robert Greene</p>
