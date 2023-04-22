@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>- Dogen</p>
+<p>- Betty White</p>
