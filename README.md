@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter how slow you go, as long as you don't stop.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Confucius</p>
+<p>- Roy T. Bennett</p>
