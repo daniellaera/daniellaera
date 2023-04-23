@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
+<p>Only the educated are free.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Epictetus</p>
