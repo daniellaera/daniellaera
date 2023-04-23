@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The cost of leadership is self-interest.</p>
+<p>Constantly think about how you could be doing things better.</p>
 
-<p>- Simon Sinek</p>
+<p>- Elon Musk</p>
