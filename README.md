@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>- Robert Collier</p>
+<p>- Zig Ziglar</p>
