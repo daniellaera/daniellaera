@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Constantly think about how you could be doing things better.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>- Elon Musk</p>
+<p>- Sigmund Freud</p>
