@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is during our darkest moments that we must focus to see the light.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>- Aristotle</p>
+<p>- Rumi</p>
