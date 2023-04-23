@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never let my schooling interfere with my education.</p>
+<p>The only way round is through.</p>
 
-<p>- Mark Twain</p>
+<p>- Robert Frost</p>
