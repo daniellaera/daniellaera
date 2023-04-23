@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only the educated are free.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- Epictetus</p>
+<p>- F. Scott Fitzgerald</p>
