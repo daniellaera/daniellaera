@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of getting ahead is getting started.</p>
+<p>Judge a man by his questions rather than his answers.</p>
 
-<p>- Mark Twain</p>
+<p>- Voltaire</p>
