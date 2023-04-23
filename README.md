@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way round is through.</p>
+<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
 
-<p>- Robert Frost</p>
+<p>- Robert Collier</p>
