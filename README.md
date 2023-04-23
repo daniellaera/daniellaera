@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Start each day with a positive thought and a grateful heart.</p>
 
-<p>- Unknown</p>
+<p>- Roy T. Bennett</p>
