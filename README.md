@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk slowly but never walk backward.</p>
+<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
 
-<p>- Unknown</p>
+<p>- Albert Einstein</p>
