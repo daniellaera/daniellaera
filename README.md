@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
+<p>Before preparing to improve the world, first look around your own home three times. </p>
 
-<p>- Herman Melville</p>
+<p>- Chinese Proverb</p>
