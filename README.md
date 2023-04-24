@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every act of creation is first an act of destruction.</p>
+<p>Man is made by his belief. As he believes, so he is.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Bhagavad Gita</p>
