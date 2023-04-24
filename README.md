@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man is made by his belief. As he believes, so he is.</p>
+<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Laurence J. Peter</p>
