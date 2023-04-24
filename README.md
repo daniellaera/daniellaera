@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
+<p>Walk slowly but never walk backward.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Unknown</p>
