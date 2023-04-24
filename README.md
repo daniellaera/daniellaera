@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in one thing too much and you have no room for new ideas.  </p>
+<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Albus Dumbledore</p>
