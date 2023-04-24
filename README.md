@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the time is gone, you can never get it back.</p>
+<p>Truth is like most opinions - best unexpressed.</p>
 
-<p>- Stephen King</p>
+<p>- Kenneth Branagh</p>
