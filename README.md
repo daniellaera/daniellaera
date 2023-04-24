@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without the rain there would be no rainbow.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- F. Scott Fitzgerald</p>
