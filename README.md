@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>Believe in one thing too much and you have no room for new ideas.  </p>
 
-<p>- Les Brown</p>
+<p>- Ray Bradbury</p>
