@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change yourself - you are in control.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Pablo Picasso</p>
