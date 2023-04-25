@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
 
-<p>- Confucius</p>
+<p>- Napoleon Hill</p>
