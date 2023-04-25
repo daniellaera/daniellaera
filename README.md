@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
+<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
 
-<p>- Bob Proctor</p>
+<p>- Morihei Ueshiba</p>
