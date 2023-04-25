@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
 
-<p>- Henry Ford</p>
+<p>- Bob Proctor</p>
