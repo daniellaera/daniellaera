@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tomorrow is only found in the calendar of fools.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Og Mandino</p>
+<p>- Lao Tzu</p>
