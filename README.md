@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We've got to live, no matter how many skies have fallen.</p>
+<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Arnold Schwarzenegger</p>
