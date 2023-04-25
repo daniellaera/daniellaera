@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Unknown</p>
+<p>- Charles Dickens</p>
