@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Bob Proctor</p>
