@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the only problem you will ever have and you are the only solution.</p>
+<p>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>- Bob Proctor</p>
+<p>- Carl Jung</p>
