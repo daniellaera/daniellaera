@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
+<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Unknown</p>
