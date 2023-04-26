@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- Charles Dickens</p>
+<p>- T.S. Eliot</p>
