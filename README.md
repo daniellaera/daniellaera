@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
+<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Johann Wolfgang von Goethe</p>
