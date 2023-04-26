@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Charles Dickens</p>
