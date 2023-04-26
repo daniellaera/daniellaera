@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
+<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Joan Rivers</p>
