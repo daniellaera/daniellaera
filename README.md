@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
+<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Mark Manson</p>
