@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Gary Keller</p>
