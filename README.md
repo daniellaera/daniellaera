@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
-<p>- Jim Rohn</p>
+<p>- Morihei Ueshiba</p>
