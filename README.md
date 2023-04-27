@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to the secret sound, the real sound, which is inside you.</p>
+<p>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
 
-<p>- Kabir</p>
+<p>- Shunryu Suzuki</p>
