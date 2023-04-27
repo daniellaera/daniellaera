@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Vincent van Gogh</p>
