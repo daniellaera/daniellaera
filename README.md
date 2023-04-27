@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter what you do, only how well you do it.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>- Dan Millman</p>
+<p>- Brian Tracy</p>
