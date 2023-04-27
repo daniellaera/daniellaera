@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- Dalai Lama</p>
+<p>- James Allen</p>
