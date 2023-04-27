@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
 
-<p>- Plato</p>
+<p>- Tony Robbins</p>
