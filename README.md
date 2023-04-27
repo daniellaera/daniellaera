@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Stephen King</p>
