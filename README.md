@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
+<p>Adults are just children who earn money.</p>
 
-<p>- Criss Jami</p>
+<p>- Kenneth Branagh</p>
