@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
+<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Denis Waitley</p>
