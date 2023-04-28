@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Pema Chodron</p>
