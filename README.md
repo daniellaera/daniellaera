@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>- Dogen</p>
+<p>- Eckhart Tolle</p>
