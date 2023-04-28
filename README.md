@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is happy unless he believes he is.</p>
+<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Bob Proctor</p>
