@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>Quality is not an act, it is a habit.</p>
 
-<p>- Zen Proverb</p>
+<p>- Aristotle</p>
