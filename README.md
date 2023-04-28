@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
 <p>- Dogen</p>
