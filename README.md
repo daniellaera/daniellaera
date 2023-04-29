@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't always championships.</p>
+<p>Successful people do what unsuccessful people are not willing to do.</p>
 
-<p>- Michael Jordan</p>
+<p>- Jim Rohn</p>
