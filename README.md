@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people do what unsuccessful people are not willing to do.</p>
+<p>Good luck is opportunity meeting preparedness.</p>
 
-<p>- Jim Rohn</p>
+<p>- Deepak Chopra</p>
