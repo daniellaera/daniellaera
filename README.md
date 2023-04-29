@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Harry S. Truman</p>
