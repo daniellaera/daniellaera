@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't argue both sides, you can't argue.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>- Jack Butcher</p>
+<p>- Spencer Johnson</p>
