@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Zig Ziglar</p>
