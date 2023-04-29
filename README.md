@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
+<p>Do all things with love.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Og Mandino</p>
