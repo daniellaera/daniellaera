@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.</p>
+<p>If you can't argue both sides, you can't argue.</p>
 
-<p>- Alfred Adler</p>
+<p>- Jack Butcher</p>
