@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.</p>
+<p>Everybody by your side ain't on your side.</p>
 
-<p>- Alfred Adler</p>
+<p>- Steve Harvey</p>
