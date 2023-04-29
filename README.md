@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Theodore Roosevelt</p>
