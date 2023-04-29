@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>- Richard Bach</p>
+<p>- Conrad Hilton</p>
