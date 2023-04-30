@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Mark Twain</p>
