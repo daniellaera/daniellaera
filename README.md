@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>- St. Jerome</p>
+<p>- John Lennon</p>
