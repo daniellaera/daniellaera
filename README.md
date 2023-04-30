@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We run to win, not just to be in the race.  </p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Jonathan Swift</p>
