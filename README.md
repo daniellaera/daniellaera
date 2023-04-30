@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>Words are the clothes thoughts wear.</p>
 
-<p>- Mark Twain</p>
+<p>- Samuel Beckett</p>
