@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
+<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
 
-<p>- John Wooden</p>
+<p>- Martin Luther King, Jr.</p>
