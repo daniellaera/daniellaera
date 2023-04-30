@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>We run to win, not just to be in the race.  </p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Vince Lombardi</p>
