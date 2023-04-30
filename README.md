@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We're responsible for everything that happens to us.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Yanni</p>
+<p>- John Wooden</p>
