@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you let your head get too big, it'll break your neck.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>- Elvis Presley</p>
+<p>- Yanni</p>
