@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothes thoughts wear.</p>
+<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
 
-<p>- Samuel Beckett</p>
+<p>- St. Jerome</p>
