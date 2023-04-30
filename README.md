@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love the life you live, live the life you love.</p>
+<p>Only those who will risk going too far can possibly find out how far one can go.</p>
 
-<p>- Bob Marley</p>
+<p>- T.S. Eliot</p>
