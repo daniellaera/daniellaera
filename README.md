@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>If you let your head get too big, it'll break your neck.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Elvis Presley</p>
