@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
+<p>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Nelson Mandela</p>
