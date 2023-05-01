@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Socrates</p>
