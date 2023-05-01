@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn the rules like a pro, so you can break them like an artist.</p>
+<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Henry Ford</p>
