@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is richest who is content with the least, for content is the wealth of nature.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>- Socrates</p>
+<p>- Bob Marley</p>
