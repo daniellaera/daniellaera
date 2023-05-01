@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is only real when shared.</p>
+<p>You can not live your life just based on what everyone else thinks.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Joyce Meyer</p>
