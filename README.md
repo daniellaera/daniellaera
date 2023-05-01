@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
 
-<p>- Beverly Sills</p>
+<p>- Robert Kiyosaki</p>
