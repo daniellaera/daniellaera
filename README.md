@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not how long, but how well you have lived is the main thing.</p>
+<p>Turn your wounds into wisdom. </p>
 
-<p>- Seneca</p>
+<p>- Oprah Winfrey</p>
