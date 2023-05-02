@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>- Kamal Ravikant</p>
+<p>- Franz Kafka</p>
