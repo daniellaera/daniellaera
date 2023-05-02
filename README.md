@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Zen Proverb</p>
