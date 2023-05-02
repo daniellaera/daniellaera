@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Tony Robbins</p>
