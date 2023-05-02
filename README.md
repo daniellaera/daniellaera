@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Naval Ravikant</p>
