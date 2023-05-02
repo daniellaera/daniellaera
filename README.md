@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must welcome change as the rule but not as your ruler. </p>
+<p>Life is one long process of getting tired.</p>
 
-<p>- Denis Waitley</p>
+<p>- Samuel Butler</p>
