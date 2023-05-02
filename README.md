@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone sees what you appear to be, few experience what you really are.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Tony Robbins</p>
