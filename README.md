@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are free, and that is why you are lost. </p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>- Franz Kafka</p>
+<p>- Virginia Woolf</p>
