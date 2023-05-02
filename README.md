@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your wounds into wisdom. </p>
+<p>You must welcome change as the rule but not as your ruler. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Denis Waitley</p>
