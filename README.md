@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>Everyone sees what you appear to be, few experience what you really are.</p>
 
-<p>- Zhuangzi</p>
+<p>- Niccolo Machiavelli</p>
