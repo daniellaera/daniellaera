@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sorrow is how we learn to love.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Sigmund Freud</p>
