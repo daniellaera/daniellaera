@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A self that goes on changing is a self that goes on living.</p>
+<p>To be truly ignorant, be content with your own knowledge.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Zhuangzi</p>
