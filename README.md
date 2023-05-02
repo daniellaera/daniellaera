@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is one long process of getting tired.</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>- Samuel Butler</p>
+<p>- Alan Watts</p>
