@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are now, and you do become, what you think about.</p>
+<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Winston Churchill</p>
