@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wealth is the product of man's capacity to think.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Ayn Rand</p>
+<p>- Paulo Coelho</p>
