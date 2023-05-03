@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Peter Drucker</p>
+<p>- Denis Waitley</p>
