@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Ralph Marston</p>
