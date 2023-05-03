@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We build too many walls and not enough bridges.</p>
+<p>The way to change others' minds is with affection, and not anger.</p>
 
-<p>- Isaac Newton</p>
+<p>- Dalai Lama</p>
