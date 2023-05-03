@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We make a living by what we get, but we make a life by what we give.</p>
+<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
 
-<p>- Unknown</p>
+<p>- Roy T. Bennett</p>
