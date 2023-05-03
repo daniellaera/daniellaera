@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>Small men think they are small; great men never know they are great. </p>
 
-<p>- Woody Allen</p>
+<p>- Chinese Proverb</p>
