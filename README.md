@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>- Beverly Sills</p>
+<p>- Pablo Picasso</p>
