@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
+<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
 
-<p>- Ayn Rand</p>
+<p>- Denis Waitley</p>
