@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>- Deepak Chopra</p>
+<p>- Benjamin Franklin</p>
