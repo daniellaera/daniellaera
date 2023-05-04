@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
+<p>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Deepak Chopra</p>
