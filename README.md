@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Maya Angelou</p>
