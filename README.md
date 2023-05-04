@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
+<p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Wayne Dyer</p>
