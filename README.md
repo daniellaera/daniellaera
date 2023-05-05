@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focused, hard work is the real key to success.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>- John Carmack</p>
+<p>- Brian Tracy</p>
