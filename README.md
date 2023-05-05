@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Information changes your mind. Action changes your circumstances.</p>
 
-<p>- Unknown</p>
+<p>- Jack Butcher</p>
