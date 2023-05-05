@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
+<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
 
-<p>- John Eliot</p>
+<p>- Soyen Shaku</p>
