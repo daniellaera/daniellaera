@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
+<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Virginia Woolf</p>
