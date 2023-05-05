@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
 
-<p>- Andrew Carnegie</p>
+<p>- St. Jerome</p>
