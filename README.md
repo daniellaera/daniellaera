@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
 
-<p>- Jack Butcher</p>
+<p>- Arnold Schwarzenegger</p>
