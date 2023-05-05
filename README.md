@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
+<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
 
-<p>- Virginia Woolf</p>
+<p>- John Eliot</p>
