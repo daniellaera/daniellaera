@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
+<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
 
-<p>- Confucius</p>
+<p>- Mother Teresa</p>
