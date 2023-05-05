@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
+<p>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</p>
 
-<p>- Sigmund Freud</p>
+<p>- John Lennon</p>
