@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life's too mysterious to take too serious.</p>
+<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Eric Hoffer</p>
