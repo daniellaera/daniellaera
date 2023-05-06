@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>- Heraclitus</p>
+<p>- Woody Allen</p>
