@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Jim Rohn</p>
