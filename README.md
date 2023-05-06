@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are clothes that thoughts wear</p>
+<p>A change is brought about because ordinary people do extraordinary things.</p>
 
-<p>- Samuel Butler</p>
+<p>- Barack Obama</p>
