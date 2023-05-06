@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
+<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
 
-<p>- Dogen</p>
+<p>- Heraclitus</p>
