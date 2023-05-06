@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</p>
 
-<p>- Criss Jami</p>
+<p>- Aristotle</p>
