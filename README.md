@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</p>
+<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
 
-<p>- John Lennon</p>
+<p>- Ralph Marston</p>
