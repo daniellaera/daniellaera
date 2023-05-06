@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The act of taking the first step is what separates the winners from the losers.</p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>- Brian Tracy</p>
+<p>- Seneca</p>
