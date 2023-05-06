@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>- Ralph Marston</p>
+<p>- Pablo Picasso</p>
