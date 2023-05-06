@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
+<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
 
-<p>- Rumi</p>
+<p>- Dogen</p>
