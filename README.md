@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give. </p>
+<p>Let us rather run the risk of wearing out than rusting out.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Theodore Roosevelt</p>
