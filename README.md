@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>Sometimes it is more important to discover what one cannot do, than what one can do.</p>
 
-<p>- Bodhidharma</p>
+<p>- Lin Yutang</p>
