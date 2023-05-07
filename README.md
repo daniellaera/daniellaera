@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Peter Drucker</p>
