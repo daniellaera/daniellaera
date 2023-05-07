@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
+<p>Those who seek the easy way do not seek the true way.</p>
 
-<p>- Sun Tzu</p>
+<p>- Dogen</p>
