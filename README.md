@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A change is brought about because ordinary people do extraordinary things.</p>
+<p>No man is happy who does not think himself so.</p>
 
-<p>- Barack Obama</p>
+<p>- Norman Vincent Peale</p>
