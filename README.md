@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- Elvis Presley</p>
