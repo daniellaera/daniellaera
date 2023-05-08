@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Night is a more quiet time to work. It aids thought.</p>
+<p>Health is the greatest of all possessions.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Jonathan Swift</p>
