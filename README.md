@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder you work, the harder it is to surrender.</p>
+<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Paulo Coelho</p>
