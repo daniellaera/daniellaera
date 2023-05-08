@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
+<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
 
-<p>- Coco Chanel</p>
+<p>- Bob Marley</p>
