@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
+<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
 
-<p>- Bob Marley</p>
+<p>- Tony Robbins</p>
