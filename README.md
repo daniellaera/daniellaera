@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend major time on minor things.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>- Jim Rohn</p>
+<p>- Alexander Graham Bell</p>
