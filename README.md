@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure in the job puts perfection in the work.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Aristotle</p>
+<p>- Walt Whitman</p>
