@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>The harder you work, the harder it is to surrender.</p>
 
-<p>- Woody Allen</p>
+<p>- Vince Lombardi</p>
