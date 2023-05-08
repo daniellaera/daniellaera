@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is simple. If it was complicated, everyone would understand it.</p>
+<p>Don't spend major time on minor things.</p>
 
-<p>- Walt Whitman</p>
+<p>- Jim Rohn</p>
