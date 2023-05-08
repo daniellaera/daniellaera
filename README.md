@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>A needle is not sharp at both ends. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Chinese Proverb</p>
