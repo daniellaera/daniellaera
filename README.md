@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Aristotle</p>
