@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>Take away love and our earth is a tomb.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Robert Browning</p>
