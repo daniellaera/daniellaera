@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do great work one must be very idle as well as very industrious.</p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>- Samuel Butler</p>
+<p>- Spencer Johnson</p>
