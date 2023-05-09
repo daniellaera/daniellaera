@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Steve Harvey</p>
