@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Bloom where you are planted!</p>
+<p>A good stance and posture reflect a proper state of mind.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Morihei Ueshiba</p>
