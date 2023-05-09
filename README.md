@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>To do great work one must be very idle as well as very industrious.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Samuel Butler</p>
