@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good stance and posture reflect a proper state of mind.</p>
+<p>The scariest moment is always just before you start. After that, things can only get better.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Stephen King</p>
