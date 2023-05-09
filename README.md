@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adventure is worthwhile in itself.</p>
+<p>Never put off to tomorrow what you can do to-day.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Thomas Jefferson</p>
