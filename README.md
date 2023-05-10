@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>Imagination is the beginning of creation.</p>
 
-<p>- Christopher Columbus</p>
+<p>- George Bernard Shaw</p>
