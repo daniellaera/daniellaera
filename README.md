@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- Lao Tzu</p>
+<p>- Unknown</p>
