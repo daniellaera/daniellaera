@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>- Charles Dickens</p>
+<p>- Paulo Coelho</p>
