@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>- Buddha</p>
+<p>- Jim Rohn</p>
