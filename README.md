@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>- Genghis Khan</p>
+<p>- Charles Dickens</p>
