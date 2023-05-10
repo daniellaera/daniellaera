@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>Gratitude is the fairest blossom which springs from the soul.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Henry Ward Beecher</p>
