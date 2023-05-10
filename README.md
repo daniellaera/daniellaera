@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Gratitude is the fairest blossom which springs from the soul.</p>
+<p>Realize deeply that the present moment is all you ever have. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Eckhart Tolle</p>
