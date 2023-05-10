@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even the smallest person can change the course of the future.</p>
+<p>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Spencer Johnson</p>
