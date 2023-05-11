@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>We forge the chains we wear in life.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Charles Dickens</p>
