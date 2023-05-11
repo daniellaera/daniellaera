@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of chaos lies opportunity.  </p>
+<p>I would rather die on my feet than live on my knees.</p>
 
-<p>- Bruce Lee</p>
+<p>- Euripides</p>
