@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Benjamin Franklin</p>
