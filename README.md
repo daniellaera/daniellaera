@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>- Dogen</p>
+<p>- Sigmund Freud</p>
