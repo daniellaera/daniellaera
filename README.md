@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love your enemies, for they tell you your faults.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- F. Scott Fitzgerald</p>
