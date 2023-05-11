@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.</p>
+<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
 
-<p>- Alfred Adler</p>
+<p>- Wayne Dyer</p>
