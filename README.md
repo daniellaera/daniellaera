@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
 
-<p>- Gary Keller</p>
+<p>- Henry David Thoreau</p>
