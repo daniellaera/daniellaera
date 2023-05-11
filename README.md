@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We forge the chains we wear in life.</p>
+<p>Life is about not knowing and then doing something anyway.</p>
 
-<p>- Charles Dickens</p>
+<p>- Mark Manson</p>
