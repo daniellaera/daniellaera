@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
+<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Sigmund Freud</p>
