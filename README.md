@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>- Napoleon Hill</p>
+<p>- Woody Allen</p>
