@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What do we live for, if it is not to make life less difficult for each other?</p>
+<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
 
-<p>- George Eliot</p>
+<p>- Albus Dumbledore</p>
