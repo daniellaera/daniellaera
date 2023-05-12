@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Stephen King</p>
+<p>- Og Mandino</p>
