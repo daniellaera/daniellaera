@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>- Unknown</p>
+<p>- Pablo Picasso</p>
