@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Bob Marley</p>
+<p>- Eleanor Roosevelt</p>
