@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>- Og Mandino</p>
+<p>- Mahatma Gandhi</p>
