@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If what you're doing is not your passion, you have nothing to lose.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- Celestine Chua</p>
+<p>- George Eliot</p>
