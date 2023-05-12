@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>I skate to where the puck is going to be, not where it has been.</p>
 
-<p>- Woody Allen</p>
+<p>- Wayne Gretzky</p>
