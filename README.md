@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline yourself, and others won't need to.</p>
+<p>The enemy is a very good teacher.</p>
 
-<p>- John Wooden</p>
+<p>- Dalai Lama</p>
