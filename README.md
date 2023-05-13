@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothing of our thoughts.</p>
+<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Morihei Ueshiba</p>
