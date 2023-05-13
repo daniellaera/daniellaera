@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Bob Dylan</p>
