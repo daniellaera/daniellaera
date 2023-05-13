@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>You can have results or excuses, but not both.</p>
 
-<p>- Bob Dylan</p>
+<p>- Arnold Schwarzenegger</p>
