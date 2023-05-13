@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
+<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Conrad Hilton</p>
