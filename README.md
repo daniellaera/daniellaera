@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be true to yourself, help others, make each day your masterpiece</p>
+<p>Words are the clothing of our thoughts.</p>
 
-<p>- John Wooden</p>
+<p>- Jonathan Swift</p>
