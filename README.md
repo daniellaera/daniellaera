@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>- Henry Ford</p>
+<p>- Seneca</p>
