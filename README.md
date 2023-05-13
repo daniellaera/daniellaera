@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
 
-<p>- Sun Tzu</p>
+<p>- Elon Musk</p>
