@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make failure your teacher, not your undertaker.  </p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Johann Wolfgang von Goethe</p>
