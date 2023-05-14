@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend major time on minor things.</p>
+<p>All wealth is the product of labor.</p>
 
-<p>- Jim Rohn</p>
+<p>- John Locke</p>
