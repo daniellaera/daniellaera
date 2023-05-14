@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Josh Waitzkin</p>
