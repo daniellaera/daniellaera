@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is failure.</p>
+<p>Don't spend major time on minor things.</p>
 
-<p>- Michael Jordan</p>
+<p>- Jim Rohn</p>
