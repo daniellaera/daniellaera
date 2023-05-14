@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never to suffer would never to have been blessed.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Charles Darwin</p>
