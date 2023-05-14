@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
+<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Gilbert Chesterton</p>
