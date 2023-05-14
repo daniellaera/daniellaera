@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the only problem you will ever have and you are the only solution.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>- Bob Proctor</p>
+<p>- Alexander Graham Bell</p>
