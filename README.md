@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want more luck, take more chances.</p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>- Brian Tracy</p>
+<p>- Charlie Chaplin</p>
