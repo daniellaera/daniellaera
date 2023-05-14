@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Jim Rohn</p>
