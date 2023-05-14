@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
 
-<p>- Unknown</p>
+<p>- Seungsahn</p>
