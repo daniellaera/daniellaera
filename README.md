@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>- Jim Rohn</p>
+<p>- Peter A. Cohen</p>
