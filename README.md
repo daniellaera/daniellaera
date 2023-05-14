@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>Never to suffer would never to have been blessed.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Edgar Allan Poe</p>
