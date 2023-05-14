@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In nature there is no alienation. Everything belongs.</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Bob Proctor</p>
