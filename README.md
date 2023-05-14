@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>The key to success is failure.</p>
 
-<p>- Charles Darwin</p>
+<p>- Michael Jordan</p>
