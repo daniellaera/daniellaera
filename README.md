@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>Through discipline comes freedom.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Aristotle</p>
