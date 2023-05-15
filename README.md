@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>- Brian Tracy</p>
+<p>- Yanni</p>
