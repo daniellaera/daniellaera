@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who avoid failure also avoid success.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Lolly Daskal</p>
