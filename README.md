@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>- Criss Jami</p>
+<p>- Henry Ford</p>
