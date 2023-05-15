@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>- John Eliot</p>
+<p>- Criss Jami</p>
