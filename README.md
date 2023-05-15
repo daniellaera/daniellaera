@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All human beings can alter their lives by altering their attitudes.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Unknown</p>
