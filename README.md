@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My sun sets to rise again.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>- Robert Browning</p>
+<p>- Paulo Coelho</p>
