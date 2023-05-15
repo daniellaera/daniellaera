@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>The Art of Peace begins with you.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Morihei Ueshiba</p>
