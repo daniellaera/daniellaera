@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Alan Watts</p>
