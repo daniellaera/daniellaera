@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
+<p>Conscience is a man's compass. </p>
 
-<p>- Tony Robbins</p>
+<p>- Vincent van Gogh</p>
