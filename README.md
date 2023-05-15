@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who can make you believe absurdities can make you commit atrocities. </p>
+<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
 
-<p>- Voltaire</p>
+<p>- Carlos Ruiz Zafon</p>
