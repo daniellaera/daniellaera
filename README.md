@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The impossible can always be broken down into possibilities.</p>
+<p>Superstars think like superstars long before the fans or the press anoint them.</p>
 
-<p>- Unknown</p>
+<p>- John Eliot</p>
