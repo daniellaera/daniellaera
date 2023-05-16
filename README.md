@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>- James Allen</p>
+<p>- Robert F. Kennedy</p>
