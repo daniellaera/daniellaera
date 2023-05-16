@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A change is brought about because ordinary people do extraordinary things.</p>
+<p>Within every desire is the mechanics of its fulfillment.</p>
 
-<p>- Barack Obama</p>
+<p>- Deepak Chopra</p>
