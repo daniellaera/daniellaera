@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wealth consists not in having great possessions, but in having few wants.</p>
+<p>All great truths begin as blasphemies.</p>
 
-<p>- Epictetus</p>
+<p>- George Bernard Shaw</p>
