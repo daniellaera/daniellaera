@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We ordinary people must forge our own beauty.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Deepak Chopra</p>
