@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
+<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Steve Harvey</p>
