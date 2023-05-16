@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>- Eckhart Tolle</p>
+<p>- Rumi</p>
