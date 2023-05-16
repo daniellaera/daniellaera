@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Yanni</p>
