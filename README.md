@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
 
-<p>- Yanni</p>
+<p>- Martin Luther King, Jr.</p>
