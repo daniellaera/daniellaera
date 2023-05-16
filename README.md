@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fewer the words, the better the prayer.</p>
+<p>Happiness is the absence of the striving for happiness.</p>
 
-<p>- Martin Luther</p>
+<p>- Zhuangzi</p>
