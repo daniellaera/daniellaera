@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In spite of everything, I shall rise again.</p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Albus Dumbledore</p>
