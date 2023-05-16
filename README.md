@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
+<p>The fewer the words, the better the prayer.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Martin Luther</p>
