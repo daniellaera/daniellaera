@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
 
-<p>- Zhuangzi</p>
+<p>- Brian Tracy</p>
