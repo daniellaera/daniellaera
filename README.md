@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing has any power over me other than that which I give it through my conscious thoughts.</p>
+<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
 
-<p>- Tony Robbins</p>
+<p>- Woody Allen</p>
