@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>Imagination means nothing without doing.  </p>
 
-<p>- Napoleon Hill</p>
+<p>- Charlie Chaplin</p>
