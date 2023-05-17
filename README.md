@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</p>
+<p>We should not look back unless it is to derive useful lessons from past errors.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- George Washington</p>
