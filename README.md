@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Memory is the scribe of the soul.</p>
+<p>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</p>
 
-<p>- Aristotle</p>
+<p>- Sonia Ricotti</p>
