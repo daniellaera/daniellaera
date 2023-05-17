@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
 
-<p>- Bob Proctor</p>
+<p>- Og Mandino</p>
