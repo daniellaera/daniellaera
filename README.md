@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Bob Proctor</p>
