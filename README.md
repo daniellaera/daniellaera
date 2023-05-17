@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Aristotle</p>
