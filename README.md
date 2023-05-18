@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
 
-<p>- George Eliot</p>
+<p>- Brian Tracy</p>
