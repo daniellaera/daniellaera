@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If fear is too strong, the genius is suppressed.</p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Criss Jami</p>
