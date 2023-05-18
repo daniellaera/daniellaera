@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
+<p>Your home is where your thoughts find peace.</p>
 
-<p>- Brian Tracy</p>
+<p>- Zen Proverb</p>
