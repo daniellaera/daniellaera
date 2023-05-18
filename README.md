@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>Your worth consists in what you are and not in what you have.</p>
 
-<p>- Bob Dylan</p>
+<p>- Thomas Edison</p>
