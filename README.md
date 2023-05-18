@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better late than never.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Spencer Johnson</p>
+<p>- John Wooden</p>
