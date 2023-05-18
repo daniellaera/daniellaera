@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the potential for greatness.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>- Steve Harvey</p>
+<p>- Margaret Mead</p>
