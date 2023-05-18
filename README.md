@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Bob Dylan</p>
