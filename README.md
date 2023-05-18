@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>- Alexander Pope</p>
+<p>- Dudley Field Malone</p>
