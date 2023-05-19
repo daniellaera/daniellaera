@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be willing to be a beginner every single morning.</p>
+<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Celestine Chua</p>
