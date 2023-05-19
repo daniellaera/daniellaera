@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Sonia Ricotti</p>
