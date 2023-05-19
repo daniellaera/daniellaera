@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</p>
+<p>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</p>
 
 <p>- Sonia Ricotti</p>
