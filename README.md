@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>One's best success comes after their greatest disappointments.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Henry Ward Beecher</p>
