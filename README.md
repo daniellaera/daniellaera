@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is the greatest friend.</p>
+<p>You can't tell big dreams to small minded people.</p>
 
-<p>- Lao Tzu</p>
+<p>- Steve Harvey</p>
