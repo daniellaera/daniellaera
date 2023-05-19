@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even in the grave, all is not lost.</p>
+<p>Trust thyself: every heart vibrates to that iron string.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Ralph Waldo Emerson</p>
