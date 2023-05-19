@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who has overcome his fears will truly be free.</p>
+<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
 
-<p>- Aristotle</p>
+<p>- Spencer Johnson</p>
