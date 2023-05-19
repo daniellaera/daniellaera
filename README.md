@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
 
-<p>- Zen Proverb</p>
+<p>- Elon Musk</p>
