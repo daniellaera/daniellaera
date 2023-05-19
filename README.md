@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- Elon Musk</p>
+<p>- Meister Eckhart</p>
