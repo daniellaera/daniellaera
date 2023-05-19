@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Chinese Proverb</p>
