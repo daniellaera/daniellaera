@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>- Bob Proctor</p>
+<p>- Les Brown</p>
