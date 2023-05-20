@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Ming-Dao Deng</p>
