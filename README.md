@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
+<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- F. Scott Fitzgerald</p>
