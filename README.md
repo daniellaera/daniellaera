@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
+<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Bob Proctor</p>
