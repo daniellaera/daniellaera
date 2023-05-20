@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is more cheated than the selfish man.</p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Seneca</p>
