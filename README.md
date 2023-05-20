@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Benjamin Franklin</p>
