@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
+<p>I know of only one duty, and that is to love.</p>
 
-<p>- Og Mandino</p>
+<p>- George Bernard Shaw</p>
