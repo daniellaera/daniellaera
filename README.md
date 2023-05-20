@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>- Criss Jami</p>
+<p>- Aristotle</p>
