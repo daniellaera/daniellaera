@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is the expansion of happiness.</p>
+<p>Correct what you can. Learn from what you can't.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Toni Morrison</p>
