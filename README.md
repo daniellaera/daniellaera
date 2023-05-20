@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Correct what you can. Learn from what you can't.</p>
+<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
 
-<p>- Toni Morrison</p>
+<p>- Marcus Aurelius</p>
