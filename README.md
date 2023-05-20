@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know of only one duty, and that is to love.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Honore de Balzac</p>
