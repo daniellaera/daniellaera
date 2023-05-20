@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- Seneca</p>
+<p>- F. Scott Fitzgerald</p>
