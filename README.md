@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>- Colin Powell</p>
+<p>- Franklin D. Roosevelt</p>
