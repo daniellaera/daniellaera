@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man sees in the world what he carries in his heart.</p>
+<p>Quality is not an act, it is a habit.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Aristotle</p>
