@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>- Tony Robbins</p>
+<p>- Ayn Rand</p>
