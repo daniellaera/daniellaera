@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
+<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Tony Robbins</p>
