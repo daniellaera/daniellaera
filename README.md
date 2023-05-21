@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you do today can improve all your tomorrows.</p>
+<p>A man sees in the world what he carries in his heart.</p>
 
-<p>- Ralph Marston</p>
+<p>- Johann Wolfgang von Goethe</p>
