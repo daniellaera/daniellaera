@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Colin Powell</p>
