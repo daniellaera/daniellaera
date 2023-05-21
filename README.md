@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best of us sometimes eat our words.  </p>
+<p>The road to success is always under construction.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Steve Harvey</p>
