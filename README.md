@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or nothing.</p>
+<p>If you want to achieve greatness stop asking for permission.</p>
 
-<p>- Helen Keller</p>
+<p>- Unknown</p>
