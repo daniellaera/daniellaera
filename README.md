@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>- Ayn Rand</p>
+<p>- Spencer Johnson</p>
