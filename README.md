@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction.</p>
+<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
 
-<p>- Steve Harvey</p>
+<p>- Woody Allen</p>
