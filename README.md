@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
+<p>Life is either a daring adventure, or nothing.</p>
 
-<p>- Denis Waitley</p>
+<p>- Helen Keller</p>
