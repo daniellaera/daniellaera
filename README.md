@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>- Steve Harvey</p>
+<p>- Ralph Waldo Emerson</p>
