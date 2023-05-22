@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Earl Nightingale</p>
