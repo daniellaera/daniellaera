@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
+<p>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Steve Harvey</p>
