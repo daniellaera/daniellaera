@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
 
-<p>- Robin Sharma</p>
+<p>- Shunryu Suzuki</p>
