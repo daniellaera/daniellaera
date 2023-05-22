@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
+<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
 
-<p>- Brian Tracy</p>
+<p>- David Brinkley</p>
