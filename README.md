@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Eckhart Tolle</p>
