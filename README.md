@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do all things with love.</p>
+<p>Courage is found in unlikely places.</p>
 
-<p>- Og Mandino</p>
+<p>- J.R.R. Tolkien</p>
