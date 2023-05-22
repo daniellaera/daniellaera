@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
+<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- A.A. Milne</p>
