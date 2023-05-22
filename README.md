@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From morning till night, we should never rely on a single thing.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Huang Po</p>
+<p>- Eric Hoffer</p>
