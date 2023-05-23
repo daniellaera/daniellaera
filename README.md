@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
 
-<p>- Robin Sharma</p>
+<p>- Marcus Aurelius</p>
