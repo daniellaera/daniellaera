@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>The smallest of actions is always better than the noblest of intentions.</p>
 
-<p>- Brian Tracy</p>
+<p>- Robin Sharma</p>
