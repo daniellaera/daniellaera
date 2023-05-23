@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ours to be spent, not to be saved. </p>
+<p>All problems are illusions of the mind.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Eckhart Tolle</p>
