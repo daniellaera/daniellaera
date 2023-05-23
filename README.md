@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- Kamal Ravikant</p>
