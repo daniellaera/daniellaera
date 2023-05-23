@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>- Denis Waitley</p>
+<p>- Bob Marley</p>
