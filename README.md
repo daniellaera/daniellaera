@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The majority of what you want will come from the minority of what you do.</p>
+<p>The single biggest problem in communication is the illusion that it has taken place.</p>
 
-<p>- Gary Keller</p>
+<p>- George Bernard Shaw</p>
