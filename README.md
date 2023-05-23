@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything has its beauty, but not everyone sees it. </p>
+<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
 
-<p>- Confucius</p>
+<p>- Denis Waitley</p>
