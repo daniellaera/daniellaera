@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we have the less we own.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Dale Carnegie</p>
