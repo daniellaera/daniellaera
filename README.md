@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The businessman's tool is value.</p>
+<p>By words the mind is winged.</p>
 
-<p>- Ayn Rand</p>
+<p>- Aristophanes</p>
