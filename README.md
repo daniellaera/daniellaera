@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</p>
+<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
 
-<p>- Steve Jobs</p>
+<p>- Hans Christian Andersen</p>
