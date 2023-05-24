@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give out what you most want to come back.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>- Robin Sharma</p>
+<p>- Sun Tzu</p>
