@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Alone we can do so little; together we can do so much.</p>
+<p>Give out what you most want to come back.</p>
 
-<p>- Helen Keller</p>
+<p>- Robin Sharma</p>
