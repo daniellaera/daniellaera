@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more real than nothing.</p>
+<p>Sadness is but a wall between two gardens.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Kahlil Gibran</p>
