@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our happiness depends on the habit of mind we cultivate.</p>
+<p>Trust is built and maintained by many small actions over time.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Lolly Daskal</p>
