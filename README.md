@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All religions, arts and sciences are branches of the same tree. </p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Albert Einstein</p>
+<p>- John Wooden</p>
