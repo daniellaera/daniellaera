@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
+<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Robert F. Kennedy</p>
