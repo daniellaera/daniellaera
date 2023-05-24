@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Yoko Ono</p>
