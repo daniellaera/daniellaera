@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are free, and that is why you are lost.</p>
+<p>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</p>
 
-<p>- Franz Kafka</p>
+<p>- Steve Jobs</p>
