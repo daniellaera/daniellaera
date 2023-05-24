@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Action is the foundational key to all success.</p>
+<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Mahatma Gandhi</p>
