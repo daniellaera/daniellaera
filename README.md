@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who you are is defined by what you're willing to struggle for.</p>
+<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
 
-<p>- Mark Manson</p>
+<p>- Mark Twain</p>
