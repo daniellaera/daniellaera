@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
+<p>The more something threatens your identity, the more you will avoid it.</p>
 
-<p>- Mark Twain</p>
+<p>- Mark Manson</p>
