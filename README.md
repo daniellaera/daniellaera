@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time we liberate a woman, we liberate a man. </p>
+<p>Action is the foundational key to all success.</p>
 
-<p>- Margaret Mead</p>
+<p>- Pablo Picasso</p>
