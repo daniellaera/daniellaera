@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pursue what catches your heart, not what catches your eyes.</p>
+<p>I am not the outcome. I am never the result. I am only the effort.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Kamal Ravikant</p>
