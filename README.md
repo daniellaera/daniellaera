@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your problem isn't the problem. Your reaction is the problem.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Unknown</p>
+<p>- James Allen</p>
