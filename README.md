@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the true magic carpet.</p>
+<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Barack Obama</p>
