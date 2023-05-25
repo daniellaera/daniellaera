@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>- Yoko Ono</p>
+<p>- Miguel de Cervantes</p>
