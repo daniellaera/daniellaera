@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person is only by the thoughts that he chooses.</p>
+<p>Imagination is the true magic carpet.</p>
 
-<p>- James Allen</p>
+<p>- Norman Vincent Peale</p>
