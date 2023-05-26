@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A real friend is one who walks in when the rest of the world walks out.</p>
+<p>There's no next time. It's now or never.</p>
 
-<p>- Unknown</p>
+<p>- Celestine Chua</p>
