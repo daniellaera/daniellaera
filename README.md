@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>Follow your instincts. That is where true wisdom manifests itself.</p>
 
-<p>- Bodhidharma</p>
+<p>- Oprah Winfrey</p>
