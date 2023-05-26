@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True it is, we only hate those whom we do not know.</p>
+<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
 
-<p>- Andrew Carnegie</p>
+<p>- Bruce Lee</p>
