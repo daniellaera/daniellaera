@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter what happens in life, never lose sight of who you are.</p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
-<p>- Yanni</p>
+<p>- Zen Proverb</p>
