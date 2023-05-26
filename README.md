@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Bruce Lee</p>
+<p>- Elon Musk</p>
