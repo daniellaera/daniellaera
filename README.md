@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Bhagavad Gita</p>
