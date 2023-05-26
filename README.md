@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rivers know this: there is no hurry. We shall get there some day.</p>
+<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
 
-<p>- A.A. Milne</p>
+<p>- Hans Christian Andersen</p>
