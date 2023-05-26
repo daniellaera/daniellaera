@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no next time. It's now or never.</p>
+<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
 
-<p>- Celestine Chua</p>
+<p>- James Allen</p>
