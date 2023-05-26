@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
+<p>A real friend is one who walks in when the rest of the world walks out.</p>
 
-<p>- Elvis Presley</p>
+<p>- Unknown</p>
