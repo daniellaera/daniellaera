@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>The heart wants what it wants - or else it does not care.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Emily Dickinson</p>
