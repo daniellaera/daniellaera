@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Yanni</p>
