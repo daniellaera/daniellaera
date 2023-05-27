@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
+<p>For your life to be great, your faith must be bigger than your fear.</p>
 
-<p>- Celestine Chua</p>
+<p>- Robin Sharma</p>
