@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Embody what you teach, and teach only what you have embodied.</p>
+<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
 
-<p>- Dan Millman</p>
+<p>- Morihei Ueshiba</p>
