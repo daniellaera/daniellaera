@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The prettiest eyes have cried the most.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>- Unknown</p>
+<p>- Conrad Hilton</p>
