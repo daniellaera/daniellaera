@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loss is nothing else but change and change is nature's delight.</p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Zhuangzi</p>
