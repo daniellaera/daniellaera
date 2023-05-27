@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Denis Waitley</p>
