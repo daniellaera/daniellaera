@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>- Zhuangzi</p>
+<p>- Leo Tolstoy</p>
