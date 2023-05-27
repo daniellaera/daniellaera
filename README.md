@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>Loss is nothing else but change and change is nature's delight.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Marcus Aurelius</p>
