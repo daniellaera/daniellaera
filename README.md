@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</p>
+<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
 
-<p>- Voltaire</p>
+<p>- Celestine Chua</p>
