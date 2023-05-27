@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Robin Sharma</p>
+<p>- Stephen Hawking</p>
