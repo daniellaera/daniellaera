@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Bodhidharma</p>
