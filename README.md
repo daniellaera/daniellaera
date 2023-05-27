@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most powerful warriors are patience and time.</p>
+<p>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Les Brown</p>
