@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final; failure is never fatal.</p>
+<p>Embody what you teach, and teach only what you have embodied.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Dan Millman</p>
