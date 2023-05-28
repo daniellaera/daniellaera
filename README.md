@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An investment in knowledge pays the best interest.</p>
+<p>Help others achieve their dreams and you will achieve yours.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Les Brown</p>
