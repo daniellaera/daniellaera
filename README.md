@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>- Confucius</p>
+<p>- Henry David Thoreau</p>
