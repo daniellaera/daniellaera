@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
 
-<p>- Colin Powell</p>
+<p>- Confucius</p>
