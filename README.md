@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Kahlil Gibran</p>
