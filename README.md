@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
+<p>Believe that life is worth living and your belief will help create the fact.</p>
 
-<p>- Walt Whitman</p>
+<p>- William James</p>
