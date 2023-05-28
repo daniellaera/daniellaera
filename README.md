@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has the name of life, but in reality it is death.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>- Heraclitus</p>
+<p>- Samuel Butler</p>
