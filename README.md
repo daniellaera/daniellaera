@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Richard Bach</p>
