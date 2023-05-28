@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
+<p>The sun is new each day.</p>
 
-<p>- Richard Bach</p>
+<p>- Heraclitus</p>
