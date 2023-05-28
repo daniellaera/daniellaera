@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun is new each day.</p>
+<p>Whatever happens always happens on time.</p>
 
-<p>- Heraclitus</p>
+<p>- Zen Proverb</p>
