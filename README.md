@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who cannot control his words shows that he cannot control himself.</p>
+<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 
-<p>- Robert Greene</p>
+<p>- Mother Teresa</p>
