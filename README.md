@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>Any game becomes important when you know and love the players.</p>
 
-<p>- Wayne Dyer</p>
+<p>- W.P. Kinsella</p>
