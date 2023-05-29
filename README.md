@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're not making mistakes, then you're not doing anything.</p>
+<p>All religions, arts and sciences are branches of the same tree. </p>
 
-<p>- John Wooden</p>
+<p>- Albert Einstein</p>
