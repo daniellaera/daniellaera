@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>- Chinese Proverb</p>
+<p>- Wayne Dyer</p>
