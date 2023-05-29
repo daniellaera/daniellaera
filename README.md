@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will succeed because most people are lazy.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>- Shahir Zag</p>
+<p>- Cherie Gilderbloom</p>
