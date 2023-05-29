@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm. Be kind.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Colin Powell</p>
+<p>- Unknown</p>
