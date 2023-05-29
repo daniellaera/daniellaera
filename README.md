@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any game becomes important when you know and love the players.</p>
+<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Unknown</p>
