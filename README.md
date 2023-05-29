@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>- Unknown</p>
+<p>- Chinese Proverb</p>
