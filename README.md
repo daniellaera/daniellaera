@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best dreams happen when you're awake.</p>
+<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
 
-<p>- Cherie Gilderbloom</p>
+<p>- Peter Drucker</p>
