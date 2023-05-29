@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once you choose hope, anything's possible.</p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Chinese Proverb</p>
