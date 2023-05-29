@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cease striving. Then there will be transformation.</p>
+<p>Remain calm. Be kind.</p>
 
-<p>- Zhuangzi</p>
+<p>- Colin Powell</p>
