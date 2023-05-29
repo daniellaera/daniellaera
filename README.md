@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Elon Musk</p>
+<p>- William Faulkner</p>
