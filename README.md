@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</p>
+<p>Give a girl the right shoes, and she can conquer the world.</p>
 
-<p>- Robert Greene</p>
+<p>- Bette Midler</p>
