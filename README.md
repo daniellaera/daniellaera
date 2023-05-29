@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who does not value himself, cannot value anything or anyone.</p>
+<p>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</p>
 
-<p>- Ayn Rand</p>
+<p>- Robert Greene</p>
