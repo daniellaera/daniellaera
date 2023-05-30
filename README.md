@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
 
-<p>- Deepak Chopra</p>
+<p>- Nikola Tesla</p>
