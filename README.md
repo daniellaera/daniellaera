@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think when you lose determines how long it will be until you win.</p>
+<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Eckhart Tolle</p>
