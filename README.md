@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>Reality is the leading cause of stress among those in touch with it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Lily Tomlin</p>
