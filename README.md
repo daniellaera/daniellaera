@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
+<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
 
-<p>- Robert Greene</p>
+<p>- Nikola Tesla</p>
