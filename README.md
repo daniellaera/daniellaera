@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Gilbert Chesterton</p>
