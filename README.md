@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
+<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
 
-<p>- Tony Robbins</p>
+<p>- Robert Greene</p>
