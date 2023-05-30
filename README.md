@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Steve Maraboli</p>
