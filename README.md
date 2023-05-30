@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Deepak Chopra</p>
