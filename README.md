@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to the secret sound, the real sound, which is inside you.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
 
-<p>- Kabir</p>
+<p>- Bruce Lee</p>
