@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Living life in style also means living a life of balance.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>- Jim Rohn</p>
+<p>- G.I. Gurdjieff</p>
