@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- Dalai Lama</p>
+<p>- Beverly Sills</p>
