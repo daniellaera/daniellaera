@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>Listen to the secret sound, the real sound, which is inside you.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Kabir</p>
