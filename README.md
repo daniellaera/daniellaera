@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
+<p>Success is going from failure to failure without losing your enthusiasm</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Winston Churchill</p>
