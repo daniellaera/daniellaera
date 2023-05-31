@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Lolly Daskal</p>
