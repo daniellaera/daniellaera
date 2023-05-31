@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Jim Rohn</p>
