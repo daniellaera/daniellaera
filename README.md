@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>You are what you believe yourself to be.</p>
 
-<p>- Winston Churchill</p>
+<p>- Paulo Coelho</p>
