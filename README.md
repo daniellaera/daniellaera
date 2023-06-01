@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>- Aristophanes</p>
+<p>- Sonia Ricotti</p>
