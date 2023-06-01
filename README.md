@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you embark on a journey of revenge, dig two graves. </p>
+<p>Don't stop when you're tired. Stop when you're done.</p>
 
-<p>- Confucius</p>
+<p>- Marilyn Monroe</p>
