@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</p>
+<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
 
-<p>- Toni Morrison</p>
+<p>- Walt Whitman</p>
