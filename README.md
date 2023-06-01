@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If fear is too strong, the genius is suppressed.</p>
+<p>Learn from the rejection and turn it into an opportunity!</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Mary Engelbreit</p>
