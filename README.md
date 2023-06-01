@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 
-<p>- Walt Whitman</p>
+<p>- George Bernard Shaw</p>
