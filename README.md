@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Toni Morrison</p>
