@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
+<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Mark Manson</p>
