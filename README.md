@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
+<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Robert Kiyosaki</p>
