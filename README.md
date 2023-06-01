@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn from the rejection and turn it into an opportunity!</p>
+<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Leo Tolstoy</p>
