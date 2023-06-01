@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Ming-Dao Deng</p>
