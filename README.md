@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- Brian Tracy</p>
+<p>- Sigmund Freud</p>
