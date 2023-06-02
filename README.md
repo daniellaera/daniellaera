@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're never too old for anything.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Betty White</p>
+<p>- Will Rogers</p>
