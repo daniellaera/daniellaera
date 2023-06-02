@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not believe that you will reach your destination without leaving the shore. </p>
+<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Steve Maraboli</p>
