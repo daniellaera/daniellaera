@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>- Jack Kerouac</p>
+<p>- Chinese Proverb</p>
