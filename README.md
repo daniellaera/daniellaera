@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The scariest monsters are the ones that lurk within our souls.</p>
+<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Unknown</p>
