@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Mark Twain</p>
