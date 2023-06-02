@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
 
-<p>- Morgan Wootten</p>
+<p>- St. Jerome</p>
