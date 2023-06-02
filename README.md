@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>- Seneca</p>
+<p>- Judy Garland</p>
