@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
+<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
 
-<p>- Peter Drucker</p>
+<p>- D. H. Lawrence</p>
