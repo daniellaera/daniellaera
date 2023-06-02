@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The birth of the mind is the death of the senses.</p>
+<p>There is peace even in the storm.</p>
 
-<p>- Dan Millman</p>
+<p>- Vincent van Gogh</p>
