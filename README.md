@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>- Epictetus</p>
+<p>- Lolly Daskal</p>
