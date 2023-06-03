@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're at the end of your rope, tie a knot and hold on.</p>
+<p>I will not walk backward in life.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- J.R.R. Tolkien</p>
