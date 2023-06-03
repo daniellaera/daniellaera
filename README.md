@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only lose something that you have, but you cannot lose something that you are.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Mark Twain</p>
