@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I will not walk backward in life.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Eckhart Tolle</p>
