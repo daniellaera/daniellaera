@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more real than nothing.</p>
+<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
 
-<p>- Samuel Beckett</p>
+<p>- George Bernard Shaw</p>
