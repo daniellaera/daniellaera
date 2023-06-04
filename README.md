@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Bob Dylan</p>
