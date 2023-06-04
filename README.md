@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Yanni</p>
