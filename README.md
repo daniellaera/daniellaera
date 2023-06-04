@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
+<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Dan Millman</p>
