@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way out is always through.</p>
+<p>Do your duty and a little more and the future will take care of itself.</p>
 
-<p>- Robert Frost</p>
+<p>- Andrew Carnegie</p>
