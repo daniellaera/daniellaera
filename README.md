@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do your duty and a little more and the future will take care of itself.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Norman Vincent Peale</p>
