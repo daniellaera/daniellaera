@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be fascinated instead of frustrated.</p>
+<p>We live only now. Everything else is either passed or is unknown.</p>
 
-<p>- Jim Rohn</p>
+<p>- Marcus Aurelius</p>
