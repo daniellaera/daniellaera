@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
 
-<p>- Yanni</p>
+<p>- Naval Ravikant</p>
