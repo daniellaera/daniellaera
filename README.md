@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our happiness depends on the habit of mind we cultivate.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Charles Darwin</p>
