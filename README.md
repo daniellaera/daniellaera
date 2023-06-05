@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you love someone, you love the person as they are, and not as you'd like them to be.</p>
+<p>The quality of your commitments will determine the course of your life.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Ralph Marston</p>
