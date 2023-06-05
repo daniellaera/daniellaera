@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
+<p>As a matter of fact is an expression that precedes many an expression that isn't.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Laurence J. Peter</p>
