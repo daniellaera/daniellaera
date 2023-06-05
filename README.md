@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
 
-<p>- Robert Collier</p>
+<p>- Naval Ravikant</p>
