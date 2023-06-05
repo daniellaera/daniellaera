@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the fish is caught we pay no more attention to the trap.</p>
+<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
 
-<p>- Huang Po</p>
+<p>- Sigmund Freud</p>
