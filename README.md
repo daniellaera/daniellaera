@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>When you love someone, you love the person as they are, and not as you'd like them to be.</p>
 
-<p>- Plato</p>
+<p>- Leo Tolstoy</p>
