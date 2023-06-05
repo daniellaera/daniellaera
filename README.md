@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
+<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
 
-<p>- Thomas Edison</p>
+<p>- Plato</p>
