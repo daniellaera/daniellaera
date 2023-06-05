@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
+<p>Simple words, repeated daily, can change your life.</p>
 
-<p>- Unknown</p>
+<p>- Maxime Lagace</p>
