@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's very strange that the people you love are often the people you're most cruel to.</p>
+<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Thomas Edison</p>
