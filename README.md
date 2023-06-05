@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>- Dogen</p>
+<p>- Kenneth Branagh</p>
