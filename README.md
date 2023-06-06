@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</p>
+<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
 
-<p>- Celestine Chua</p>
+<p>- Josh Waitzkin</p>
