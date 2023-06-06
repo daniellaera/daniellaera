@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances rule men; men do not rule circumstances. </p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Herodotus</p>
+<p>- Charles Dickens</p>
