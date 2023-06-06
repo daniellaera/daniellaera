@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show me a hero, and I'll write you a tragedy.</p>
+<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Aristotle</p>
