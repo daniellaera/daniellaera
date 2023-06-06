@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace begins with a smile.</p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>- Mother Teresa</p>
+<p>- Celestine Chua</p>
