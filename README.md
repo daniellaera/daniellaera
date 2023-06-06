@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
+<p>The highest level of wisdom is when you not only accept but love adversity.</p>
 
-<p>- Winston Churchill</p>
+<p>- Maxime Lagace</p>
