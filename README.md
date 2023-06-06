@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>FOCUS - Follow One Course Until Successful</p>
+<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Dr. Seuss</p>
