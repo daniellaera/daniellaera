@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
+<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
 
-<p>- Brian Tracy</p>
+<p>- Andrew Carnegie</p>
