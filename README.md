@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
+<p>Believe you can and you will be halfway there.</p>
 
-<p>- Celestine Chua</p>
+<p>- Lolly Daskal</p>
