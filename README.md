@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
+<p>Circumstances rule men; men do not rule circumstances. </p>
 
-<p>- Gustave Flaubert</p>
+<p>- Herodotus</p>
