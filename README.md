@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being in a good frame of mind helps keep one in the picture of health.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>- Unknown</p>
+<p>- Cherie Gilderbloom</p>
