@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners don't Quit. That's why they Win.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>- Unknown</p>
+<p>- Thich Nhat Hanh</p>
