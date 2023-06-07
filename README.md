@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be approximately right rather than exactly wrong.</p>
+<p>It isn't what you do, but how you do it.</p>
 
-<p>- John Tukey</p>
+<p>- John Wooden</p>
