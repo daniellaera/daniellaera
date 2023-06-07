@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Avoiding danger is no safer in the long run than exposure.</p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>- Helen Keller</p>
+<p>- John Tukey</p>
