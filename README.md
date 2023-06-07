@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man's character is his fate.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>- Heraclitus</p>
+<p>- Unknown</p>
