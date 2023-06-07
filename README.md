@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
 
-<p>- Yoko Ono</p>
+<p>- Michael Jordan</p>
