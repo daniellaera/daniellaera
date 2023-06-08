@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
+<p>The whole is greater than the sum of its parts.</p>
 
-<p>- Pema Chodron</p>
+<p>- Aristotle</p>
