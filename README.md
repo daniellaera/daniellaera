@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>- John Lennon</p>
+<p>- Roy T. Bennett</p>
