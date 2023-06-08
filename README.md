@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Arnold Schwarzenegger</p>
