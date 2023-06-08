@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole is greater than the sum of its parts.</p>
+<p>A little progress each day adds up to big results.</p>
 
-<p>- Aristotle</p>
+<p>- Unknown</p>
