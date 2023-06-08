@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no excuse for not trying.</p>
+<p>Create each day anew.</p>
 
-<p>- Barack Obama</p>
+<p>- Morihei Ueshiba</p>
