@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live in the sunshine, swim the sea, drink the wild air.</p>
+<p>For all evils there are two remedies - time and silence.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Alexandre Dumas</p>
