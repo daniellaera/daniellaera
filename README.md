@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be alive - is Power.</p>
+<p>We are all here for some special reason.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Robin Sharma</p>
