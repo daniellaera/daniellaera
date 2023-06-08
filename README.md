@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have results or excuses, but not both.</p>
+<p>The biggest room in the world is the room for improvement.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Unknown</p>
