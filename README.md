@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To plant a garden is to believe in tomorrow.  </p>
+<p>It is passion that makes man live; wisdom makes one only last.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Nicolas Chamfort</p>
