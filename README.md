@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes not from always being right but not fearing to be wrong.</p>
+<p>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</p>
 
-<p>- Unknown</p>
+<p>- Steve Maraboli</p>
