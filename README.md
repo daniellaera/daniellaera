@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is passion that makes man live; wisdom makes one only last.</p>
+<p>Happiness is only real when shared.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Christopher McCandless</p>
