@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest room in the world is the room for improvement.</p>
+<p>A golden cage is still just a cage.</p>
 
-<p>- Unknown</p>
+<p>- Anita Krizzan</p>
