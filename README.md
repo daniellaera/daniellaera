@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
+<p>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</p>
 
-<p>- Simon Sinek</p>
+<p>- Marcus Aurelius</p>
