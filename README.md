@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Dalai Lama</p>
+<p>- Herbert Hoover</p>
