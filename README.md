@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We love the things we love for what they are.</p>
+<p>Change yourself - you are in control.</p>
 
-<p>- Robert Frost</p>
+<p>- Mahatma Gandhi</p>
