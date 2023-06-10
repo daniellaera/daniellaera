@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you try to impress, the more peaceful you can be.</p>
+<p>Everyday you can take a tiny step in the right direction.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Unknown</p>
