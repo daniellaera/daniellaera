@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
+<p>Do it with passion, or not at all.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Rosa Nouchette Carey</p>
