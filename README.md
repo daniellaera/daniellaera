@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I learned the value of hard work by working hard. </p>
+<p>Genius is patience.</p>
 
-<p>- Margaret Mead</p>
+<p>- Isaac Newton</p>
