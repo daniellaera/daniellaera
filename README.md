@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are more people who wish to be loved than there are who are willing to love. </p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Charles Dickens</p>
