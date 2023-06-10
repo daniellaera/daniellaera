@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
 
-<p>- Grace Coddington</p>
+<p>- Gilbert Chesterton</p>
