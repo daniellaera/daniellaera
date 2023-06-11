@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
+<p>Receive without pride, let go without attachment.</p>
 
-<p>- Dogen</p>
+<p>- Marcus Aurelius</p>
