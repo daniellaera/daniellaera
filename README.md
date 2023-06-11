@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life and forget your age.</p>
+<p>It is in your moments of decision that your destiny is shaped.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Tony Robbins</p>
