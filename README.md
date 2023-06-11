@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All that we see or seem is but a dream within a dream.</p>
+<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Criss Jami</p>
