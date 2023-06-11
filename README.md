@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Alan Watts</p>
