@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without pride, let go without attachment.</p>
+<p>All that we see or seem is but a dream within a dream.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Edgar Allan Poe</p>
