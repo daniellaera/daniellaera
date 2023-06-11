@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What are we doing here, that is the question.</p>
+<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Naval Ravikant</p>
