@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can often change your circumstances by changing your attitude.</p>
+<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Gilbert Chesterton</p>
