@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
 
-<p>- Peter Drucker</p>
+<p>- Bruce Lee</p>
