@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyday you can take a tiny step in the right direction.</p>
+<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
 
-<p>- Unknown</p>
+<p>- Robert Greene</p>
