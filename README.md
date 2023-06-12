@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.</p>
+<p>Fear is your worst enemy. Risk is your best friend.</p>
 
-<p>- Richard Bach</p>
+<p>- Gurbaksh Chahal</p>
