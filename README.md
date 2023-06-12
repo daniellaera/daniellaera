@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
+<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
 
-<p>- Charles Dickens</p>
+<p>- Paramahansa Yogananda</p>
