@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People rarely succeed unless they have fun in what they are doing.</p>
+<p>Good luck is opportunity meeting preparedness.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Deepak Chopra</p>
