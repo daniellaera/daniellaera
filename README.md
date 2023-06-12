@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
+<p>Management is doing things right; leadership is doing the right things.</p>
 
-<p>- Alan Watts</p>
+<p>- Peter Drucker</p>
