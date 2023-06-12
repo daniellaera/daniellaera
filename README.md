@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>The only way round is through.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Robert Frost</p>
