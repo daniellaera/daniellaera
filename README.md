@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big. Start small. But most of all, start.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Simon Sinek</p>
+<p>- Dale Carnegie</p>
