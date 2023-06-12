@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If everyone is moving forward together, then success takes care of itself.</p>
+<p>Dream big. Start small. But most of all, start.</p>
 
-<p>- Henry Ford</p>
+<p>- Simon Sinek</p>
