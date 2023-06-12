@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Samuel Beckett</p>
