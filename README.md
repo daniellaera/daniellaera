@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no limitations to the mind except those we acknowledge...</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Dalai Lama</p>
