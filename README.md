@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the keys to happiness is a bad memory.</p>
+<p>The person who never made a mistake never tried anything new.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Albert Einstein</p>
