@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence breeds beauty.  </p>
+<p>Love is the energy of life.</p>
 
-<p>- Estee Lauder</p>
+<p>- Robert Browning</p>
