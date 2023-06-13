@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the energy of life.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>- Robert Browning</p>
+<p>- Jim Rohn</p>
