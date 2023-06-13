@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Zen Proverb</p>
