@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Bob Marley</p>
+<p>- Theodore Roosevelt</p>
