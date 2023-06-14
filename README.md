@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is little success where there is little laughter.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>- Andrew Carnegie</p>
+<p>- Bob Dylan</p>
