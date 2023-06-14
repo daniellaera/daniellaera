@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is far easier to start something than it is to finish it.</p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Zen Proverb</p>
