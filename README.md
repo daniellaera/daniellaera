@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>- Franz Kafka</p>
+<p>- Hans Christian Andersen</p>
