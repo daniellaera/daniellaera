@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live outside the law, you must be honest. </p>
+<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
 
-<p>- Bob Dylan</p>
+<p>- Albus Dumbledore</p>
