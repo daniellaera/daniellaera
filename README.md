@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you win, say nothing, when you lose say less.</p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>- Wayne Gretzky</p>
+<p>- Franz Kafka</p>
