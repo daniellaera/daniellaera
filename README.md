@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be prepared is half the victory. </p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Norman Vincent Peale</p>
