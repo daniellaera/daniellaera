@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all different. Don't judge, understand instead.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Lolly Daskal</p>
