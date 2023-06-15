@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter what happens, always be yourself.</p>
+<p>You are now, and you do become, what you think about.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Earl Nightingale</p>
