@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Roy T. Bennett</p>
