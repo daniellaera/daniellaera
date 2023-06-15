@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in your life are those that you set yourself.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Celestine Chua</p>
+<p>- Paulo Coelho</p>
