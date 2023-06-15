@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>The longer we dwell on our misfortunes, the greater is their power to harm us.</p>
 
-<p>- Herman Melville</p>
+<p>- Voltaire</p>
