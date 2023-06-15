@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
+<p>People are not disturbed by things, but by the views they take of them.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Epictetus</p>
