@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
+<p>Today I begin a new life. I will greet this day with love in my heart.</p>
 
-<p>- Robin Williams</p>
+<p>- Og Mandino</p>
