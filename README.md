@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
+<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
 
-<p>- Steve Jobs</p>
+<p>- Eckhart Tolle</p>
