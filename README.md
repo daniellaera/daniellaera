@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is the glory of expression.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- Walt Whitman</p>
+<p>- Celestine Chua</p>
