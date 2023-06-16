@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The prettiest eyes have cried the most.</p>
+<p>High thoughts must have high language.</p>
 
-<p>- Unknown</p>
+<p>- Aristophanes</p>
