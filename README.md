@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody has talent, but ability takes hard work.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>- Michael Jordan</p>
+<p>- Martin Luther</p>
