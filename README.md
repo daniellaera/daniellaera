@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things do not have meaning. We assign meaning to everything.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>- Tony Robbins</p>
+<p>- Huang Po</p>
