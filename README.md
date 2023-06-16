@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Kabir</p>
