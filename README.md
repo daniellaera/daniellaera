@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
+<p>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</p>
 
-<p>- Henry Ford</p>
+<p>- Dale Carnegie</p>
