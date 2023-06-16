@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life's too mysterious to take too serious.</p>
+<p>Everybody has talent, but ability takes hard work.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Michael Jordan</p>
