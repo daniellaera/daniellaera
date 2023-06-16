@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be - don't try to become </p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>- Osho</p>
+<p>- Soyen Shaku</p>
