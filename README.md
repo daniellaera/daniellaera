@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to discover what another has discovered before.</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Tony Robbins</p>
