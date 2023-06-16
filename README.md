@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only put off until tomorrow what you are willing to die having left undone.</p>
+<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
 
-<p>- Pablo Picasso</p>
+<p>- George Washington</p>
