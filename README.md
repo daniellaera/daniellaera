@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
+<p>Only put off until tomorrow what you are willing to die having left undone.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Pablo Picasso</p>
