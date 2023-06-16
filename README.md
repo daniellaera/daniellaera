@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no excuse for not trying.</p>
+<p>Be - don't try to become </p>
 
-<p>- Barack Obama</p>
+<p>- Osho</p>
