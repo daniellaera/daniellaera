@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</p>
+<p>Where we fall are the stepping-stones for our journey.</p>
 
-<p>- Celestine Chua</p>
+<p>- Lolly Daskal</p>
