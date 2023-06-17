@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>Motivation is what gets you started. Habit is what keeps you going.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Jim Rohn</p>
