@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</p>
+<p>The reward of suffering is experience.</p>
 
-<p>- William James</p>
+<p>- Harry S. Truman</p>
