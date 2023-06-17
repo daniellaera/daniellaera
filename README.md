@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything you may hold firmly in your imagination can be yours.</p>
+<p>High thoughts must have high language.</p>
 
-<p>- William James</p>
+<p>- Aristophanes</p>
