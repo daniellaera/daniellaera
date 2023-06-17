@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Chinese Proverb</p>
