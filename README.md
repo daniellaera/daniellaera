@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Denis Waitley</p>
+<p>- Wayne Dyer</p>
