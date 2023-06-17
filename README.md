@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you pray for rain, be prepared to deal with some mud.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Charles Darwin</p>
