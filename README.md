@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Motivation is what gets you started. Habit is what keeps you going.</p>
+<p>Write to help yourself, publish to help others.</p>
 
-<p>- Jim Rohn</p>
+<p>- Jack Butcher</p>
