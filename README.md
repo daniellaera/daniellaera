@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man that flies from his fear may find that he has only taken a short cut to meet it.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Maxime Lagace</p>
