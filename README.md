@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
 <p>- Wayne Dyer</p>
