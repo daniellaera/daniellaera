@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man must use what he has, not hope for what is not.</p>
+<p>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- William James</p>
