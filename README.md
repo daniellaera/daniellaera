@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Bhagavad Gita</p>
