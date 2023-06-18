@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final, failure is never fatal. It's courage that counts.</p>
+<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
 
-<p>- John Wooden</p>
+<p>- Napoleon Hill</p>
