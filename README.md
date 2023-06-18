@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot find peace avoiding life.</p>
+<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
 
-<p>- Virginia Woolf</p>
+<p>- Chinese Proverb</p>
