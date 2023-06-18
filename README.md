@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To get angry is like to revenge yourself for the guilt of others.</p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Norman Vincent Peale</p>
