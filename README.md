@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without the rain there would be no rainbow.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Peter A. Cohen</p>
