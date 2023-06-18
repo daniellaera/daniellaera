@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pursue what catches your heart, not what catches your eyes.</p>
+<p>Without the rain there would be no rainbow.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Gilbert Chesterton</p>
