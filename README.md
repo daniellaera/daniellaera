@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
+<p>To get angry is like to revenge yourself for the guilt of others.</p>
 
-<p>- Tony Robbins</p>
+<p>- Jonathan Swift</p>
