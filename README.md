@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>- George Washington</p>
+<p>- Roy T. Bennett</p>
