@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who know, do. Those that understand, teach.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- Aristotle</p>
+<p>- Thomas Edison</p>
