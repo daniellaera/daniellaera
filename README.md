@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings can alter their lives by altering their attitudes of mind.</p>
+<p>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</p>
 
-<p>- William James</p>
+<p>- Norman Vincent Peale</p>
