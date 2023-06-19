@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>Sometimes you have to travel a long way to find what is near.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Paulo Coelho</p>
