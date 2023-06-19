@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wait for the right opportunity: create it.</p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Gary Keller</p>
