@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to travel a long way to find what is near.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Paulo Coelho</p>
+<p>- George Addair</p>
