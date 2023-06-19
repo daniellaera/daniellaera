@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</p>
+<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
 
-<p>- Gary Keller</p>
+<p>- Oprah Winfrey</p>
