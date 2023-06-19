@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Beverly Sills</p>
