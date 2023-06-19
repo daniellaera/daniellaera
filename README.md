@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is often achieved by those who don't know that failure is inevitable.</p>
+<p>Don't wait for the right opportunity: create it.</p>
 
-<p>- Coco Chanel</p>
+<p>- George Bernard Shaw</p>
