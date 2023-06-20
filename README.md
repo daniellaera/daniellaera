@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>- Joan Rivers</p>
+<p>- Kabir</p>
