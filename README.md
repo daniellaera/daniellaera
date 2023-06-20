@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is more important than knowledge.</p>
+<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
 
-<p>- Albert Einstein</p>
+<p>- Robert Greene</p>
