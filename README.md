@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are today where your thoughts have brought you.</p>
+<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
 
-<p>- James Allen</p>
+<p>- Rita Mae Brown</p>
