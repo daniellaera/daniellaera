@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Steve Maraboli</p>
