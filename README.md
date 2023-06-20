@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your very silence shows you agree.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Euripides</p>
+<p>- Ralph Waldo Emerson</p>
