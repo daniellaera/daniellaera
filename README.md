@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either write something worth reading or do something worth writing.</p>
+<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- James Allen</p>
