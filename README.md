@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Joan Rivers</p>
