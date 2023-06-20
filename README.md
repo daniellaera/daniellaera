@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>Either write something worth reading or do something worth writing.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Benjamin Franklin</p>
