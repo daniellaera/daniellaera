@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wait for the right opportunity: create it.</p>
+<p>Youth has no age.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Pablo Picasso</p>
