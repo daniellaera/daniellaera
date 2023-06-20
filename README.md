@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most effective way to do it, is to do it.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Martin Luther King, Jr.</p>
