@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final; failure is never fatal.</p>
+<p>When one door closes another door opens. </p>
 
-<p>- Conrad Hilton</p>
+<p>- Alexander Graham Bell</p>
