@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatness comes from living with purpose and passion.</p>
+<p>Even a hare will bite when it is cornered. </p>
 
-<p>- Ralph Marston</p>
+<p>- Chinese Proverb</p>
