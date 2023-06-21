@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even a hare will bite when it is cornered. </p>
+<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Elbert Hubbard</p>
