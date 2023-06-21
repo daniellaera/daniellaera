@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
+<p>Faith is taking the first step even when you don't see the whole staircase.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Martin Luther King, Jr.</p>
