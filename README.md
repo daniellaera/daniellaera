@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>- Pema Chodron</p>
+<p>- Gary Keller</p>
