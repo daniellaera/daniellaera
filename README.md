@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Because of your smile, you make life more beautiful.</p>
+<p>Pursue what catches your heart, not what catches your eyes.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Roy T. Bennett</p>
