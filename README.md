@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>- Gary Keller</p>
+<p>- Leonardo da Vinci</p>
