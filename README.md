@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of difficulty lies opportunity.</p>
+<p>If you want to be successful, you have to jump, there's no way around it.</p>
 
-<p>- Albert Einstein</p>
+<p>- Steve Harvey</p>
