@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
+<p>It's easier to lose than to win.  </p>
 
-<p>- Winston Churchill</p>
+<p>- Wayne Gretzky</p>
