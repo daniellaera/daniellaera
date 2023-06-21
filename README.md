@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who possesses most must be most afraid of loss.</p>
+<p>To a mind that is still, the entire universe surrenders.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Zhuangzi</p>
