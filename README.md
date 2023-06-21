@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us rather run the risk of wearing out than rusting out.</p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Yanni</p>
