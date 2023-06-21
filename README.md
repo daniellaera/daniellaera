@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>- Euripides</p>
+<p>- Conrad Hilton</p>
