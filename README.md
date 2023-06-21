@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To handle yourself, use your head; to handle others, use your heart.</p>
+<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Dalai Lama</p>
