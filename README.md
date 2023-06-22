@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Theodore Roosevelt</p>
