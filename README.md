@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
+<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
 
-<p>- Winston Churchill</p>
+<p>- Deepak Chopra</p>
