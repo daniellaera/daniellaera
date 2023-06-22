@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
+<p>It is truth that liberates, not your effort to be free.</p>
 
-<p>- Heraclitus</p>
+<p>- Jiddu Krishnamurti</p>
