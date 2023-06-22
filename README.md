@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awaken. Take heed, do not squander your life.</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>- Dogen</p>
+<p>- D. H. Lawrence</p>
