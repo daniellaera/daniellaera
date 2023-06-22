@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
+<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Heraclitus</p>
