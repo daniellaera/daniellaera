@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
+<p>Time goes from present to past.</p>
 
-<p>- Charles Darwin</p>
+<p>- Shunryu Suzuki</p>
