@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The enemy is a very good teacher.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>- Dalai Lama</p>
+<p>- Robert Collier</p>
