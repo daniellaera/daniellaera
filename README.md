@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>- Helen Keller</p>
+<p>- Og Mandino</p>
