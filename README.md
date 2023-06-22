@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All power is from within and therefore under our control.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>- Robert Collier</p>
+<p>- Helen Keller</p>
