@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man's worth is no greater than his ambitions.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Unknown</p>
