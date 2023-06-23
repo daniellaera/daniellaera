@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</p>
+<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
 
-<p>- Robert Greene</p>
+<p>- Oprah Winfrey</p>
