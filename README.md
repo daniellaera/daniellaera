@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
 
-<p>- Aristotle</p>
+<p>- Sun Tzu</p>
