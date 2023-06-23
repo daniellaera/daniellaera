@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we know is a drop, what we don't know is an ocean. </p>
+<p>Don't wait for the right opportunity: create it.</p>
 
-<p>- Isaac Newton</p>
+<p>- George Bernard Shaw</p>
