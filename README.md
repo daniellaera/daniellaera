@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wait for the right opportunity: create it.</p>
+<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Dan Millman</p>
