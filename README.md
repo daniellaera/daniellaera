@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
+<p>Once a decision was made, I didn't worry about it afterward.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Harry S. Truman</p>
