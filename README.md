@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Zhuangzi</p>
