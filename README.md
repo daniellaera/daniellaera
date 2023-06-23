@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
+<p>Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. </p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Oprah Winfrey</p>
