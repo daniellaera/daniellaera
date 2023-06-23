@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once a decision was made, I didn't worry about it afterward.</p>
+<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
 
-<p>- Harry S. Truman</p>
+<p>- Sathya Sai Baba</p>
