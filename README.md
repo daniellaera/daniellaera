@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Use your smile to change the world but don't let the world change your smile.</p>
+<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
 
-<p>- Unknown</p>
+<p>- Sigmund Freud</p>
