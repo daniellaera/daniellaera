@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
 
-<p>- Zhuangzi</p>
+<p>- Estee Lauder</p>
