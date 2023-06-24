@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of questions you ask.</p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>- Tony Robbins</p>
+<p>- Joyce Meyer</p>
