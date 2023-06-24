@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>- Mark Twain</p>
+<p>- T.S. Eliot</p>
