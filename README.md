@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure is what lies ahead.</p>
+<p>Truth is exact correspondence with reality. </p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Paramahansa Yogananda</p>
