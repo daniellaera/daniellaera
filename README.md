@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We suffer more often in imagination than in reality.  </p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- Seneca</p>
+<p>- Tony Robbins</p>
