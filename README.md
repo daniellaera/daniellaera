@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humans and prosperity never endure side by side for long.</p>
+<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
 
-<p>- Herodotus</p>
+<p>- Mark Twain</p>
