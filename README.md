@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is one long process of getting tired.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>- Samuel Butler</p>
+<p>- Simon Sinek</p>
