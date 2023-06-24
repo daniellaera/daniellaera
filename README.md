@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
+<p>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</p>
 
-<p>- George Washington</p>
+<p>- Alexander Graham Bell</p>
