@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
+<p>The most effective way to do it, is to do it.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Amelia Earhart</p>
