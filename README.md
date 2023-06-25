@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- J.R.R. Tolkien</p>
