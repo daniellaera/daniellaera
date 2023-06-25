@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace begins with a smile.</p>
+<p>Just do what must be done. This may not be happiness but it is greatness.</p>
 
-<p>- Mother Teresa</p>
+<p>- George Bernard Shaw</p>
