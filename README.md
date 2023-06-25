@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Nelson Mandela</p>
