@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
+<p>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Colin Powell</p>
