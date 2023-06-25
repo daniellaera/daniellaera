@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Niccolo Machiavelli</p>
