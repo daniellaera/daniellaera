@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fallacies do not cease to be fallacies because they become fashions.</p>
+<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Coco Chanel</p>
