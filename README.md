@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>High thoughts must have high language.</p>
+<p>Peace begins with a smile.</p>
 
-<p>- Aristophanes</p>
+<p>- Mother Teresa</p>
