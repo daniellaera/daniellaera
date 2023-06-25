@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
+<p>No great discovery was ever made without a bold guess. </p>
 
-<p>- Coco Chanel</p>
+<p>- Isaac Newton</p>
