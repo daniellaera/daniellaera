@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>The least deviation from truth will be multiplied later.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Aristotle</p>
