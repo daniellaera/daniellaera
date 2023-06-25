@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>- Unknown</p>
+<p>- Joyce Meyer</p>
