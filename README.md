@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Sun Tzu</p>
