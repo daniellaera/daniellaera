@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Bob Proctor</p>
