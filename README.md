@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>- Ralph Marston</p>
+<p>- Gary Keller</p>
