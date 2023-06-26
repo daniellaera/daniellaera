@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>Loss is nothing else but change and change is nature's delight.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Marcus Aurelius</p>
