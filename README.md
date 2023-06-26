@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quiet people have the loudest minds.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>- Stephen King</p>
+<p>- Naval Ravikant</p>
