@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Ming-Dao Deng</p>
