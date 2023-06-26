@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Helen Keller</p>
