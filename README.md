@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's possible in ways both large or small to make a difference in someone's life.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- Yanni</p>
+<p>- Gilbert Chesterton</p>
