@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in our life are those we impose on ourselves.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Bob Proctor</p>
+<p>- Conrad Hilton</p>
