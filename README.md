@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
+<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Ralph Marston</p>
