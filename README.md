@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a gift, even when pain is your teacher.</p>
+<p>It is easier to fight for one's principles than to live up to them. </p>
 
-<p>- Michael Jordan</p>
+<p>- Alfred Adler</p>
