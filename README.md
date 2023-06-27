@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is always right to do what is right.</p>
+<p>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Barack Obama</p>
