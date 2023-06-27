@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>In order to carry a positive action, we must develop here a positive vision.</p>
 
-<p>- George Eliot</p>
+<p>- Dalai Lama</p>
