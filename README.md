@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we have the less we own.</p>
+<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
 
-<p>- Meister Eckhart</p>
+<p>- St. Jerome</p>
