@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>Trust is the foundation of great leadership.</p>
 
-<p>- St. Jerome</p>
+<p>- Lolly Daskal</p>
