@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>Learning is a gift, even when pain is your teacher.</p>
 
-<p>- Plato</p>
+<p>- Michael Jordan</p>
