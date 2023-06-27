@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
+<p>Older men declare war. But it is youth that must fight and die.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Herbert Hoover</p>
