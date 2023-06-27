@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Bob Marley</p>
+<p>- Elon Musk</p>
