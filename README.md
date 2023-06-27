@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust is the foundation of great leadership.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Lolly Daskal</p>
+<p>- George Eliot</p>
