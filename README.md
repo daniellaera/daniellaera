@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By seeking and blundering we learn.</p>
+<p>The future is not a gift. It is an achievement.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Robert F. Kennedy</p>
