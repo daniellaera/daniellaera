@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Dan Millman</p>
+<p>- Steve Maraboli</p>
