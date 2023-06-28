@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about not knowing and then doing something anyway.</p>
+<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
 
-<p>- Mark Manson</p>
+<p>- Sydney Smith</p>
