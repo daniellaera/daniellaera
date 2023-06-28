@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>It always seems impossible until it's done.</p>
 
-<p>- Jim Rohn</p>
+<p>- Nelson Mandela</p>
