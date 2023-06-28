@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
+<p>The art of being happy lies in the power of extracting happiness from common things.</p>
 
-<p>- Charles Dickens</p>
+<p>- Henry Ward Beecher</p>
