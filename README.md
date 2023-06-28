@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>- Estee Lauder</p>
+<p>- Jim Rohn</p>
