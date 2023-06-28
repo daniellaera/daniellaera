@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the power of thought that gives man power over nature.</p>
+<p>I believe that one of life's greatest risks is never daring to risk.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Oprah Winfrey</p>
