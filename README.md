@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heal the past, live the present, dream the future.</p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- T.S. Eliot</p>
