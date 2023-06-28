@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
 
-<p>- Steve Jobs</p>
+<p>- Charles Dickens</p>
