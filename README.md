@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth comes at the point of resistance.</p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>- Josh Waitzkin</p>
+<p>- Seneca</p>
