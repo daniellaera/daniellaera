@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Theodore Roosevelt</p>
