@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Jim Rohn</p>
