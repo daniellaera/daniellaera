@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reality is the leading cause of stress among those in touch with it.</p>
+<p>Be kind, for everyone you meet is fighting a harder battle.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Plato</p>
