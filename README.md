@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every act of creation is first an act of destruction.</p>
+<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Mark Twain</p>
