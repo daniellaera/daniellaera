@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I will not walk backward in life.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Adi Da Samraj</p>
