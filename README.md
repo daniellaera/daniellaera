@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't climb the ladder of success with your hands in your pockets.</p>
+<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Seneca</p>
