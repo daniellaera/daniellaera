@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>- Dan Brown</p>
+<p>- Arnold Schwarzenegger</p>
