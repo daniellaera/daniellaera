@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Gratitude is the fairest blossom which springs from the soul.</p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Herodotus</p>
