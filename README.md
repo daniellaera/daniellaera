@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either write something worth reading or do something worth writing.</p>
+<p>The truth is rarely pure and never simple. </p>
 
-<p>- Benjamin Franklin</p>
+<p>- Oscar Wilde</p>
