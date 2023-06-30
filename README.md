@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
+<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Dalai Lama</p>
