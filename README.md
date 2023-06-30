@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The art of being wise is knowing what to overlook.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>- William James</p>
+<p>- Vince Lombardi</p>
