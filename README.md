@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Tony Robbins</p>
