@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is rarely pure and never simple. </p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Meister Eckhart</p>
