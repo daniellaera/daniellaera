@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I succeeded by saying what everyone else is thinking.</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Joan Rivers</p>
+<p>- Henry Ward Beecher</p>
