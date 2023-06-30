@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A needle is not sharp at both ends. </p>
+<p>The art of being wise is knowing what to overlook.</p>
 
-<p>- Chinese Proverb</p>
+<p>- William James</p>
