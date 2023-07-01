@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>It's better to dance than to march through life.</p>
 
-<p>- Beverly Sills</p>
+<p>- Yoko Ono</p>
