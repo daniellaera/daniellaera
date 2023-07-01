@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever is begun in anger, ends in shame.</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Helen Keller</p>
