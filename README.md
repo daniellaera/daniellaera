@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Paramahansa Yogananda</p>
