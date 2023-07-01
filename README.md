@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</p>
+<p>Give out what you most want to come back.</p>
 
-<p>- Aristophanes</p>
+<p>- Robin Sharma</p>
