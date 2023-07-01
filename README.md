@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>Those who look for the bad in people will surely find it.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Abraham Lincoln</p>
