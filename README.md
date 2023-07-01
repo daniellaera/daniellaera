@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Ayn Rand</p>
+<p>- Benjamin Franklin</p>
