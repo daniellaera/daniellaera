@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to dance than to march through life.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>- Yoko Ono</p>
+<p>- Eric Hoffer</p>
