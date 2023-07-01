@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>Don't be afraid to give up the good to go for the great.</p>
 
-<p>- Seneca</p>
+<p>- John D. Rockefeller</p>
