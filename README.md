@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who look for the bad in people will surely find it.</p>
+<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Seneca</p>
