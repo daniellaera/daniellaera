@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Alone we can do so little; together we can do so much.</p>
+<p>Thinking will not overcome fear but action will. </p>
 
-<p>- Helen Keller</p>
+<p>- W. Clement Stone</p>
