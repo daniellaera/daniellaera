@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Unknown</p>
+<p>- Elbert Hubbard</p>
