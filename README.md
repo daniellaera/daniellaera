@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>- Colin Powell</p>
+<p>- Sathya Sai Baba</p>
