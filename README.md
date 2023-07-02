@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is often achieved by those who don't know that failure is inevitable.</p>
+<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
 
-<p>- Coco Chanel</p>
+<p>- Og Mandino</p>
