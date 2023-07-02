@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise speak only of what they know.</p>
+<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Deepak Chopra</p>
