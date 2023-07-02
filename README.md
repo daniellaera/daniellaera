@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>It is those who concentrate on but one thing at a time who advance in this world.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Gary Keller</p>
