@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Dan Millman</p>
