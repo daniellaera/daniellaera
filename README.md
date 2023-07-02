@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your next step is simple. You are the first domino.</p>
+<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
 
-<p>- Gary Keller</p>
+<p>- Unknown</p>
