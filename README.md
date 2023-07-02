@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>Man invented language to satisfy his deep need to complain.</p>
 
-<p>- Alexander Pope</p>
+<p>- Lily Tomlin</p>
