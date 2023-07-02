@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men trust their ears less than their eyes.</p>
+<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
 
-<p>- Herodotus</p>
+<p>- William Faulkner</p>
