@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
 
-<p>- Spencer Johnson</p>
+<p>- George Washington</p>
