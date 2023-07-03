@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind whenever possible. It is always possible.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>- Dalai Lama</p>
+<p>- Confucius</p>
