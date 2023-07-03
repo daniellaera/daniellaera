@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>Be brave enough to suck at something new.</p>
 
-<p>- Charles Dickens</p>
+<p>- Unknown</p>
