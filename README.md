@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>- Steve Harvey</p>
+<p>- Norman Vincent Peale</p>
