@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why fit in when you were born to stand out?</p>
+<p>Facts are the enemy of truth. </p>
 
-<p>- Dr. Seuss</p>
+<p>- Miguel de Cervantes</p>
