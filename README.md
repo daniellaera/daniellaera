@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intense love does not measure, it just gives.</p>
+<p>Be kind whenever possible. It is always possible.</p>
 
-<p>- Mother Teresa</p>
+<p>- Dalai Lama</p>
