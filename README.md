@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>- Lily Tomlin</p>
+<p>- Franz Kafka</p>
