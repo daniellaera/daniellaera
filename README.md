@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are free, and that is why you are lost. </p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Franz Kafka</p>
+<p>- Lao Tzu</p>
