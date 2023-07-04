@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When I let go of what I am, I become what I might be.</p>
+<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
 
-<p>- Lao Tzu</p>
+<p>- Og Mandino</p>
