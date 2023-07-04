@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
+<p>Character is doing what you don't want to do but know you should do.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Joyce Meyer</p>
