@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is good at any age, but the sooner you find it, the longer you will enjoy it.</p>
+<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Wayne Gretzky</p>
