@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The merit of all things lies in their difficulty.</p>
+<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Og Mandino</p>
