@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is best to begin at the beginning.</p>
+<p>The more something scares you, the more you should do it.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Mark Manson</p>
