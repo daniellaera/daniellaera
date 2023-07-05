@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
+<p>Life is a succession of lessons, which must be lived to be understood.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Ralph Waldo Emerson</p>
