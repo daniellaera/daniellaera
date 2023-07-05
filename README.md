@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something scares you, the more you should do it.</p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>- Mark Manson</p>
+<p>- John Lennon</p>
