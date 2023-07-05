@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Vincent van Gogh</p>
