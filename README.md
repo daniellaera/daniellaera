@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
 
-<p>- Brian Tracy</p>
+<p>- Bob Marley</p>
