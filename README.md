@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
+<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
 
-<p>- Og Mandino</p>
+<p>- Ralph Marston</p>
