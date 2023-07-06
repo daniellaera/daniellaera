@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something scares you, the more you should do it.</p>
+<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
 
-<p>- Mark Manson</p>
+<p>- Robin Williams</p>
