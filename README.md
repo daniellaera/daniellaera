@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Roy T. Bennett</p>
