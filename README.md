@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't tell big dreams to small minded people.</p>
+<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
 
-<p>- Steve Harvey</p>
+<p>- Carlos Ruiz Zafon</p>
