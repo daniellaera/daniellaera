@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
+<p>You can't tell big dreams to small minded people.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Steve Harvey</p>
