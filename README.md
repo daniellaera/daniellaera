@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
+<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Thomas Edison</p>
