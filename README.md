@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>Showing off is the fool's idea of glory. </p>
 
-<p>- Brian Tracy</p>
+<p>- Bruce Lee</p>
