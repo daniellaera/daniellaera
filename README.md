@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a man knows not to which port he sails, no wind is favorable.  </p>
+<p>There is little success where there is little laughter.</p>
 
-<p>- Seneca</p>
+<p>- Andrew Carnegie</p>
