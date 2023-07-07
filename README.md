@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>Make your mind your own business.</p>
 
-<p>- Elon Musk</p>
+<p>- Jack Butcher</p>
