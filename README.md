@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your mind your own business.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>- Jack Butcher</p>
+<p>- Colin Powell</p>
