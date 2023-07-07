@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>- Robin Williams</p>
+<p>- Charles Dickens</p>
