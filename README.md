@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>- Henry Ford</p>
+<p>- Vincent van Gogh</p>
