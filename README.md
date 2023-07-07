@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
 
-<p>- Charles Dickens</p>
+<p>- Paulo Coelho</p>
