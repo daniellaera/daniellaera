@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It always seems impossible until it's done.</p>
+<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
 
-<p>- Nelson Mandela</p>
+<p>- Celestine Chua</p>
