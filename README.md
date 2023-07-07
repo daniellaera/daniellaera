@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
+<p>Knowledge isn't power until it is applied.</p>
 
-<p>- Celestine Chua</p>
+<p>- Dale Carnegie</p>
