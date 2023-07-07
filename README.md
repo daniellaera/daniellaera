@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goodness is the only investment that never fails.</p>
+<p>Dreams have only one owner at a time. That's why dreamers are lonely.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- William Faulkner</p>
