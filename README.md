@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Showing off is the fool's idea of glory. </p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>- Bruce Lee</p>
+<p>- Henry Ford</p>
