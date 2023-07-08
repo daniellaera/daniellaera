@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sweetest pleasure arises from difficulties overcome.</p>
+<p>Talk does not cook rice.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Chinese Proverb</p>
