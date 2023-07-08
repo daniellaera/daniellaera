@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't make someone feel good about themselves until you feel good about yourself.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>- Robin Sharma</p>
+<p>- Marilyn Monroe</p>
