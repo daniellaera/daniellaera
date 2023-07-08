@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
+<p>The sweetest pleasure arises from difficulties overcome.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Publilius Syrus</p>
