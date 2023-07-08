@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>The least deviation from truth will be multiplied later.</p>
 
-<p>- Elon Musk</p>
+<p>- Aristotle</p>
