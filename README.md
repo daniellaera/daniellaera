@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You do not read a book for the book's sake, but for your own.</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Bob Proctor</p>
