@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
+<p>In the practice of tolerance, one's enemy is the best teacher.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Dalai Lama</p>
