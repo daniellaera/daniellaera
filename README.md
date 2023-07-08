@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
 
-<p>- Unknown</p>
+<p>- Morihei Ueshiba</p>
