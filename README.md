@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk does not cook rice.</p>
+<p>You do not read a book for the book's sake, but for your own.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Earl Nightingale</p>
