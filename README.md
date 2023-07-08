@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Robert F. Kennedy</p>
