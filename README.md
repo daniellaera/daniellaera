@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
+<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Meister Eckhart</p>
