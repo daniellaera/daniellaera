@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear not the path of Truth for the lack of People walking on it.</p>
+<p>You can't make someone feel good about themselves until you feel good about yourself.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Robin Sharma</p>
