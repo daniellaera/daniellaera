@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>My powers are ordinary. Only my application brings me success.</p>
 
-<p>- Jim Rohn</p>
+<p>- Isaac Newton</p>
