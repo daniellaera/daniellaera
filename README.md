@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The enemy is a very good teacher.</p>
+<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
 
-<p>- Dalai Lama</p>
+<p>- Roy T. Bennett</p>
