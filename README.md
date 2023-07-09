@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
+<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Celestine Chua</p>
