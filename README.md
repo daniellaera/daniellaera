@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>The enemy is a very good teacher.</p>
 
-<p>- Isaac Newton</p>
+<p>- Dalai Lama</p>
