@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Rita Mae Brown</p>
