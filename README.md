@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What gets measured gets improved.</p>
+<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
 
-<p>- Robin Sharma</p>
+<p>- Eckhart Tolle</p>
