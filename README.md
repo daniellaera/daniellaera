@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no value in anything until it is finished. </p>
+<p>He will win who knows when to fight and when not to fight.</p>
 
-<p>- Genghis Khan</p>
+<p>- Sun Tzu</p>
