@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you look for perfection, you'll never be content.</p>
+<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Dr. Seuss</p>
