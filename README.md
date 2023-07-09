@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Christopher McCandless</p>
