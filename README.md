@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only encounters in history. There are no accidents.</p>
+<p>There is no value in anything until it is finished. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Genghis Khan</p>
