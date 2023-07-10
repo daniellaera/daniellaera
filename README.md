@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can only be understood backwards; but it must be lived forwards.</p>
+<p>Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Earl Nightingale</p>
