@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Tony Robbins</p>
