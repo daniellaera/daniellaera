@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be patient and calm; no one can catch fish in anger.</p>
+<p>It is easy to discover what another has discovered before.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Christopher Columbus</p>
