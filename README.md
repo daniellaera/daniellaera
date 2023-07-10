@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>- Aristotle</p>
+<p>- Soren Kierkegaard</p>
