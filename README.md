@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>- James Allen</p>
+<p>- Sonia Ricotti</p>
