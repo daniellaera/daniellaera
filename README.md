@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to discover what another has discovered before.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Christopher Columbus</p>
+<p>- J.R.R. Tolkien</p>
