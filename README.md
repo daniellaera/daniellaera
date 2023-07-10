@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>Inner peace is when you realize that, in the end, nothing matters.</p>
 
-<p>- Richard Bach</p>
+<p>- Maxime Lagace</p>
