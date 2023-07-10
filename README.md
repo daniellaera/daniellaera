@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk does not cook rice.</p>
+<p>Failure is not fatal, but failure to change might be.</p>
 
-<p>- Chinese Proverb</p>
+<p>- John Wooden</p>
