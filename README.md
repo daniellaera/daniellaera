@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
+<p>I like the dreams of the future better than the history of the past.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Thomas Jefferson</p>
