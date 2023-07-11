@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Charles Dickens</p>
