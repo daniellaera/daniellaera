@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>Trust is the foundation of great leadership.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Lolly Daskal</p>
