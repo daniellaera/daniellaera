@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is changed by your example, not by your opinion.</p>
+<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Alan Watts</p>
