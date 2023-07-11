@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn the pain into power.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>- Unknown</p>
+<p>- Audrey Hepburn</p>
