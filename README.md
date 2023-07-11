@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creativity is intelligence having fun.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>- Albert Einstein</p>
+<p>- Gilbert Chesterton</p>
