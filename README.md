@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every saint has a past, and every sinner has a future.</p>
+<p>Never lose hope. Storms make people stronger and never last forever.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Roy T. Bennett</p>
