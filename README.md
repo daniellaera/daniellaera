@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+<p>It's much better to do good in a way that no one knows anything about it.</p>
 
-<p>- Alan Watts</p>
+<p>- Leo Tolstoy</p>
