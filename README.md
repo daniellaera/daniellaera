@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fallacies do not cease to be fallacies because they become fashions.</p>
+<p>The finish line is just the beginning of a whole new race.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Unknown</p>
