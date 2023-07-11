@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Roy T. Bennett</p>
