@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day wasted on others is not wasted on one's self.</p>
+<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
 
-<p>- Charles Dickens</p>
+<p>- Deepak Chopra</p>
