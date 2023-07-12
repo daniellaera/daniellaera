@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Denis Waitley</p>
