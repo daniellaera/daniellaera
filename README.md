@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>Just get out and do it. You will be very, very glad that you did.</p>
 
-<p>- Dogen</p>
+<p>- Christopher McCandless</p>
