@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no sadder sight than a young pessimist.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>- Mark Twain</p>
+<p>- Niccolo Machiavelli</p>
