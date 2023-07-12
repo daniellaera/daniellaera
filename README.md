@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Ming-Dao Deng</p>
