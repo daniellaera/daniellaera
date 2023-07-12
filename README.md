@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who wishes to be obeyed must know how to command.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Earl Nightingale</p>
