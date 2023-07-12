@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</p>
 
 <p>- Seneca</p>
