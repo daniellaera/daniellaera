@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Les Brown</p>
