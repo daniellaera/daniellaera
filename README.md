@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>Life is a long lesson in humility. </p>
 
-<p>- Naval Ravikant</p>
+<p>- James Matthew Barrie</p>
