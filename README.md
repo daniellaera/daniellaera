@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a long lesson in humility. </p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Roy T. Bennett</p>
