@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
+<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Tony Robbins</p>
