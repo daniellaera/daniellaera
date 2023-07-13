@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to discover what another has discovered before.</p>
+<p>Success is often achieved by those who don't know that failure is inevitable.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Coco Chanel</p>
