@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
+<p>Remember we're all in this alone.</p>
 
-<p>- Carl Jung</p>
+<p>- Lily Tomlin</p>
