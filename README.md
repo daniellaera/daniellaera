@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Walt Whitman</p>
