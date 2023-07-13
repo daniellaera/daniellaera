@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are free, and that is why you are lost. </p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>- Franz Kafka</p>
+<p>- Eric Hoffer</p>
