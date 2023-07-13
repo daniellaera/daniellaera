@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between winning and losing is most often not quitting.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Walt Disney</p>
+<p>- Benjamin Franklin</p>
