@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember we're all in this alone.</p>
+<p>Never whine, never complain, never try to justify yourself.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Robert Greene</p>
