@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Vincent van Gogh</p>
