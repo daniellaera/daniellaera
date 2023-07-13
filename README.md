@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</p>
+<p>The difference between winning and losing is most often not quitting.</p>
 
-<p>- Billie Jean King</p>
+<p>- Walt Disney</p>
