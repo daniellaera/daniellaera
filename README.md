@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody's life is either rewarding or an example.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Tony Robbins</p>
+<p>- Henry Ford</p>
