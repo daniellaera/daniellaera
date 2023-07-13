@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
+<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </p>
 
-<p>- Zig Ziglar</p>
+<p>- Jack London</p>
