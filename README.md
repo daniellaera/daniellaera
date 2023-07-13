@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Emily Dickinson</p>
