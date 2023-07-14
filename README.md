@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who realize their folly are not true fools.</p>
+<p>Nature is pleased with simplicity. And nature is no dummy.</p>
 
-<p>- Zhuangzi</p>
+<p>- Isaac Newton</p>
