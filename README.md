@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience never fears midnight knocking.</p>
+<p>Where there is anger, there is always pain underneath.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Eckhart Tolle</p>
