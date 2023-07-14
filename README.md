@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Dr. Seuss</p>
