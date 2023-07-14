@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failing is another stepping stone to greatness.</p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Eric Hoffer</p>
