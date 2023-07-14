@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Ronald Reagan</p>
