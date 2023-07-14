@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is often achieved by those who don't know that failure is inevitable.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>- Coco Chanel</p>
+<p>- Rumi</p>
