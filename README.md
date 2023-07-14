@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is anger, there is always pain underneath.</p>
+<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Steve Harvey</p>
