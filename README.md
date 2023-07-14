@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
+<p>Failing is another stepping stone to greatness.</p>
 
-<p>- Steve Harvey</p>
+<p>- Oprah Winfrey</p>
