@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're at the end of your rope, tie a knot and hold on.</p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Meister Eckhart</p>
