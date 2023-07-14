@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
+<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Og Mandino</p>
