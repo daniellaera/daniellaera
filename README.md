@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We win by helping each other win.</p>
+<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
 
-<p>- Jack Butcher</p>
+<p>- Sydney Smith</p>
