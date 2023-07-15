@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have no methods; all I do is accept people as they are.</p>
+<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
 
-<p>- Joan Rivers</p>
+<p>- Unknown</p>
