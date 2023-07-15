@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can only be understood backwards; but it must be lived forwards.</p>
+<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Mother Teresa</p>
