@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>- James Allen</p>
+<p>- Barack Obama</p>
