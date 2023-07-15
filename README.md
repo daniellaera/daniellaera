@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>Success comes to those who become success conscious.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Napoleon Hill</p>
