@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
+<p>Circumstances do not make the man, they reveal him.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- James Allen</p>
