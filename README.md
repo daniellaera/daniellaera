@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Soren Kierkegaard</p>
