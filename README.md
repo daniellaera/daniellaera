@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
+<p>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</p>
 
-<p>- Sydney Smith</p>
+<p>- Zen Proverb</p>
