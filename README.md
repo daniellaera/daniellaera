@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you admire was once a beginner.</p>
+<p>We win by helping each other win.</p>
 
 <p>- Jack Butcher</p>
