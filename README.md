@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>There are no shortcuts to any place worth going.</p>
 
-<p>- Criss Jami</p>
+<p>- Beverly Sills</p>
