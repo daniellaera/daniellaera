@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't always championships.</p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>- Michael Jordan</p>
+<p>- Arnold Schwarzenegger</p>
