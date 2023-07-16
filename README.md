@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All life is an experiment. The more experiments you make, the better.</p>
+<p>I pay attention to every minute of the day.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Steve Harvey</p>
