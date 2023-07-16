@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You drown not by falling into a river, but by staying submerged in it.</p>
+<p>The way of success is the way of continuous pursuit of knowledge.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Napoleon Hill</p>
