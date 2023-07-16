@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- Aristotle</p>
+<p>- Unknown</p>
