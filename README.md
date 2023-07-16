@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not engaging in ignorance is wisdom. </p>
+<p>Everything has beauty but not everyone sees it.</p>
 
-<p>- Bodhidharma</p>
+<p>- Confucius</p>
