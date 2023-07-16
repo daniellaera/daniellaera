@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always lived in the moment.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>- Yanni</p>
+<p>- Marcus Aurelius</p>
