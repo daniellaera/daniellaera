@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work is always an antidote to depression.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Paulo Coelho</p>
