@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't have anything worthwhile without difficulties.</p>
+<p>One small positive thought can change your whole day.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Zig Ziglar</p>
