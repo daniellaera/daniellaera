@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
 
-<p>- Betty White</p>
+<p>- Henry Ford</p>
