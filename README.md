@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One small positive thought can change your whole day.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Andrew Carnegie</p>
