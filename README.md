@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>Today I begin a new life. I will greet this day with love in my heart.</p>
 
-<p>- Voltaire</p>
+<p>- Og Mandino</p>
