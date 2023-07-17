@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Colin Powell</p>
