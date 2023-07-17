@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>The more people you help become successful the more successful you become.</p>
 
-<p>- Brian Tracy</p>
+<p>- Steve Harvey</p>
