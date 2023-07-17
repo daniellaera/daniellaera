@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise man will be master of his mind, a fool will be its slave.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Brian Tracy</p>
