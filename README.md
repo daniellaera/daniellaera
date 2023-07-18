@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you resist, persists.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>- Carl Jung</p>
+<p>- Wayne Dyer</p>
