@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True knowledge exists in knowing that you know nothing.</p>
+<p>Be like a postage stamp. Stick to it until you get there.</p>
 
-<p>- Socrates</p>
+<p>- Bob Proctor</p>
