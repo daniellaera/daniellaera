@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Robin Sharma</p>
