@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>FOCUS - Follow One Course Until Successful</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Socrates</p>
