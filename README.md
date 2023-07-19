@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
+<p>Older men declare war. But it is youth that must fight and die.</p>
 
-<p>- Carl Jung</p>
+<p>- Herbert Hoover</p>
