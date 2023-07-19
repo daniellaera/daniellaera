@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
+<p>How much pain they have cost us, the evils which have never happened.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Thomas Jefferson</p>
