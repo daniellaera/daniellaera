@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Bruce Lee</p>
+<p>- Elbert Hubbard</p>
