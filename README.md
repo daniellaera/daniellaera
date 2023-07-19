@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
+<p>The guest will judge better of a feast than the cook.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Aristotle</p>
