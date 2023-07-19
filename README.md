@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Worry is a waste of emotional reserve.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>- Ayn Rand</p>
+<p>- Carl Jung</p>
