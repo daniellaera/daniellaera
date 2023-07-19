@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Amelia Earhart</p>
