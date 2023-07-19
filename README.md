@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
+<p>Be fascinated instead of frustrated.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Jim Rohn</p>
