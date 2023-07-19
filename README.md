@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are disturbed not by things, but by the view which they take of them.</p>
+<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
 
-<p>- Epictetus</p>
+<p>- Steve Maraboli</p>
