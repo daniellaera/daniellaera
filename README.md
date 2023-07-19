@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
 
-<p>- Dalai Lama</p>
+<p>- Sathya Sai Baba</p>
