@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take interest and even delight in doing the small things well.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>- Jim Rohn</p>
+<p>- Euripides</p>
