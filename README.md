@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>- Aristotle</p>
+<p>- Jim Rohn</p>
