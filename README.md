@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
+<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Charles Darwin</p>
