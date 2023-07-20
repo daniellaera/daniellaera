@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not take life too seriously. You will never get out of it alive.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Johann Wolfgang von Goethe</p>
