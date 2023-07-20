@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>- Epictetus</p>
+<p>- Paulo Coelho</p>
