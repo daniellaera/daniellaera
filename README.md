@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>Only I can change my life. No one can do it for me.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Carol Burnett</p>
