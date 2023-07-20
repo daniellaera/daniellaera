@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who fails to plan, plans to fail.</p>
+<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
 
-<p>- Unknown</p>
+<p>- Epictetus</p>
