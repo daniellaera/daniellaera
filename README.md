@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.</p>
+<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
 
-<p>- Andrew Carnegie</p>
+<p>- Eckhart Tolle</p>
