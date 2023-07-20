@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>He who fails to plan, plans to fail.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Unknown</p>
