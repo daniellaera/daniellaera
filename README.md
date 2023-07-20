@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
+<p>Knowing yourself is the beginning of all wisdom.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Aristotle</p>
