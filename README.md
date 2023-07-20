@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loving thoughts and actions are clearly beneficial for our physical and mental health.</p>
+<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
 
-<p>- Dalai Lama</p>
+<p>- Harry S. Truman</p>
