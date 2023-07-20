@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
+<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
 
-<p>- Celestine Chua</p>
+<p>- Emily Dickinson</p>
