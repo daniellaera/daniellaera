@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poverty and hardship are created by false thinking.</p>
+<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
 
-<p>- Bodhidharma</p>
+<p>- George Bernard Shaw</p>
