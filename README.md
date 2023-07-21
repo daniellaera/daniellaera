@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By words the mind is winged.</p>
+<p>The wise warrior avoids the battle.</p>
 
-<p>- Aristophanes</p>
+<p>- Sun Tzu</p>
