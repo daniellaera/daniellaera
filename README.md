@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To find yourself, think for yourself.</p>
+<p>The temptation to give up is strongest just before victory.</p>
 
-<p>- Socrates</p>
+<p>- Zen Proverb</p>
