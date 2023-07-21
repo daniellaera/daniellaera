@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The temptation to give up is strongest just before victory.</p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>- Zen Proverb</p>
+<p>- Albert Einstein</p>
