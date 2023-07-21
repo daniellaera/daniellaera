@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He that can have patience can have what he will.</p>
+<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Dale Carnegie</p>
