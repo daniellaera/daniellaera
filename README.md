@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
+<p>I live by letting things happen.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Dogen</p>
