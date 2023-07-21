@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>- Steve Harvey</p>
+<p>- T.S. Eliot</p>
