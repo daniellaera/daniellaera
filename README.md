@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lying can never save us from another lie.</p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Steve Harvey</p>
