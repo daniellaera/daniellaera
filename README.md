@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One loses many laughs by not laughing at oneself.</p>
+<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Thomas Jefferson</p>
