@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past has no power over the present moment. </p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Eckhart Tolle</p>
+<p>- Wayne Dyer</p>
