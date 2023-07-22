@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>- Barack Obama</p>
+<p>- Mary Engelbreit</p>
