@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- J.R.R. Tolkien</p>
