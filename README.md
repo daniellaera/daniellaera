@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the practice of tolerance, one's enemy is the best teacher.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Dalai Lama</p>
+<p>- Barack Obama</p>
