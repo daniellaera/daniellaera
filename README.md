@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
+<p>There is a difference between giving directions and giving direction.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Simon Sinek</p>
