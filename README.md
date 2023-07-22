@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>- Dalai Lama</p>
+<p>- Barack Obama</p>
