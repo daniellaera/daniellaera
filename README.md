@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
+<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Morgan Wootten</p>
