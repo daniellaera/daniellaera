@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
 
-<p>- Tony Robbins</p>
+<p>- Napoleon Hill</p>
