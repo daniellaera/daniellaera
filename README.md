@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+<p>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Richard Bach</p>
