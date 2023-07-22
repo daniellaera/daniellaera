@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a difference between giving directions and giving direction.</p>
+<p>In the practice of tolerance, one's enemy is the best teacher.</p>
 
-<p>- Simon Sinek</p>
+<p>- Dalai Lama</p>
