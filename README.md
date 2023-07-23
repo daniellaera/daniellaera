@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>- James Allen</p>
+<p>- Estee Lauder</p>
