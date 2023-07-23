@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
+<p>Live simply, expect little, give much.</p>
 
-<p>- Margaret Mead</p>
+<p>- Norman Vincent Peale</p>
