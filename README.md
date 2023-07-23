@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of change is to focus all your energy not on fighting the old, but on building the new.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
-<p>- Dan Millman</p>
+<p>- Dalai Lama</p>
