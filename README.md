@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faithless is he that says farewell when the road darkens.</p>
+<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- George Bernard Shaw</p>
