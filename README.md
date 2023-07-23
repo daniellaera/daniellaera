@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A journey of a thousand miles must begin with a single step.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
-<p>- Lao Tzu</p>
+<p>- J.R.R. Tolkien</p>
