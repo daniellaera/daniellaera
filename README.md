@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This is such a short and precious life that it's really important that you don't spend it being unhappy.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Samuel Butler</p>
