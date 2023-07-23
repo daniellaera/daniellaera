@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>The secret of change is to focus all your energy not on fighting the old, but on building the new.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Dan Millman</p>
