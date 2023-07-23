@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live simply, expect little, give much.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Earl Nightingale</p>
