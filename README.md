@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
+<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
 
-<p>- Rumi</p>
+<p>- David Brinkley</p>
