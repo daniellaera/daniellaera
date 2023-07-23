@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- David Brinkley</p>
+<p>- Morihei Ueshiba</p>
