@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Mark Twain</p>
