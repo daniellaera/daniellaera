@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people feel the rain. Others just get wet. </p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>- Bob Dylan</p>
+<p>- Steve Harvey</p>
