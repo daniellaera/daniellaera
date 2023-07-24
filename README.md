@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Mark Twain</p>
