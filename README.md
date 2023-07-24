@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Chinese Proverb</p>
+<p>- George Addair</p>
