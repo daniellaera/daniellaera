@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no sadder sight than a young pessimist.</p>
+<p>Some people feel the rain. Others just get wet. </p>
 
-<p>- Mark Twain</p>
+<p>- Bob Dylan</p>
