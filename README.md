@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to set another goal or to dream a new dream.</p>
+<p>You cannot teach a crab to walk straight.</p>
 
-<p>- Les Brown</p>
+<p>- Aristophanes</p>
