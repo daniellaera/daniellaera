@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cease striving. Then there will be transformation.</p>
+<p>The best fighter is never angry.</p>
 
-<p>- Zhuangzi</p>
+<p>- Lao Tzu</p>
