@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Henry Ford</p>
