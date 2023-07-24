@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.</p>
+<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Ronald Reagan</p>
