@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot teach a crab to walk straight.</p>
+<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
 
-<p>- Aristophanes</p>
+<p>- Jiddu Krishnamurti</p>
