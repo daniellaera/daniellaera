@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What are we doing here, that is the question.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Les Brown</p>
