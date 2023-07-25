@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The constant assertion of belief is an indication of fear.</p>
+<p>Where you are right now doesn't have to determine where you'll end up.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Barack Obama</p>
