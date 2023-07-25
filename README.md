@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</p>
+<p>I know of only one duty, and that is to love.</p>
 
-<p>- Dr. Seuss</p>
+<p>- George Bernard Shaw</p>
