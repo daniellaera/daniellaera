@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
+<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Huang Po</p>
