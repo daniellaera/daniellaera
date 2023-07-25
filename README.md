@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>- Barack Obama</p>
+<p>- Kenneth Branagh</p>
