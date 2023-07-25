@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- St. Jerome</p>
+<p>- Samuel Butler</p>
