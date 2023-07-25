@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has the name of life, but in reality it is death.</p>
+<p>Health is the greatest of all possessions.</p>
 
-<p>- Heraclitus</p>
+<p>- Jonathan Swift</p>
