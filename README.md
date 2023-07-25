@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.</p>
+<p>The constant assertion of belief is an indication of fear.</p>
 
-<p>- Criss Jami</p>
+<p>- Jiddu Krishnamurti</p>
