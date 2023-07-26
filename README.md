@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline yourself, and others won't need to.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>- John Wooden</p>
+<p>- Mark Manson</p>
