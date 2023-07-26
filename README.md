@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is simple. If it was complicated, everyone would understand it.</p>
+<p>Intense love does not measure, it just gives.</p>
 
-<p>- Walt Whitman</p>
+<p>- Mother Teresa</p>
