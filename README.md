@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reality is the leading cause of stress among those in touch with it.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Walt Whitman</p>
