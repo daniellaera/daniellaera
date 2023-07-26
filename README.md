@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your neighbor is the man who needs you.</p>
+<p>Reality is the leading cause of stress among those in touch with it.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Lily Tomlin</p>
