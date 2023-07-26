@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</p>
+<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Wayne Dyer</p>
