@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
+<p>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</p>
 
-<p>- Aristotle</p>
+<p>- Ming-Dao Deng</p>
