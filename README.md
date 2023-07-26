@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The strongest and sweetest songs yet remain to be sung.</p>
+<p>If there were no God, there would be no atheists.</p>
 
-<p>- Walt Whitman</p>
+<p>- Gilbert Chesterton</p>
