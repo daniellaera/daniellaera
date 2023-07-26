@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The universe doesn't allow perfection.</p>
+<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Kamal Ravikant</p>
