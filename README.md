@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If there were no God, there would be no atheists.</p>
+<p>Your neighbor is the man who needs you.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Elbert Hubbard</p>
