@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings believe just as they breathe - in order to survive.</p>
+<p>The best fighter is never angry.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Lao Tzu</p>
