@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>Life is either a daring adventure, or nothing.</p>
 
-<p>- George Washington</p>
+<p>- Helen Keller</p>
