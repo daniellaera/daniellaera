@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is never easy, but always possible.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>- Barack Obama</p>
+<p>- Rumi</p>
