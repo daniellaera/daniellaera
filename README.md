@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best fighter is never angry.</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>- Lao Tzu</p>
+<p>- Jonathan Swift</p>
