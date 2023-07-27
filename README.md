@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>If you need inspiration, don't do it.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Elon Musk</p>
