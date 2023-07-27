@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't walk away from things that I think are unfinished.</p>
+<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Eric Hoffer</p>
