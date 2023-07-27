@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is planted in each person's soul will sprout.  </p>
+<p>I don't walk away from things that I think are unfinished.</p>
 
-<p>- Rumi</p>
+<p>- Arnold Schwarzenegger</p>
