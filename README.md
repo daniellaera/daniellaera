@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see someone without a smile give them one of yours.</p>
+<p>Learning is a gift, even when pain is your teacher.</p>
 
-<p>- Unknown</p>
+<p>- Michael Jordan</p>
