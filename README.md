@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>Human beings believe just as they breathe - in order to survive.</p>
 
-<p>- Euripides</p>
+<p>- Carlos Ruiz Zafon</p>
