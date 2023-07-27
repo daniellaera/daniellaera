@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Music is like creating an emotional painting. The sounds are the colors.</p>
+<p>Fears are nothing more than a state of mind.</p>
 
-<p>- Yanni</p>
+<p>- Napoleon Hill</p>
