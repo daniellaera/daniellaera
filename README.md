@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your success and happiness lie in you.</p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>- Helen Keller</p>
+<p>- Unknown</p>
