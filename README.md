@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination means nothing without doing.  </p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Sigmund Freud</p>
