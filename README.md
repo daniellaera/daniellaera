@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be great is to be misunderstood.</p>
+<p>It is in the darkness that one finds the light.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Meister Eckhart</p>
