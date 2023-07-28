@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we value things, the less we value ourselves.  </p>
+<p>One's best success comes after their greatest disappointments.</p>
 
-<p>- Bruce Lee</p>
+<p>- Henry Ward Beecher</p>
