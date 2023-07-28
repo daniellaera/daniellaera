@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's much better to do good in a way that no one knows anything about it.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Christopher Columbus</p>
