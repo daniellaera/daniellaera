@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Ming-Dao Deng</p>
