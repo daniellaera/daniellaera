@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
+<p>If there were no God, there would be no atheists.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Gilbert Chesterton</p>
