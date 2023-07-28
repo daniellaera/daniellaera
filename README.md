@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a gift, even when pain is your teacher.</p>
+<p>The person who is his own master cannot tolerate another boss. </p>
 
-<p>- Michael Jordan</p>
+<p>- Chinese Proverb</p>
