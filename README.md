@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
+<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Yanni</p>
