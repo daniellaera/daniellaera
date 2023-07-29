@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A golden cage is still just a cage.</p>
+<p>Wherever you are, it's the place you need to be.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Maxime Lagace</p>
