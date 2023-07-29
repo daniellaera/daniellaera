@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Boldness makes even the smallest animal dangerous.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>- Robert Greene</p>
+<p>- Earl Nightingale</p>
