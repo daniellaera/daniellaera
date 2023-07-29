@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you embark on a journey of revenge, dig two graves. </p>
+<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
 
-<p>- Confucius</p>
+<p>- Earl Nightingale</p>
