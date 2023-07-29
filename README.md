@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From morning till night, we should never rely on a single thing.</p>
+<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </p>
 
-<p>- Huang Po</p>
+<p>- Jack London</p>
