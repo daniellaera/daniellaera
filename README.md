@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real meditation is how you live your life.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Confucius</p>
