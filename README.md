@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>The prettiest eyes have cried the most.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Unknown</p>
