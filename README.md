@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe and you're halfway there.</p>
+<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Alfred Adler</p>
