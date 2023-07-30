@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One must be poor to know the luxury of giving.</p>
+<p>You cannot find peace by avoiding life.</p>
 
-<p>- George Eliot</p>
+<p>- Virginia Woolf</p>
