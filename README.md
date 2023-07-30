@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People rarely succeed unless they have fun in what they are doing.</p>
+<p>No duty is more urgent than that of returning thanks.</p>
 
-<p>- Dale Carnegie</p>
+<p>- James Allen</p>
