@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Dale Carnegie</p>
