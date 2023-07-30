@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Leo Tolstoy</p>
