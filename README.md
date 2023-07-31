@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
+<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
 
-<p>- Bruce Lee</p>
+<p>- Dogen</p>
