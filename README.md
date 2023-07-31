@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In nature there is no alienation. Everything belongs.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Lao Tzu</p>
