@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is achieved and maintained by those who try and keep trying. </p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Nelson Mandela</p>
