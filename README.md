@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let the beauty of what you love be what you do.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>- Rumi</p>
+<p>- Epictetus</p>
