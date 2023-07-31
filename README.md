@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Brian Tracy</p>
