@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do what you can, with what you have, where you are.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Isaac Newton</p>
