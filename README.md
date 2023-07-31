@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change your thoughts and you change your world.</p>
+<p>Do what you can, with what you have, where you are.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Theodore Roosevelt</p>
