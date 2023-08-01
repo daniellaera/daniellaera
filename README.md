@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</p>
+<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Denis Waitley</p>
