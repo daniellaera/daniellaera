@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't hate the player. Change the game.</p>
+<p>How much pain they have cost us, the evils which have never happened.</p>
 
-<p>- Steve Harvey</p>
+<p>- Thomas Jefferson</p>
