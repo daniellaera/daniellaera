@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
 
-<p>- Denis Waitley</p>
+<p>- Elon Musk</p>
