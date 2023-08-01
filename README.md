@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
 
-<p>- Robin Williams</p>
+<p>- Rita Mae Brown</p>
