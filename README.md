@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- A.A. Milne</p>
+<p>- Earl Nightingale</p>
