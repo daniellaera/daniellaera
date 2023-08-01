@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Henry Ford</p>
+<p>- Unknown</p>
