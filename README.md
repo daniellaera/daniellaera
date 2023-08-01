@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Kahlil Gibran</p>
