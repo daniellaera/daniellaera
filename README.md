@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Robert Greene</p>
