@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>We tend to live up to our expectations.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Earl Nightingale</p>
