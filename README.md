@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who realize their folly are not true fools.</p>
+<p>He who can, does.</p>
 
-<p>- Zhuangzi</p>
+<p>- George Bernard Shaw</p>
