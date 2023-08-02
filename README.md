@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Woody Allen</p>
