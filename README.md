@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</p>
+<p>Get mad, then get over it.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Colin Powell</p>
