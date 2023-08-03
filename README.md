@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something to move yourself toward your major goal every day.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>- Brian Tracy</p>
+<p>- Eleanor Roosevelt</p>
