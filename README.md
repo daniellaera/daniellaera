@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In nature there is no alienation. Everything belongs.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Tony Robbins</p>
