@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Theodore Roosevelt</p>
