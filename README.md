@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
 
-<p>- Alexander Pope</p>
+<p>- Celestine Chua</p>
