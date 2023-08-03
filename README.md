@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must be free not because we claim freedom, but because we practice it.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>- William Faulkner</p>
+<p>- Genghis Khan</p>
