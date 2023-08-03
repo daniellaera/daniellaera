@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do what you've always done, you'll get what you've always gotten.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>- Tony Robbins</p>
+<p>- Oprah Winfrey</p>
