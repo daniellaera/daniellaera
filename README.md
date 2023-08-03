@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>Nothing is hopeless; we must hope for everything.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Euripides</p>
