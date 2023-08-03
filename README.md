@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
+<p>We must have strong minds, ready to accept facts as they are.</p>
 
-<p>- Celestine Chua</p>
+<p>- Harry S. Truman</p>
