@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is hopeless; we must hope for everything.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>- Euripides</p>
+<p>- Plato</p>
