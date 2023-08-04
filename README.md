@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Winston Churchill</p>
+<p>- Leo Tolstoy</p>
