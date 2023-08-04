@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Norman Vincent Peale</p>
