@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Richard Bach</p>
+<p>- Paulo Coelho</p>
