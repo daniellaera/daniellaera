@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
+<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Anne Wilson Schaef</p>
