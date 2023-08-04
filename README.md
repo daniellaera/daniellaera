@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it. </p>
+<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
 
-<p>- Bodhidharma</p>
+<p>- Mahatma Gandhi</p>
