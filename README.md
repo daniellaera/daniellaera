@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Until we can manage time, we can manage nothing else.</p>
+<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
 
-<p>- Peter Drucker</p>
+<p>- Unknown</p>
