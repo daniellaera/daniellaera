@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the possibility of having a dream come true that makes life interesting.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Deepak Chopra</p>
