@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
+<p>The most important battle is one to conquer yourself.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Yanni</p>
