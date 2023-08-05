@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For all evils there are two remedies - time and silence.</p>
+<p>Behind every cloud is another cloud.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Judy Garland</p>
