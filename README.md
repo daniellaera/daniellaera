@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
+<p>You're never too old for anything.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Betty White</p>
