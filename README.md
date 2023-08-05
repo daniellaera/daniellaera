@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once you learn to quit, it becomes a habit.</p>
+<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Robert F. Kennedy</p>
