@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
 
-<p>- Bruce Lee</p>
+<p>- Zig Ziglar</p>
