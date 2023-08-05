@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every cloud is another cloud.</p>
+<p>The significance of life is living.</p>
 
-<p>- Judy Garland</p>
+<p>- Jiddu Krishnamurti</p>
