@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
+<p>I have never let my schooling interfere with my education.</p>
 
-<p>- Brian Tracy</p>
+<p>- Mark Twain</p>
