@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never let my schooling interfere with my education.</p>
+<p>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</p>
 
-<p>- Mark Twain</p>
+<p>- Robert Frost</p>
