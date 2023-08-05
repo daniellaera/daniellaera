@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>- Dalai Lama</p>
+<p>- Gilbert Chesterton</p>
