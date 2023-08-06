@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>If it is not right, do not do it, if it is not true, do not say it.</p>
 
-<p>- Robert Greene</p>
+<p>- Marcus Aurelius</p>
