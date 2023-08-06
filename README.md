@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it is not right, do not do it, if it is not true, do not say it.</p>
+<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Pema Chodron</p>
