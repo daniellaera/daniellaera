@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more one judges, the less one loves.</p>
+<p>If you can't feed a hundred people, then feed just one.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Mother Teresa</p>
