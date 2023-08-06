@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man's character is his fate.</p>
+<p>He who cannot be a good follower cannot be a good leader.</p>
 
-<p>- Heraclitus</p>
+<p>- Aristotle</p>
