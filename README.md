@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Bob Proctor</p>
