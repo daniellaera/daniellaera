@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creativity is intelligence having fun.</p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>- Albert Einstein</p>
+<p>- Joyce Meyer</p>
