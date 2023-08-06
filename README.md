@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no way to happiness - happiness is the way.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Robert Greene</p>
