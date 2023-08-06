@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing endures but change.</p>
+<p>The more one judges, the less one loves.</p>
 
-<p>- Heraclitus</p>
+<p>- Honore de Balzac</p>
