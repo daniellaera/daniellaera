@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>Change is never easy, but always possible.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Barack Obama</p>
