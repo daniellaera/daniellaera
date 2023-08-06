@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who cannot be a good follower cannot be a good leader.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>- Aristotle</p>
+<p>- Thich Nhat Hanh</p>
