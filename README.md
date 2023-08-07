@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
 
-<p>- Lao Tzu</p>
+<p>- Seungsahn</p>
