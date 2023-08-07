@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a series of choices and all we can do is make them.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Socrates</p>
