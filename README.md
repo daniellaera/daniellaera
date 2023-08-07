@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>Happiness is the absence of the striving for happiness.</p>
 
-<p>- Robert Browning</p>
+<p>- Zhuangzi</p>
