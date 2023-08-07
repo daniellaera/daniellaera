@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has no limitations except the ones you make.</p>
+<p>Best be yourself, imperial, plain, and true.</p>
 
-<p>- Les Brown</p>
+<p>- Robert Browning</p>
