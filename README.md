@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
+<p>Be happy now, without reason - or you never will be at all.</p>
 
-<p>- Seungsahn</p>
+<p>- Dan Millman</p>
