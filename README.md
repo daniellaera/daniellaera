@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you can imagine is real.</p>
+<p>Live simply, expect little, give much.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Norman Vincent Peale</p>
