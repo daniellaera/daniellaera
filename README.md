@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each problem has a positive side.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Og Mandino</p>
+<p>- Elon Musk</p>
