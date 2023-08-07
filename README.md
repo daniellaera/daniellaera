@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>All life is an experiment. The more experiments you make, the better.</p>
 
-<p>- Zhuangzi</p>
+<p>- Ralph Waldo Emerson</p>
