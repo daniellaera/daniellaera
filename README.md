@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
+<p>Each problem has a positive side.</p>
 
-<p>- Pema Chodron</p>
+<p>- Og Mandino</p>
