@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>- Elon Musk</p>
+<p>- Kamal Ravikant</p>
