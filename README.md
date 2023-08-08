@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
+<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Henry Ward Beecher</p>
