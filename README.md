@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>Success is never final, failure is never fatal. It's courage that counts.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- John Wooden</p>
