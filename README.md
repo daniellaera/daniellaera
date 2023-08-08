@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man should fear never beginning to live.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Dalai Lama</p>
