@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Kahlil Gibran</p>
