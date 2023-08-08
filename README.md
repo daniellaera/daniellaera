@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Emily Dickinson</p>
