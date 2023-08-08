@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Thich Nhat Hanh</p>
