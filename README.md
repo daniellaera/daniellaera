@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>- Henry Ford</p>
+<p>- Henry David Thoreau</p>
