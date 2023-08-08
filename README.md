@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</p>
+<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
 
-<p>- Simon Sinek</p>
+<p>- Franklin D. Roosevelt</p>
