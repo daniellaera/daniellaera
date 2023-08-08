@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final, failure is never fatal. It's courage that counts.</p>
+<p>The deeper the truth in a creative work, the longer it will live.  </p>
 
-<p>- John Wooden</p>
+<p>- Charlie Chaplin</p>
