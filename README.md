@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
+<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
 
-<p>- Unknown</p>
+<p>- Henry Ford</p>
