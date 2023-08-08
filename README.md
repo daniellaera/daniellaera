@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>- Judy Garland</p>
+<p>- Marcus Aurelius</p>
