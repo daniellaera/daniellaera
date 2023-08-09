@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
 
-<p>- Zhuangzi</p>
+<p>- Norman Vincent Peale</p>
