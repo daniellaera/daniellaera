@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>If you aim at nothing, you will hit it every time.  </p>
 
-<p>- Maxime Lagace</p>
+<p>- Zig Ziglar</p>
