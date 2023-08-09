@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time goes from present to past.</p>
+<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Maxime Lagace</p>
