@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Nicolas Chamfort</p>
