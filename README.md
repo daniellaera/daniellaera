@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aim at nothing, you will hit it every time.  </p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Alexandre Dumas</p>
