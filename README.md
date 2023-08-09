@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>Be a good animal, true to your instincts.</p>
 
-<p>- Pema Chodron</p>
+<p>- D. H. Lawrence</p>
