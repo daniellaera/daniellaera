@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
+<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Albus Dumbledore</p>
