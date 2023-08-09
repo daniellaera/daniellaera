@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between treason and patriotism is only a matter of dates.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Alexandre Dumas</p>
+<p>- John Wooden</p>
