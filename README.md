@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>Don't wish it were easier, wish you were better.</p>
 
-<p>- Winston Churchill</p>
+<p>- Jim Rohn</p>
