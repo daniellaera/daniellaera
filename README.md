@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Plants grow weak without wind.</p>
+<p>Success is going from failure to failure without losing your enthusiasm</p>
 
-<p>- Maxime Lagace</p>
+<p>- Winston Churchill</p>
