@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
 
-<p>- George Eliot</p>
+<p>- Celestine Chua</p>
