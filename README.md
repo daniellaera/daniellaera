@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you're halfway there.</p>
+<p>Failure is an option, fear is not.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- James Cameron</p>
