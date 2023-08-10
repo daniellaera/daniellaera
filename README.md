@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>- Babe Ruth</p>
+<p>- Zhuangzi</p>
