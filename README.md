@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is an option, fear is not.</p>
+<p>It doesn't matter how slow you go, as long as you don't stop.</p>
 
-<p>- James Cameron</p>
+<p>- Confucius</p>
