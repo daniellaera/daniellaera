@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be a little nobody, then to be an evil somebody.</p>
+<p>Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Alfred Adler</p>
