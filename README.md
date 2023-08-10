@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have the mind or you can have the moment.</p>
+<p>Only I can change my life. No one can do it for me.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Carol Burnett</p>
