@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every act of creation is first an act of destruction.</p>
+<p>If you want to be successful, you have to jump, there's no way around it.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Steve Harvey</p>
