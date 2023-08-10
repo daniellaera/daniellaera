@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life's too mysterious to take too serious.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Bob Proctor</p>
