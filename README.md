@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe yourself to be.</p>
+<p>Every strike brings me closer to the next home run. </p>
 
-<p>- Paulo Coelho</p>
+<p>- Babe Ruth</p>
