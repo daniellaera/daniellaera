@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Barack Obama</p>
+<p>- George Eliot</p>
