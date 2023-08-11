@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
+<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Nicolas Chamfort</p>
