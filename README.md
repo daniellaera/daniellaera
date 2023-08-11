@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
+<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
 
-<p>- Rumi</p>
+<p>- Wayne Dyer</p>
