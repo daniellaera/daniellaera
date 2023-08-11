@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is merely the name for the desire and pursuit of the whole.</p>
+<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
 
-<p>- Aristophanes</p>
+<p>- Colin Powell</p>
