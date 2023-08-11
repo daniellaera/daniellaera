@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Ming-Dao Deng</p>
