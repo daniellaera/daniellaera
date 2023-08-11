@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your face to the sun, as flowers know how to do.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Henry Ford</p>
