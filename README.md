@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you have only one smile in you give it to the people you love.</p>
+<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
 
-<p>- Maya Angelou</p>
+<p>- Rita Mae Brown</p>
