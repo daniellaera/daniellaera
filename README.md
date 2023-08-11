@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>Love is merely the name for the desire and pursuit of the whole.</p>
 
-<p>- Zhuangzi</p>
+<p>- Aristophanes</p>
