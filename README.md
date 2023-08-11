@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only people without problems are those in cemeteries.</p>
+<p>Men trust their ears less than their eyes.</p>
 
-<p>- Tony Robbins</p>
+<p>- Herodotus</p>
