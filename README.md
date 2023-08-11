@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
+<p>The only people without problems are those in cemeteries.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Tony Robbins</p>
