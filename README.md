@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
 
-<p>- Plato</p>
+<p>- Rumi</p>
