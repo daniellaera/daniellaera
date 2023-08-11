@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is not about possession. Love is about appreciation.</p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>- Osho</p>
+<p>- James Allen</p>
