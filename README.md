@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone is a moon, and has a dark side which he never shows to anybody.</p>
+<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
 
-<p>- Mark Twain</p>
+<p>- Gurbaksh Chahal</p>
