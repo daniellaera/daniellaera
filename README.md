@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>- Margaret Mead</p>
+<p>- Chinese Proverb</p>
