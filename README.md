@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning never exhausts the mind. </p>
+<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Arnold Schwarzenegger</p>
