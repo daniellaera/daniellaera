@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
+<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Gilbert Chesterton</p>
