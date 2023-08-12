@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in the darkness that one finds the light.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>- Meister Eckhart</p>
+<p>- Margaret Mead</p>
