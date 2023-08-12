@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heroes don't need to talk about what they did.</p>
+<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Seungsahn</p>
