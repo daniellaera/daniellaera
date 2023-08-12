@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adults are just children who earn money.</p>
+<p>Change is inevitable but personal growth is a choice.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Bob Proctor</p>
