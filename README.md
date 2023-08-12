@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
+<p>Heroes don't need to talk about what they did.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- W.P. Kinsella</p>
