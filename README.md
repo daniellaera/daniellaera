@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Plants grow weak without wind.</p>
+<p>Adults are just children who earn money.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Kenneth Branagh</p>
