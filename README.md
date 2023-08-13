@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How much pain they have cost us, the evils which have never happened.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Earl Nightingale</p>
