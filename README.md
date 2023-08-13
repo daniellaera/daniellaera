@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by acceptance of the past, can you alter it.</p>
+<p>Concentrated power has always been the enemy of liberty.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Ronald Reagan</p>
