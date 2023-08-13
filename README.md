@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the fear of striking out keep you from playing the game.</p>
+<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
 
-<p>- Babe Ruth</p>
+<p>- Richard Bach</p>
