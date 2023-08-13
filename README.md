@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Aristophanes</p>
+<p>- T.S. Eliot</p>
