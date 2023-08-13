@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>- Criss Jami</p>
+<p>- Richard Bach</p>
