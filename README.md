@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Criss Jami</p>
