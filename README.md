@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Lolly Daskal</p>
