@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>Fools read fast. Geniuses reread.</p>
 
-<p>- Robert Frost</p>
+<p>- Maxime Lagace</p>
