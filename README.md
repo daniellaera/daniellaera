@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Seungsahn</p>
