@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Too many of us are not living our dreams because we are living our fears.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- Les Brown</p>
+<p>- Gilbert Chesterton</p>
