@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you change the way you look at things, the things you look at change. </p>
+<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Mark Twain</p>
