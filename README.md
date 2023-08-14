@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>- Mark Twain</p>
+<p>- Deepak Chopra</p>
