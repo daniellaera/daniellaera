@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>Cease striving. Then there will be transformation.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Zhuangzi</p>
