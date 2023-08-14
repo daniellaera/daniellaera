@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without complaint, Work with fate.</p>
+<p>If you can't explain it simply, you don't understand it well enough.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Albert Einstein</p>
