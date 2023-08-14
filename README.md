@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</p>
+<p>If you change the way you look at things, the things you look at change. </p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Wayne Dyer</p>
