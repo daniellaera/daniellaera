@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't explain it simply, you don't understand it well enough.</p>
+<p>Freedom lies in being bold.</p>
 
-<p>- Albert Einstein</p>
+<p>- Robert Frost</p>
