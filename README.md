@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Follow the man who seeks the truth; run from the man who has found it.</p>
+<p>Receive without complaint, Work with fate.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Ming-Dao Deng</p>
