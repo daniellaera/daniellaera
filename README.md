@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>Follow the man who seeks the truth; run from the man who has found it.</p>
 
-<p>- Steve Harvey</p>
+<p>- Vaclav Havel</p>
