@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</p>
+<p>The way we feel is the direct result of what we think.</p>
 
-<p>- Brian Tracy</p>
+<p>- Peter A. Cohen</p>
