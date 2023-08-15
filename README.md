@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the midst of movement and chaos, keep stillness inside of you.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Eric Hoffer</p>
