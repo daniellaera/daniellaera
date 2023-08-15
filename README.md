@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw me to the wolves and I will return leading the pack.  </p>
+<p>Change is inevitable but personal growth is a choice.</p>
 
-<p>- Seneca</p>
+<p>- Bob Proctor</p>
