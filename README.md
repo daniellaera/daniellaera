@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
+<p>Throw me to the wolves and I will return leading the pack.  </p>
 
-<p>- Walt Disney</p>
+<p>- Seneca</p>
