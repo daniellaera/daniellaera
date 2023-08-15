@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>To earn more you must learn more.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Brian Tracy</p>
