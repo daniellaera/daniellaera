@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even in the grave, all is not lost.</p>
+<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Epictetus</p>
