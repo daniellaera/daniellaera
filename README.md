@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Dan Millman</p>
