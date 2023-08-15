@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in your life are those that you set yourself.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>- Celestine Chua</p>
+<p>- Cherie Gilderbloom</p>
