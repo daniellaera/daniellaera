@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>Even in the grave, all is not lost.</p>
 
-<p>- Bob Proctor</p>
+<p>- Edgar Allan Poe</p>
