@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Identify your problems, but give your power and energy to solutions.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>- Tony Robbins</p>
+<p>- Spencer Johnson</p>
