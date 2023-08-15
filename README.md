@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
+<p>It doesn't matter how slow you go, as long as you don't stop.</p>
 
-<p>- Dan Millman</p>
+<p>- Confucius</p>
