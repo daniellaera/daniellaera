@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>Identify your problems, but give your power and energy to solutions.</p>
 
-<p>- Epictetus</p>
+<p>- Tony Robbins</p>
