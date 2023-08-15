@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is limited by your ability to change your mind.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>- Jack Butcher</p>
+<p>- Dan Millman</p>
