@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no second chances in life, except to feel remorse.</p>
+<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Rita Mae Brown</p>
