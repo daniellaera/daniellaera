@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>You are today where your thoughts have brought you.</p>
 
-<p>- Beverly Sills</p>
+<p>- James Allen</p>
