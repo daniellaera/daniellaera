@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
+<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Roy T. Bennett</p>
