@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspiration exists, but it has to find you working.</p>
+<p>The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.</p>
 
-<p>- Pablo Picasso</p>
+<p>- James Allen</p>
