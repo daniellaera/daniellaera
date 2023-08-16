@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
+<p>When you have to make a choice and don't make it, that is in itself a choice.</p>
 
-<p>- Gary Keller</p>
+<p>- William James</p>
