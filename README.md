@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
+<p>Inspiration exists, but it has to find you working.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Pablo Picasso</p>
