@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>- Jim Rohn</p>
+<p>- Beverly Sills</p>
