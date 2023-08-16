@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>Do something worth remembering.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Elvis Presley</p>
