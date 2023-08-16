@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to live until you die.</p>
+<p>Every day do something that will inch you closer to a better tomorrow.</p>
 
-<p>- Dan Millman</p>
+<p>- Unknown</p>
