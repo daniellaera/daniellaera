@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something worth remembering.</p>
+<p>Never give way to laziness.</p>
 
-<p>- Elvis Presley</p>
+<p>- Bhagavad Gita</p>
