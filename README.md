@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>We can have more than we've got because we can become more than we are.</p>
 
-<p>- Unknown</p>
+<p>- Jim Rohn</p>
