@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>Where there is no struggle, there is no strength. </p>
 
-<p>- Unknown</p>
+<p>- Oprah Winfrey</p>
