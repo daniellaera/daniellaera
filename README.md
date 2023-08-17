@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing in communication is to hear what isn't being said.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>- Peter Drucker</p>
+<p>- Unknown</p>
