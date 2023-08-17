@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
+<p>I don't walk away from things that I think are unfinished.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Arnold Schwarzenegger</p>
