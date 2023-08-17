@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is one long process of getting tired.</p>
+<p>You are today where your thoughts have brought you.</p>
 
-<p>- Samuel Butler</p>
+<p>- James Allen</p>
