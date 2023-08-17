@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even the finest sword plunged into salt water will eventually rust.</p>
+<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
 
-<p>- Sun Tzu</p>
+<p>- Vincent van Gogh</p>
