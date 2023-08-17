@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>- Steve Harvey</p>
+<p>- Roy T. Bennett</p>
