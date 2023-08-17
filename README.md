@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't walk away from things that I think are unfinished.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Unknown</p>
