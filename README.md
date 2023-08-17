@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Eleanor Roosevelt</p>
