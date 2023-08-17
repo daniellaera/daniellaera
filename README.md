@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little progress each day adds up to big results.</p>
+<p>Life is one long process of getting tired.</p>
 
-<p>- Unknown</p>
+<p>- Samuel Butler</p>
