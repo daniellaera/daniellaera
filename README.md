@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one returns from a long journey the same person they were before.</p>
+<p>Loss is nothing else but change and change is nature's delight.</p>
 
-<p>- Zen Proverb</p>
+<p>- Marcus Aurelius</p>
