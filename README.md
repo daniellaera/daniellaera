@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</p>
+<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
 
-<p>- Robert Greene</p>
+<p>- Rumi</p>
