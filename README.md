@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no shortcuts to any place worth going.</p>
+<p>What the mind can conceive, it can achieve.</p>
 
-<p>- Beverly Sills</p>
+<p>- Napoleon Hill</p>
