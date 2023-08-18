@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
+<p>No one returns from a long journey the same person they were before.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Zen Proverb</p>
