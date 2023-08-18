@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True knowledge exists in knowing that you know nothing.</p>
+<p>In nature there is no alienation. Everything belongs.</p>
 
-<p>- Socrates</p>
+<p>- Ming-Dao Deng</p>
