@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
 
-<p>- Og Mandino</p>
+<p>- Unknown</p>
