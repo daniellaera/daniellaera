@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive, it can achieve.</p>
+<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Roy T. Bennett</p>
