@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The least deviation from truth will be multiplied later.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>- Aristotle</p>
+<p>- Bruce Lee</p>
