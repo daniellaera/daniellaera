@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is the life of purpose.</p>
+<p>First learn the meaning of what you say, and then speak.</p>
 
-<p>- Robin Sharma</p>
+<p>- Epictetus</p>
