@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First learn the meaning of what you say, and then speak.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>- Epictetus</p>
+<p>- Bruce Lee</p>
