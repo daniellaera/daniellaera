@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Mark Twain</p>
