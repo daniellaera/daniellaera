@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like underwear, should be changed twice a day.  </p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Bob Dylan</p>
