@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to not feel hopeless is to get up and do something.</p>
+<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
 
-<p>- Barack Obama</p>
+<p>- Spencer Johnson</p>
