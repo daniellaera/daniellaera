@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Bruce Lee</p>
