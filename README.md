@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams have only one owner at a time. That's why dreamers are lonely.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- William Faulkner</p>
+<p>- Barack Obama</p>
