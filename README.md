@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>Dreams have only one owner at a time. That's why dreamers are lonely.</p>
 
-<p>- Seneca</p>
+<p>- William Faulkner</p>
