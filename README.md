@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real loss is only possible when you love something more than you love yourself.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>- Robin Williams</p>
+<p>- Brian Tracy</p>
