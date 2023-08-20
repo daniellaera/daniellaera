@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Short cuts make long delays.</p>
+<p>If I can pay the bills, I'm happy.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Morgan Wootten</p>
