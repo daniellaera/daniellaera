@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People tend to complicate their own lives, as if living weren't already complicated enough.</p>
+<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Gary Keller</p>
