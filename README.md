@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
+<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
 
-<p>- Elvis Presley</p>
+<p>- John Wooden</p>
