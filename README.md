@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
+<p>Failure is acceptable. Not trying is a whole different ball park.</p>
 
-<p>- Tony Robbins</p>
+<p>- Michael Jordan</p>
