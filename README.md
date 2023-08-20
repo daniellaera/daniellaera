@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your setback is just a setup for a comeback.</p>
+<p>Little by little, one travels far.</p>
 
-<p>- Steve Harvey</p>
+<p>- J.R.R. Tolkien</p>
