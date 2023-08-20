@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>People tend to complicate their own lives, as if living weren't already complicated enough.</p>
 
-<p>- Bob Dylan</p>
+<p>- Carlos Ruiz Zafon</p>
