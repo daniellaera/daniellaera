@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only the one reality, neither to be realized nor attained.</p>
+<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
 
-<p>- Huang Po</p>
+<p>- Elvis Presley</p>
