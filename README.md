@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Paulo Coelho</p>
