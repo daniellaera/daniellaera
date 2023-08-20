@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Billie Jean King</p>
