@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Honore de Balzac</p>
