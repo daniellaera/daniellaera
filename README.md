@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no ordinary moments.</p>
+<p>Troubles are often the tools by which God fashions us for better things.</p>
 
-<p>- Dan Millman</p>
+<p>- Henry Ward Beecher</p>
