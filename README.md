@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men do not attract which they want but that which they are.</p>
+<p>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</p>
 
-<p>- James Allen</p>
+<p>- Robin Williams</p>
