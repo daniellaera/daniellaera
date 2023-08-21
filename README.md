@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
+<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
 
-<p>- Henry Ford</p>
+<p>- Audrey Hepburn</p>
