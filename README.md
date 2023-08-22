@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
+<p>A tiny change today brings a dramatically different tomorrow.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Richard Bach</p>
