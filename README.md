@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>Failure is acceptable. Not trying is a whole different ball park.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Michael Jordan</p>
