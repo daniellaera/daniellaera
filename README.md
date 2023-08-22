@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life reflects your own thoughts back to you.</p>
+<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Og Mandino</p>
