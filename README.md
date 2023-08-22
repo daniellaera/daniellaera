@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Samuel Beckett</p>
