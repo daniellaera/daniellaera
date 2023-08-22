@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The finish line is just the beginning of a whole new race.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Unknown</p>
+<p>- Carlos Ruiz Zafon</p>
