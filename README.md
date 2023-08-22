@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the fish is caught we pay no more attention to the trap.</p>
+<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
 
-<p>- Huang Po</p>
+<p>- Zen Proverb</p>
