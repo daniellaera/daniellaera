@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do all things with love.</p>
+<p>Success is a consequence and must not be a goal.</p>
 
-<p>- Og Mandino</p>
+<p>- Gustave Flaubert</p>
