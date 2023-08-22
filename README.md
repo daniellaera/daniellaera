@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the expression of one's values.</p>
+<p>Do all things with love.</p>
 
-<p>- Ayn Rand</p>
+<p>- Og Mandino</p>
