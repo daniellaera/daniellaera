@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Sathya Sai Baba</p>
