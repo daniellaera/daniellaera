@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>- Bruce Lee</p>
+<p>- Carlos Ruiz Zafon</p>
