@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Unknown</p>
