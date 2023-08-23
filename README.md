@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Huang Po</p>
+<p>- Stephen Hawking</p>
