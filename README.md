@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
+<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
 
-<p>- James Allen</p>
+<p>- Oscar Wilde</p>
