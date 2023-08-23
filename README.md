@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>To know your Enemy, you must become your Enemy.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Sun Tzu</p>
