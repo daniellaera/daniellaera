@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>- St. Jerome</p>
+<p>- Aristophanes</p>
