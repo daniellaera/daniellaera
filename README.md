@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For all evils there are two remedies - time and silence.</p>
+<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Norman Vincent Peale</p>
