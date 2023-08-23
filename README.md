@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The impossible can always be broken down into possibilities.</p>
+<p>For all evils there are two remedies - time and silence.</p>
 
-<p>- Unknown</p>
+<p>- Alexandre Dumas</p>
