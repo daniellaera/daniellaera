@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>- Bob Marley</p>
+<p>- Bruce Lee</p>
