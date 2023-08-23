@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who learn more skills and combine them in creative ways.</p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>- Robert Greene</p>
+<p>- Gustave Flaubert</p>
