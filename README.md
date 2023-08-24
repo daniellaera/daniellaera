@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We've got to live, no matter how many skies have fallen.</p>
+<p>There are no limitations to the mind except those we acknowledge...</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Napoleon Hill</p>
