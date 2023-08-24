@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Honore de Balzac</p>
