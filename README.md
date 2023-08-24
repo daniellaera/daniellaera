@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is born deaf and dumb.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>- Honore de Balzac</p>
+<p>- James Cameron</p>
