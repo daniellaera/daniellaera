@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>Tis not too late to seek a newer world.</p>
 
-<p>- Jim Rohn</p>
+<p>- Heraclitus</p>
