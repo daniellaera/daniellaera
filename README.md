@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>- Socrates</p>
+<p>- Brian Tracy</p>
