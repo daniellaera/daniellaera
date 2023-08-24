@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>- Martin Luther</p>
+<p>- Jack London</p>
