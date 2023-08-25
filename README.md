@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every failure brings with it the seed of an equivalent success.</p>
+<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Tony Robbins</p>
