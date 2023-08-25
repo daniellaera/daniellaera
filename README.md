@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>Live, travel, adventure, bless, and don't be sorry.  </p>
 
-<p>- Michael Jordan</p>
+<p>- Jack Kerouac</p>
