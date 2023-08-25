@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
+<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Robert Frost</p>
