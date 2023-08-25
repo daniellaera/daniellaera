@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Celestine Chua</p>
+<p>- Gary Keller</p>
