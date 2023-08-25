@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
+<p>Whatever happens always happens on time.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Zen Proverb</p>
