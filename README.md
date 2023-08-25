@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep others in suspense, cultivate an air of unpredictability.</p>
+<p>To lead the people, walk behind them.</p>
 
-<p>- Robert Greene</p>
+<p>- Lao Tzu</p>
