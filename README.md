@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
+<p>Keep others in suspense, cultivate an air of unpredictability.</p>
 
-<p>- Tony Robbins</p>
+<p>- Robert Greene</p>
