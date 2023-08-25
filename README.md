@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>What are we doing here, that is the question.</p>
 
-<p>- Alan Watts</p>
+<p>- Samuel Beckett</p>
