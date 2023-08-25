@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>- Isaac Newton</p>
+<p>- Lolly Daskal</p>
