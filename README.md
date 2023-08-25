@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tall oaks grow from little acorns.</p>
+<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Alan Watts</p>
