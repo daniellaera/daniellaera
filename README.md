@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
 
-<p>- Lolly Daskal</p>
+<p>- George Bernard Shaw</p>
