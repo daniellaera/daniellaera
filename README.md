@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life would be tragic if it weren't funny.</p>
+<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Naval Ravikant</p>
