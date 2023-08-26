@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>- Peter Drucker</p>
+<p>- J.R.R. Tolkien</p>
