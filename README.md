@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Alexander Pope</p>
+<p>- Denis Waitley</p>
