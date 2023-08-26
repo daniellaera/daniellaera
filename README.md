@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes a change of perspective is all it takes to see the light.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>- Dan Brown</p>
+<p>- Laurence J. Peter</p>
