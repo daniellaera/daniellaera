@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is sometimes the best answer.</p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>- Dalai Lama</p>
+<p>- Charles Dickens</p>
