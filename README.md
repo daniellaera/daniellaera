@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I love myself I love you. If I love you I love myself.</p>
+<p>Correct what you can. Learn from what you can't.</p>
 
-<p>- Rumi</p>
+<p>- Toni Morrison</p>
