@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>- Woody Allen</p>
+<p>- Maxime Lagace</p>
