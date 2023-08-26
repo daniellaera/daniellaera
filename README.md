@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing brings down walls as surely as acceptance.</p>
+<p>Being in a good frame of mind helps keep one in the picture of health.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Unknown</p>
