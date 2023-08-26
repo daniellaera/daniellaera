@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>Wealth is the product of man's capacity to think.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Ayn Rand</p>
