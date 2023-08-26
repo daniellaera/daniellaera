@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being in a good frame of mind helps keep one in the picture of health.</p>
+<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
 
-<p>- Unknown</p>
+<p>- Peter Drucker</p>
