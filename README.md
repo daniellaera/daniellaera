@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Music is like creating an emotional painting. The sounds are the colors.</p>
+<p>To be angry is to revenge the faults of others on ourselves.</p>
 
-<p>- Yanni</p>
+<p>- Alexander Pope</p>
