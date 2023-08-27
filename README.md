@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing that results in human progress is achieved with unanimous consent.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Morihei Ueshiba</p>
