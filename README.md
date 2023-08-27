@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words without actions are the assassins of idealism.</p>
+<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Naval Ravikant</p>
