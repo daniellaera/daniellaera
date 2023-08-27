@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Dogen</p>
+<p>- Herbert Hoover</p>
