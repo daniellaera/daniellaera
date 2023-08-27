@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
+<p>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</p>
 
-<p>- James Allen</p>
+<p>- Lily Tomlin</p>
