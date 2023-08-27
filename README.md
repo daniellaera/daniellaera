@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
+<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Brian Tracy</p>
