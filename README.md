@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make improvements, not excuses. Seek respect, not attention.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- George Bernard Shaw</p>
