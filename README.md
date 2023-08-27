@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>Difficulties strengthen the mind, as labor does the body.  </p>
 
-<p>- Laurence J. Peter</p>
+<p>- Seneca</p>
