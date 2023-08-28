@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>Reading should be a pleasure, not a chore.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Joan Rivers</p>
