@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Argue for your limitations and sure enough, they're yours.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Richard Bach</p>
+<p>- Alexander Pope</p>
