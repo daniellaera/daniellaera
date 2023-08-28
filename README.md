@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>It is the power of the mind to be unconquerable.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Seneca</p>
