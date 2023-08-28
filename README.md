@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Richard Bach</p>
