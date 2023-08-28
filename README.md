@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day wasted on others is not wasted on one's self.</p>
+<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
 
-<p>- Charles Dickens</p>
+<p>- Roy T. Bennett</p>
