@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
+<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
 
-<p>- Unknown</p>
+<p>- Elbert Hubbard</p>
