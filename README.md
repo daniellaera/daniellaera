@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>Hope means hoping when everything seems hopeless.</p>
 
-<p>- Alexander Pope</p>
+<p>- Gilbert Chesterton</p>
