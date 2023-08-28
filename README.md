@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An intelligent person hires people who are more intelligent than he is.</p>
+<p>I wasn't brave, I just didn't have time to be scared.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Amelia Earhart</p>
