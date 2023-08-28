@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reading should be a pleasure, not a chore.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Joan Rivers</p>
+<p>- Ralph Waldo Emerson</p>
