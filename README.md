@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>Man suffers only because he takes seriously what the gods made for fun.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Alan Watts</p>
