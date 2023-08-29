@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You get in life what you have the courage to ask for.</p>
+<p>So long as we are being remembered, we remain alive.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Carlos Ruiz Zafon</p>
