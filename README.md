@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who cannot control his words shows that he cannot control himself.</p>
+<p>Your mind is infinite, it's your doubts that are limiting.</p>
 
-<p>- Robert Greene</p>
+<p>- Robert Kiyosaki</p>
