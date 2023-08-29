@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>So long as we are being remembered, we remain alive.</p>
+<p>The person who cannot control his words shows that he cannot control himself.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Robert Greene</p>
