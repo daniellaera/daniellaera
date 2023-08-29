@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man suffers only because he takes seriously what the gods made for fun.</p>
+<p>Success is nothing more than a few simple disciplines practiced every day.</p>
 
-<p>- Alan Watts</p>
+<p>- Jim Rohn</p>
