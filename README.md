@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
-<p>- Rumi</p>
+<p>- Les Brown</p>
