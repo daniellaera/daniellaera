@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In three words I can sum up everything I've learned about life: it goes on.</p>
+<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
 
-<p>- Robert Frost</p>
+<p>- Coco Chanel</p>
