@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You make your own luck if you stay at it long enough.</p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Aristophanes</p>
