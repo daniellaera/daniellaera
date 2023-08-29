@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the better you get. Unless you're a banana.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>- Betty White</p>
+<p>- Dr. Seuss</p>
