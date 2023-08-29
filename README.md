@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend time beating on a wall, hoping to transform it into a door.</p>
+<p>Realize deeply that the present moment is all you ever have. </p>
 
-<p>- Coco Chanel</p>
+<p>- Eckhart Tolle</p>
