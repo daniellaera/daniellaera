@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
+<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
 
-<p>- Alexander Pope</p>
+<p>- Winston Churchill</p>
