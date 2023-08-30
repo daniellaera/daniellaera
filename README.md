@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
+<p>Good luck is opportunity meeting preparedness.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Deepak Chopra</p>
