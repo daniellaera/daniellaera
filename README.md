@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All religions, arts and sciences are branches of the same tree. </p>
+<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
 
-<p>- Albert Einstein</p>
+<p>- Lolly Daskal</p>
