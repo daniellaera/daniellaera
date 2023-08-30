@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Albert Einstein</p>
