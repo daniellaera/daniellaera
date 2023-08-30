@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>- Thomas Edison</p>
+<p>- Voltaire</p>
