@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
 
-<p>- Aristotle</p>
+<p>- Charles Dickens</p>
