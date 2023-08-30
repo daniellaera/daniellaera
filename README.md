@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Carl Jung</p>
