@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
+<p>Don't look back - you're not going that way.</p>
 
-<p>- Charles Dickens</p>
+<p>- Mary Engelbreit</p>
