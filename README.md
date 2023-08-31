@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Richard Bach</p>
