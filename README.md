@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus is a matter of deciding what things you're not going to do.</p>
+<p>Your heart is full of fertile seeds, waiting to sprout.</p>
 
-<p>- John Carmack</p>
+<p>- Morihei Ueshiba</p>
