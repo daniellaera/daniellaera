@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Remember, hope is a good thing, maybe the best of things.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Stephen King</p>
