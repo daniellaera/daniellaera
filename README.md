@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are free, and that is why you are lost. </p>
+<p>Information changes your mind. Action changes your circumstances.</p>
 
-<p>- Franz Kafka</p>
+<p>- Jack Butcher</p>
