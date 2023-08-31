@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Argue for your limitations and sure enough, they're yours.</p>
+<p>Focused, hard work is the real key to success.</p>
 
-<p>- Richard Bach</p>
+<p>- John Carmack</p>
