@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>- Brian Tracy</p>
+<p>- Kenneth Branagh</p>
