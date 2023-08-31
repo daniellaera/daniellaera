@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Charles Dickens</p>
