@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your dream has to be bigger than your fear.</p>
+<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
 
-<p>- Steve Harvey</p>
+<p>- Chinese Proverb</p>
