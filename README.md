@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Niccolo Machiavelli</p>
