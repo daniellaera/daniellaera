@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership is solving problems</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>- Colin Powell</p>
+<p>- Steve Harvey</p>
