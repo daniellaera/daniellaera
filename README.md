@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment of happiness requires a great amount of Ignorance</p>
+<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Brian Tracy</p>
