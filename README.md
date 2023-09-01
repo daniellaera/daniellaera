@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams have only one owner at a time. That's why dreamers are lonely.</p>
+<p>By seeking and blundering we learn.</p>
 
-<p>- William Faulkner</p>
+<p>- Johann Wolfgang von Goethe</p>
