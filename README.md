@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything has beauty but not everyone sees it.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>- Confucius</p>
+<p>- Honore de Balzac</p>
