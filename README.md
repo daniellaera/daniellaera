@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
 <p>- Brian Tracy</p>
