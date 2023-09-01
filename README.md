@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- William Faulkner</p>
+<p>- Charles Dickens</p>
