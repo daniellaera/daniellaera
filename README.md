@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>- Zig Ziglar</p>
+<p>- Confucius</p>
