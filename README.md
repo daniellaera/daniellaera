@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do to others what you would not like them to do to you. </p>
+<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
 
-<p>- Confucius</p>
+<p>- Stephen King</p>
