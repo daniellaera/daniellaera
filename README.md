@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
+<p>You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.</p>
 
-<p>- Unknown</p>
+<p>- Henry David Thoreau</p>
