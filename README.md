@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your wounds into wisdom. </p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Sigmund Freud</p>
