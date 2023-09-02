@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the royal road to the unconscious. </p>
+<p>To the mind that is still, the whole universe surrenders.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Lao Tzu</p>
