@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tomorrow is only found in the calendar of fools.</p>
+<p>He who fails to plan, plans to fail.</p>
 
-<p>- Og Mandino</p>
+<p>- Unknown</p>
