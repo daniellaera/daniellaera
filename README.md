@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
+<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Wayne Dyer</p>
