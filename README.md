@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who fails to plan, plans to fail.</p>
+<p>Turn your wounds into wisdom. </p>
 
-<p>- Unknown</p>
+<p>- Oprah Winfrey</p>
