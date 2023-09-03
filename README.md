@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No great discovery was ever made without a bold guess. </p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>- Isaac Newton</p>
+<p>- Niccolo Machiavelli</p>
