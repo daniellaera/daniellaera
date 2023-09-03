@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If light is in your heart, you will find your way home.  </p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>- Rumi</p>
+<p>- Charles Swindoll</p>
