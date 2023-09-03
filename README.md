@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Jonathan Swift</p>
