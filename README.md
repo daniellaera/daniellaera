@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What one does is what counts. Not what one had the intention of doing.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Unknown</p>
