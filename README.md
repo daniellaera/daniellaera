@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>The ones who are crazy enough to think they can change the world, are the ones that do.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Steve Jobs</p>
