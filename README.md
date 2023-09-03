@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm an optimist by choice not by stupidity.</p>
+<p>No man is free who is not master of himself.</p>
 
-<p>- Yanni</p>
+<p>- Epictetus</p>
