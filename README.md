@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>Choose a job you love, and you will never have to work a day in your life. </p>
 
-<p>- Woody Allen</p>
+<p>- Confucius</p>
