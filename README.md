@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
+<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
 
-<p>- Maya Angelou</p>
+<p>- Sun Tzu</p>
