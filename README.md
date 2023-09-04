@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greater the impact you want to make, the greater your influence needs to be.</p>
+<p>If a man knows not to which port he sails, no wind is favorable.  </p>
 
-<p>- Lolly Daskal</p>
+<p>- Seneca</p>
