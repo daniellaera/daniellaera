@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
+<p>The greatest of empires, is the empire over one's self.</p>
 
-<p>- James Allen</p>
+<p>- Publilius Syrus</p>
