@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
+<p>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</p>
 
-<p>- Ayn Rand</p>
+<p>- Aristophanes</p>
