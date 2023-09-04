@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A self that goes on changing is a self that goes on living.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Eckhart Tolle</p>
