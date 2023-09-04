@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realistic people do not accomplish extraordinary things.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>- John Eliot</p>
+<p>- Lolly Daskal</p>
