@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a man knows not to which port he sails, no wind is favorable.  </p>
+<p>Man is affected not by events but by the view he takes of them.  </p>
 
 <p>- Seneca</p>
