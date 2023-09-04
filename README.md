@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man is affected not by events but by the view he takes of them.  </p>
+<p>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</p>
 
-<p>- Seneca</p>
+<p>- Rumi</p>
