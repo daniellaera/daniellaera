@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
+<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Seneca</p>
