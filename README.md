@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mistake is only an error, it becomes a mistake when you fail to correct it.</p>
+<p>We create the world and ourselves;</p>
 
-<p>- John Lennon</p>
+<p>- Ming-Dao Deng</p>
