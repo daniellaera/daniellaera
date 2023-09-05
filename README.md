@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you tell the truth, you don't have to remember anything.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Mark Twain</p>
+<p>- Socrates</p>
