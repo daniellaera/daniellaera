@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Laurence J. Peter</p>
