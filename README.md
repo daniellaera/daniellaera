@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is the offspring of silence and meditation.</p>
+<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
 
-<p>- Isaac Newton</p>
+<p>- George Bernard Shaw</p>
