@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We create the world and ourselves;</p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Benjamin Franklin</p>
