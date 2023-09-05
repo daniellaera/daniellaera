@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
+<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
 
-<p>- Seneca</p>
+<p>- Mother Teresa</p>
