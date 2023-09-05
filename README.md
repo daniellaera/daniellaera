@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is richest who is content with the least, for content is the wealth of nature.</p>
+<p>A mountain never yields to the wind no matter how strong it is.</p>
 
-<p>- Socrates</p>
+<p>- Zen Proverb</p>
