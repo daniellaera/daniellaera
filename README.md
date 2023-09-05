@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mountain never yields to the wind no matter how strong it is.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>- Zen Proverb</p>
+<p>- Niccolo Machiavelli</p>
