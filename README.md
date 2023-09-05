@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
+<p>Success is never final, failure is never fatal. It's courage that counts.</p>
 
-<p>- Carl Jung</p>
+<p>- John Wooden</p>
