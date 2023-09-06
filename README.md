@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We take care of the future best by taking care of the present now.</p>
+<p>Every failure brings with it the seed of an equivalent success.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Napoleon Hill</p>
