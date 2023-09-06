@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stress happens when the mind resists what is.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>- Dan Millman</p>
+<p>- Robert Kiyosaki</p>
