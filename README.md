@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Steve Harvey</p>
