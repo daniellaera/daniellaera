@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>Wisdom is doing now what you are going to be happy with later on.</p>
 
-<p>- Alexander Pope</p>
+<p>- Joyce Meyer</p>
