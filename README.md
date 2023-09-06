@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
+<p>The way to change others' minds is with affection, and not anger.</p>
 
-<p>- Seungsahn</p>
+<p>- Dalai Lama</p>
