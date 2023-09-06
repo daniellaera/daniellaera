@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every failure brings with it the seed of an equivalent success.</p>
+<p>Stress happens when the mind resists what is.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Dan Millman</p>
