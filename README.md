@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
+<p>A man's worth is no greater than his ambitions.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Marcus Aurelius</p>
