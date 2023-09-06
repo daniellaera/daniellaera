@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
+<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
 
-<p>- Zen Proverb</p>
+<p>- Kahlil Gibran</p>
