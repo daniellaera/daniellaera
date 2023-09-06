@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>Death is not sad; the sad thing is that most people don't really live at all.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Dan Millman</p>
