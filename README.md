@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive, it can achieve.</p>
+<p>Live calmly. The time will come when the flowers bloom by themselves.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Zen Proverb</p>
