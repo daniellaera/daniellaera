@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Productize your perspective.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>- Jack Butcher</p>
+<p>- Jon Kabat-Zinn</p>
