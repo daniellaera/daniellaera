@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving is living. If you stop wanting to give, there's nothing more to live for.</p>
+<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Thomas Jefferson</p>
