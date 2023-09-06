@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
+<p>To love means loving the unlovable.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Gilbert Chesterton</p>
