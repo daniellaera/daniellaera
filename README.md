@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With the new day comes new strength and new thoughts.</p>
+<p>An intelligent person hires people who are more intelligent than he is.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Robert Kiyosaki</p>
