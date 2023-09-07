@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>There can be no deep disappointment where there is not deep love.</p>
 
-<p>- Epictetus</p>
+<p>- Martin Luther King, Jr.</p>
