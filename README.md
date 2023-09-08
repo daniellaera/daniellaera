@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>All life is a manifestation of the spirit, the manifestation of love.</p>
 
-<p>- Henry Ford</p>
+<p>- Morihei Ueshiba</p>
