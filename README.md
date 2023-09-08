@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>Where there is no struggle, there is no strength. </p>
 
-<p>- Criss Jami</p>
+<p>- Oprah Winfrey</p>
