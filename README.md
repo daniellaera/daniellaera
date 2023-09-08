@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>Respect was invented to cover the empty place where love should be.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Leo Tolstoy</p>
