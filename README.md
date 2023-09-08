@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something worth remembering.</p>
+<p>My powers are ordinary. Only my application brings me success.</p>
 
-<p>- Elvis Presley</p>
+<p>- Isaac Newton</p>
