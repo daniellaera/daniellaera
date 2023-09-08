@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength. </p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Barack Obama</p>
