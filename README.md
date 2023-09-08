@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
+<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
 
-<p>- Walt Whitman</p>
+<p>- George Washington</p>
