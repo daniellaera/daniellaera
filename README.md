@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>Don't cry because it's over. Smile because it happened.</p>
 
-<p>- Isaac Newton</p>
+<p>- Dr. Seuss</p>
