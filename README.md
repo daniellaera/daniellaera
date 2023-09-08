@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>- Barack Obama</p>
+<p>- Robert Kiyosaki</p>
