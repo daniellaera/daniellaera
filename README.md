@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Eric Hoffer</p>
