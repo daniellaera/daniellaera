@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you pray for rain, be prepared to deal with some mud.</p>
+<p>Your mind is infinite, it's your doubts that are limiting.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Robert Kiyosaki</p>
