@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
 
-<p>- Unknown</p>
+<p>- Jack Kerouac</p>
