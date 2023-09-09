@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>Nothing has any power over me other than that which I give it through my conscious thoughts.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Tony Robbins</p>
