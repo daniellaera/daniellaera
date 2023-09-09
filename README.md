@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To every action there is always opposed an equal reaction.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>- Isaac Newton</p>
+<p>- Josh Waitzkin</p>
