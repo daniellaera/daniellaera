@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A very little key will open a very heavy door.</p>
+<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
 
-<p>- Charles Dickens</p>
+<p>- Meister Eckhart</p>
