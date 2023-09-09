@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Within every desire is the mechanics of its fulfillment.</p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Paramahansa Yogananda</p>
