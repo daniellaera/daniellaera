@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Charles Dickens</p>
