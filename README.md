@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind is infinite, it's your doubts that are limiting.</p>
+<p>Within every desire is the mechanics of its fulfillment.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Deepak Chopra</p>
