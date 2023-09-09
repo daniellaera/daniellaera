@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing has any power over me other than that which I give it through my conscious thoughts.</p>
+<p>Against the assault of laughter nothing can stand.</p>
 
-<p>- Tony Robbins</p>
+<p>- Mark Twain</p>
