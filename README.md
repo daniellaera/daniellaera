@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our choices that show what we truly are, far more than our abilities.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- John Wooden</p>
