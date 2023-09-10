@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 
-<p>- Bruce Lee</p>
+<p>- Lao Tzu</p>
