@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of change is to focus all your energy not on fighting the old, but on building the new.</p>
+<p>No one returns from a long journey the same person they were before.</p>
 
-<p>- Dan Millman</p>
+<p>- Zen Proverb</p>
