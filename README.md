@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A crisis is an opportunity riding the dangerous wind.</p>
+<p>It is our choices that show what we truly are, far more than our abilities.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Albus Dumbledore</p>
