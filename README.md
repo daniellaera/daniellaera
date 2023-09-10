@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</p>
 
-<p>- Les Brown</p>
+<p>- Kabir</p>
