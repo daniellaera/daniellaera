@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past has no power over the present moment. </p>
+<p>Constantly think about how you could be doing things better.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Elon Musk</p>
