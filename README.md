@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change yourself - you are in control.</p>
+<p>Your success and happiness lie in you.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Helen Keller</p>
