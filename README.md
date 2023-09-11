@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
+<p>There's no coming to consciousness without pain</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Carl Jung</p>
