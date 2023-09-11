@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let someone elses. opinion become your reality.</p>
+<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
 
-<p>- Les Brown</p>
+<p>- Sydney Smith</p>
