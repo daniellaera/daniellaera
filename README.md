@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no coming to consciousness without pain</p>
+<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
 
-<p>- Carl Jung</p>
+<p>- Huang Po</p>
