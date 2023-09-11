@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything you may hold firmly in your imagination can be yours.</p>
+<p>The one who boasts does so only out of a feeling of inferiority.</p>
 
-<p>- William James</p>
+<p>- Alfred Adler</p>
