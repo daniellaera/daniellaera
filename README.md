@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop comparing yourself to others and focus on your own improvement.</p>
+<p>Change yourself - you are in control.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Mahatma Gandhi</p>
