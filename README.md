@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Thomas Edison</p>
