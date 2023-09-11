@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Mary Engelbreit</p>
