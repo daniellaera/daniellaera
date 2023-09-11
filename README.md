@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>The idea of ourselves is our escape from the fact of what we really are.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Jiddu Krishnamurti</p>
