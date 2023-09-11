@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Constantly think about how you could be doing things better.</p>
+<p>Don't let someone elses. opinion become your reality.</p>
 
-<p>- Elon Musk</p>
+<p>- Les Brown</p>
