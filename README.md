@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</p>
+<p>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</p>
 
-<p>- Ralph Marston</p>
+<p>- Albus Dumbledore</p>
