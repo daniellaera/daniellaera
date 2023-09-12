@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>- St. Jerome</p>
+<p>- C. Sean McGee</p>
