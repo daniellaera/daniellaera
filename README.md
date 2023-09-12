@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where focus goes, energy flows.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Tony Robbins</p>
+<p>- Lao Tzu</p>
