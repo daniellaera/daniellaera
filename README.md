@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistake is a mistake only if you make it twice.</p>
+<p>Tension is who you think you should be. Relaxation is who you are.</p>
 
-<p>- Robin Sharma</p>
+<p>- Chinese Proverb</p>
