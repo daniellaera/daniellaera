@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tension is who you think you should be. Relaxation is who you are.</p>
+<p>Everybody needs a passion. That's what keeps life interesting.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Betty White</p>
