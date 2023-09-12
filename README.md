@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
+<p>True friendship ought never to conceal what it thinks. </p>
 
-<p>- Confucius</p>
+<p>- St. Jerome</p>
