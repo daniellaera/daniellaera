@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>You have the potential for greatness.</p>
 
-<p>- Bodhidharma</p>
+<p>- Steve Harvey</p>
