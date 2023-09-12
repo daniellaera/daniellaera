@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
+<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
 
-<p>- Dan Millman</p>
+<p>- Roy T. Bennett</p>
