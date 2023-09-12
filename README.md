@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody needs a passion. That's what keeps life interesting.</p>
+<p>I do not seek. I find.</p>
 
-<p>- Betty White</p>
+<p>- Pablo Picasso</p>
