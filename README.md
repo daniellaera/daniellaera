@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The primary point of this existence is to live, and all living things move and grow.</p>
+<p>Talk sense to a fool and he calls you foolish.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Euripides</p>
