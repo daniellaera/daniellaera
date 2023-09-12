@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>You have as much laughter as you have faith.</p>
 
-<p>- Euripides</p>
+<p>- Martin Luther</p>
