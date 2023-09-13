@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A goal is a dream with a deadline.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Stephen Hawking</p>
