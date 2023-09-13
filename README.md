@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the past steal your present.</p>
+<p>Until you change how you get things done, you'll never know what works best.</p>
 
-<p>- Cherralea Morgen</p>
+<p>- Roy T. Bennett</p>
