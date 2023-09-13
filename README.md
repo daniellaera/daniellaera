@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Heraclitus</p>
