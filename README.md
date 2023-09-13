@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Until you change how you get things done, you'll never know what works best.</p>
+<p>Whatever you believe with feeling becomes your reality. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Brian Tracy</p>
