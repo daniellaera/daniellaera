@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stress happens when the mind resists what is.</p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>- Dan Millman</p>
+<p>- James Allen</p>
