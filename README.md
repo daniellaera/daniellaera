@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Chinese Proverb</p>
