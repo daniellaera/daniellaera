@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is love and love is life.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>- Elvis Presley</p>
+<p>- Cherralea Morgen</p>
