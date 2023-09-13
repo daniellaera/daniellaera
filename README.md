@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Napoleon Hill</p>
