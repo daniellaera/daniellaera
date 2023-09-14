@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect is earned by effort not age, all things age without effort.</p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Earl Nightingale</p>
