@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let each man exercise the art he knows.</p>
+<p>Few things are more deceptive than memories.</p>
 
-<p>- Aristophanes</p>
+<p>- Carlos Ruiz Zafon</p>
