@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Les Brown</p>
