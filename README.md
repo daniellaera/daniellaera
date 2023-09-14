@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>- William Faulkner</p>
+<p>- C. Sean McGee</p>
