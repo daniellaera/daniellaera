@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The constant assertion of belief is an indication of fear.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Nelson Mandela</p>
