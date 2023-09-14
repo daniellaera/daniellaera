@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
+<p>The constant assertion of belief is an indication of fear.</p>
 
-<p>- Criss Jami</p>
+<p>- Jiddu Krishnamurti</p>
