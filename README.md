@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The few who do are the envy of the many who only watch.</p>
+<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
 
-<p>- Jim Rohn</p>
+<p>- William Faulkner</p>
