@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>Every great change is preceded by chaos.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Deepak Chopra</p>
