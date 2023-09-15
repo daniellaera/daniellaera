@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every great change is preceded by chaos.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>- Deepak Chopra</p>
+<p>- Franz Kafka</p>
