@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is often safer to be in chains than to be free. </p>
+<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
 
-<p>- Franz Kafka</p>
+<p>- Steve Harvey</p>
