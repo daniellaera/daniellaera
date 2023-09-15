@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>- Steve Harvey</p>
+<p>- Samuel Butler</p>
