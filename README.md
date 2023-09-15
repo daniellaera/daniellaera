@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
 
-<p>- Alan Watts</p>
+<p>- Barack Obama</p>
