@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Arnold Schwarzenegger</p>
