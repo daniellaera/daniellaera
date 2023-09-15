@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>Everything is created twice, first in the mind and then in reality.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Robin Sharma</p>
