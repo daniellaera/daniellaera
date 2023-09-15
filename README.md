@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
+<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
 
-<p>- Zhuangzi</p>
+<p>- W. Clement Stone</p>
