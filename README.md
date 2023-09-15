@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not allow your inner doubts to keep you from achieving what you can do.</p>
+<p>All cruelty springs from weakness.  </p>
 
-<p>- Lolly Daskal</p>
+<p>- Seneca</p>
