@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't just sit there. Do something. The answers will follow.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>- Mark Manson</p>
+<p>- Earl Nightingale</p>
