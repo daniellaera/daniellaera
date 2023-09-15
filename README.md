@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
+<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Dan Millman</p>
