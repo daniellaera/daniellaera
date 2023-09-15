@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
+<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
 
-<p>- Dan Millman</p>
+<p>- Ayn Rand</p>
