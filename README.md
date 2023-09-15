@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>- Ayn Rand</p>
+<p>- Alan Watts</p>
