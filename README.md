@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
+<p>We need a backbone, not a wishbone.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Joyce Meyer</p>
