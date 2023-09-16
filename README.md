@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't imagine it, you can't have it.</p>
+<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
 
-<p>- Toni Morrison</p>
+<p>- Paulo Coelho</p>
