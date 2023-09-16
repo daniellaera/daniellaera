@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it is not right, do not do it, if it is not true, do not say it.</p>
+<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Theodore Roosevelt</p>
