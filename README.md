@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The health of nations is more important than the wealth of nations.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- Will Rogers</p>
+<p>- Celestine Chua</p>
