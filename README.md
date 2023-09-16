@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>High thoughts must have high language.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>- Aristophanes</p>
+<p>- Steve Harvey</p>
