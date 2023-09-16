@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why fit in when you were born to stand out?</p>
+<p>A crisis is an opportunity riding the dangerous wind.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Chinese Proverb</p>
