@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in your life are those that you set yourself.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>- Celestine Chua</p>
+<p>- Gary Keller</p>
