@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about doing the right thing, not about doing everything right.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>- Gary Keller</p>
+<p>- Dr. Seuss</p>
