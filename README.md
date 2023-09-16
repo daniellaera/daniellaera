@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
+<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
 
-<p>- Tony Robbins</p>
+<p>- Eleanor Roosevelt</p>
