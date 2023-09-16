@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest weariness comes from work not done.</p>
+<p>The health of nations is more important than the wealth of nations.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Will Rogers</p>
