@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>- Anne Frank</p>
+<p>- Jonathan Swift</p>
