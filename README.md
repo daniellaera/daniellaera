@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
+<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
 
-<p>- John Locke</p>
+<p>- Laurence J. Peter</p>
