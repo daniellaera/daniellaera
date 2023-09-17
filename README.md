@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Herodotus</p>
