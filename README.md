@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love never keeps a man from pursuing his destiny.</p>
+<p>Anger exceeding limits causes fear and excessive kindness eliminates respect.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Euripides</p>
