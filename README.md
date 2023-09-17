@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
+<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Mary Engelbreit</p>
