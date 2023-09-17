@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We all give up great expectations along the way.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Arnold Schwarzenegger</p>
