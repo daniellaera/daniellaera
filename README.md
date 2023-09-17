@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The destiny of man is in his own soul. </p>
+<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
 
-<p>- Herodotus</p>
+<p>- Eckhart Tolle</p>
