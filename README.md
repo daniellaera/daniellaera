@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
+<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Shunryu Suzuki</p>
