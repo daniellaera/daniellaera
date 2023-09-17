@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Wayne Dyer</p>
