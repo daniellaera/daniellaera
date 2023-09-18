@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>Imagination is the beginning of creation.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- George Bernard Shaw</p>
