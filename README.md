@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reading should be a pleasure, not a chore.</p>
+<p>What you become is far more important than what you get.</p>
 
-<p>- Joan Rivers</p>
+<p>- Jim Rohn</p>
