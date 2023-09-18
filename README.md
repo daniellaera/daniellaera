@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Sun Tzu</p>
+<p>- John Wooden</p>
