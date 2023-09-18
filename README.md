@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do what you can, with what you have, where you are.</p>
+<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- George Bernard Shaw</p>
