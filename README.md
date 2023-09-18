@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>Do what you can, with what you have, where you are.</p>
 
-<p>- Betty White</p>
+<p>- Theodore Roosevelt</p>
