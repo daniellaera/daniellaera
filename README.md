@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I learned the value of hard work by working hard. </p>
+<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
 
-<p>- Margaret Mead</p>
+<p>- Celestine Chua</p>
