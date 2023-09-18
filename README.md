@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The river that flows in you also flows in me.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>- Kabir</p>
+<p>- Betty White</p>
