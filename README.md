@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Kabir</p>
