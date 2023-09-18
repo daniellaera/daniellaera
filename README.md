@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only encounters in history. There are no accidents.</p>
+<p>I learned the value of hard work by working hard. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Margaret Mead</p>
