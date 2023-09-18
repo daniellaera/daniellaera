@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no truth. There is only perception.</p>
+<p>Reading should be a pleasure, not a chore.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Joan Rivers</p>
