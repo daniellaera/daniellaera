@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
+<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Sun Tzu</p>
