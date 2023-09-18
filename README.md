@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- John Wooden</p>
