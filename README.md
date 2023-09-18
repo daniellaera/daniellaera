@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What worries you, masters you.</p>
+<p>It is best to begin at the beginning.</p>
 
-<p>- John Locke</p>
+<p>- Amelia Earhart</p>
