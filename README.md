@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you embark on a journey of revenge, dig two graves. </p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>- Confucius</p>
+<p>- J.R.R. Tolkien</p>
