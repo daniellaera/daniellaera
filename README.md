@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Oprah Winfrey</p>
