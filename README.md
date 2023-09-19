@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Martin Luther King, Jr.</p>
