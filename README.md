@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>Anxiety is the dizziness of freedom.</p>
 
-<p>- Criss Jami</p>
+<p>- Soren Kierkegaard</p>
