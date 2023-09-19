@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is a matter of preparation meeting opportunity.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Peter Drucker</p>
