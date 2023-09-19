@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
+<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Roy T. Bennett</p>
