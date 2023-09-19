@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
 
-<p>- Samuel Butler</p>
+<p>- Henry David Thoreau</p>
