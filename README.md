@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>Storms don't last forever.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Unknown</p>
