@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
+<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Socrates</p>
