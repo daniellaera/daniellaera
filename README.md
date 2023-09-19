@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>- James Allen</p>
+<p>- Confucius</p>
