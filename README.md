@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Storms don't last forever.</p>
+<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
 
-<p>- Unknown</p>
+<p>- D. H. Lawrence</p>
