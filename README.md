@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>- Brian Tracy</p>
+<p>- Roy T. Bennett</p>
