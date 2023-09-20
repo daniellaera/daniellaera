@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>- D. H. Lawrence</p>
+<p>- Seneca</p>
