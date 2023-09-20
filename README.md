@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a good animal, true to your instincts.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Stephen King</p>
