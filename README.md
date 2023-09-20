@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Theodore Roosevelt</p>
