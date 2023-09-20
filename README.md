@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To belittle, you have to be little.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Simon Sinek</p>
