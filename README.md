@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
 
-<p>- Seneca</p>
+<p>- Brian Tracy</p>
