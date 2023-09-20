@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Write to help yourself, publish to help others.</p>
+<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
 
-<p>- Jack Butcher</p>
+<p>- Estee Lauder</p>
