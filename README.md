@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>- Socrates</p>
+<p>- Huang Po</p>
