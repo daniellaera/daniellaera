@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
+<p>Words, once they are printed, have a life of their own.</p>
 
-<p>- Winston Churchill</p>
+<p>- Carol Burnett</p>
