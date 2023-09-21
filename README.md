@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we strive to become better than we are, everything around us becomes better, too.</p>
+<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Roy T. Bennett</p>
