@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>Seek not the good in external things;seek it in yourselves.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Epictetus</p>
