@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Christopher Reeve</p>
