@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even the finest sword plunged into salt water will eventually rust.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>- Sun Tzu</p>
+<p>- Gurbaksh Chahal</p>
