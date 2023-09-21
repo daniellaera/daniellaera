@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>Trusting our intuition often saves us from disaster. </p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Anne Wilson Schaef</p>
