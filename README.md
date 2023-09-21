@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Sun Tzu</p>
