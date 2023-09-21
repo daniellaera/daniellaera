@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is really work unless you would rather be doing something else. </p>
+<p>Make each day your masterpiece.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- John Wooden</p>
