@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>Man is affected not by events but by the view he takes of them.  </p>
 
-<p>- Christopher Reeve</p>
+<p>- Seneca</p>
