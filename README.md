@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By perseverance the snail reached the ark.</p>
+<p>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Richard Bach</p>
