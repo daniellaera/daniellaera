@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>- Alan Watts</p>
+<p>- Ming-Dao Deng</p>
