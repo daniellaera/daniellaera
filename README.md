@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
+<p>Where words fail, music speaks.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Hans Christian Andersen</p>
