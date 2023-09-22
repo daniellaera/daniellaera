@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no truth. There is only perception.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Lolly Daskal</p>
