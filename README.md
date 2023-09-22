@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Sun Tzu</p>
