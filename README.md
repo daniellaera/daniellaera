@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
+<p>There is no truth. There is only perception.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Gustave Flaubert</p>
