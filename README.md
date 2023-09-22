@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Christopher Reeve</p>
