@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life should be touched, not strangled.  </p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>- Ray Bradbury</p>
+<p>- Herodotus</p>
