@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>- Elon Musk</p>
+<p>- Honore de Balzac</p>
