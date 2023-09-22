@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Alan Watts</p>
