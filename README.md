@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
+<p>By perseverance the snail reached the ark.</p>
 
-<p>- Barack Obama</p>
+<p>- Charles Spurgeon</p>
