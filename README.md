@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Action is the foundational key to all success.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Gilbert Chesterton</p>
