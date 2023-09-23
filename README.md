@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I will not walk backward in life.</p>
+<p>Make no small plans for they have no power to stir the soul.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Niccolo Machiavelli</p>
