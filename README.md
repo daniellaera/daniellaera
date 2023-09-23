@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Unknown</p>
