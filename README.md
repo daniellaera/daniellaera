@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>The measure of who we are is what we do with what we have.</p>
 
-<p>- Joan Rivers</p>
+<p>- Vince Lombardi</p>
