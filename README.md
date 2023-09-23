@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is trying things to see if they work.</p>
+<p>The giving of love is an education in itself.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Eleanor Roosevelt</p>
