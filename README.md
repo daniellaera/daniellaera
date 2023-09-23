@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What do we live for, if it is not to make life less difficult for each other?</p>
+<p>The one who boasts does so only out of a feeling of inferiority.</p>
 
-<p>- George Eliot</p>
+<p>- Alfred Adler</p>
