@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The giving of love is an education in itself.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- George Eliot</p>
