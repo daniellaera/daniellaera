@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can not live your life just based on what everyone else thinks.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Simon Sinek</p>
