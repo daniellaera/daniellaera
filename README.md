@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people feel the rain. Others just get wet. </p>
+<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
 
-<p>- Bob Dylan</p>
+<p>- Deepak Chopra</p>
