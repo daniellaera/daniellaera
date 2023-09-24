@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Chop your own wood and it will warm you twice. </p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>- Henry Ford</p>
+<p>- John Lennon</p>
