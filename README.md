@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rest in reason; move in passion.</p>
+<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Brian Tracy</p>
