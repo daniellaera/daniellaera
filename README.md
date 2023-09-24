@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The art of being happy lies in the power of extracting happiness from common things.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Henry Ford</p>
