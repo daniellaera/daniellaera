@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
+<p>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Virginia Woolf</p>
