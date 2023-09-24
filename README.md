@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
+<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Jiddu Krishnamurti</p>
