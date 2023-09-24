@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Jim Rohn</p>
