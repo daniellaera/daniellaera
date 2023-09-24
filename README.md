@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
 
-<p>- Dan Millman</p>
+<p>- Jack London</p>
