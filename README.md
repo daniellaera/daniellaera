@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
+<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
 
-<p>- Brian Tracy</p>
+<p>- Lao Tzu</p>
