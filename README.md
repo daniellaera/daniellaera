@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Lao Tzu</p>
+<p>- Wayne Dyer</p>
