@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be like a postage stamp. Stick to it until you get there.</p>
+<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
 
-<p>- Bob Proctor</p>
+<p>- Josh Waitzkin</p>
