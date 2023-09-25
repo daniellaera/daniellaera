@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great things are not done by impulse, but by a series of small things brought together.</p>
+<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Herbert Hoover</p>
