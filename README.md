@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
+<p>I'd rather welcome change than cling to the past.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Robert Kiyosaki</p>
