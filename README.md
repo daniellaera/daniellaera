@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>- Jim Rohn</p>
+<p>- Henry Ward Beecher</p>
