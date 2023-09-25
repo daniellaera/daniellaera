@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
+<p>Leadership starts at the top.</p>
 
-<p>- Pema Chodron</p>
+<p>- Morgan Wootten</p>
