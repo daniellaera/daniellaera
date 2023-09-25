@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
+<p>I have no methods; all I do is accept people as they are.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Joan Rivers</p>
