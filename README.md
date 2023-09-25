@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Alfred Adler</p>
+<p>- Paulo Coelho</p>
