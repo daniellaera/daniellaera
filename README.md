@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Og Mandino</p>
+<p>- Ronald Reagan</p>
