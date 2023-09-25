@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in changing that we find purpose.</p>
+<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
 
-<p>- Heraclitus</p>
+<p>- Leonardo da Vinci</p>
