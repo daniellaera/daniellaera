@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>Great things are not done by impulse, but by a series of small things brought together.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Vincent van Gogh</p>
