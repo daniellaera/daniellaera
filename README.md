@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
+<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- F. Scott Fitzgerald</p>
