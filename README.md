@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Alfred Adler</p>
