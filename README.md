@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'd rather welcome change than cling to the past.</p>
+<p>It is in changing that we find purpose.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Heraclitus</p>
