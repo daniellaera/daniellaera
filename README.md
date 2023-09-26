@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you've got nothing, you've got nothing to lose.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>- Bob Dylan</p>
+<p>- Steve Harvey</p>
