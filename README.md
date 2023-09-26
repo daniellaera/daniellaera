@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
+<p>It isn't what you do, but how you do it.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- John Wooden</p>
