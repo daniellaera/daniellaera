@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Paramahansa Yogananda</p>
