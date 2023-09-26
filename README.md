@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person who does not read is no better than one cannot read.</p>
+<p>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</p>
 
-<p>- Earl Nightingale</p>
+<p>- James Allen</p>
