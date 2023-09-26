@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not enough to win a war; it is more important to organize the peace.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>- Aristotle</p>
+<p>- Lolly Daskal</p>
