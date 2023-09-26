@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can, you should, and if you're brave enough to start, you will.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>- Stephen King</p>
+<p>- Dalai Lama</p>
