@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
+<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Samuel Butler</p>
