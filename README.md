@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>- Denis Waitley</p>
+<p>- Stephen King</p>
