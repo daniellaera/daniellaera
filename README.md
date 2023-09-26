@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stay away from people who makes you feel like you are wasting their time.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Earl Nightingale</p>
