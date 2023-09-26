@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>- Steve Harvey</p>
+<p>- Walt Disney</p>
