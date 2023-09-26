@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
+<p>Stay away from people who makes you feel like you are wasting their time.</p>
 
-<p>- Alfred Adler</p>
+<p>- Paulo Coelho</p>
