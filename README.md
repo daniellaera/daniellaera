@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
+<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
 
-<p>- Samuel Butler</p>
+<p>- Alfred Adler</p>
