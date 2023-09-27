@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing in communication is to hear what isn't being said.</p>
+<p>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</p>
 
-<p>- Peter Drucker</p>
+<p>- Zig Ziglar</p>
