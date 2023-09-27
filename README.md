@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>- Mother Teresa</p>
+<p>- Lolly Daskal</p>
