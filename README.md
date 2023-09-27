@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>- George Washington</p>
+<p>- Albert Einstein</p>
