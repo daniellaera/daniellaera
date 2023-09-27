@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Yanni</p>
