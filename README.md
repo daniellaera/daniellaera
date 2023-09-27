@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>No great mind has ever existed without a touch of madness.</p>
 
-<p>- Voltaire</p>
+<p>- Aristotle</p>
