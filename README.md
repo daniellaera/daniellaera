@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
+<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
 
-<p>- James Allen</p>
+<p>- Benjamin Franklin</p>
