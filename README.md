@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings can alter their lives by altering their attitudes of mind.</p>
+<p>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</p>
 
-<p>- William James</p>
+<p>- Simon Sinek</p>
