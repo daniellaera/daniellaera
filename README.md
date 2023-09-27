@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Alexander Pope</p>
