@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Bhagavad Gita</p>
