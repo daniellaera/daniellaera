@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ability to observe without evaluating is the highest form of intelligence.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Zig Ziglar</p>
