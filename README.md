@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
+<p>The ability to observe without evaluating is the highest form of intelligence.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Jiddu Krishnamurti</p>
