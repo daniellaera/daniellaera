@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>- Zig Ziglar</p>
+<p>- Albert Einstein</p>
