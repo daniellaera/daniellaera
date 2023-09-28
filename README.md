@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Eleanor Roosevelt</p>
