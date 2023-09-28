@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A crisis is an opportunity riding the dangerous wind.</p>
+<p>Death is not an ending. It is a transformation.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Ming-Dao Deng</p>
