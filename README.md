@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like underwear, should be changed twice a day.  </p>
+<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Albus Dumbledore</p>
