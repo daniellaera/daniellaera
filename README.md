@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>If you do not conquer self, you will be conquered by self.</p>
 
-<p>- George Eliot</p>
+<p>- Napoleon Hill</p>
