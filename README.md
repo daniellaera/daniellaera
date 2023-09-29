@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>You can live a whole life time never being awake.</p>
 
-<p>- Zen Proverb</p>
+<p>- Dan Millman</p>
