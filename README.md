@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>- John Wooden</p>
+<p>- Robert F. Kennedy</p>
