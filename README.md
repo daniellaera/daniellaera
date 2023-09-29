@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may delay, but time will not.</p>
+<p>Life is like underwear, should be changed twice a day.  </p>
 
-<p>- Benjamin Franklin</p>
+<p>- Ray Bradbury</p>
