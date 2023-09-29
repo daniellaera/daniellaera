@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what happens to you while you're busy making other plans.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>- John Lennon</p>
+<p>- John Wooden</p>
