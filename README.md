@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>- Alan Watts</p>
+<p>- Gilbert Chesterton</p>
