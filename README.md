@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools resist. The wise embrace.</p>
+<p>You may delay, but time will not.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Benjamin Franklin</p>
