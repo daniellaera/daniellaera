@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Convinced myself, I seek not to convince.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- George Eliot</p>
