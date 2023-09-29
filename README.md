@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing has more strength than dire necessity.</p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>- Euripides</p>
+<p>- Zen Proverb</p>
