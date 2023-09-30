@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Gary Keller</p>
