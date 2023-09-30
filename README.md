@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about creating value.</p>
+<p>No matter what happens, always be yourself.</p>
 
-<p>- Candice Carpenter</p>
+<p>- Dale Carnegie</p>
