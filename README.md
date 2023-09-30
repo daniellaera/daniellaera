@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dance first. Think later. It's the natural order.</p>
+<p>Turn your wounds into wisdom. </p>
 
-<p>- Samuel Beckett</p>
+<p>- Oprah Winfrey</p>
