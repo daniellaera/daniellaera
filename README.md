@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
+<p>When things go wrong, don't go with them.</p>
 
-<p>- Unknown</p>
+<p>- Elvis Presley</p>
