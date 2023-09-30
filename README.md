@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
+<p>If you pray for rain, be prepared to deal with some mud.</p>
 
-<p>- John Wooden</p>
+<p>- Mary Engelbreit</p>
