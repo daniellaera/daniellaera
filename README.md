@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to offer no excuse than a bad one. </p>
+<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
 
-<p>- George Washington</p>
+<p>- Nelson Mandela</p>
