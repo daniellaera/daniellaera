@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
+<p>The ability to observe without evaluating is the highest form of intelligence.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Jiddu Krishnamurti</p>
