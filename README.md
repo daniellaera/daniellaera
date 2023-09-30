@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
+<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- John Wooden</p>
