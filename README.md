@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are today where your thoughts have brought you.</p>
+<p>Loving thoughts and actions are clearly beneficial for our physical and mental health.</p>
 
-<p>- James Allen</p>
+<p>- Dalai Lama</p>
