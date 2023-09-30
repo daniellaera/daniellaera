@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loving thoughts and actions are clearly beneficial for our physical and mental health.</p>
+<p>You can often change your circumstances by changing your attitude.</p>
 
-<p>- Dalai Lama</p>
+<p>- Eleanor Roosevelt</p>
