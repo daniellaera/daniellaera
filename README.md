@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your world is a living expression of how you are using and have used your mind.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Roy T. Bennett</p>
