@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Gabor Mate</p>
