@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>How much pain they have cost us, the evils which have never happened.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Thomas Jefferson</p>
