@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
 
-<p>- Jim Rohn</p>
+<p>- Zig Ziglar</p>
