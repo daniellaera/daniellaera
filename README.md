@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
+<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Chinese Proverb</p>
