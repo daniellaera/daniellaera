@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
+<p>Don't think money does everything or you are going to end up doing everything for money.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Voltaire</p>
