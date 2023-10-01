@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a poor teacher.</p>
+<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Yanni</p>
