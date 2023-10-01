@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
+<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Roy T. Bennett</p>
