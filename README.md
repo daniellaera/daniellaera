@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
+<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Criss Jami</p>
