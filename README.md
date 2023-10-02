@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>an action committed in anger is an action doomed to failure. </p>
 
-<p>- Ralph Marston</p>
+<p>- Genghis Khan</p>
