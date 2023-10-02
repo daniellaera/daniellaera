@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows best knows how little he knows.</p>
+<p>There is no path to Happiness. Happiness is the path.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Dan Millman</p>
