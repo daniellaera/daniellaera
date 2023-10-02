@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Alan Watts</p>
