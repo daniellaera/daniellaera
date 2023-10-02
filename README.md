@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your body. It's the only place you have to live.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>- Jim Rohn</p>
+<p>- Ralph Marston</p>
