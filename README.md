@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
+<p>The essence of the Way is detachment.</p>
 
-<p>- Mark Manson</p>
+<p>- Bodhidharma</p>
