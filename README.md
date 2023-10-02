@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>- Criss Jami</p>
+<p>- Wayne Dyer</p>
