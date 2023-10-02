@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>- Colin Powell</p>
+<p>- Mark Manson</p>
