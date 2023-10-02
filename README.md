@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honor is the foundation of courage.</p>
+<p>Take care of your body. It's the only place you have to live.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Jim Rohn</p>
