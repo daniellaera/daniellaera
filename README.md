@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most courageous act is still to think for yourself. Aloud.</p>
+<p>Lying can never save us from another lie.</p>
 
-<p>- Coco Chanel</p>
+<p>- Vaclav Havel</p>
