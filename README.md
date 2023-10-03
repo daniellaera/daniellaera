@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only people without problems are those in cemeteries.</p>
+<p>It's not whether you get knocked down, its whether you get back up.</p>
 
-<p>- Tony Robbins</p>
+<p>- Vince Lombardi</p>
