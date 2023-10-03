@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
+<p>Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- John D. Rockefeller</p>
