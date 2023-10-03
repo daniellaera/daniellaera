@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A life without a cause is a life without effect.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Dale Carnegie</p>
