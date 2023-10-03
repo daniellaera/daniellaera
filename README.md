@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pursuit of mastery bears gifts. </p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Gary Keller</p>
+<p>- Mark Twain</p>
