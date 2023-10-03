@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Watch what you say, and whatever you say, practice it.</p>
+<p>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Sydney Smith</p>
