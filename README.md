@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- Mark Twain</p>
+<p>- Roy T. Bennett</p>
