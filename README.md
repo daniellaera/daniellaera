@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>an action committed in anger is an action doomed to failure. </p>
+<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
 
-<p>- Genghis Khan</p>
+<p>- Estee Lauder</p>
