@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True prayer has no set form.</p>
+<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Napoleon Hill</p>
