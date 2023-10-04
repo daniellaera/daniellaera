@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be prepared is half the victory. </p>
+<p>The art of being wise is knowing what to overlook.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- William James</p>
