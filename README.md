@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real loss is only possible when you love something more than you love yourself.</p>
+<p>Failure is the highway to success.</p>
 
-<p>- Robin Williams</p>
+<p>- Og Mandino</p>
