@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who removes a mountain begins by carrying away small stones.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>- William Faulkner</p>
+<p>- Zig Ziglar</p>
