@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To travel is to be alive, but to get somewhere is to be dead.</p>
+<p>Real loss is only possible when you love something more than you love yourself.</p>
 
-<p>- Alan Watts</p>
+<p>- Robin Williams</p>
