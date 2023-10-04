@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>To travel is to be alive, but to get somewhere is to be dead.</p>
 
-<p>- Tony Robbins</p>
+<p>- Alan Watts</p>
