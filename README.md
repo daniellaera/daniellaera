@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
+<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
 
-<p>- Charles Dickens</p>
+<p>- George Bernard Shaw</p>
