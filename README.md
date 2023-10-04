@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the highway to success.</p>
+<p>Friends ask you questions; enemies question you.</p>
 
-<p>- Og Mandino</p>
+<p>- Criss Jami</p>
