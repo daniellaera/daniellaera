@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>- Unknown</p>
+<p>- Zig Ziglar</p>
