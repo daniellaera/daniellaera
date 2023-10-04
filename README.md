@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
+<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
 
-<p>- Celestine Chua</p>
+<p>- Winston Churchill</p>
