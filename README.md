@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to have, and not need, than to need, and not have.</p>
+<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
 
-<p>- Franz Kafka</p>
+<p>- D. H. Lawrence</p>
