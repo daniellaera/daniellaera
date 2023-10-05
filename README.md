@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy is a commodity, execution is an art.</p>
+<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
 
-<p>- Peter Drucker</p>
+<p>- Norman Vincent Peale</p>
