@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>- Mother Teresa</p>
+<p>- Elon Musk</p>
