@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
 
-<p>- Naval Ravikant</p>
+<p>- Nikola Tesla</p>
