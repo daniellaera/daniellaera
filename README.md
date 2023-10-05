@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the highway to success.</p>
+<p>Life is one long process of getting tired.</p>
 
-<p>- Og Mandino</p>
+<p>- Samuel Butler</p>
