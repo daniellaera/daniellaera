@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</p>
+<p>Failure is the highway to success.</p>
 
-<p>- Henry Ford</p>
+<p>- Og Mandino</p>
