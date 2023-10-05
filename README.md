@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is born deaf and dumb.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Steve Jobs</p>
