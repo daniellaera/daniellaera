@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is possible. The impossible just takes longer.</p>
+<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
 
-<p>- Dan Brown</p>
+<p>- Sigmund Freud</p>
