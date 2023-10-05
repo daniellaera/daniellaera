@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>I cannot make my days longer so I strive to make them better.</p>
 
-<p>- Criss Jami</p>
+<p>- Henry David Thoreau</p>
