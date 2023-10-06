@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>Nothing ever goes away until it has taught us what we need to know.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Pema Chodron</p>
