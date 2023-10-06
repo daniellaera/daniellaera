@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Lolly Daskal</p>
