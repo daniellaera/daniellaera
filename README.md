@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.</p>
+<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
 
-<p>- William Faulkner</p>
+<p>- Mahatma Gandhi</p>
