@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Someday death will take us to another star.</p>
+<p>Leadership is solving problems</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Colin Powell</p>
