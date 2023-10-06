@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</p>
+<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
 
-<p>- Henry Ford</p>
+<p>- Albert Einstein</p>
