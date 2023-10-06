@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>Once a decision was made, I didn't worry about it afterward.</p>
 
-<p>- Colin Powell</p>
+<p>- Harry S. Truman</p>
