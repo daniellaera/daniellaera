@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Niccolo Machiavelli</p>
