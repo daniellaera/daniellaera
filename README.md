@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once a decision was made, I didn't worry about it afterward.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Eleanor Roosevelt</p>
