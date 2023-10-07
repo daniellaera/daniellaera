@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>When you are tempted to give up, your breakthrough is probably just around the corner.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Joyce Meyer</p>
