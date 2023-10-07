@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Belief creates the actual fact.</p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>- William James</p>
+<p>- Lolly Daskal</p>
