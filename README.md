@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never dwell on what happened. You can't change it. Move forward.</p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
-<p>- Joan Rivers</p>
+<p>- Zen Proverb</p>
