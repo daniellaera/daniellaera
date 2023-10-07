@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>Life is one long process of getting tired.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Samuel Butler</p>
