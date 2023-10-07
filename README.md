@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>- Carl Jung</p>
+<p>- Stephen Hawking</p>
