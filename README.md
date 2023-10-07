@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop comparing yourself to others and focus on your own improvement.</p>
+<p>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Elon Musk</p>
