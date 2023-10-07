@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is one long process of getting tired.</p>
+<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
 
-<p>- Samuel Butler</p>
+<p>- Richard Bach</p>
