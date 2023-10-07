@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focused, hard work is the real key to success.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- John Carmack</p>
+<p>- Celestine Chua</p>
