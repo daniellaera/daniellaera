@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
+<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
 
-<p>- Dogen</p>
+<p>- Dale Carnegie</p>
