@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>They say love is the best investment; the more you give, the more you get in return.</p>
+<p>To be truly ignorant, be content with your own knowledge.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Zhuangzi</p>
