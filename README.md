@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be willing to be a beginner every single morning.</p>
+<p>Every saint has a past, and every sinner has a future.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Oscar Wilde</p>
