@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of who we are is what we do with what we have.</p>
+<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Amelia Earhart</p>
