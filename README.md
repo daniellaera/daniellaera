@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Unknown</p>
