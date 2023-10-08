@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.</p>
+<p>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</p>
 
-<p>- Alan Watts</p>
+<p>- Elon Musk</p>
