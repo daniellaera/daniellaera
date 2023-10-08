@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</p>
+<p>Talk sense to a fool and he calls you foolish.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Euripides</p>
