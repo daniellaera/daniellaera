@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time flies whether you are having fun or not.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Meister Eckhart</p>
