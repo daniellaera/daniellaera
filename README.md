@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
+<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Honore de Balzac</p>
