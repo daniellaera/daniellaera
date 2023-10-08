@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every saint has a past, and every sinner has a future.</p>
+<p>Some people dream of success, while others wake up and work hard at it.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Napoleon Hill</p>
