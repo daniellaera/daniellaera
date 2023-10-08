@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>Some people feel the rain. Others just get wet. </p>
 
-<p>- Napoleon Hill</p>
+<p>- Bob Dylan</p>
