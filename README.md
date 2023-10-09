@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
+<p>All you need is the plan, the road map, and the courage to press on to your destination.</p>
 
-<p>- A.A. Milne</p>
+<p>- Earl Nightingale</p>
