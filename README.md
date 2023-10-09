@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>- Dan Brown</p>
+<p>- Gilbert Chesterton</p>
