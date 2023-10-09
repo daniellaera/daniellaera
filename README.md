@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may think I'm small, but I have a universe inside my mind.</p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>- Yoko Ono</p>
+<p>- John Wooden</p>
