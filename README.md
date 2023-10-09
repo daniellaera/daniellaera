@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>You can't tell big dreams to small minded people.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Steve Harvey</p>
