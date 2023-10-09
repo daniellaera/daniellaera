@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Thomas Jefferson</p>
