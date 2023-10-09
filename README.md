@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot teach a crab to walk straight.</p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>- Aristophanes</p>
+<p>- Yoko Ono</p>
