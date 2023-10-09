@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is more important than knowledge.</p>
+<p>There are no ordinary moments.</p>
 
-<p>- Albert Einstein</p>
+<p>- Dan Millman</p>
