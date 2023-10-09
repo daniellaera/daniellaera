@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't tell big dreams to small minded people.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>- Steve Harvey</p>
+<p>- Brian Tracy</p>
