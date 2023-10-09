@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rest and be kind, you don't have to prove anything.</p>
+<p>Comedy = tragedy + time.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Carol Burnett</p>
