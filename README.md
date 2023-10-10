@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>We are all born ignorant, but one must work hard to remain stupid.</p>
 
-<p>- Samuel Butler</p>
+<p>- Benjamin Franklin</p>
