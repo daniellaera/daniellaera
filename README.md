@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
+<p>The only normal people are the ones you don't know very well.</p>
 
-<p>- Mark Twain</p>
+<p>- Alfred Adler</p>
