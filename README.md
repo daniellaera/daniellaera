@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>There's more to life than being a passenger.</p>
 
-<p>- John Wooden</p>
+<p>- Amelia Earhart</p>
