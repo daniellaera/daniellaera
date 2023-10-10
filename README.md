@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only normal people are the ones you don't know very well.</p>
+<p>Only the educated are free.</p>
 
-<p>- Alfred Adler</p>
+<p>- Epictetus</p>
