@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>- Dogen</p>
+<p>- Zig Ziglar</p>
