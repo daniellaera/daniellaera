@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are as many opinions as there are experts.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- John Wooden</p>
