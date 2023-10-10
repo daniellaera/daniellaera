@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no ordinary moments.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>- Dan Millman</p>
+<p>- Confucius</p>
