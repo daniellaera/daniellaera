@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We build too many walls and not enough bridges.</p>
+<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
 
-<p>- Isaac Newton</p>
+<p>- Mark Twain</p>
