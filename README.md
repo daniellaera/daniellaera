@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you embark on a journey of revenge, dig two graves. </p>
+<p>We build too many walls and not enough bridges.</p>
 
-<p>- Confucius</p>
+<p>- Isaac Newton</p>
