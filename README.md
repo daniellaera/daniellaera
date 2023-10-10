@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the more you understand how your conscience works.</p>
+<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
 
-<p>- Criss Jami</p>
+<p>- Walt Disney</p>
