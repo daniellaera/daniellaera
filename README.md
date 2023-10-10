@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop being tormented by everyone else's reaction to you.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Dogen</p>
