@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You drown not by falling into a river, but by staying submerged in it.</p>
+<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Gary Keller</p>
