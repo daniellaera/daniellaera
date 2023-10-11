@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>The prettiest eyes have cried the most.</p>
 
-<p>- Bette Midler</p>
+<p>- Unknown</p>
