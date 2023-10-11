@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
+<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
 
-<p>- Elon Musk</p>
+<p>- Sathya Sai Baba</p>
