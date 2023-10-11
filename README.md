@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </p>
+<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
 
-<p>- Steve Jobs</p>
+<p>- Morihei Ueshiba</p>
