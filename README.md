@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is never easy, but always possible.</p>
+<p>If you can handle rejection, you'll learn to get everything you want.</p>
 
-<p>- Barack Obama</p>
+<p>- Tony Robbins</p>
