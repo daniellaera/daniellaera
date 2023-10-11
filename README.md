@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>Give a girl the right shoes, and she can conquer the world.</p>
 
-<p>- Tony Robbins</p>
+<p>- Bette Midler</p>
