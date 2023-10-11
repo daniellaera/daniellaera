@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The prettiest eyes have cried the most.</p>
+<p>Every day passes whether you participate or not.</p>
 
-<p>- Unknown</p>
+<p>- Ming-Dao Deng</p>
