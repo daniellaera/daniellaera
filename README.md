@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day passes whether you participate or not.</p>
+<p>It is those who concentrate on but one thing at a time who advance in this world.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Gary Keller</p>
