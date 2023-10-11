@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
+<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Alexander Pope</p>
