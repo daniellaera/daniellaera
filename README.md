@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change yourself - you are in control.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Steve Harvey</p>
