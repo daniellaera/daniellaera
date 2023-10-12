@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fishing is much more than fish.</p>
+<p>Victims recite problems, leaders provide solutions.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Robin Sharma</p>
