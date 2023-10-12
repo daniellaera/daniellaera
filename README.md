@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
+<p>We all give up great expectations along the way.</p>
 
-<p>- Robert Greene</p>
+<p>- Carlos Ruiz Zafon</p>
