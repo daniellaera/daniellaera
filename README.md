@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>- Steve Harvey</p>
+<p>- Zen Proverb</p>
