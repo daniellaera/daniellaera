@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the better you get. Unless you're a banana.</p>
+<p>If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</p>
 
-<p>- Betty White</p>
+<p>- Unknown</p>
