@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
 
-<p>- Herodotus</p>
+<p>- Colin Powell</p>
