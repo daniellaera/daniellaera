@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be calm is the highest achievement of the self.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>- Zen Proverb</p>
+<p>- Bette Midler</p>
