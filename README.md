@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't make things happen then things will happen to you.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>- Robert Collier</p>
+<p>- Betty White</p>
