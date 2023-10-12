@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not something ready made. It comes from your own actions.</p>
+<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
 
-<p>- Dalai Lama</p>
+<p>- Herodotus</p>
