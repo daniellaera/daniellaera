@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's more to life than being a passenger.</p>
+<p>Fishing is much more than fish.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Herbert Hoover</p>
