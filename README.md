@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never put off to tomorrow what you can do to-day.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Hans Christian Andersen</p>
