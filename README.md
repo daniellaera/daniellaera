@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Chinese Proverb</p>
