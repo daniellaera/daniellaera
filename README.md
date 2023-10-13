@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be of use to the world is the only way to be happy.</p>
+<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Mahatma Gandhi</p>
