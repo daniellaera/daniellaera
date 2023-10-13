@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>The chief enemy of creativity is good sense.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Pablo Picasso</p>
