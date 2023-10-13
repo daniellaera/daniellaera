@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead an orchestra, you must turn your back on the crowd.</p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>- Aristotle</p>
+<p>- Vincent van Gogh</p>
