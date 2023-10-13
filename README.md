@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>- Richard Bach</p>
+<p>- Ralph Marston</p>
