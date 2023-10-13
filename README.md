@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>The sweetest pleasure arises from difficulties overcome.</p>
 
-<p>- Ralph Marston</p>
+<p>- Publilius Syrus</p>
