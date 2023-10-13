@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sweetest pleasure arises from difficulties overcome.</p>
+<p>It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Henry Ward Beecher</p>
