@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatness lies not in being strong, but in the right use of strength.</p>
+<p>To lead an orchestra, you must turn your back on the crowd.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Aristotle</p>
