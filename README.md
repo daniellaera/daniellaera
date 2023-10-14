@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>- Steve Harvey</p>
+<p>- Brian Tracy</p>
