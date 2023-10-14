@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
 
-<p>- Henry Ford</p>
+<p>- W.P. Kinsella</p>
