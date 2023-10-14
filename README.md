@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
+<p>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Ralph Marston</p>
