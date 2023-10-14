@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man becomes rich unless he enriches others.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Helen Keller</p>
