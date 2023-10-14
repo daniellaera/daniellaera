@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to light a candle than to curse the darkness. </p>
+<p>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Ray Bradbury</p>
