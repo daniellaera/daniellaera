@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>- Kilian Jornet</p>
+<p>- Isaac Newton</p>
