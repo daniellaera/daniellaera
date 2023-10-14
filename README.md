@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success comes to those who become success conscious.</p>
+<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Vincent van Gogh</p>
