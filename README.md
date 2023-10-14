@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is ignorance that causes most mistakes.</p>
+<p>Be yourself; everyone else is already taken.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Oscar Wilde</p>
