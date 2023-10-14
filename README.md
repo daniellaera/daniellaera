@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
 
-<p>- Joan Rivers</p>
+<p>- Dr. Seuss</p>
