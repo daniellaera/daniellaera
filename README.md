@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
+<p>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Robert Kiyosaki</p>
