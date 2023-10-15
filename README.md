@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate with people who are likely to improve you.  </p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- Seneca</p>
+<p>- Lolly Daskal</p>
