@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wish it were easier, wish you were better.</p>
+<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Albus Dumbledore</p>
