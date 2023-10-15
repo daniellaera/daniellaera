@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A needle is not sharp at both ends. </p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Norman Vincent Peale</p>
