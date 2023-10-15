@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
 
-<p>- Carol Burnett</p>
+<p>- Colin Powell</p>
