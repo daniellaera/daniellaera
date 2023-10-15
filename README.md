@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Thomas Jefferson</p>
