@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
 
-<p>- Charles Dickens</p>
+<p>- Arnold Schwarzenegger</p>
