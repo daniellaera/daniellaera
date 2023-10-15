@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>- Thomas Edison</p>
+<p>- Carol Burnett</p>
