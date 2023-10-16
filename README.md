@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Begin now to be what you will be hereafter.</p>
+<p>Try all things, hold fast that which is good.</p>
 
-<p>- St. Jerome</p>
+<p>- John Locke</p>
