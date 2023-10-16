@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Criss Jami</p>
+<p>- Peter A. Cohen</p>
