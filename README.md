@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the fish is caught we pay no more attention to the trap.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>- Huang Po</p>
+<p>- Martin Luther King, Jr.</p>
