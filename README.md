@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Thomas Edison</p>
+<p>- T.S. Eliot</p>
