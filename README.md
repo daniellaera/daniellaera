@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by acceptance of the past, can you alter it.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Huang Po</p>
