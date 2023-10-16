@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
+<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Tony Robbins</p>
