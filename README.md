@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Deepak Chopra</p>
