@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try all things, hold fast that which is good.</p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>- John Locke</p>
+<p>- Billie Jean King</p>
