@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Buddha</p>
+<p>- Unknown</p>
