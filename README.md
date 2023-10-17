@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Rumi</p>
