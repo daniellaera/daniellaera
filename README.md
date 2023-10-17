@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up on your dreams, or your dreams will give up on you.</p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>- John Wooden</p>
+<p>- Yoko Ono</p>
