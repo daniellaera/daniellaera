@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Gratitude is the fairest blossom which springs from the soul.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- John Wooden</p>
