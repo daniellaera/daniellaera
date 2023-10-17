@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Yoko Ono</p>
+<p>- Robert Kiyosaki</p>
