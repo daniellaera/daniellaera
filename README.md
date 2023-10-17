@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not how much money you make, it's how much money you keep.</p>
+<p>A tiny change today brings a dramatically different tomorrow.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Richard Bach</p>
