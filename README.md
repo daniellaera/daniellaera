@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiny change today brings a dramatically different tomorrow.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>- Richard Bach</p>
+<p>- Walt Disney</p>
