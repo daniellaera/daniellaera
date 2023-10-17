@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.</p>
+<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Charles Dickens</p>
