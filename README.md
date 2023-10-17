@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>- Rumi</p>
+<p>- D. H. Lawrence</p>
