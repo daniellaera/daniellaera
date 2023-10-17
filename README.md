@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The privilege of a lifetime is to become who you truly are.</p>
+<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
 
-<p>- Carl Jung</p>
+<p>- George Bernard Shaw</p>
