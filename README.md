@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
+<p>The privilege of a lifetime is to become who you truly are.</p>
 
-<p>- Celestine Chua</p>
+<p>- Carl Jung</p>
