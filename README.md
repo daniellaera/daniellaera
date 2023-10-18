@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything worth doing is worth doing slowly.</p>
+<p>Difficult roads often lead to beautiful destinations.</p>
 
-<p>- Mae West</p>
+<p>- Unknown</p>
