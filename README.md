@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Seungsahn</p>
