@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of getting ahead is getting started.</p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>- Mark Twain</p>
+<p>- Mae West</p>
