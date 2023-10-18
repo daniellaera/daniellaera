@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-control is strength.</p>
+<p>He who hesitates is a damned fool.</p>
 
-<p>- James Allen</p>
+<p>- Mae West</p>
