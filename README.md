@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
+<p>He who can, does.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- George Bernard Shaw</p>
