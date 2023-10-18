@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to what you know instead of what you fear.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>- Richard Bach</p>
+<p>- Samuel Butler</p>
