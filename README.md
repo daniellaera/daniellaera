@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
-<p>- Dan Millman</p>
+<p>- Elvis Presley</p>
