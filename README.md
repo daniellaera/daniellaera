@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
+<p>Best be yourself, imperial, plain, and true.</p>
 
-<p>- Seungsahn</p>
+<p>- Robert Browning</p>
