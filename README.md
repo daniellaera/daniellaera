@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Confucius</p>
