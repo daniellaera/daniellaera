@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you know, the more you know you don't know.</p>
+<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
 
-<p>- Aristotle</p>
+<p>- Betty White</p>
