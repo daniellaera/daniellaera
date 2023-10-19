@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
+<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
 
-<p>- Walt Disney</p>
+<p>- Kenji Miyazawa</p>
