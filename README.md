@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.</p>
+<p>Treat every moment as your last. It is not preparation for something else.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Shunryu Suzuki</p>
