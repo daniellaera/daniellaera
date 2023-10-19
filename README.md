@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
 
-<p>- Unknown</p>
+<p>- James Allen</p>
