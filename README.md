@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is to be willing to die over and over again.</p>
+<p>Never argue with ignorance. It only leads to frustration.</p>
 
-<p>- Pema Chodron</p>
+<p>- Unknown</p>
