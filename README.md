@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True wealth is of the heart, not of the purse.</p>
+<p>To live is to be willing to die over and over again.</p>
 
-<p>- Og Mandino</p>
+<p>- Pema Chodron</p>
