@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>The great use of life is to spend it for something that will outlast it.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- William James</p>
