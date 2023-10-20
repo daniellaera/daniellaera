@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fishing is much more than fish.</p>
+<p>He who can, does.</p>
 
-<p>- Herbert Hoover</p>
+<p>- George Bernard Shaw</p>
