@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
+<p>You'll never find rainbows if you're looking down.  </p>
 
-<p>- William Faulkner</p>
+<p>- Charlie Chaplin</p>
