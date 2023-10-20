@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Changing minds is harder than finding people who already agree.</p>
+<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
 
-<p>- Jack Butcher</p>
+<p>- Denis Waitley</p>
