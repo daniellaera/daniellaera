@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>Changing minds is harder than finding people who already agree.</p>
 
-<p>- Betty White</p>
+<p>- Jack Butcher</p>
