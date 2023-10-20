@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live in the sunshine, swim the sea, drink the wild air.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Henry Ward Beecher</p>
