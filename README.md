@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
+<p>Remember, hope is a good thing, maybe the best of things.</p>
 
-<p>- Genghis Khan</p>
+<p>- Stephen King</p>
