@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>The season of failure is the best time for sowing the seeds of success. </p>
 
-<p>- Denis Waitley</p>
+<p>- Paramahansa Yogananda</p>
