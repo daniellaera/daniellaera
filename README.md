@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
+<p>A Quitter never wins - and - a Winner never quits.</p>
 
-<p>- Yanni</p>
+<p>- Napoleon Hill</p>
