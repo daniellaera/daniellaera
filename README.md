@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll never find rainbows if you're looking down.  </p>
+<p>Live in the sunshine, swim the sea, drink the wild air.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Ralph Waldo Emerson</p>
