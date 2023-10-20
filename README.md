@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Start each day with a positive thought and a grateful heart.</p>
+<p>Fishing is much more than fish.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Herbert Hoover</p>
