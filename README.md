@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Quitter never wins - and - a Winner never quits.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Gurbaksh Chahal</p>
