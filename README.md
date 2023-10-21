@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
+<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Vincent van Gogh</p>
