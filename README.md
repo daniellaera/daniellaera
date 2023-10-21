@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
+<p>The first principle of success is desire.</p>
 
-<p>- Steve Jobs</p>
+<p>- Robert Collier</p>
