@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing more frightful than ignorance in action.</p>
+<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Alexander Pope</p>
