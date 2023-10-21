@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
+<p>If it is not right, do not do it, if it is not true, do not say it.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Marcus Aurelius</p>
