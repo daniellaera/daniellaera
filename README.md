@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Memory is the scribe of the soul.</p>
+<p>Embody what you teach, and teach only what you have embodied.</p>
 
-<p>- Aristotle</p>
+<p>- Dan Millman</p>
