@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
+<p>Truth is like the sun. You can shut it out for a time, but it ain't going away.</p>
 
-<p>- Lao Tzu</p>
+<p>- Elvis Presley</p>
