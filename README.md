@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, you won't get it with violence.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>- John Lennon</p>
+<p>- Aristotle</p>
