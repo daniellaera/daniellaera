@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Steve Jobs</p>
