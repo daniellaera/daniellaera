@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never lose hope. Storms make people stronger and never last forever.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Johann Wolfgang von Goethe</p>
