@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your mind your own business.</p>
+<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
 
-<p>- Jack Butcher</p>
+<p>- Henry Ford</p>
