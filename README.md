@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To the mind that is still, the whole universe surrenders.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>- Lao Tzu</p>
+<p>- Miguel de Cervantes</p>
