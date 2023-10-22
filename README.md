@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>Learn to value yourself, which means: fight for your happiness.</p>
 
-<p>- Robert Browning</p>
+<p>- Ayn Rand</p>
