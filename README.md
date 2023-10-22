@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
+<p>Showing off is the fool's idea of glory. </p>
 
-<p>- Mark Manson</p>
+<p>- Bruce Lee</p>
