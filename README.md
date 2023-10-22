@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Showing off is the fool's idea of glory. </p>
+<p>You do not read a book for the book's sake, but for your own.</p>
 
-<p>- Bruce Lee</p>
+<p>- Earl Nightingale</p>
