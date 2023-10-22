@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>You are not only responsible for what you say, but also for what you do not say. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Martin Luther</p>
