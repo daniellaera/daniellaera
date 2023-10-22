@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
+<p>Don't stop when you're tired. Stop when you're done.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Marilyn Monroe</p>
