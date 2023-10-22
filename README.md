@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Roy T. Bennett</p>
