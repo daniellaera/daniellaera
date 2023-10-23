@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Vision is the art of seeing things invisible.</p>
+<p>While some of us act without thinking, too many of us think without acting.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Dan Millman</p>
