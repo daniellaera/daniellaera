@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>- Henry Ford</p>
+<p>- Vince Lombardi</p>
