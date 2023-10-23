@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Jonathan Swift</p>
