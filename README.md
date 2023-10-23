@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
+<p>In order to be irreplaceable one must always be different.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Coco Chanel</p>
