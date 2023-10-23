@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you stop questioning, you stop learning.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Criss Jami</p>
