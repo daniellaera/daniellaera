@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>Behind every beautiful thing, there's some kind of pain.</p>
 
-<p>- Isaac Newton</p>
+<p>- Bob Dylan</p>
