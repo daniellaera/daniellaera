@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>He who cannot be a good follower cannot be a good leader.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Aristotle</p>
