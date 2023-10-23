@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>While some of us act without thinking, too many of us think without acting.</p>
+<p>Genius is patience.</p>
 
-<p>- Dan Millman</p>
+<p>- Isaac Newton</p>
