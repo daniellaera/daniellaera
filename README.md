@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We tend to live up to our expectations.</p>
+<p>Let each man exercise the art he knows.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Aristophanes</p>
