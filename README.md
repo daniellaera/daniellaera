@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Jonathan Swift</p>
