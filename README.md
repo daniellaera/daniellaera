@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>Knowledge is a treasure, but practice is the key to it.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Lao Tzu</p>
