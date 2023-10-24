@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>Public opinion is the worst of all opinions.</p>
 
-<p>- Albert Einstein</p>
+<p>- Nicolas Chamfort</p>
