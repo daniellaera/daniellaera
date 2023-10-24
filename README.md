@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you quit once it becomes a habit.</p>
+<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
 
-<p>- Michael Jordan</p>
+<p>- Oprah Winfrey</p>
