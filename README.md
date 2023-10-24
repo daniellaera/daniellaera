@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The universe doesn't allow perfection.</p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Zen Proverb</p>
