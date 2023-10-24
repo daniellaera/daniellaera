@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take away love and our earth is a tomb.</p>
+<p>Stop being a prisoner of your past. Become the architect of your future.</p>
 
-<p>- Robert Browning</p>
+<p>- Robin Sharma</p>
