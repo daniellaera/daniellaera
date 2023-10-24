@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Thomas Jefferson</p>
