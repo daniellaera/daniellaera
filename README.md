@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
+<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
 
-<p>- Osho</p>
+<p>- Sathya Sai Baba</p>
