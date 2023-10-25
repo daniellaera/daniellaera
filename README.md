@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Peter Drucker</p>
