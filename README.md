@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have results or excuses, but not both.</p>
+<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Sigmund Freud</p>
