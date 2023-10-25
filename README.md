@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Mark Manson</p>
