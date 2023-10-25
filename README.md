@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</p>
+<p>Do what is right, not what is easy, nor what is popular.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Roy T. Bennett</p>
