@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>The only normal people are the ones you don't know very well.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Alfred Adler</p>
