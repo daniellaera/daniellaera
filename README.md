@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only normal people are the ones you don't know very well.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>- Alfred Adler</p>
+<p>- G.I. Gurdjieff</p>
