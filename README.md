@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>Freedom from desire leads to inner peace.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Lao Tzu</p>
