@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Kamal Ravikant</p>
