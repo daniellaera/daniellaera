@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
+<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
 
-<p>- Brian Tracy</p>
+<p>- Leo Tolstoy</p>
