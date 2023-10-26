@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</p>
+<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
 
-<p>- Rumi</p>
+<p>- Napoleon Hill</p>
