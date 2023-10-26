@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
+<p>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</p>
 
-<p>- Les Brown</p>
+<p>- Seneca</p>
