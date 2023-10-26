@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>Do your duty and a little more and the future will take care of itself.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Andrew Carnegie</p>
