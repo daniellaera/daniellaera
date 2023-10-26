@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
+<p>It's better to stand by someone's side than by yourself.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Jack London</p>
