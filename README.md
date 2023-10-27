@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
+<p>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Gary Keller</p>
