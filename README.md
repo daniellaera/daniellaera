@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first principle of success is desire.</p>
+<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
 
-<p>- Robert Collier</p>
+<p>- Christopher Reeve</p>
