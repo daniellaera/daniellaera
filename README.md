@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>- Charles Dickens</p>
+<p>- Woody Allen</p>
