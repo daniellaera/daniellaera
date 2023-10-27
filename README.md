@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The desire for more positive experience is itself a negative experience.</p>
+<p>The first principle of success is desire.</p>
 
-<p>- Mark Manson</p>
+<p>- Robert Collier</p>
