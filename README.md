@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is much more successfully looked at from a single window.</p>
+<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Vincent van Gogh</p>
