@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
+<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Sathya Sai Baba</p>
