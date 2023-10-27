@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
+<p>A single dream is more powerful than a thousand realities.</p>
 
-<p>- Charles Dickens</p>
+<p>- J.R.R. Tolkien</p>
