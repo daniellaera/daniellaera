@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to make God laugh, tell him about your plans. </p>
+<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
 
-<p>- Woody Allen</p>
+<p>- Thomas Jefferson</p>
