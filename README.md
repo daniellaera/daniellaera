@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
+<p>Because a thing seems difficult for you, do not think it impossible.</p>
 
-<p>- Osho</p>
+<p>- Marcus Aurelius</p>
