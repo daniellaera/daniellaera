@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A goal is a dream with a deadline.</p>
+<p>Knowledge is a treasure, but practice is the key to it.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Lao Tzu</p>
