@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Dalai Lama</p>
