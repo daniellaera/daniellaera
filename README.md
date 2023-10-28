@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</p>
+<p>Nothing endures but change.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Heraclitus</p>
