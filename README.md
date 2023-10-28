@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge is a treasure, but practice is the key to it.</p>
+<p>Failure is acceptable. Not trying is a whole different ball park.</p>
 
-<p>- Lao Tzu</p>
+<p>- Michael Jordan</p>
