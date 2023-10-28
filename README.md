@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Because a thing seems difficult for you, do not think it impossible.</p>
+<p>No man is free who is not master of himself.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Epictetus</p>
