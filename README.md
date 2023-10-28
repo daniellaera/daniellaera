@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>- Judy Garland</p>
+<p>- Thomas Jefferson</p>
