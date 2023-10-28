@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The merit of all things lies in their difficulty.</p>
+<p>All you need is the plan, the road map, and the courage to press on to your destination.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Earl Nightingale</p>
