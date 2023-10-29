@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
+<p>It's not what you've got; it's what you do that makes the difference.</p>
 
-<p>- William Faulkner</p>
+<p>- Celestine Chua</p>
