@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>- Robert Collier</p>
+<p>- Dalai Lama</p>
