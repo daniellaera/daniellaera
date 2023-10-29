@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what happens to you, but how you react to it that matters.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>- Epictetus</p>
+<p>- Sigmund Freud</p>
