@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is born deaf and dumb.</p>
+<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Carl Bard</p>
