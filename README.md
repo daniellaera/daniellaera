@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>- Charles Dickens</p>
+<p>- Bob Marley</p>
