@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
+<p>To earn more you must learn more.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Brian Tracy</p>
