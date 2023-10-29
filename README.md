@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each day your life grows a day shorter. Make every move count.</p>
+<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Alan Watts</p>
