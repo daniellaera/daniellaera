@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Carl Bard</p>
+<p>- Pablo Picasso</p>
