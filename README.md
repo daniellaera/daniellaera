@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
 
-<p>- Alan Watts</p>
+<p>- Alfred Adler</p>
