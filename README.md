@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</p>
+<p>The biggest room in the world is the room for improvement.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Unknown</p>
