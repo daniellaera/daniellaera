@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is the offspring of silence and meditation.</p>
+<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
 
-<p>- Isaac Newton</p>
+<p>- Colin Powell</p>
