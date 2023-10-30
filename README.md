@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.</p>
+<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
 
-<p>- Elon Musk</p>
+<p>- Robin Sharma</p>
