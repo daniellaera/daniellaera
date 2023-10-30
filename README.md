@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>The salvation of the world lies in the human heart.</p>
 
-<p>- Colin Powell</p>
+<p>- Vaclav Havel</p>
