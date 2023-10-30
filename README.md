@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Dan Brown</p>
