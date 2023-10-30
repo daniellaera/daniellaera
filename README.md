@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Eleanor Roosevelt</p>
