@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you can imagine is real.</p>
+<p>Rest in reason; move in passion.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Kahlil Gibran</p>
