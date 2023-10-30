@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wisest men follow their own direction.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>- Euripides</p>
+<p>- Chinese Proverb</p>
