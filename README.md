@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>Truth is the offspring of silence and meditation.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Isaac Newton</p>
