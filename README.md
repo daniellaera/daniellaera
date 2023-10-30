@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>When you've got nothing, you've got nothing to lose.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Bob Dylan</p>
