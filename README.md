@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning never exhausts the mind. </p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Paulo Coelho</p>
