@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it. </p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>- Bodhidharma</p>
+<p>- Dale Carnegie</p>
