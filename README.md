@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Through discipline comes freedom.</p>
+<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
 
-<p>- Aristotle</p>
+<p>- Samuel Beckett</p>
