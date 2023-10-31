@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is happy who does not think himself so.</p>
+<p>Don't allow your mind to tell your heart what to do. The mind gives up easily.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Paulo Coelho</p>
