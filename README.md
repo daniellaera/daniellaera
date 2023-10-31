@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Laziness may appear attractive, but work gives satisfaction.</p>
+<p>The difference between winning and losing is most often not quitting.</p>
 
-<p>- Anne Frank</p>
+<p>- Walt Disney</p>
