@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
+<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Dogen</p>
