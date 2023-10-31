@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
+<p>No man is happy who does not think himself so.</p>
 
-<p>- Robin Sharma</p>
+<p>- Norman Vincent Peale</p>
