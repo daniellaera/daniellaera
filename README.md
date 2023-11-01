@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From error to error one discovers the entire truth.</p>
+<p>The heart that gives, gathers.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Lao Tzu</p>
