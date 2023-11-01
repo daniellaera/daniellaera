@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is destiny.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>- Heraclitus</p>
+<p>- Vincent van Gogh</p>
