@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life should be touched, not strangled.  </p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Lin Yutang</p>
