@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Marilyn Monroe</p>
