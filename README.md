@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Lolly Daskal</p>
