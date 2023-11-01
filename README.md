@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>Character is destiny.</p>
 
-<p>- Sun Tzu</p>
+<p>- Heraclitus</p>
