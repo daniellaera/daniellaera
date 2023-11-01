@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothes thoughts wear.</p>
+<p>Attitude, not aptitude, determines altitude.  </p>
 
-<p>- Samuel Beckett</p>
+<p>- Zig Ziglar</p>
