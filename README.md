@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who wishes to fight must first count the cost.</p>
+<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
 
-<p>- Sun Tzu</p>
+<p>- Kahlil Gibran</p>
