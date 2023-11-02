@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I dream my painting and I paint my dream.</p>
+<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Mark Manson</p>
