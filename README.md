@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wait for the right opportunity: create it.</p>
+<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- John Tukey</p>
