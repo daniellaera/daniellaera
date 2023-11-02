@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>- George Washington</p>
+<p>- Audrey Hepburn</p>
