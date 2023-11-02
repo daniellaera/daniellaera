@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
+<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
 
-<p>- Mark Manson</p>
+<p>- Jeffrey Gitomer</p>
