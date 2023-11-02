@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
+<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Epictetus</p>
