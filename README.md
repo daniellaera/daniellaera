@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
+<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
 
-<p>- Sun Tzu</p>
+<p>- Unknown</p>
