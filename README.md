@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>- Osho</p>
+<p>- Robin Williams</p>
