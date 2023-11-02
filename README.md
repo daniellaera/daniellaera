@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To belittle, you have to be little.</p>
+<p>Success is about creating value.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Candice Carpenter</p>
