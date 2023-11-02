@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Thomas Jefferson</p>
