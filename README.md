@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot always do great things in life, but we can do small things with great love.</p>
+<p>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</p>
 
-<p>- Dan Millman</p>
+<p>- Norman Vincent Peale</p>
