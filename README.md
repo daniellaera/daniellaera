@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is just information and an opportunity to change your course.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Confucius</p>
