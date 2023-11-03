@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Og Mandino</p>
