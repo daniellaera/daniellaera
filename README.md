@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We create the world and ourselves;</p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Jim Rohn</p>
