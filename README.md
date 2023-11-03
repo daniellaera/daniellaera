@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do to others what you would not like them to do to you. </p>
+<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
 
-<p>- Confucius</p>
+<p>- Naval Ravikant</p>
