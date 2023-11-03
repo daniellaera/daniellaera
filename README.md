@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>You cannot teach a crab to walk straight.</p>
 
-<p>- Jim Rohn</p>
+<p>- Aristophanes</p>
