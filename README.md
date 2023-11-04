@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man's character is his fate.</p>
+<p>We become what we believe.</p>
 
-<p>- Heraclitus</p>
+<p>- Lolly Daskal</p>
