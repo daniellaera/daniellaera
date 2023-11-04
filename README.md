@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>- Dalai Lama</p>
+<p>- John Wooden</p>
