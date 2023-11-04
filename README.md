@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Franklin D. Roosevelt</p>
