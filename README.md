@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
+<p>Man's character is his fate.</p>
 
-<p>- Kabir</p>
+<p>- Heraclitus</p>
