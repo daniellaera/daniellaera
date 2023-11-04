@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change yourself and you have done your part in changing the world.</p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Albert Einstein</p>
