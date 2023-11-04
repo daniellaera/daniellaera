@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
 
-<p>- Leo Tolstoy</p>
+<p>- Beverly Sills</p>
