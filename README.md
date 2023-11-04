@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>- Albert Einstein</p>
+<p>- Andrew Carnegie</p>
