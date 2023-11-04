@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Beverly Sills</p>
+<p>- Ralph Waldo Emerson</p>
