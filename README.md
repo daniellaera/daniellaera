@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whether you think you can or think you can't – you are right.</p>
+<p>Change yourself and you have done your part in changing the world.</p>
 
-<p>- Henry Ford</p>
+<p>- Paramahansa Yogananda</p>
