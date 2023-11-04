@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Leo Tolstoy</p>
