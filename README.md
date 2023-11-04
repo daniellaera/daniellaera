@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>- Kabir</p>
+<p>- Nelson Mandela</p>
