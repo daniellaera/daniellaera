@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Opportunity is missed by most people because it is dressed in overalls and looks like work.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Thomas Edison</p>
