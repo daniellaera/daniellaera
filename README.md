@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>Whether you think you can or think you can't – you are right.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Henry Ford</p>
