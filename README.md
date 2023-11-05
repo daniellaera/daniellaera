@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>Those who are easily shocked should be shocked more often.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Mae West</p>
