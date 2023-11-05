@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Epictetus</p>
