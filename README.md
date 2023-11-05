@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let anyone define you. You define yourself.</p>
+<p>The sun shines upon good and bad alike.</p>
 
-<p>- Billie Jean King</p>
+<p>- Hans Christian Andersen</p>
