@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>- Celestine Chua</p>
+<p>- Yoko Ono</p>
