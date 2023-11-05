@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give. </p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Kilian Jornet</p>
