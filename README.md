@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may think I'm small, but I have a universe inside my mind.</p>
+<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
 
-<p>- Yoko Ono</p>
+<p>- Gary Keller</p>
