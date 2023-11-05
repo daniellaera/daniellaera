@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are easily shocked should be shocked more often.</p>
+<p>Don't let anyone define you. You define yourself.</p>
 
-<p>- Mae West</p>
+<p>- Billie Jean King</p>
