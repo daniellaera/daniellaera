@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>- Simon Sinek</p>
+<p>- Maxime Lagace</p>
