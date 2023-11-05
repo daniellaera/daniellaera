@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First say to yourself what you would be; and then do what you have to do.</p>
+<p>It's not the love you make. It's the love you give. </p>
 
-<p>- Epictetus</p>
+<p>- Nikola Tesla</p>
