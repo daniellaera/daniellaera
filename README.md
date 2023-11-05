@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
+<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </p>
 
-<p>- Gary Keller</p>
+<p>- Miguel de Cervantes</p>
