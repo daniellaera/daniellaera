@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing that results in human progress is achieved with unanimous consent.</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Socrates</p>
