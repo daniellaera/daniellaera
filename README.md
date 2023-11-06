@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life is to fall seven times and to get up eight times.</p>
+<p>To improve is to change, so to be perfect is to change often.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Winston Churchill</p>
