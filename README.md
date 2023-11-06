@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>The secret of life is to fall seven times and to get up eight times.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Paulo Coelho</p>
