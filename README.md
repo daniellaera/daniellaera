@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>Let each man exercise the art he knows.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Aristophanes</p>
