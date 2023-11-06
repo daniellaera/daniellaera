@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To improve is to change, so to be perfect is to change often.</p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>- Winston Churchill</p>
+<p>- Naval Ravikant</p>
