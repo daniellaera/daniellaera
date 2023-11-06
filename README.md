@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Create with the heart; build with the mind.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>- Criss Jami</p>
+<p>- Christopher McCandless</p>
