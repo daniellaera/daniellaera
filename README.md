@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
+<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
 
-<p>- Eric Hoffer</p>
+<p>- Henry Ford</p>
