@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True knowledge exists in knowing that you know nothing.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>- Socrates</p>
+<p>- Eleanor Roosevelt</p>
