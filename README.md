@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
+<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Kahlil Gibran</p>
