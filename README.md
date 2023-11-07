@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>- Mark Twain</p>
+<p>- Jonathan Swift</p>
