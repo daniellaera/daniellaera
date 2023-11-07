@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be one person in this world, but to one person you may mean the world.</p>
+<p>Success is never final, failure is never fatal. It's courage that counts.</p>
 
-<p>- Unknown</p>
+<p>- John Wooden</p>
