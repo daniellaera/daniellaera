@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final, failure is never fatal. It's courage that counts.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- John Wooden</p>
+<p>- Mark Twain</p>
