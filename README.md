@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first principle of success is desire.</p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>- Robert Collier</p>
+<p>- Pablo Picasso</p>
