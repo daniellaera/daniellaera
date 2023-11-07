@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
+<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Charles Spurgeon</p>
