@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey, not the destination matters.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>- T.S. Eliot</p>
+<p>- Franz Kafka</p>
