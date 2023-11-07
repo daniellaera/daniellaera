@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
+<p>The journey, not the destination matters.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- T.S. Eliot</p>
