@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>Life is about not knowing and then doing something anyway.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Mark Manson</p>
