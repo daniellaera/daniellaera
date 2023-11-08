@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>- Robert Frost</p>
+<p>- Hans Christian Andersen</p>
