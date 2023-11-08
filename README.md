@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
+<p>The best teacher is experience and not through someone's distorted point of view.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Jack Kerouac</p>
