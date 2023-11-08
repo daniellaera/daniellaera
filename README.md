@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Amelia Earhart</p>
