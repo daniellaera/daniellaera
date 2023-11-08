@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
+<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Earl Nightingale</p>
