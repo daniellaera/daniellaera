@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
 
-<p>- Og Mandino</p>
+<p>- Spencer Johnson</p>
