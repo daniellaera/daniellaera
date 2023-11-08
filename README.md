@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the touchstones of our characters.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Barack Obama</p>
