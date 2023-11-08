@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about not knowing and then doing something anyway.</p>
+<p>Nothing is easier than fault finding.</p>
 
-<p>- Mark Manson</p>
+<p>- Og Mandino</p>
