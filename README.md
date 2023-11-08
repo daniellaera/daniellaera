@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to not feel hopeless is to get up and do something.</p>
+<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
 
-<p>- Barack Obama</p>
+<p>- Gurbaksh Chahal</p>
