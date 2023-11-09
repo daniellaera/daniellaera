@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends on your mindset and attitude.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Carol Burnett</p>
