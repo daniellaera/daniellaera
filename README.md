@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
+<p>If I love myself I love you. If I love you I love myself.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Rumi</p>
