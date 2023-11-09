@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
+<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
 
-<p>- Zig Ziglar</p>
+<p>- Wayne Dyer</p>
