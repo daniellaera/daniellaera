@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I love myself I love you. If I love you I love myself.</p>
+<p>My sun sets to rise again.</p>
 
-<p>- Rumi</p>
+<p>- Robert Browning</p>
