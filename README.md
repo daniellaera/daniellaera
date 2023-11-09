@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any game becomes important when you know and love the players.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Herman Melville</p>
