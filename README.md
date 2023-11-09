@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
 
-<p>- Carol Burnett</p>
+<p>- Zig Ziglar</p>
