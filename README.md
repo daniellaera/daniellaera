@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Spencer Johnson</p>
