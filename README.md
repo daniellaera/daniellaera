@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead the people, walk behind them.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>- Lao Tzu</p>
+<p>- Brian Tracy</p>
