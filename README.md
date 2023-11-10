@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life and forget your age.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Dan Millman</p>
