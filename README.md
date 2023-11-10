@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even though you are on the right track - you will get run over if you just sit there.</p>
+<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
 
-<p>- Will Rogers</p>
+<p>- Celestine Chua</p>
