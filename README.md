@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
+<p>We must be free not because we claim freedom, but because we practice it.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- William Faulkner</p>
