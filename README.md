@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only person you should try to be better than is the person you were yesterday.</p>
+<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
 
-<p>- Brian Tracy</p>
+<p>- Eleanor Roosevelt</p>
