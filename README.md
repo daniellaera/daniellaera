@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
+<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
 
-<p>- Richard Bach</p>
+<p>- Virginia Woolf</p>
