@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Ralph Marston</p>
