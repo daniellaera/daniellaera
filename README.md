@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Watch what you say, and whatever you say, practice it.</p>
+<p>The finish line is just the beginning of a whole new race.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Unknown</p>
