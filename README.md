@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The finish line is just the beginning of a whole new race.</p>
+<p>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</p>
 
-<p>- Unknown</p>
+<p>- Steve Maraboli</p>
