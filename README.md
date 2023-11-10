@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
+<p>Watch what you say, and whatever you say, practice it.</p>
 
-<p>- Robin Williams</p>
+<p>- Soyen Shaku</p>
