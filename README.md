@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of who we are is what we do with what we have.</p>
+<p>Discontent is the first necessity of progress.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Thomas Edison</p>
