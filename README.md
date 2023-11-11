@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</p>
+<p>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Mark Twain</p>
