@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to love anything is to realize that it may be lost.</p>
+<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Carlos Ruiz Zafon</p>
