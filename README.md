@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
+<p>You have as much laughter as you have faith.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Martin Luther</p>
