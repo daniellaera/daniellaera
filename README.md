@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
+<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Leonardo da Vinci</p>
