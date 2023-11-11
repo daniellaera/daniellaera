@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
+<p>Don't just sit there. Do something. The answers will follow.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Mark Manson</p>
