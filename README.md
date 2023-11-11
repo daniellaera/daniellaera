@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't just sit there. Do something. The answers will follow.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>- Mark Manson</p>
+<p>- Gilbert Chesterton</p>
