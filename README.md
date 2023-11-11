@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you talk about your shame, the more of it you have.</p>
+<p>A fear of weakness only strengthens weakness.</p>
 
-<p>- Mark Manson</p>
+<p>- Criss Jami</p>
