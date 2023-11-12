@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No great discovery was ever made without a bold guess. </p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Isaac Newton</p>
+<p>- Unknown</p>
