@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no self-discovery without pain and loss.</p>
+<p>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Alexandre Dumas</p>
