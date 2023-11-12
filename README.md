@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
+<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
 
-<p>- Sigmund Freud</p>
+<p>- G.I. Gurdjieff</p>
