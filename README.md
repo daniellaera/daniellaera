@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</p>
+<p>If you can't feed a hundred people, then feed just one.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Mother Teresa</p>
