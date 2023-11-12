@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>No great discovery was ever made without a bold guess. </p>
 
-<p>- James Allen</p>
+<p>- Isaac Newton</p>
