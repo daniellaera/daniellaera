@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
+<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Carl Jung</p>
