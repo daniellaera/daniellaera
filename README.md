@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are, it's the place you need to be.</p>
+<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Shunryu Suzuki</p>
