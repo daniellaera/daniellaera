@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is the glory of expression.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>- Walt Whitman</p>
+<p>- Unknown</p>
