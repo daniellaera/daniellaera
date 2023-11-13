@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Thomas Edison</p>
