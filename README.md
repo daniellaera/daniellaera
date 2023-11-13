@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothing of our thoughts.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Lao Tzu</p>
