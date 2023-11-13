@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My definition of success is control.</p>
+<p>Wherever you are, it's the place you need to be.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Maxime Lagace</p>
