@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>You don't know who is important to you until you actually lose them.</p>
 
-<p>- Lao Tzu</p>
+<p>- Mahatma Gandhi</p>
