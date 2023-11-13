@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</p>
+<p>Words are the clothing of our thoughts.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Jonathan Swift</p>
