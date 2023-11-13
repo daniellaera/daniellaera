@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Brian Tracy</p>
+<p>- Charles Dickens</p>
