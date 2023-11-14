@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>- Charles Darwin</p>
+<p>- Beverly Sills</p>
