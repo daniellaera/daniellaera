@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.</p>
+<p>If it is not right, do not do it, if it is not true, do not say it.</p>
 
-<p>- Alfred Adler</p>
+<p>- Marcus Aurelius</p>
