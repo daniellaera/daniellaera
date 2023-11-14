@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Albert Einstein</p>
