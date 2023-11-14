@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>- Beverly Sills</p>
+<p>- Charles Dickens</p>
