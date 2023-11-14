@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't bother people for help without first trying to solve the problem yourself.</p>
+<p>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</p>
 
-<p>- Colin Powell</p>
+<p>- Robin Sharma</p>
