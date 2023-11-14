@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it is not right, do not do it, if it is not true, do not say it.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Charles Dickens</p>
