@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let making a living prevent you from making a life.</p>
+<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
 
-<p>- John Wooden</p>
+<p>- Conrad Hilton</p>
