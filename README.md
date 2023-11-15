@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He will win who knows when to fight and when not to fight.</p>
+<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
 
-<p>- Sun Tzu</p>
+<p>- Celestine Chua</p>
