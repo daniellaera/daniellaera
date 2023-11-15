@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</p>
+<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
 
-<p>- Aristotle</p>
+<p>- Gary Keller</p>
