@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man gotta right to decide his own destiny.</p>
+<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
 
-<p>- Bob Marley</p>
+<p>- Deepak Chopra</p>
