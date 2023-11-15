@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Appear weak when you are strong, and strong when you are weak.</p>
+<p>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</p>
 
-<p>- Sun Tzu</p>
+<p>- Aristotle</p>
