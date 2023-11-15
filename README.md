@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- Tony Robbins</p>
+<p>- T.S. Eliot</p>
