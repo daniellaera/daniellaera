@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not push the boundaries, you will never know where they are.</p>
+<p>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Steve Jobs</p>
