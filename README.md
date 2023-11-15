@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Denis Waitley</p>
+<p>- Mark Twain</p>
