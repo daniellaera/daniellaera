@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>He will win who knows when to fight and when not to fight.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Sun Tzu</p>
