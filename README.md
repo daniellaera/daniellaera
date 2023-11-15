@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</p>
+<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
 
-<p>- Steve Jobs</p>
+<p>- Barack Obama</p>
