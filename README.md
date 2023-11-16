@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a succession of lessons, which must be lived to be understood.</p>
+<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Jack London</p>
