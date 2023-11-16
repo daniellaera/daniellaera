@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>- Steve Harvey</p>
+<p>- Martin Luther King, Jr.</p>
