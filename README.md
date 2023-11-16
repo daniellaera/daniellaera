@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we have the less we own.</p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>- Meister Eckhart</p>
+<p>- Seneca</p>
