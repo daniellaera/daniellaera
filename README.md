@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.</p>
+<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
 
-<p>- Criss Jami</p>
+<p>- Brian Tracy</p>
