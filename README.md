@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
+<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Earl Nightingale</p>
