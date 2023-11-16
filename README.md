@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Yoko Ono</p>
