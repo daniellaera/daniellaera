@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>- Brian Tracy</p>
+<p>- Steve Harvey</p>
