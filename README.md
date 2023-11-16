@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
+<p>A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.</p>
 
-<p>- Yoko Ono</p>
+<p>- Criss Jami</p>
