@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>- Jack London</p>
+<p>- Helen Keller</p>
