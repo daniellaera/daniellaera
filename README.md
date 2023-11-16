@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
 
-<p>- Maya Angelou</p>
+<p>- Amelia Earhart</p>
