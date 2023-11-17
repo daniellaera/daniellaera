@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
+<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
 
-<p>- Criss Jami</p>
+<p>- Thomas Jefferson</p>
