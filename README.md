@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little progress each day adds up to big results.</p>
+<p>Don't talk about what you have done or what you are going to do.</p>
 
-<p>- Unknown</p>
+<p>- Thomas Jefferson</p>
