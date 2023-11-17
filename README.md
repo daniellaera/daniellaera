@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people find fault like there is a reward for it.  </p>
+<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Gustave Flaubert</p>
