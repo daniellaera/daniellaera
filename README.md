@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
 
-<p>- Henry Ford</p>
+<p>- Ming-Dao Deng</p>
