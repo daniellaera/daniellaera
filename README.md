@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>Some people find fault like there is a reward for it.  </p>
 
-<p>- Unknown</p>
+<p>- Zig Ziglar</p>
