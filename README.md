@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
+<p>Nothing ever goes away until it has taught us what we need to know.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Pema Chodron</p>
