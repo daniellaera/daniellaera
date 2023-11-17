@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
+<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
 
-<p>- Herman Melville</p>
+<p>- Rumi</p>
