@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants. There's no logic. </p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>- Woody Allen</p>
+<p>- Jim Rohn</p>
