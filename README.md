@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One never does wrong by doing right.</p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Billie Jean King</p>
