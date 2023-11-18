@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life's too mysterious to take too serious.</p>
+<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Unknown</p>
