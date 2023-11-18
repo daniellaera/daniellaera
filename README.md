@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
+<p>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Alexandre Dumas</p>
