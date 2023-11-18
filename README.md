@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
+<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
 
-<p>- Celestine Chua</p>
+<p>- Earl Nightingale</p>
