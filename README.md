@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</p>
+<p>Always forgive your enemies - nothing annoys them so much. </p>
 
-<p>- Steve Jobs</p>
+<p>- Oscar Wilde</p>
