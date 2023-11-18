@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who leaves the game wins it.</p>
+<p>Man invented language to satisfy his deep need to complain.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Lily Tomlin</p>
