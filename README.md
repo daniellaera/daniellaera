@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
 
-<p>- Unknown</p>
+<p>- St. Jerome</p>
