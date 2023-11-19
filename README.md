@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>- St. Jerome</p>
+<p>- Nelson Mandela</p>
