@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
 
-<p>- Og Mandino</p>
+<p>- Deepak Chopra</p>
