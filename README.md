@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Lao Tzu</p>
