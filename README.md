@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends upon ourselves.</p>
+<p>If you're not making mistakes, then you're not doing anything.</p>
 
-<p>- Aristotle</p>
+<p>- John Wooden</p>
