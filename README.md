@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul is neither born, and nor does it die.</p>
+<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Ayn Rand</p>
