@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>To earn more you must learn more.</p>
 
-<p>- Billie Jean King</p>
+<p>- Brian Tracy</p>
