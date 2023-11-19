@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The art of being wise is knowing what to overlook.</p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>- William James</p>
+<p>- D. H. Lawrence</p>
