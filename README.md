@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Steve Harvey</p>
