@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Big people don't make people feel small.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>- Robin Sharma</p>
+<p>- Roy T. Bennett</p>
