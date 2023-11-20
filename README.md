@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
+<p>Your success and happiness lie in you.</p>
 
-<p>- St. Jerome</p>
+<p>- Helen Keller</p>
