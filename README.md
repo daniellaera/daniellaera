@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Og Mandino</p>
+<p>- George Eliot</p>
