@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who avoid failure also avoid success.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- William James</p>
