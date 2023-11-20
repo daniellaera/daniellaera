@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
+<p>Time heals what reason cannot.  </p>
 
-<p>- William James</p>
+<p>- Seneca</p>
