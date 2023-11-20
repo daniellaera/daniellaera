@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One's best success comes after their greatest disappointments.</p>
+<p>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Ralph Marston</p>
