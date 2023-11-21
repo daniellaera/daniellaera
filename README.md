@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>- Barack Obama</p>
+<p>- Oprah Winfrey</p>
