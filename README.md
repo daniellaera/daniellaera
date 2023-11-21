@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When your intuition is strong, follow it.</p>
+<p>All human beings can alter their lives by altering their attitudes.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Andrew Carnegie</p>
