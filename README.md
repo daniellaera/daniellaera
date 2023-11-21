@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>The purpose of life is the life of purpose.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Robin Sharma</p>
