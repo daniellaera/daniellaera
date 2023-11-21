@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Peter Drucker</p>
