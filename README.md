@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Peter A. Cohen</p>
