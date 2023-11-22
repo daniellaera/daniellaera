@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
+<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
 
-<p>- Barack Obama</p>
+<p>- D. H. Lawrence</p>
