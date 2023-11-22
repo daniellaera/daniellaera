@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Unknown</p>
