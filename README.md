@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't walk away from things that I think are unfinished.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Bruce Lee</p>
