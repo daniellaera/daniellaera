@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
+<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Barack Obama</p>
