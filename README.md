@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Eric Hoffer</p>
