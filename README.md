@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Abundance of knowledge does not teach men to be wise.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>- Heraclitus</p>
+<p>- Ralph Waldo Emerson</p>
