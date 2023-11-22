@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>One must be deeply aware of the impermanence of the world.</p>
 
-<p>- Unknown</p>
+<p>- Dogen</p>
