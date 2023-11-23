@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
+<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Kamal Ravikant</p>
