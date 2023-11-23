@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
+<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
 
-<p>- Brian Tracy</p>
+<p>- Paramahansa Yogananda</p>
