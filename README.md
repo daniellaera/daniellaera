@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great minds are always feared by lesser minds.</p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>- Dan Brown</p>
+<p>- Alexander Pope</p>
