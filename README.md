@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>One small positive thought can change your whole day.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Zig Ziglar</p>
