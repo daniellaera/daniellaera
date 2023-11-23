@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do good by stealth, and blush to find it fame.</p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>- Alexander Pope</p>
+<p>- Barack Obama</p>
