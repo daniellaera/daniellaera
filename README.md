@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see someone without a smile give them one of yours.</p>
+<p>Tradition is the illusion of permanence. </p>
 
-<p>- Unknown</p>
+<p>- Woody Allen</p>
