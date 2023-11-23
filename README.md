@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One small positive thought can change your whole day.</p>
+<p>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Robert Kiyosaki</p>
