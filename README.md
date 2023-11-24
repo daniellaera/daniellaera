@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
+<p>No matter how tall the mountain is, it cannot block the sun.</p>
 
-<p>- Elon Musk</p>
+<p>- Chinese Proverb</p>
