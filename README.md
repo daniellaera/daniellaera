@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faithless is he that says farewell when the road darkens.</p>
+<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Kamal Ravikant</p>
