@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>- Albert Einstein</p>
+<p>- Herodotus</p>
