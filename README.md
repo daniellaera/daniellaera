@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Albert Einstein</p>
