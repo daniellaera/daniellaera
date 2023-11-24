@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more people you help become successful the more successful you become.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>- Steve Harvey</p>
+<p>- Lin Yutang</p>
