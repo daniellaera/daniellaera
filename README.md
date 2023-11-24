@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
+<p>If we are not able to smile, then the world will not have peace.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Thich Nhat Hanh</p>
