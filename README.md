@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we are not able to smile, then the world will not have peace.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Plato</p>
