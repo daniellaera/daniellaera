@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>The guest will judge better of a feast than the cook.</p>
 
-<p>- Babe Ruth</p>
+<p>- Aristotle</p>
