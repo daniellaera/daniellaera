@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
+<p>Courage is knowing what not to fear.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Plato</p>
