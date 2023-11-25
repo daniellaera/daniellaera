@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>To perceive is to suffer.</p>
 
-<p>- Zhuangzi</p>
+<p>- Aristotle</p>
