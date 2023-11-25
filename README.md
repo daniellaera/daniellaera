@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Norman Vincent Peale</p>
