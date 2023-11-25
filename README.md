@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- Aristotle</p>
+<p>- Lolly Daskal</p>
