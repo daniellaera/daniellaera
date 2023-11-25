@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If life were predictable it would cease to be life, and be without flavor.</p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Stephen King</p>
