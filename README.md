@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>The wise speak only of what they know.</p>
 
-<p>- Aristotle</p>
+<p>- J.R.R. Tolkien</p>
