@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
+<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
 
-<p>- Criss Jami</p>
+<p>- Kahlil Gibran</p>
