@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise speak only of what they know.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Eleanor Roosevelt</p>
