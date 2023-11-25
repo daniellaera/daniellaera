@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The destiny of man is in his own soul. </p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- Herodotus</p>
+<p>- Lolly Daskal</p>
