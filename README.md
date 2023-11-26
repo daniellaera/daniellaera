@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where focus goes, energy flows.</p>
+<p>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</p>
 
-<p>- Tony Robbins</p>
+<p>- Bob Marley</p>
