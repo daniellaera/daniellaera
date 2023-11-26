@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're at the end of your rope, tie a knot and hold on.</p>
+<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Elbert Hubbard</p>
