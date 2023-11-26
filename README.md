@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
+<p>If everyone is moving forward together, then success takes care of itself.</p>
 
-<p>- Unknown</p>
+<p>- Henry Ford</p>
