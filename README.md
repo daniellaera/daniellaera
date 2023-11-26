@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To love means loving the unlovable.</p>
+<p>Every strike brings me closer to the next home run. </p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Babe Ruth</p>
