@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>- Confucius</p>
+<p>- Benjamin Franklin</p>
