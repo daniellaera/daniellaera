@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>- Babe Ruth</p>
+<p>- Theodore Roosevelt</p>
