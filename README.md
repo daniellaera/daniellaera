@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Is it really possible to tell someone else what one feels?</p>
+<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Steve Harvey</p>
