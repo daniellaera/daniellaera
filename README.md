@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>- Bob Marley</p>
+<p>- Peter A. Cohen</p>
