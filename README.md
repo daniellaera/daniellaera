@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Gary Keller</p>
