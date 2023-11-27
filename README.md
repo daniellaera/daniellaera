@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Zig Ziglar</p>
