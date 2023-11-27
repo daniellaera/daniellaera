@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your next step is simple. You are the first domino.</p>
+<p>Act as if what you do makes a difference. It does.</p>
 
-<p>- Gary Keller</p>
+<p>- William James</p>
