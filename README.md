@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>- Criss Jami</p>
+<p>- Bob Marley</p>
