@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If no one ever broke the rules, then we'd never advance.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>- Simon Sinek</p>
+<p>- Paulo Coelho</p>
