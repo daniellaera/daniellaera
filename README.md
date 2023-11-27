@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>There are as many opinions as there are experts.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Franklin D. Roosevelt</p>
