@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it. </p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>- Bodhidharma</p>
+<p>- Martin Luther King, Jr.</p>
