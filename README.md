@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>Act the way you want to be and soon you'll be the way you act.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Les Brown</p>
