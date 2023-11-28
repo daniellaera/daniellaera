@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's possible in ways both large or small to make a difference in someone's life.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Yanni</p>
+<p>- Gary Keller</p>
