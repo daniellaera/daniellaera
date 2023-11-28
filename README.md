@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Embrace the life you have and stop wishing that you could be someone else.</p>
+<p>To handle yourself, use your head; to handle others, use your heart.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Eleanor Roosevelt</p>
