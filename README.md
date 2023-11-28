@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With self-discipline, almost anything is possible.</p>
+<p>Don't stumble over something that's behind you.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Steve Harvey</p>
