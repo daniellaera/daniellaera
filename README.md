@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking outside the box, get rid of the box.</p>
+<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Carl Bard</p>
