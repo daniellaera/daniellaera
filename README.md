@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>Always turn a negative situation into a positive situation.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Michael Jordan</p>
