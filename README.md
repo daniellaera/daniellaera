@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, accept. If you want suffering, expect.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Herodotus</p>
