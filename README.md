@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man gotta right to decide his own destiny.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>- Bob Marley</p>
+<p>- Joyce Meyer</p>
