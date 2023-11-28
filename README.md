@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most difficult times for many of us are the ones we give ourselves.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>- Pema Chodron</p>
+<p>- Audrey Hepburn</p>
