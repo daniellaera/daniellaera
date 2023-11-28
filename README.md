@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you move beyond your fear, you feel free.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Theodore Roosevelt</p>
