@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If life were predictable it would cease to be life, and be without flavor.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Tony Robbins</p>
