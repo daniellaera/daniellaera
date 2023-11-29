@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>Most people fail in life because they major in minor things.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Tony Robbins</p>
