@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
 
-<p>- Tony Robbins</p>
+<p>- Mother Teresa</p>
