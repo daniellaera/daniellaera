@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Morihei Ueshiba</p>
