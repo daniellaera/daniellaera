@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
 
-<p>- Albert Einstein</p>
+<p>- Mark Twain</p>
