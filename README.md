@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The price of inaction is far greater than the cost of making a mistake.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Peter A. Cohen</p>
