@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victory is always possible for the person who refuses to stop fighting.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Og Mandino</p>
