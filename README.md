@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
+<p>If I can laugh, I can live.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Christopher Reeve</p>
