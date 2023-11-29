@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
+<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
 
-<p>- Judy Garland</p>
+<p>- Norman Vincent Peale</p>
