@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Lolly Daskal</p>
