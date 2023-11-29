@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>He who knows how to wait need make no concessions.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Sigmund Freud</p>
