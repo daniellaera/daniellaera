@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What do we live for, if it is not to make life less difficult for each other?</p>
+<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
 
-<p>- George Eliot</p>
+<p>- Lolly Daskal</p>
