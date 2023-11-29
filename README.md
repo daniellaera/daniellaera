@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people fail in life because they major in minor things.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- Tony Robbins</p>
+<p>- George Eliot</p>
