@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can laugh, I can live.</p>
+<p>Victory is always possible for the person who refuses to stop fighting.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Napoleon Hill</p>
