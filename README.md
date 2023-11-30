@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
+<p>Failure is not fatal, but failure to change might be.</p>
 
-<p>- Brian Tracy</p>
+<p>- John Wooden</p>
