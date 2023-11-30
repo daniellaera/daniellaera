@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
+<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
 
-<p>- Ayn Rand</p>
+<p>- Kabir</p>
