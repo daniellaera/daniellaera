@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Stephen King</p>
