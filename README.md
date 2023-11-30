@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True wealth is of the heart, not of the purse.</p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>- Og Mandino</p>
+<p>- Dan Millman</p>
