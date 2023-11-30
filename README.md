@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Unknown</p>
