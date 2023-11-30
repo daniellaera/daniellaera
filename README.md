@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.</p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>- Alfred Adler</p>
+<p>- Earl Nightingale</p>
