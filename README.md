@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between treason and patriotism is only a matter of dates.</p>
+<p>You can not live your life just based on what everyone else thinks.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Joyce Meyer</p>
