@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
 
-<p>- Dan Millman</p>
+<p>- Ayn Rand</p>
