@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
+<p>Follow the man who seeks the truth; run from the man who has found it.</p>
 
-<p>- Unknown</p>
+<p>- Vaclav Havel</p>
