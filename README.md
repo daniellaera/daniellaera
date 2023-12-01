@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can live without money, but I cannot live without love.</p>
+<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
 
-<p>- Judy Garland</p>
+<p>- Nicolas Chamfort</p>
