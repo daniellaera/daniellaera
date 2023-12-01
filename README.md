@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world doesn't always give you want, but it often gives you what you need.</p>
+<p>The scariest monsters are the ones that lurk within our souls.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Edgar Allan Poe</p>
