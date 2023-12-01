@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Falling down is not failure. Failure comes when you stay where you have fallen.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>- Socrates</p>
+<p>- Lolly Daskal</p>
