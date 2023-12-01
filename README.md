@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>The world doesn't always give you want, but it often gives you what you need.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Naval Ravikant</p>
