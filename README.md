@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
+<p>Patience is a bitter plant, but its fruit is sweet.</p>
 
-<p>- Colin Powell</p>
+<p>- Chinese Proverb</p>
