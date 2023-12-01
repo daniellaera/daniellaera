@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is not fatal, but failure to change might be.</p>
+<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
 
-<p>- John Wooden</p>
+<p>- Mahatma Gandhi</p>
