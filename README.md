@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lose your temper is only useful once a year.</p>
+<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Celestine Chua</p>
