@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you change what you believe, you change what you do.</p>
+<p>Being wrong brings the opportunity for growth.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Mark Manson</p>
