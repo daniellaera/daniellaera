@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The giving of love is an education in itself.</p>
+<p>Failure is acceptable. Not trying is a whole different ball park.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Michael Jordan</p>
