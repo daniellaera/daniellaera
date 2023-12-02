@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
+<p>To lose your temper is only useful once a year.</p>
 
-<p>- Bob Marley</p>
+<p>- Colin R. Davis</p>
