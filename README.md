@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Naval Ravikant</p>
