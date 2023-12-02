@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One must be poor to know the luxury of giving.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
-<p>- George Eliot</p>
+<p>- Steve Harvey</p>
