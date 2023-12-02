@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being wrong brings the opportunity for growth.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>- Mark Manson</p>
+<p>- Chinese Proverb</p>
