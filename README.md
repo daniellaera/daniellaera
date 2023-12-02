@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your body. It's the only place you have to live.</p>
+<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
 
-<p>- Jim Rohn</p>
+<p>- Bob Marley</p>
