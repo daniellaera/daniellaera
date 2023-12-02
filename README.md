@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>- Barack Obama</p>
+<p>- Deepak Chopra</p>
