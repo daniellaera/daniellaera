@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let your mind stop you.</p>
+<p>One must be poor to know the luxury of giving.</p>
 
-<p>- Steve Harvey</p>
+<p>- George Eliot</p>
