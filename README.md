@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>- Thomas Edison</p>
+<p>- Ronald Reagan</p>
