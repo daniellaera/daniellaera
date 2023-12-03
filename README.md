@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
 
-<p>- Zen Proverb</p>
+<p>- Sydney Smith</p>
