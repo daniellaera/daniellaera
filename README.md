@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to make time, even for something as universal as staring at the stars.</p>
+<p>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Albus Dumbledore</p>
