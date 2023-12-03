@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Dalai Lama</p>
