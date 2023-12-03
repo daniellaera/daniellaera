@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
+<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
 
-<p>- Peter Drucker</p>
+<p>- Thomas Edison</p>
