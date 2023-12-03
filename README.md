@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Unknown</p>
