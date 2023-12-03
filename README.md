@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Zen Proverb</p>
