@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Pema Chodron</p>
