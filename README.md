@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Richard Bach</p>
