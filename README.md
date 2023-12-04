@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Storms don't last forever.</p>
+<p>Do not look for a sanctuary in anyone except your self.</p>
 
-<p>- Unknown</p>
+<p>- Buddha</p>
