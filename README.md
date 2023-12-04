@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Voltaire</p>
