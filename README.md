@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiny change today brings a dramatically different tomorrow.</p>
+<p>Storms don't last forever.</p>
 
-<p>- Richard Bach</p>
+<p>- Unknown</p>
