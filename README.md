@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>- Buddha</p>
+<p>- Henry Ford</p>
