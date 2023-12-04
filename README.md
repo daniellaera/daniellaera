@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>First learn the meaning of what you say, and then speak.</p>
 
-<p>- Henry Ford</p>
+<p>- Epictetus</p>
