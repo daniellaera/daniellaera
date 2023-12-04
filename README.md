@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Showing off is the fool's idea of glory. </p>
+<p>If you look for perfection, you'll never be content.</p>
 
-<p>- Bruce Lee</p>
+<p>- Leo Tolstoy</p>
