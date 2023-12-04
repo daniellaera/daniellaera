@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
 
-<p>- Conrad Hilton</p>
+<p>- James Allen</p>
