@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Aristotle</p>
