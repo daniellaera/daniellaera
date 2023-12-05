@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is just information and an opportunity to change your course.</p>
+<p>To forgive means pardoning the unpardonable.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Gilbert Chesterton</p>
