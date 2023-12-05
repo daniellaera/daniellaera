@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
+<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
 
-<p>- Peter Drucker</p>
+<p>- Amelia Earhart</p>
