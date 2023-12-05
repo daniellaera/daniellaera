@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
+<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Peter Drucker</p>
