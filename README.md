@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>- Charles Darwin</p>
+<p>- Pablo Picasso</p>
