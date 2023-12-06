@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Animals don't hate, and we're supposed to be better than them.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>- Elvis Presley</p>
+<p>- Pablo Picasso</p>
