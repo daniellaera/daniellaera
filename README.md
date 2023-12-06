@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your next step is simple. You are the first domino.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>- Gary Keller</p>
+<p>- Sigmund Freud</p>
