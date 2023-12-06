@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When one does not have what one wants, one must want what one has.</p>
+<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Wayne Dyer</p>
