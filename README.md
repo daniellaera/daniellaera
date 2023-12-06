@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robert Collier</p>
