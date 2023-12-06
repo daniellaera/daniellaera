@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
 
-<p>- Jonathan Swift</p>
+<p>- Confucius</p>
