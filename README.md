@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Carlos Ruiz Zafon</p>
