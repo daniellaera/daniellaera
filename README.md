@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Franz Kafka</p>
