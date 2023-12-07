@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>All you need is the plan, the road map, and the courage to press on to your destination.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Earl Nightingale</p>
