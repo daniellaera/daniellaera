@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't think money does everything or you are going to end up doing everything for money.</p>
+<p>Live in the sunshine, swim the sea, drink the wild air.</p>
 
-<p>- Voltaire</p>
+<p>- Ralph Waldo Emerson</p>
