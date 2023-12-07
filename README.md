@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no excuse for not trying.</p>
+<p>The reward of suffering is experience.</p>
 
-<p>- Barack Obama</p>
+<p>- Harry S. Truman</p>
