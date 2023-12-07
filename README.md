@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a poor teacher.</p>
+<p>Change yourself - you are in control.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Mahatma Gandhi</p>
