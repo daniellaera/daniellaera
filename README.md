@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It always seems impossible until it's done.</p>
+<p>Realistic people do not accomplish extraordinary things.</p>
 
-<p>- Nelson Mandela</p>
+<p>- John Eliot</p>
