@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Barack Obama</p>
