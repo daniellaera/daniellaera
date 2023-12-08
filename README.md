@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>It always seems impossible until it's done.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Nelson Mandela</p>
