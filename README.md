@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more one judges, the less one loves.</p>
+<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Vaclav Havel</p>
