@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
+<p>It is truth that liberates, not your effort to be free.</p>
 
-<p>- Sun Tzu</p>
+<p>- Jiddu Krishnamurti</p>
