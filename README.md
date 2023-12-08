@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>- Epictetus</p>
+<p>- Josh Waitzkin</p>
