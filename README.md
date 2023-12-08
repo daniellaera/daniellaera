@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>- Henry Ford</p>
+<p>- Samuel Butler</p>
