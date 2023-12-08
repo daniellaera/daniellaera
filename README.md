@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
+<p>Bloom where you are planted!</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Mary Engelbreit</p>
