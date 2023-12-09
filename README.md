@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Henry David Thoreau</p>
