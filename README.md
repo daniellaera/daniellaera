@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>- Confucius</p>
+<p>- Isaac Newton</p>
