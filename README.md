@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faith is taking the first step even when you don't see the whole staircase.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Andrew Carnegie</p>
