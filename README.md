@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Andrew Carnegie</p>
