@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Josh Waitzkin</p>
