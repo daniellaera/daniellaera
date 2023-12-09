@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Setting goals is the first step in turning the invisible into the visible.</p>
+<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
 
-<p>- Tony Robbins</p>
+<p>- Kahlil Gibran</p>
