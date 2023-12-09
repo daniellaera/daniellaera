@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy every minute of life. Never second-guess life.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>- Michael Jordan</p>
+<p>- Dan Brown</p>
