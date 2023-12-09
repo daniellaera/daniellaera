@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>Those who cannot change their minds cannot change anything.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- George Bernard Shaw</p>
