@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
+<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Pablo Picasso</p>
