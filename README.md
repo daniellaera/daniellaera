@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can live a whole life time never being awake.</p>
+<p>Time is a game played beautifully by children.</p>
 
-<p>- Dan Millman</p>
+<p>- Heraclitus</p>
