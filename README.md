@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Desire for the fruits of work must never be your motive in working.</p>
+<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Simon Sinek</p>
