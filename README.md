@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
+<p>Desire for the fruits of work must never be your motive in working.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Bhagavad Gita</p>
