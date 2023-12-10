@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Roy T. Bennett</p>
