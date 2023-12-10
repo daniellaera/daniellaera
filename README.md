@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>- Lao Tzu</p>
+<p>- Deepak Chopra</p>
