@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The destiny of man is in his own soul. </p>
+<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
 
-<p>- Herodotus</p>
+<p>- Vaclav Havel</p>
