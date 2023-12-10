@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>Every great change is preceded by chaos.</p>
 
-<p>- Barack Obama</p>
+<p>- Deepak Chopra</p>
