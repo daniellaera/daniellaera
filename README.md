@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Eric Hoffer</p>
