@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
 
-<p>- Isaac Newton</p>
+<p>- Shunryu Suzuki</p>
