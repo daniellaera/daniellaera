@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every great change is preceded by chaos.</p>
+<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Josh Waitzkin</p>
