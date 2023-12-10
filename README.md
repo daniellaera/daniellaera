@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
+<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
 
-<p>- Charles Dickens</p>
+<p>- Epictetus</p>
