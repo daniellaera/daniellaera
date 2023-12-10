@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only the educated are free.</p>
+<p>Perpetual optimism is a force multiplier.</p>
 
-<p>- Epictetus</p>
+<p>- Colin Powell</p>
