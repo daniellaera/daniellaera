@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change begets change. Nothing propagates so fast.</p>
+<p>Life is simply what our feelings do to us.</p>
 
-<p>- Charles Dickens</p>
+<p>- Honore de Balzac</p>
