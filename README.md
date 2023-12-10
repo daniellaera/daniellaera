@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no limitations to the mind except those we acknowledge...</p>
+<p>You can live a whole life time never being awake.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Dan Millman</p>
