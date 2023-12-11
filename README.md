@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Christopher Columbus</p>
