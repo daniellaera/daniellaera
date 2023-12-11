@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Bette Midler</p>
