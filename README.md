@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your home is where your thoughts find peace.</p>
+<p>As a matter of fact is an expression that precedes many an expression that isn't.</p>
 
-<p>- Zen Proverb</p>
+<p>- Laurence J. Peter</p>
