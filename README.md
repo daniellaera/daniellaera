@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Celestine Chua</p>
+<p>- Wayne Dyer</p>
