@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</p>
+<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
 
-<p>- Lily Tomlin</p>
+<p>- F. Scott Fitzgerald</p>
