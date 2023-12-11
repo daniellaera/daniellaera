@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What do we live for if not to make life less difficult for each other?</p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Samuel Butler</p>
