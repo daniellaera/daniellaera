@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</p>
+<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
 
-<p>- Les Brown</p>
+<p>- John Carmack</p>
