@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to give up the good to go for the great.</p>
+<p>Simplicity is a difficult thing to achieve.  </p>
 
-<p>- John D. Rockefeller</p>
+<p>- Charlie Chaplin</p>
