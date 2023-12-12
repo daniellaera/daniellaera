@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to give up some of the old so that you can make room for the new.</p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>- Yanni</p>
+<p>- Elon Musk</p>
