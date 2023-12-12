@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every hour of every day is an unspeakably perfect miracle.</p>
+<p>I would rather be a little nobody, then to be an evil somebody.</p>
 
-<p>- Walt Whitman</p>
+<p>- Abraham Lincoln</p>
