@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>- Dan Millman</p>
+<p>- Bodhidharma</p>
