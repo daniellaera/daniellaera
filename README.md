@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Walt Whitman</p>
