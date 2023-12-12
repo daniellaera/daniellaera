@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
 
-<p>- Seungsahn</p>
+<p>- Norman Vincent Peale</p>
