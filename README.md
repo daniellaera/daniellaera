@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before preparing to improve the world, first look around your own home three times. </p>
+<p>Tis not too late to seek a newer world.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Heraclitus</p>
