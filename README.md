@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Colin Powell</p>
+<p>- James Allen</p>
