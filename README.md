@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never was anything great achieved without danger.</p>
+<p>Before preparing to improve the world, first look around your own home three times. </p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Chinese Proverb</p>
