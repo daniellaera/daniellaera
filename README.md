@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We create the world and ourselves;</p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Niccolo Machiavelli</p>
