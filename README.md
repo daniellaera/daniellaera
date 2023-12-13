@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who learn more skills and combine them in creative ways.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>- Robert Greene</p>
+<p>- William James</p>
