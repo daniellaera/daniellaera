@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who violates another's honor loses his own.</p>
+<p>Make your life a mission - not an intermission.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Unknown</p>
