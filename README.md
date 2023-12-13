@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person is only by the thoughts that he chooses.</p>
+<p>You are never too old to become younger.</p>
 
-<p>- James Allen</p>
+<p>- Mae West</p>
