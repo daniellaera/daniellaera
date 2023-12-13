@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is a difficult thing to achieve.  </p>
+<p>If you cannot understand something, then you have understood it incorrectly.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Kabir</p>
