@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to become younger.</p>
+<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
 
-<p>- Mae West</p>
+<p>- Bob Marley</p>
