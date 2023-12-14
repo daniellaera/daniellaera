@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Henry David Thoreau</p>
