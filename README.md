@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>If you aim at nothing, you will hit it every time.  </p>
 
-<p>- Epictetus</p>
+<p>- Zig Ziglar</p>
