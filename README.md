@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aim at nothing, you will hit it every time.  </p>
+<p>Peaceful is the one who expects nothing.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Maxime Lagace</p>
