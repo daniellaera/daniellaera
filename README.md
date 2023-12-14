@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't always championships.</p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
-<p>- Michael Jordan</p>
+<p>- Les Brown</p>
