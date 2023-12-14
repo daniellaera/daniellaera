@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
+<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Edgar Allan Poe</p>
