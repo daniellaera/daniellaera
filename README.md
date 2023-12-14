@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>- Lao Tzu</p>
+<p>- Mary Engelbreit</p>
