@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. </p>
 
-<p>- Deepak Chopra</p>
+<p>- Orison Swett Marden</p>
