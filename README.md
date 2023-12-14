@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you can imagine is real.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Lao Tzu</p>
