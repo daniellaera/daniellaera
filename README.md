@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Niccolo Machiavelli</p>
