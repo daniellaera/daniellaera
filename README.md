@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>The greatest weariness comes from work not done.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Eric Hoffer</p>
