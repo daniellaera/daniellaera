@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Mahatma Gandhi</p>
