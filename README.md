@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
+<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Thomas Jefferson</p>
