@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Jim Rohn</p>
