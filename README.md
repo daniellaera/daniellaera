@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 
-<p>- Dalai Lama</p>
+<p>- Vaclav Havel</p>
