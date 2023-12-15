@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
+<p>Choose to be optimistic, it feels better.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Dalai Lama</p>
