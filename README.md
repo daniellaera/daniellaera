@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>- Anne Frank</p>
+<p>- Unknown</p>
