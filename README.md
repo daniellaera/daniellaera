@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the energy of life.</p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>- Robert Browning</p>
+<p>- Albert Einstein</p>
