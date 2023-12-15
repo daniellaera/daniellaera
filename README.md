@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>- Unknown</p>
+<p>- Gary Keller</p>
