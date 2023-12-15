@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about doing the right thing, not about doing everything right.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>- Gary Keller</p>
+<p>- Dan Millman</p>
