@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we know how to adapt, we end up being superior.</p>
+<p>Love is the energy of life.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Robert Browning</p>
