@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunities multiply as they are seized.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>- Sun Tzu</p>
+<p>- Richard Bach</p>
