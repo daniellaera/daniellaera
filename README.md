@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>Dreams have only one owner at a time. That's why dreamers are lonely.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- William Faulkner</p>
