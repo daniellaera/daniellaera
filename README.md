@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Aristotle</p>
