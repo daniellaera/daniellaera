@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The salvation of the world lies in the human heart.</p>
+<p>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Robert Kiyosaki</p>
