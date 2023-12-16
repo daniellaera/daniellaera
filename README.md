@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>Nothing important is learned; it is simply remembered.</p>
 
-<p>- Judy Garland</p>
+<p>- Carlos Ruiz Zafon</p>
