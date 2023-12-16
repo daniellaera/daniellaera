@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the noise of others opinions drown out your inner voice.</p>
+<p>Success is nothing more than a few simple disciplines practiced every day.</p>
 
-<p>- Steve Jobs</p>
+<p>- Jim Rohn</p>
