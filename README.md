@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Kahlil Gibran</p>
