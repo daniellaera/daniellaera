@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We're responsible for everything that happens to us.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
 
-<p>- Yanni</p>
+<p>- Paramahansa Yogananda</p>
