@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
 
-<p>- Aristotle</p>
+<p>- Chinese Proverb</p>
