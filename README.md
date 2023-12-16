@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>If you can't imagine it, you can't have it.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Toni Morrison</p>
