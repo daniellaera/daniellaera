@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't imagine it, you can't have it.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>- Toni Morrison</p>
+<p>- James Allen</p>
