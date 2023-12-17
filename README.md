@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
+<p>Whether you think you can or think you can't – you are right.</p>
 
-<p>- Celestine Chua</p>
+<p>- Henry Ford</p>
