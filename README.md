@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Because of your smile, you make life more beautiful.</p>
+<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Elon Musk</p>
