@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</p>
+<p>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </p>
 
-<p>- Zen Proverb</p>
+<p>- Martin Luther</p>
