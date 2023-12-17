@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others achieve their dreams and you will achieve yours.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>- Les Brown</p>
+<p>- Thich Nhat Hanh</p>
