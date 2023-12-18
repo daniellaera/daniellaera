@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An un-examined life is not worth living.</p>
+<p>Whether you think you can or think you can't – you are right.</p>
 
-<p>- Socrates</p>
+<p>- Henry Ford</p>
