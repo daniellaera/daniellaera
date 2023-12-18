@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Alexandre Dumas</p>
