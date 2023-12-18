@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Christopher McCandless</p>
