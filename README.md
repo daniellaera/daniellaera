@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Benjamin Franklin</p>
