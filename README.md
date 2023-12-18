@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Og Mandino</p>
+<p>- Henry Ward Beecher</p>
