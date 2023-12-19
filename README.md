@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>If you can't explain it simply, you don't understand it well enough.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Albert Einstein</p>
