@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk does not cook rice.</p>
+<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Vaclav Havel</p>
