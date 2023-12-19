@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be great is to be misunderstood.</p>
+<p>Absurdity is the ecstasy of intellectualism.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Criss Jami</p>
