@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't explain it simply, you don't understand it well enough.</p>
+<p>We must be free not because we claim freedom, but because we practice it.</p>
 
-<p>- Albert Einstein</p>
+<p>- William Faulkner</p>
