@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live the moment for the moment.</p>
+<p>Goodness is the only investment that never fails.</p>
 
-<p>- Michael Jordan</p>
+<p>- Henry David Thoreau</p>
