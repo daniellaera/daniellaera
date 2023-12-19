@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there's life, there's hope.</p>
+<p>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Nelson Mandela</p>
