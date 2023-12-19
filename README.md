@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goodness is the only investment that never fails.</p>
+<p>When you stop questioning, you stop learning.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Lolly Daskal</p>
