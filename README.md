@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever your mind can conceive and believe, it can achieve.</p>
+<p>To be great is to be misunderstood.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Ralph Waldo Emerson</p>
