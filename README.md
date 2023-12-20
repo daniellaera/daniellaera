@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, hope is a good thing, maybe the best of things.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>- Stephen King</p>
+<p>- Ayn Rand</p>
