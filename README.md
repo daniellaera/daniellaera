@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a poor teacher.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Dogen</p>
