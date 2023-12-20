@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men who have achieved great things have been great dreamers. </p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Steve Maraboli</p>
