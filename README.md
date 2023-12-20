@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>- Dogen</p>
+<p>- Helen Keller</p>
