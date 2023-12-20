@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is the worst thing about the present.</p>
+<p>Success is a poor teacher.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Robert Kiyosaki</p>
