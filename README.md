@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>Remember, hope is a good thing, maybe the best of things.</p>
 
-<p>- Jim Rohn</p>
+<p>- Stephen King</p>
