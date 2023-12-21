@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is to console those who are broken by life.</p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Judy Garland</p>
