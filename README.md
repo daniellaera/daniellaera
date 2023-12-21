@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>Try not to become a man of success, but rather try to become a man of value.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Albert Einstein</p>
