@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the change that you want to see in the world.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Conrad Hilton</p>
