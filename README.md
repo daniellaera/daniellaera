@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- Carl Jung</p>
+<p>- Kahlil Gibran</p>
