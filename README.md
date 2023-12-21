@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Tony Robbins</p>
