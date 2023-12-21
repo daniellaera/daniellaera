@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Epictetus</p>
