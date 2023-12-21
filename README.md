@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction..</p>
+<p>You may think I'm small, but I have a universe inside my mind.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Yoko Ono</p>
