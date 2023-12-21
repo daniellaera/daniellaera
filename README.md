@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may think I'm small, but I have a universe inside my mind.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>- Yoko Ono</p>
+<p>- Mahatma Gandhi</p>
