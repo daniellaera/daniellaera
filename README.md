@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Betty White</p>
