@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Cherralea Morgen</p>
