@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that irritates us about others.</p>
+<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
 
-<p>- Carl Jung</p>
+<p>- Nikola Tesla</p>
