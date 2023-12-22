@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Because a thing seems difficult for you, do not think it impossible.</p>
+<p>By perseverance the snail reached the ark.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Charles Spurgeon</p>
