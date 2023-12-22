@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I live by letting things happen.</p>
+<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
 
-<p>- Dogen</p>
+<p>- Les Brown</p>
