@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the past steal your present.</p>
+<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
 
-<p>- Cherralea Morgen</p>
+<p>- Vince Lombardi</p>
