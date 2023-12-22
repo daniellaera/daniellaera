@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My definition of success is control.</p>
+<p>Never be bored, and you will never be boring.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Eleanor Roosevelt</p>
