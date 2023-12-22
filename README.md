@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not a skill. It is an attitude. </p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>- Ralph Marston</p>
+<p>- Paulo Coelho</p>
