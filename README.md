@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>Because a thing seems difficult for you, do not think it impossible.</p>
 
-<p>- Jack London</p>
+<p>- Marcus Aurelius</p>
