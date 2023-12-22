@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stay away from people who makes you feel like you are wasting their time.</p>
+<p>You don't know who is important to you until you actually lose them.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Mahatma Gandhi</p>
