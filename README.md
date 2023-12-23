@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By words the mind is winged.</p>
+<p>It's not the love you make. It's the love you give. </p>
 
-<p>- Aristophanes</p>
+<p>- Nikola Tesla</p>
