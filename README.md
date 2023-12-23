@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>an action committed in anger is an action doomed to failure. </p>
 
-<p>- Dalai Lama</p>
+<p>- Genghis Khan</p>
