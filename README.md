@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't worry about being successful, but work toward being significant and the success will naturally follow.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Dogen</p>
