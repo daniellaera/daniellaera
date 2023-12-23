@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>- Albert Einstein</p>
+<p>- Bob Marley</p>
