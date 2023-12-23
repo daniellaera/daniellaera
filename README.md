@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Norman Vincent Peale</p>
