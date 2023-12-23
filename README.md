@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
+<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- William Faulkner</p>
