@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you can see the Light, you have to deal with the darkness.</p>
+<p>Normal is the average of deviance.</p>
 
-<p>- Dan Millman</p>
+<p>- Rita Mae Brown</p>
