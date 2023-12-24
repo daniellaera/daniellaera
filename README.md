@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>- Mark Twain</p>
+<p>- Charles Swindoll</p>
