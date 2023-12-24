@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't everything, but wanting to win is.</p>
+<p>Help others and give something back.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Arnold Schwarzenegger</p>
