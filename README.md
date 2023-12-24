@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>Winning isn't everything, but wanting to win is.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Vince Lombardi</p>
