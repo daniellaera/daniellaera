@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Normal is the average of deviance.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Elon Musk</p>
