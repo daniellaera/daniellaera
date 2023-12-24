@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>- Denis Waitley</p>
+<p>- Amelia Earhart</p>
