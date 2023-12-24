@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
-<p>- George Washington</p>
+<p>- Lao Tzu</p>
