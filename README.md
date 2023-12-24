@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to achieve greatness stop asking for permission.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Unknown</p>
+<p>- Barack Obama</p>
