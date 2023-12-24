@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others and give something back.</p>
+<p>Before you can see the Light, you have to deal with the darkness.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Dan Millman</p>
