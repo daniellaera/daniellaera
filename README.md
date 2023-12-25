@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</p>
+<p>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</p>
 
-<p>- Simon Sinek</p>
+<p>- Paramahansa Yogananda</p>
