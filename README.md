@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
+<p>Life is what you make it. Always has been, always will be.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Eleanor Roosevelt</p>
