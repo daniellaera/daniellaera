@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freeing oneself from words is liberation. </p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- Bodhidharma</p>
+<p>- Thomas Edison</p>
