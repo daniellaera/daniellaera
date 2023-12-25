@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't let your failures define you. You have to let your failures teach you.</p>
+<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
 
-<p>- Barack Obama</p>
+<p>- Oprah Winfrey</p>
