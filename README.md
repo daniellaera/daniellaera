@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
+<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
 
-<p>- Alfred Adler</p>
+<p>- Criss Jami</p>
