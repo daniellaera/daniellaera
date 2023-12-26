@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>- Brian Tracy</p>
+<p>- Johann Wolfgang von Goethe</p>
