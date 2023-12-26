@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before anything else, preparation is the key to success.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Sun Tzu</p>
