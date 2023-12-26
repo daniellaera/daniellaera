@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>- Carol Burnett</p>
+<p>- Samuel Butler</p>
