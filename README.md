@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun is new each day.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>- Heraclitus</p>
+<p>- Criss Jami</p>
