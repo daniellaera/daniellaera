@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heal the past, live the present, dream the future.</p>
+<p>Perfectionism is simply putting a limit on your future.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- John Eliot</p>
