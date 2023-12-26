@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
+<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Brian Tracy</p>
