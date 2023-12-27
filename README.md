@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Watch what you say, and whatever you say, practice it.</p>
+<p>Stress happens when the mind resists what is.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Dan Millman</p>
