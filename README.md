@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
+<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Napoleon Hill</p>
