@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
+<p>Throw your heart over the fence and the rest will follow</p>
 
-<p>- Seneca</p>
+<p>- Norman Vincent Peale</p>
