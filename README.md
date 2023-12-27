@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are illusions of the mind.</p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Christopher McCandless</p>
