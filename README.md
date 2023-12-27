@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
 
-<p>- Brian Tracy</p>
+<p>- Zig Ziglar</p>
