@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your problem isn't the problem. Your reaction is the problem.</p>
+<p>Watch what you say, and whatever you say, practice it.</p>
 
-<p>- Unknown</p>
+<p>- Soyen Shaku</p>
