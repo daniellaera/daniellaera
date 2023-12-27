@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>Talent is luck. The important thing in life is courage.</p>
 
-<p>- Unknown</p>
+<p>- Woody Allen</p>
