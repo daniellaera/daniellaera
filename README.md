@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience never fears midnight knocking.</p>
+<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Edgar Allan Poe</p>
