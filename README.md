@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>Change begets change. Nothing propagates so fast.</p>
 
-<p>- Aristotle</p>
+<p>- Charles Dickens</p>
