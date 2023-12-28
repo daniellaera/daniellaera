@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Michael Jordan</p>
