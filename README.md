@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Harry S. Truman</p>
