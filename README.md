@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
+<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
 
-<p>- Michael Jordan</p>
+<p>- Gilbert Chesterton</p>
