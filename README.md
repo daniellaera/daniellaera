@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not wait for leaders; do it alone, person to person.</p>
+<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
 
-<p>- Mother Teresa</p>
+<p>- Josh Waitzkin</p>
