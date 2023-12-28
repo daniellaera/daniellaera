@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
+<p>Repetition does not transform a lie into a truth.</p>
 
-<p>- Herman Melville</p>
+<p>- Franklin D. Roosevelt</p>
