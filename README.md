@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
+<p>Help others and give something back.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Arnold Schwarzenegger</p>
