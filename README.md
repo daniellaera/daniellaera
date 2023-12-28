@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>Forgive yourself for your faults and your mistakes and move on.</p>
 
-<p>- Seneca</p>
+<p>- Les Brown</p>
