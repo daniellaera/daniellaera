@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
+<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
 
-<p>- Chinese Proverb</p>
+<p>- G.I. Gurdjieff</p>
