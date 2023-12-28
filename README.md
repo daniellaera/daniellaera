@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>Music is like creating an emotional painting. The sounds are the colors.</p>
 
-<p>- Les Brown</p>
+<p>- Yanni</p>
