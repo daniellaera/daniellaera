@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Music is like creating an emotional painting. The sounds are the colors.</p>
+<p>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</p>
 
-<p>- Yanni</p>
+<p>- Helen Keller</p>
