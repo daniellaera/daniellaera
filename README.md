@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
+<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
 
-<p>- Celestine Chua</p>
+<p>- Ayn Rand</p>
