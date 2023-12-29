@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>Make your stand today. On this spot. On this day.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ming-Dao Deng</p>
