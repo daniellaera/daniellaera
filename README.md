@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>Don't just sit there. Do something. The answers will follow.</p>
 
-<p>- Sun Tzu</p>
+<p>- Mark Manson</p>
