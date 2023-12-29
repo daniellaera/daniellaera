@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>- Babe Ruth</p>
+<p>- Bruce Lee</p>
