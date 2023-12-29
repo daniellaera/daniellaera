@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
+<p>Love is not about possession. Love is about appreciation.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Osho</p>
