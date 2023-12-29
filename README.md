@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Art of Peace begins with you.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Stephen Hawking</p>
