@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>Wheels of justice grind slow but grind fine.</p>
 
-<p>- Unknown</p>
+<p>- Sun Tzu</p>
