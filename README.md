@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't just sit there. Do something. The answers will follow.</p>
+<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
 
-<p>- Mark Manson</p>
+<p>- Heraclitus</p>
