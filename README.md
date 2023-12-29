@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lost Time is never found again.</p>
+<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Unknown</p>
