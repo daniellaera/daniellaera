@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Repetition does not transform a lie into a truth.</p>
+<p>Optimism is the one quality more associated with success and happiness than any other.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Brian Tracy</p>
