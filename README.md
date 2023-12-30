@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can see through others only when we can see through ourselves.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>- Bruce Lee</p>
+<p>- John Eliot</p>
