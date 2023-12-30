@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Paulo Coelho</p>
