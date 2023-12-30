@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</p>
+<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Jiddu Krishnamurti</p>
