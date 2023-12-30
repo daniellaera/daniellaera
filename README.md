@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must welcome change as the rule but not as your ruler. </p>
+<p>Trusting our intuition often saves us from disaster. </p>
 
-<p>- Denis Waitley</p>
+<p>- Anne Wilson Schaef</p>
