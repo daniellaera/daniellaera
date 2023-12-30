@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>The more we value things, the less we value ourselves.  </p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Bruce Lee</p>
