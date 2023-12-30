@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act the way you want to be and soon you'll be the way you act.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- Les Brown</p>
+<p>- Thomas Edison</p>
