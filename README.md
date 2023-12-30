@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Richard Bach</p>
