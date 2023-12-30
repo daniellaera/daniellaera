@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is just information and an opportunity to change your course.</p>
+<p>Do what is right, not what is easy, nor what is popular.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Roy T. Bennett</p>
