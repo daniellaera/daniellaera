@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we value things, the less we value ourselves.  </p>
+<p>Your world is a living expression of how you are using and have used your mind.</p>
 
-<p>- Bruce Lee</p>
+<p>- Earl Nightingale</p>
