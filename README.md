@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
+<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Kamal Ravikant</p>
