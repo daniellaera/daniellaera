@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Ayn Rand</p>
