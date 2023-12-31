@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>Choose to be optimistic, it feels better.</p>
 
-<p>- Peter Drucker</p>
+<p>- Dalai Lama</p>
