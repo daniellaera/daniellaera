@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
 
-<p>- George Eliot</p>
+<p>- Eckhart Tolle</p>
