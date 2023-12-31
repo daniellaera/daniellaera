@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is the life of purpose.</p>
+<p>Failure is just information and an opportunity to change your course.</p>
 
-<p>- Robin Sharma</p>
+<p>- Oprah Winfrey</p>
