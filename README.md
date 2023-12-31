@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Open your mind before your mouth.</p>
+<p>To belittle, you have to be little.</p>
 
-<p>- Aristophanes</p>
+<p>- Kahlil Gibran</p>
