@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are free, and that is why you are lost. </p>
+<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
 
-<p>- Franz Kafka</p>
+<p>- Peter Drucker</p>
