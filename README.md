@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To belittle, you have to be little.</p>
+<p>Don't talk about what you have done or what you are going to do.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Thomas Jefferson</p>
