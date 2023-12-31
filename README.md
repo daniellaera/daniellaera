@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must embrace pain and burn it as fuel for our journey.</p>
+<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Ray Bradbury</p>
