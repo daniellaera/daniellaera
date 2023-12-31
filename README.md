@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Ayn Rand</p>
