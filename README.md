@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools talk, cowards are silent, wise men listen.</p>
+<p>We must embrace pain and burn it as fuel for our journey.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Kenji Miyazawa</p>
