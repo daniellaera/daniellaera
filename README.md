@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>Anyone who reads a book with a sense of obligation does not understand the art of reading.</p>
 
-<p>- Dalai Lama</p>
+<p>- Lin Yutang</p>
