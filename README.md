@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quiet people have the loudest minds.</p>
+<p>I dream my painting and I paint my dream.</p>
 
-<p>- Stephen King</p>
+<p>- Vincent van Gogh</p>
