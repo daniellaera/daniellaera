@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The idea of ourselves is our escape from the fact of what we really are.</p>
+<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Dalai Lama</p>
