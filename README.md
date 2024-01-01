@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of difficulty lies opportunity.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>- Albert Einstein</p>
+<p>- Beverly Sills</p>
