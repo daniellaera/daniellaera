@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no shortcuts to any place worth going. </p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Beverly Sills</p>
+<p>- Samuel Butler</p>
