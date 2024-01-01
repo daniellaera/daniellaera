@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The prettiest eyes have cried the most.</p>
+<p>The idea of ourselves is our escape from the fact of what we really are.</p>
 
-<p>- Unknown</p>
+<p>- Jiddu Krishnamurti</p>
