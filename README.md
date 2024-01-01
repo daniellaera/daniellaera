@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
+<p>Evil is whatever distracts. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Franz Kafka</p>
