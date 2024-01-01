@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
+<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Norman Vincent Peale</p>
