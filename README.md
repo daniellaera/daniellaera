@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or nothing.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>- Helen Keller</p>
+<p>- Adi Da Samraj</p>
