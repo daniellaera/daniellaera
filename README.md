@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything you may hold firmly in your imagination can be yours.</p>
+<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
 
-<p>- William James</p>
+<p>- Andrew Carnegie</p>
