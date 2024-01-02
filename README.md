@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Sydney Smith</p>
