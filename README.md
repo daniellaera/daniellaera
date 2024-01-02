@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't look back - you're not going that way.</p>
+<p>The longer we dwell on our misfortunes, the greater is their power to harm us.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Voltaire</p>
