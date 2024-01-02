@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good stance and posture reflect a proper state of mind.</p>
+<p>All life is an experiment. The more experiments you make, the better.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Ralph Waldo Emerson</p>
