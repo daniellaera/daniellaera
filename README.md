@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to be looked over than overlooked.</p>
+<p>The single biggest problem in communication is the illusion that it has taken place.</p>
 
-<p>- Mae West</p>
+<p>- George Bernard Shaw</p>
