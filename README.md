@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Memory is the scribe of the soul.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Aristotle</p>
+<p>- Martin Luther King, Jr.</p>
