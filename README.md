@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man invented language to satisfy his deep need to complain.</p>
+<p>A life without a cause is a life without effect.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Paulo Coelho</p>
