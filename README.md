@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can stop one heart from breaking, I shall not live in vain.</p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>- Emily Dickinson</p>
+<p>- T.S. Eliot</p>
