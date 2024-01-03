@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
+<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
 
-<p>- Elvis Presley</p>
+<p>- Theodore Roosevelt</p>
