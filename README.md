@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Wayne Dyer</p>
