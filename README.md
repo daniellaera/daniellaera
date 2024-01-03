@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
+<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
 
-<p>- Heraclitus</p>
+<p>- Jeffrey Gitomer</p>
