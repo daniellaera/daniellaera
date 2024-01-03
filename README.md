@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone sees what you appear to be, few experience what you really are.</p>
+<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Wayne Dyer</p>
