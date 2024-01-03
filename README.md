@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
+<p>Don't let what you cannot do interfere with what you can do.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- John Wooden</p>
