@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>It is better to be looked over than overlooked.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Mae West</p>
