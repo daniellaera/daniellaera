@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What gets measured gets improved.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>- Robin Sharma</p>
+<p>- Napoleon Hill</p>
