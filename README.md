@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the highway to success.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>- Og Mandino</p>
+<p>- Miguel de Cervantes</p>
