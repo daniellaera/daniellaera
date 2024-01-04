@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </p>
 
-<p>- Christopher McCandless</p>
+<p>- Buddha</p>
