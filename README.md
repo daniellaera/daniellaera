@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Robert Kiyosaki</p>
