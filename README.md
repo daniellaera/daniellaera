@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
+<p>Longevity is a fleeting moment that lasts forever.</p>
 
-<p>- Robin Sharma</p>
+<p>- Vidal Sassoon</p>
