@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Distant water does not put out a nearby fire.</p>
+<p>When things go wrong, don't go with them.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Elvis Presley</p>
