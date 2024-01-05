@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Only Thing That Is Constant Is Change</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>- Heraclitus</p>
+<p>- Brian Tracy</p>
