@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
+<p>One always begins to forgive a place as soon as it's left behind.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Charles Dickens</p>
