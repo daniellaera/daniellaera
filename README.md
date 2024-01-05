@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Charles Darwin</p>
