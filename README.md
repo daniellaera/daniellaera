@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>The quality of your commitments will determine the course of your life.</p>
 
-<p>- Bob Proctor</p>
+<p>- Ralph Marston</p>
