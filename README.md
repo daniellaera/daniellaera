@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in changing that we find purpose.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>- Heraclitus</p>
+<p>- Soren Kierkegaard</p>
