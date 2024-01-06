@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>Every day passes whether you participate or not.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Ming-Dao Deng</p>
