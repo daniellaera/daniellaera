@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>Everything is possible. The impossible just takes longer.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Dan Brown</p>
