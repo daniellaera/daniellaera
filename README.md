@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your commitments will determine the course of your life.</p>
+<p>The more you take responsibility for your past and present, the more you are able to create the future you seek.</p>
 
-<p>- Ralph Marston</p>
+<p>- Celestine Chua</p>
