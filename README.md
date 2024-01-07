@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where focus goes, energy flows.</p>
+<p>The power of man has grown in every sphere, except over himself.</p>
 
-<p>- Tony Robbins</p>
+<p>- Winston Churchill</p>
