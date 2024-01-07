@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Sonia Ricotti</p>
