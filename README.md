@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no truth. There is only perception.</p>
+<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Sydney Smith</p>
