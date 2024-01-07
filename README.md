@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As a matter of fact is an expression that precedes many an expression that isn't.</p>
+<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Kamal Ravikant</p>
