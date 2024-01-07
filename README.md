@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
+<p>A tiny change today brings a dramatically different tomorrow.</p>
 
-<p>- Brian Tracy</p>
+<p>- Richard Bach</p>
