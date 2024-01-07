@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
+<p>There is no truth. There is only perception.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Gustave Flaubert</p>
