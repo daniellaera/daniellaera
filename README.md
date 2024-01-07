@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One beam, no matter how big, cannot support an entire house on its own.</p>
+<p>The first principle of success is desire.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robert Collier</p>
