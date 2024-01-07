@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can often change your circumstances by changing your attitude.</p>
+<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Deepak Chopra</p>
