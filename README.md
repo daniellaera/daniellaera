@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first principle of success is desire.</p>
+<p>Ability is a poor man's wealth.</p>
 
-<p>- Robert Collier</p>
+<p>- John Wooden</p>
