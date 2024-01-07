@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
 
-<p>- W. Clement Stone</p>
+<p>- Paramahansa Yogananda</p>
