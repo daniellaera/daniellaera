@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Albert Einstein</p>
