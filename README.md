@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude, not aptitude, determines altitude.  </p>
+<p>Every failure brings with it the seed of an equivalent success.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Napoleon Hill</p>
