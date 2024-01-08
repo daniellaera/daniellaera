@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk to someone about themselves and they'll listen for hours.</p>
+<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Elon Musk</p>
