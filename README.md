@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
 
-<p>- Martin Luther</p>
+<p>- Bruce Lee</p>
