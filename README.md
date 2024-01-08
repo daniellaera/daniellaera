@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>- Criss Jami</p>
+<p>- Chinese Proverb</p>
