@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Dale Carnegie</p>
