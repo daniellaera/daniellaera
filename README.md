@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>It's not what you pay a man, but what he costs you that counts.</p>
 
-<p>- Bruce Lee</p>
+<p>- Will Rogers</p>
