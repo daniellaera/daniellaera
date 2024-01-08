@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to become younger.</p>
+<p>The biggest challenge after success is shutting up about it.</p>
 
-<p>- Mae West</p>
+<p>- Criss Jami</p>
