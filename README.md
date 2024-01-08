@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>You are never too old to become younger.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Mae West</p>
