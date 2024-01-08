@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
+<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
 
-<p>- Elon Musk</p>
+<p>- Carlos Ruiz Zafon</p>
