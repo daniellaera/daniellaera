@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every failure brings with it the seed of an equivalent success.</p>
+<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Earl Nightingale</p>
