@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
+<p>What would you do if you weren't afraid?</p>
 
-<p>- Albert Einstein</p>
+<p>- Spencer Johnson</p>
