@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
+<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
 
-<p>- Winston Churchill</p>
+<p>- Tony Robbins</p>
