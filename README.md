@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just get out and do it. You will be very, very glad that you did.</p>
+<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Winston Churchill</p>
