@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every act of creation is first an act of destruction.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Arnold Schwarzenegger</p>
