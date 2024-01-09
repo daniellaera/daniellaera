@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
+<p>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Henry Ward Beecher</p>
