@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are for dreamers. Goals are for achievers.</p>
+<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Roy T. Bennett</p>
