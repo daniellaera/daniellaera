@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>An ounce of performance is worth pounds of promises.</p>
 
-<p>- Plato</p>
+<p>- Mae West</p>
