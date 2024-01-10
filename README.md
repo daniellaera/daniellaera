@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
+<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
 
-<p>- Tony Robbins</p>
+<p>- Earl Nightingale</p>
