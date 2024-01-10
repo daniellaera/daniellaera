@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let what you cannot do interfere with what you can do.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>- John Wooden</p>
+<p>- Bob Proctor</p>
