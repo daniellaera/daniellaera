@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>Be kind, for everyone you meet is fighting a harder battle.</p>
 
-<p>- Bob Proctor</p>
+<p>- Plato</p>
