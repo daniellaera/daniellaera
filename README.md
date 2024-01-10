@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
+<p>Don't let what you cannot do interfere with what you can do.</p>
 
-<p>- Earl Nightingale</p>
+<p>- John Wooden</p>
