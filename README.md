@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>- Og Mandino</p>
+<p>- Marcus Aurelius</p>
