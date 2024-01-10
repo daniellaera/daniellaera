@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An ounce of performance is worth pounds of promises.</p>
+<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
 
-<p>- Mae West</p>
+<p>- Roy T. Bennett</p>
