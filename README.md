@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You make your own luck if you stay at it long enough.</p>
+<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Aristotle</p>
