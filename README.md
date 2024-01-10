@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are, it's the place you need to be.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Gary Keller</p>
