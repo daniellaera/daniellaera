@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-control is strength.</p>
+<p>Be kind whenever possible. It is always possible.</p>
 
-<p>- James Allen</p>
+<p>- Dalai Lama</p>
