@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hut full of laughter is richer than a palace full of sadness.</p>
+<p>Still your waters.</p>
 
-<p>- Zen Proverb</p>
+<p>- Josh Waitzkin</p>
