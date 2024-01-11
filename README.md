@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We create the world and ourselves;</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Lolly Daskal</p>
