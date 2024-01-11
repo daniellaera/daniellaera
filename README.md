@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Sonia Ricotti</p>
