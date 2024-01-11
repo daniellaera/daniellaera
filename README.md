@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Henry David Thoreau</p>
