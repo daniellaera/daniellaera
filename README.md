@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Dogen</p>
