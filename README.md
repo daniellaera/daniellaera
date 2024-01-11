@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it is not right, do not do it, if it is not true, do not say it.</p>
+<p>We create the world and ourselves;</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Ming-Dao Deng</p>
