@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>If you aim at nothing, you will hit it every time.  </p>
 
-<p>- Earl Nightingale</p>
+<p>- Zig Ziglar</p>
