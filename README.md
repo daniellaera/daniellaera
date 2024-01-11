@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Walt Whitman</p>
