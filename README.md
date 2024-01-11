@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is much more successfully looked at from a single window.</p>
+<p>Imagination is the beginning of creation.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- George Bernard Shaw</p>
