@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Happiness. Happiness is the path.</p>
+<p>The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.</p>
 
-<p>- Dan Millman</p>
+<p>- Charles Dickens</p>
