@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>Rivers know this: there is no hurry. We shall get there some day.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- A.A. Milne</p>
