@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
 
-<p>- Jim Rohn</p>
+<p>- Kamal Ravikant</p>
