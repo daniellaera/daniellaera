@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Lily Tomlin</p>
