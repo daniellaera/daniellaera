@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to see what you see.</p>
+<p>You must either modify your dreams or magnify your skills.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Jim Rohn</p>
