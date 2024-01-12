@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Earl Nightingale</p>
