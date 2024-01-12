@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
+<p>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Dr. Seuss</p>
