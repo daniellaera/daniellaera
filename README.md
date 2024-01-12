@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>Don't spend major time on minor things.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Jim Rohn</p>
