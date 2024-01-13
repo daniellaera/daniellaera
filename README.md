@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
+<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
 
-<p>- David Brinkley</p>
+<p>- Tony Robbins</p>
