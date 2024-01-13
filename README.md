@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>All happiness depends on courage and work.</p>
 
-<p>- Franz Kafka</p>
+<p>- Honore de Balzac</p>
