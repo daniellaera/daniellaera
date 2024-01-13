@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</p>
 
-<p>- Barack Obama</p>
+<p>- Spencer Johnson</p>
