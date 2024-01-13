@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to be looked over than overlooked.</p>
+<p>No matter what happens, always be yourself.</p>
 
-<p>- Mae West</p>
+<p>- Dale Carnegie</p>
