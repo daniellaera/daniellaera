@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
 
-<p>- Naval Ravikant</p>
+<p>- David Brinkley</p>
