@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>- Bette Midler</p>
+<p>- Franz Kafka</p>
