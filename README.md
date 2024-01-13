@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't have anything worthwhile without difficulties.</p>
+<p>We will now discuss in a little more detail the Struggle for Existence.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Charles Darwin</p>
