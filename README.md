@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day wasted on others is not wasted on one's self.</p>
+<p>Real loss is only possible when you love something more than you love yourself.</p>
 
-<p>- Charles Dickens</p>
+<p>- Robin Williams</p>
