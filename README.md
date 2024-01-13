@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see yourself as prosperous, you will be.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Robert Collier</p>
+<p>- Barack Obama</p>
