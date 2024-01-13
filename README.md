@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Ralph Waldo Emerson</p>
