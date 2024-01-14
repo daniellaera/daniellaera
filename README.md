@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>Confidence breeds beauty.  </p>
 
-<p>- Napoleon Hill</p>
+<p>- Estee Lauder</p>
