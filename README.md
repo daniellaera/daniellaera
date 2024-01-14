@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Benjamin Franklin</p>
