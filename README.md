@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
+<p>It is not the knowing that is difficult, but the doing. </p>
 
-<p>- Charles Darwin</p>
+<p>- Chinese Proverb</p>
