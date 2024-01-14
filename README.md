@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>Being wrong opens us up to the possibility of change.</p>
 
-<p>- Elon Musk</p>
+<p>- Mark Manson</p>
