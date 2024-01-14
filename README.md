@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</p>
+<p>The first step is to establish that something is possible; then probability will occur.</p>
 
-<p>- Aristotle</p>
+<p>- Elon Musk</p>
