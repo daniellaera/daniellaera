@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Charles Darwin</p>
