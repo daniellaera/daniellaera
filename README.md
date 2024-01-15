@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are disturbed not by things, but by the view which they take of them.</p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>- Epictetus</p>
+<p>- Estee Lauder</p>
