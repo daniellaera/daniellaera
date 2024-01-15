@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
+<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Roy T. Bennett</p>
