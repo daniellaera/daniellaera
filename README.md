@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity: doing the same thing over and over again and expecting different results.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- Albert Einstein</p>
+<p>- Eckhart Tolle</p>
