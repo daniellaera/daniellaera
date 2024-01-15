@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>- Estee Lauder</p>
+<p>- George Bernard Shaw</p>
