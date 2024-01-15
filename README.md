@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Maxime Lagace</p>
