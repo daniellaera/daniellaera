@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Carl Jung</p>
