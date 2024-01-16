@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One loyal friend is worth ten thousand relatives.</p>
+<p>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</p>
 
-<p>- Euripides</p>
+<p>- Winston Churchill</p>
