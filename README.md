@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
+<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Celestine Chua</p>
