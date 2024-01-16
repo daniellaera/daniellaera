@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
+<p>Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robert Greene</p>
