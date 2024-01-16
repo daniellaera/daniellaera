@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your heart is full of fertile seeds, waiting to sprout.</p>
+<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Criss Jami</p>
