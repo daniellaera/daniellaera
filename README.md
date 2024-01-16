@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
+<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- James Matthew Barrie</p>
