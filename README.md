@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</p>
+<p>Where there's life, there's hope.</p>
 
-<p>- Winston Churchill</p>
+<p>- Stephen Hawking</p>
