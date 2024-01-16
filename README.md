@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
+<p>Who you are is defined by what you're willing to struggle for.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Mark Manson</p>
