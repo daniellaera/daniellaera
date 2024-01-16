@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</p>
+<p>Your heart is full of fertile seeds, waiting to sprout.</p>
 
-<p>- Billie Jean King</p>
+<p>- Morihei Ueshiba</p>
