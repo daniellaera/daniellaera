@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who you are is defined by what you're willing to struggle for.</p>
+<p>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</p>
 
-<p>- Mark Manson</p>
+<p>- Billie Jean King</p>
