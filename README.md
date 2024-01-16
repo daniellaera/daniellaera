@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There can be no deep disappointment where there is not deep love.</p>
+<p>To affect the quality of the day, that is the highest of arts.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Henry David Thoreau</p>
