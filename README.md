@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Children are our greatest natural resource.</p>
+<p>When the root is strong, the fruit is sweet.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Bob Marley</p>
