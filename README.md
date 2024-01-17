@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
+<p>an action committed in anger is an action doomed to failure. </p>
 
-<p>- Naval Ravikant</p>
+<p>- Genghis Khan</p>
