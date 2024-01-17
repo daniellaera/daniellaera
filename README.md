@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
 
-<p>- Samuel Butler</p>
+<p>- D. H. Lawrence</p>
