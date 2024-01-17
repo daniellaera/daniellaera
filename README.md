@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Gary Keller</p>
