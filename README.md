@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>Goodness is the only investment that never fails.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Henry David Thoreau</p>
