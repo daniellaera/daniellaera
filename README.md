@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the dancer and you are the dance.</p>
+<p>One of the first signs of the beginning of understanding is the wish to die. </p>
 
-<p>- Eckhart Tolle</p>
+<p>- Franz Kafka</p>
