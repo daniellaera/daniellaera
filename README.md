@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
 
-<p>- Alexander Pope</p>
+<p>- Zig Ziglar</p>
