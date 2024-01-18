@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>Words are the clothing of our thoughts.</p>
 
-<p>- Unknown</p>
+<p>- Jonathan Swift</p>
