@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We turn not older with years but newer every day.</p>
+<p>Fear is what stops you. Courage is what keeps you going.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Unknown</p>
