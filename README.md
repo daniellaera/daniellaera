@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>- Lao Tzu</p>
+<p>- Audrey Hepburn</p>
