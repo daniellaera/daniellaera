@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>Honor is the foundation of courage.</p>
 
-<p>- Bob Proctor</p>
+<p>- Amelia Earhart</p>
