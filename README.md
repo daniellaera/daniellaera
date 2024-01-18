@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is to be willing to die over and over again.</p>
+<p>It takes a very long time to become young.</p>
 
-<p>- Pema Chodron</p>
+<p>- Pablo Picasso</p>
