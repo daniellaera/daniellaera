@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is merely the name for the desire and pursuit of the whole.</p>
+<p>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</p>
 
-<p>- Aristophanes</p>
+<p>- Brian Tracy</p>
