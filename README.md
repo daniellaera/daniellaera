@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The deeper the truth in a creative work, the longer it will live.  </p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Jim Rohn</p>
