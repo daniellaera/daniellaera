@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you admire was once a beginner.</p>
+<p>The deeper the truth in a creative work, the longer it will live.  </p>
 
-<p>- Jack Butcher</p>
+<p>- Charlie Chaplin</p>
