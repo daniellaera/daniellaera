@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must find the place inside yourself where nothing is impossible.</p>
+<p>Unhappiness enters through a door that has been left open.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Zen Proverb</p>
