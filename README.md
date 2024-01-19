@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
 
-<p>- St. Jerome</p>
+<p>- F. Scott Fitzgerald</p>
