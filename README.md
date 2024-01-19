@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go for it now. The future is promised to no one. </p>
+<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Zig Ziglar</p>
