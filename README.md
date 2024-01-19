@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all self-made, but only the successful will admit it.</p>
+<p>Some of your greatest lessons come from your darkest moments.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Roger Lee</p>
