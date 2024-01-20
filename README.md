@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>Don't criticize what you can't understand. </p>
 
-<p>- Henry David Thoreau</p>
+<p>- Bob Dylan</p>
