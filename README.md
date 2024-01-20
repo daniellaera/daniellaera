@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Peace. Peace is the path.</p>
+<p>While some of us act without thinking, too many of us think without acting.</p>
 
 <p>- Dan Millman</p>
