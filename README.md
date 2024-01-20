@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Margaret Mead</p>
+<p>- Benjamin Franklin</p>
