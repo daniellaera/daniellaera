@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without pride, let go without attachment.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Martin Luther</p>
