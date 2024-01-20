@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>Life is love and love is life.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Elvis Presley</p>
