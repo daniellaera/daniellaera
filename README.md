@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>Life can be wonderful if you're not afraid of it.</p>
 
-<p>- Martin Luther</p>
+<p>- Charlie Chaplin</p>
