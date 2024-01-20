@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Through discipline comes freedom.</p>
+<p>There is no path to Peace. Peace is the path.</p>
 
-<p>- Aristotle</p>
+<p>- Dan Millman</p>
