@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
+<p>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</p>
 
-<p>- Dan Millman</p>
+<p>- Kamal Ravikant</p>
