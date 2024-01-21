@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Maxime Lagace</p>
