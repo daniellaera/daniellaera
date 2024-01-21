@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
 
-<p>- Elon Musk</p>
+<p>- Carlos Ruiz Zafon</p>
