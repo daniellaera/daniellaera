@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Oprah Winfrey</p>
