@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can stop one heart from breaking, I shall not live in vain.</p>
+<p>Sometimes you have to travel a long way to find what is near.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Paulo Coelho</p>
