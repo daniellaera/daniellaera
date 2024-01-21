@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a constant series of opportunities.</p>
+<p>If I love myself I love you. If I love you I love myself.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Rumi</p>
