@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Michael Jordan</p>
