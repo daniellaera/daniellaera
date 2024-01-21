@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Ming-Dao Deng</p>
