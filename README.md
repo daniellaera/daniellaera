@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Why do you stay in prison when the door is so wide open?</p>
 
-<p>- Maxime Lagace</p>
+<p>- Rumi</p>
