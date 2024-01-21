@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to travel a long way to find what is near.</p>
+<p>The heart wants what it wants - or else it does not care.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Emily Dickinson</p>
