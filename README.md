@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're curious, you find lots of interesting things to do.</p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>- Walt Disney</p>
+<p>- Napoleon Hill</p>
