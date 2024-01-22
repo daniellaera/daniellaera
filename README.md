@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I love myself I love you. If I love you I love myself.</p>
+<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
 
-<p>- Rumi</p>
+<p>- Hans Christian Andersen</p>
