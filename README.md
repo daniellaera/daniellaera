@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
+<p>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Sathya Sai Baba</p>
