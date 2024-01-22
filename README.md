@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good stance and posture reflect a proper state of mind.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Mahatma Gandhi</p>
