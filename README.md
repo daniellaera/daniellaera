@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take away love and our earth is a tomb.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>- Robert Browning</p>
+<p>- Anne Frank</p>
