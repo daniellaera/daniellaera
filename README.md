@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A goal is a dream with a deadline.</p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Unknown</p>
