@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
 
-<p>- Yoko Ono</p>
+<p>- Vince Lombardi</p>
