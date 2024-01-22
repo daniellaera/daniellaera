@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>- Alfred Adler</p>
+<p>- Robin Williams</p>
