@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</p>
+<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Estee Lauder</p>
