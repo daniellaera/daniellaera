@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Jack Butcher</p>
