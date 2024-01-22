@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
+<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
 
-<p>- Estee Lauder</p>
+<p>- Peter Drucker</p>
