@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn the pain into power.</p>
+<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
 
-<p>- Unknown</p>
+<p>- Roy T. Bennett</p>
