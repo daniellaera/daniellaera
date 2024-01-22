@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give so much away people insist on paying you.</p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>- Jack Butcher</p>
+<p>- Yoko Ono</p>
