@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to find yourself is to lose yourself in the service of others.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Dale Carnegie</p>
