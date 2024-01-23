@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make each day your masterpiece.</p>
+<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
 
-<p>- John Wooden</p>
+<p>- Richard Bach</p>
