@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
+<p>Reality is the leading cause of stress among those in touch with it.</p>
 
-<p>- Richard Bach</p>
+<p>- Lily Tomlin</p>
