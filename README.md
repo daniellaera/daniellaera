@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
+<p>The ones who are crazy enough to think they can change the world, are the ones that do.</p>
 
-<p>- Estee Lauder</p>
+<p>- Steve Jobs</p>
