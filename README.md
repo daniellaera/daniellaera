@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Robert F. Kennedy</p>
