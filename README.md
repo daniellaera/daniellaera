@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is not fatal, but failure to change might be.</p>
+<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
 
-<p>- John Wooden</p>
+<p>- Criss Jami</p>
