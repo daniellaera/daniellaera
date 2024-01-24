@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything flows, nothing stands still.</p>
+<p>Success on the outside means nothing unless you also have success within.</p>
 
-<p>- Heraclitus</p>
+<p>- Robin Sharma</p>
