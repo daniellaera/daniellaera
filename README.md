@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simple words, repeated daily, can change your life.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Steve Harvey</p>
