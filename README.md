@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Age is a very high price to pay for maturity.</p>
+<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
 
-<p>- William James</p>
+<p>- Charles Spurgeon</p>
