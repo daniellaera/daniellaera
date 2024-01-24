@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Samuel Butler</p>
