@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ayn Rand</p>
