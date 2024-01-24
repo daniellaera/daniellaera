@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will not do incredible things without an incredible dream.</p>
+<p>Facts are the enemy of truth. </p>
 
-<p>- John Eliot</p>
+<p>- Miguel de Cervantes</p>
