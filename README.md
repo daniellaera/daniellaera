@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>- Samuel Butler</p>
+<p>- Pablo Picasso</p>
