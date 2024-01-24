@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
+<p>You will not do incredible things without an incredible dream.</p>
 
-<p>- Lao Tzu</p>
+<p>- John Eliot</p>
