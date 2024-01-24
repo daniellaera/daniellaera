@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
+<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
 
-<p>- Napoleon Hill</p>
+<p>- George Bernard Shaw</p>
