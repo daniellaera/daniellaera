@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best of us sometimes eat our words.  </p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>- Albus Dumbledore</p>
+<p>- Chinese Proverb</p>
