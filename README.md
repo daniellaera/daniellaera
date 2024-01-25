@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wisest men follow their own direction.</p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>- Euripides</p>
+<p>- Jonathan Swift</p>
