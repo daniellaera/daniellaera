@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
+<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
 
 <p>- Brian Tracy</p>
