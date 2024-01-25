@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
+<p>An ounce of performance is worth pounds of promises.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Mae West</p>
