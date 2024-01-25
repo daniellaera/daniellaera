@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>- Alfred Adler</p>
+<p>- Tony Robbins</p>
