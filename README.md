@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Simon Sinek</p>
