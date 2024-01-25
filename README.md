@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An ounce of performance is worth pounds of promises.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>- Mae West</p>
+<p>- Elbert Hubbard</p>
