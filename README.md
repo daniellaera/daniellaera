@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way to 'find out if it will work out' is to do it.</p>
+<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
 
-<p>- Simon Sinek</p>
+<p>- Voltaire</p>
