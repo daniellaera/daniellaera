@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you need inspiration, don't do it.</p>
+<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
 
-<p>- Elon Musk</p>
+<p>- Charles Swindoll</p>
