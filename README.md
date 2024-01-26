@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
+<p>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</p>
 
-<p>- Gary Keller</p>
+<p>- Sathya Sai Baba</p>
