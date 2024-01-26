@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not believe that you will reach your destination without leaving the shore. </p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Gilbert Chesterton</p>
