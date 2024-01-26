@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't allow your mind to tell your heart what to do. The mind gives up easily.</p>
+<p>Believe you can and you will be halfway there.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Lolly Daskal</p>
