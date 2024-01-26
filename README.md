@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>Your only obligation in any lifetime is to be true to yourself.</p>
 
-<p>- Alan Watts</p>
+<p>- Richard Bach</p>
