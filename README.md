@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is that it stops.</p>
+<p>Don't allow your mind to tell your heart what to do. The mind gives up easily.</p>
 
-<p>- Franz Kafka</p>
+<p>- Paulo Coelho</p>
