@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Stephen King</p>
