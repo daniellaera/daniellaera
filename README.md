@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>- Aristotle</p>
+<p>- Gary Keller</p>
