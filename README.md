@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to love anything is to realize that it may be lost.</p>
+<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Unknown</p>
