@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The impossible can always be broken down into possibilities.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Unknown</p>
+<p>- Adi Da Samraj</p>
