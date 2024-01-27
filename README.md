@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fortunate are those who take the first steps.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Unknown</p>
