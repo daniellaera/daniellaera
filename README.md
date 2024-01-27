@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Sathya Sai Baba</p>
