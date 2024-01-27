@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</p>
+<p>See what you're doing wrong, laugh at it, change and do better.</p>
 
-<p>- Seneca</p>
+<p>- Spencer Johnson</p>
