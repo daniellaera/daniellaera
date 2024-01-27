@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no coming to consciousness without pain</p>
+<p>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</p>
 
-<p>- Carl Jung</p>
+<p>- Alan Watts</p>
