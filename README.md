@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do your best. What you plant now, you will harvest later.</p>
+<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
 
-<p>- Og Mandino</p>
+<p>- Pema Chodron</p>
