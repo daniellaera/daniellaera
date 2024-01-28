@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
 
-<p>- Bette Midler</p>
+<p>- Winston Churchill</p>
