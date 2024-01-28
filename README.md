@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
+<p>No great discovery was ever made without a bold guess. </p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Isaac Newton</p>
