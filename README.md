@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>There is no greater agony than bearing an untold story inside you.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Maya Angelou</p>
