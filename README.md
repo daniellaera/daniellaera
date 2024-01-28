@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>- Unknown</p>
+<p>- Alexander Pope</p>
