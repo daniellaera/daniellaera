@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
 
-<p>- Robin Sharma</p>
+<p>- Robert Kiyosaki</p>
