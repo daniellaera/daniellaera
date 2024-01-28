@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
 
-<p>- Unknown</p>
+<p>- Ming-Dao Deng</p>
