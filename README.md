@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Naval Ravikant</p>
