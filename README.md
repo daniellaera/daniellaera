@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Waste not fresh tears over old griefs.</p>
+<p>It takes a very long time to become young.</p>
 
-<p>- Euripides</p>
+<p>- Pablo Picasso</p>
