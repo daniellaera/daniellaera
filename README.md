@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy when you can, and endure when you must.</p>
+<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Robert Greene</p>
