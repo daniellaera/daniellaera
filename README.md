@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a very long time to become young.</p>
+<p>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Alexandre Dumas</p>
