@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better a diamond with a flaw than a pebble without one.</p>
+<p>Fear can hold you prisoner. Hope can set you free.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Stephen King</p>
