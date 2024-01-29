@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absence makes the heart grow fonder.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Naval Ravikant</p>
