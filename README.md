@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
+<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
 
-<p>- Robert Greene</p>
+<p>- Chinese Proverb</p>
