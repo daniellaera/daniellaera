@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Mae West</p>
