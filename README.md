@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best teacher is experience and not through someone's distorted point of view.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Thomas Edison</p>
