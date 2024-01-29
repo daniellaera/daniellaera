@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
 
-<p>- Thomas Edison</p>
+<p>- Charles Dickens</p>
