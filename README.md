@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The reward of suffering is experience.</p>
+<p>Who you are is always right.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Ming-Dao Deng</p>
