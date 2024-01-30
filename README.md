@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</p>
+<p>Death walks faster than the wind and never returns what he has taken.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Hans Christian Andersen</p>
