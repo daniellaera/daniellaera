@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
+<p>There is no truth. There is only perception.</p>
 
-<p>- Les Brown</p>
+<p>- Gustave Flaubert</p>
