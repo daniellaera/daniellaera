@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Les Brown</p>
