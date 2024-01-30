@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Zen Proverb</p>
+<p>- Elbert Hubbard</p>
