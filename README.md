@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
+<p>Difficulties strengthen the mind, as labor does the body.  </p>
 
-<p>- Jim Rohn</p>
+<p>- Seneca</p>
