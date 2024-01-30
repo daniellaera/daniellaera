@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death walks faster than the wind and never returns what he has taken.</p>
+<p>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Steve Jobs</p>
