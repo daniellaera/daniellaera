@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who you are is always right.</p>
+<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Carl Jung</p>
