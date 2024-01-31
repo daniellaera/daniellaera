@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>All you need is the plan, the road map, and the courage to press on to your destination.</p>
 
-<p>- Colin Powell</p>
+<p>- Earl Nightingale</p>
