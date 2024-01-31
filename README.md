@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>You cannot find peace by avoiding life.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Virginia Woolf</p>
