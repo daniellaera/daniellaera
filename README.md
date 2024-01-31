@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Dudley Field Malone</p>
