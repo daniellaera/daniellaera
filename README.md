@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Looking after my health today gives me a better hope for tomorrow. </p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Dan Millman</p>
