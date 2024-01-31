@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Carl Jung</p>
