@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Peter Drucker</p>
