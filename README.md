@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
+<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
 
-<p>- John Wooden</p>
+<p>- Maxime Lagace</p>
