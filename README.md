@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the behavior of others destroy your inner peace.</p>
+<p>The more we value things, the less we value ourselves.  </p>
 
-<p>- Dalai Lama</p>
+<p>- Bruce Lee</p>
