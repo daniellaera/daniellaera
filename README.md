@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The merit of all things lies in their difficulty.</p>
+<p>To handle yourself, use your head; to handle others, use your heart.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Eleanor Roosevelt</p>
