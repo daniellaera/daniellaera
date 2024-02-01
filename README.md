@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be yourself; everyone else is already taken.</p>
+<p>Don't let the behavior of others destroy your inner peace.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Dalai Lama</p>
