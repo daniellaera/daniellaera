@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>Confidence comes not from always being right but not fearing to be wrong.</p>
 
-<p>- Og Mandino</p>
+<p>- Unknown</p>
