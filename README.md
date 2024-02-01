@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day without laughter is a day wasted.</p>
+<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Mark Manson</p>
