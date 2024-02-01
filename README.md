@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your cents: dollars will take care of themselves.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Lolly Daskal</p>
