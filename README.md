@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes not from always being right but not fearing to be wrong.</p>
+<p>You are not only responsible for what you say, but also for what you do not say. </p>
 
-<p>- Unknown</p>
+<p>- Martin Luther</p>
