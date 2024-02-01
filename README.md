@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>- Mark Manson</p>
+<p>- Dr. Seuss</p>
