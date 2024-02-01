@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is rarely pure and never simple. </p>
+<p>Imagination means nothing without doing.  </p>
 
-<p>- Oscar Wilde</p>
+<p>- Charlie Chaplin</p>
