@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody needs a passion. That's what keeps life interesting.</p>
+<p>Troubles are often the tools by which God fashions us for better things.</p>
 
-<p>- Betty White</p>
+<p>- Henry Ward Beecher</p>
