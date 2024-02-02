@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Conrad Hilton</p>
