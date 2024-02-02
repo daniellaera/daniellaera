@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>Believe you can and you're halfway there.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Theodore Roosevelt</p>
