@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
+<p>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</p>
 
-<p>- Celestine Chua</p>
+<p>- Elbert Hubbard</p>
