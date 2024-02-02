@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>- Maya Angelou</p>
+<p>- Celestine Chua</p>
