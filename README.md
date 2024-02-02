@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
+<p>The heart wants what it wants - or else it does not care.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Emily Dickinson</p>
