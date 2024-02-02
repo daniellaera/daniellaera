@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
 
-<p>- Zen Proverb</p>
+<p>- Maya Angelou</p>
