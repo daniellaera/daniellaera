@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Elon Musk</p>
+<p>- Lao Tzu</p>
