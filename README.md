@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Elon Musk</p>
