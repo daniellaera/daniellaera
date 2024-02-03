@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death smiles at us all. All we can do is smile back.</p>
+<p>You must be willing to do what others won't do, to have what others won't have.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Les Brown</p>
