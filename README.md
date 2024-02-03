@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
+<p>To live is to be willing to die over and over again.</p>
 
-<p>- Celestine Chua</p>
+<p>- Pema Chodron</p>
