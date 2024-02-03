@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is to be willing to die over and over again.</p>
+<p>It is our choices that show what we truly are, far more than our abilities.</p>
 
-<p>- Pema Chodron</p>
+<p>- Albus Dumbledore</p>
