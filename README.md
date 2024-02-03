@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be happy now, without reason - or you never will be at all.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>- Dan Millman</p>
+<p>- Earl Nightingale</p>
