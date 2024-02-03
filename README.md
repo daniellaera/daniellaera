@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
+<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Wayne Gretzky</p>
