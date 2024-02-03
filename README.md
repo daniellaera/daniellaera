@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest doer must also be a great dreamer.</p>
+<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Samuel Beckett</p>
