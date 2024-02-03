@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What have you done today to make someone else happy?</p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Gary Keller</p>
