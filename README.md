@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't always championships.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>- Michael Jordan</p>
+<p>- Earl Nightingale</p>
