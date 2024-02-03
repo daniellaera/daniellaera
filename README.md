@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>Death smiles at us all. All we can do is smile back.</p>
 
-<p>- Huang Po</p>
+<p>- Marcus Aurelius</p>
