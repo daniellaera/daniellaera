@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The art of being wise is knowing what to overlook.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>- William James</p>
+<p>- Helen Keller</p>
