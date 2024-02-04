@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
+<p>Nature loves to hide.</p>
 
-<p>- William James</p>
+<p>- Heraclitus</p>
