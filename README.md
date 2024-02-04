@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give way to laziness.</p>
+<p>There is a big difference between being centered and being self-centered.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Lolly Daskal</p>
