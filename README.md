@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a constant series of opportunities.</p>
+<p>The art of being wise is knowing what to overlook.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- William James</p>
