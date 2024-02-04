@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't have time to do it right, when will you have time to do it over?</p>
+<p>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</p>
 
-<p>- John Wooden</p>
+<p>- Charles Dickens</p>
