@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</p>
+<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
 
-<p>- Charles Dickens</p>
+<p>- Roy T. Bennett</p>
