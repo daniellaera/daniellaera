@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>- Aristotle</p>
+<p>- Ming-Dao Deng</p>
