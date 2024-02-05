@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Guilt is perhaps the most painful companion of death.</p>
 
-<p>- Alan Watts</p>
+<p>- Coco Chanel</p>
