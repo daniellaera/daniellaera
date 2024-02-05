@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know your gifts and share them.</p>
+<p>Our deeds determine us, as much as we determine our deeds.</p>
 
-<p>- Les Brown</p>
+<p>- George Eliot</p>
