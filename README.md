@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>- George Eliot</p>
+<p>- John Wooden</p>
