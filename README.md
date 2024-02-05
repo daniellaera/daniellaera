@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Desire is suffering.</p>
+<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Deepak Chopra</p>
