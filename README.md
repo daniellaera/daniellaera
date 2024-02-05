@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
+<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Tony Robbins</p>
