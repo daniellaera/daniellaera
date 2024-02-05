@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Guilt is perhaps the most painful companion of death.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Coco Chanel</p>
+<p>- Gary Keller</p>
