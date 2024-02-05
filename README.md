@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
+<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
 
-<p>- Yanni</p>
+<p>- Jack Butcher</p>
