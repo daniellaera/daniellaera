@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to change others' minds is with affection, and not anger.</p>
+<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
 
-<p>- Dalai Lama</p>
+<p>- Robert F. Kennedy</p>
