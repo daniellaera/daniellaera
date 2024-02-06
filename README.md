@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Marcus Aurelius</p>
