@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The grass is greener where you water it.</p>
+<p>Anger begins with folly, and ends with repentance. </p>
 
-<p>- Neil Barringham</p>
+<p>- Beverly Sills</p>
