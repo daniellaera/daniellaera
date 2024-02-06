@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>A poet should be so crafty with words that he is envied even for his pains.</p>
 
-<p>- Confucius</p>
+<p>- Criss Jami</p>
