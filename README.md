@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A poet should be so crafty with words that he is envied even for his pains.</p>
+<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
 
-<p>- Criss Jami</p>
+<p>- Gustave Flaubert</p>
