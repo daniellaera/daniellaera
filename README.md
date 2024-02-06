@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Harry S. Truman</p>
