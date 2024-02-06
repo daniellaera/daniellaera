@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forget safety. Live where you fear to live.</p>
+<p>Each day provides it's own gifts.</p>
 
-<p>- Rumi</p>
+<p>- Marcus Aurelius</p>
