@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
+<p>How you think when you lose determines how long it will be until you win.</p>
 
-<p>- Mother Teresa</p>
+<p>- Gilbert Chesterton</p>
