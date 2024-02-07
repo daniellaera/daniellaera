@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I want the fishing rod, not the fish.</p>
+<p>The friendship that can cease has never been real. </p>
 
-<p>- Yanni</p>
+<p>- St. Jerome</p>
