@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>- John Eliot</p>
+<p>- Epictetus</p>
