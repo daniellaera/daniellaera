@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are illusions of the mind.</p>
+<p>We live only now. Everything else is either passed or is unknown.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Marcus Aurelius</p>
