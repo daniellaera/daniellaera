@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust, but verify.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Eckhart Tolle</p>
