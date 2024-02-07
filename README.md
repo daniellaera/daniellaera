@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let anyone define you. You define yourself.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>- Billie Jean King</p>
+<p>- Helen Keller</p>
