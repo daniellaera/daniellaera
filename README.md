@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reality is nothing but a collective hunch.</p>
+<p>Men are disturbed not by things, but by the view which they take of them.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Epictetus</p>
