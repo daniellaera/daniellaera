@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the most difficult things is not to change society - but to change yourself.</p>
+<p>Superstars think like superstars long before the fans or the press anoint them.</p>
 
-<p>- Nelson Mandela</p>
+<p>- John Eliot</p>
