@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>I want the fishing rod, not the fish.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Yanni</p>
