@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friendship that can cease has never been real. </p>
+<p>Trust, but verify.</p>
 
-<p>- St. Jerome</p>
+<p>- Ronald Reagan</p>
