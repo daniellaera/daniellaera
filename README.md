@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing endures but change.</p>
+<p>Intense love does not measure, it just gives.</p>
 
-<p>- Heraclitus</p>
+<p>- Mother Teresa</p>
