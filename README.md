@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality means doing it right when no one is looking.</p>
+<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
 
-<p>- Henry Ford</p>
+<p>- Mark Twain</p>
