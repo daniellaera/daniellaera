@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>Loving thoughts and actions are clearly beneficial for our physical and mental health.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Dalai Lama</p>
