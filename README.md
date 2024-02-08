@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</p>
+<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
 
-<p>- Steve Harvey</p>
+<p>- Brian Tracy</p>
