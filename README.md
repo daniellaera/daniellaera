@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>I put my heart and soul into my work, and I have lost my mind in the process.</p>
 
-<p>- Margaret Mead</p>
+<p>- Vincent van Gogh</p>
