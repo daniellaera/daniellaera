@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>- Richard Bach</p>
+<p>- Norman Vincent Peale</p>
