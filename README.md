@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Henry Ford</p>
