@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be fascinated instead of frustrated.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Chinese Proverb</p>
