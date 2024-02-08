@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure in the job puts perfection in the work.</p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>- Aristotle</p>
+<p>- Robert Kiyosaki</p>
