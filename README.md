@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>- Brian Tracy</p>
+<p>- Carol Burnett</p>
