@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Mahatma Gandhi</p>
