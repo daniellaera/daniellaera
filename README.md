@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>- Mark Twain</p>
+<p>- Eleanor Roosevelt</p>
