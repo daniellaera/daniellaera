@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>Be fascinated instead of frustrated.</p>
 
-<p>- Carol Burnett</p>
+<p>- Jim Rohn</p>
