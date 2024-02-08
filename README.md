@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
+<p>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Steve Harvey</p>
