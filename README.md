@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
+<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
 
-<p>- Steve Harvey</p>
+<p>- Morihei Ueshiba</p>
