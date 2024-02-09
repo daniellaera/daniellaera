@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not take life too seriously. You will never get out of it alive.</p>
+<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- John Tukey</p>
