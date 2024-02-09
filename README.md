@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
+<p>There are as many opinions as there are experts.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Franklin D. Roosevelt</p>
