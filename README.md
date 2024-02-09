@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
+<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
 
-<p>- Anne Frank</p>
+<p>- Brian Tracy</p>
