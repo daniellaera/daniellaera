@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Harry S. Truman</p>
