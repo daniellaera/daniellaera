@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The power of man has grown in every sphere, except over himself.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>- Winston Churchill</p>
+<p>- Vincent van Gogh</p>
