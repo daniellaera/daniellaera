@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The question is not what you look at, but what you see.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Conrad Hilton</p>
