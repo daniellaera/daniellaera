@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Steve Harvey</p>
