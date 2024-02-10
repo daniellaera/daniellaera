@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Belief creates the actual fact.</p>
+<p>Change your thoughts and you change your world.</p>
 
-<p>- William James</p>
+<p>- Norman Vincent Peale</p>
