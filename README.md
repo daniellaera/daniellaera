@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change your thoughts and you change your world.</p>
+<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Brian Tracy</p>
