@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is a matter of preparation meeting opportunity.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Mark Twain</p>
