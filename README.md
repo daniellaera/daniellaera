@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>Luck is a matter of preparation meeting opportunity.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Oprah Winfrey</p>
