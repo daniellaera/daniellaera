@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>- Steve Harvey</p>
+<p>- Spencer Johnson</p>
