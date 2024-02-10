@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be one person in this world, but to one person you may mean the world.</p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>- Unknown</p>
+<p>- Helen Keller</p>
