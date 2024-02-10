@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Unknown</p>
