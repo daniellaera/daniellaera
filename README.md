@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
+<p>The scariest moment is always just before you start. After that, things can only get better.</p>
 
-<p>- Brian Tracy</p>
+<p>- Stephen King</p>
