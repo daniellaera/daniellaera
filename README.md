@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
+<p>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</p>
 
-<p>- William Faulkner</p>
+<p>- J.R.R. Tolkien</p>
