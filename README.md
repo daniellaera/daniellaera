@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
+<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </p>
 
-<p>- Seungsahn</p>
+<p>- Jack London</p>
