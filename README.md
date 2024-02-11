@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't program yourself, life will program you.</p>
+<p>A life without a cause is a life without effect.</p>
 
-<p>- Les Brown</p>
+<p>- Paulo Coelho</p>
