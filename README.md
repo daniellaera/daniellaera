@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
 
-<p>- Dogen</p>
+<p>- Seungsahn</p>
