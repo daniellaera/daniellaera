@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
+<p>If you don't program yourself, life will program you.</p>
 
-<p>- Brian Tracy</p>
+<p>- Les Brown</p>
