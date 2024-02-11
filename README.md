@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
+<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Brian Tracy</p>
