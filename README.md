@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools talk, cowards are silent, wise men listen.</p>
+<p>Forever is composed of now's.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Emily Dickinson</p>
