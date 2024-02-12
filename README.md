@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An ounce of performance is worth pounds of promises.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>- Mae West</p>
+<p>- Chinese Proverb</p>
