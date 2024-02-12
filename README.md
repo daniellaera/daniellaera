@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Theodore Roosevelt</p>
