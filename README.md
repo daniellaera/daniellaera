@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
+<p>The deeper the truth in a creative work, the longer it will live.  </p>
 
-<p>- Marilyn Monroe</p>
+<p>- Charlie Chaplin</p>
