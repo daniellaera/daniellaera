@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
+<p>Just do what must be done. This may not be happiness but it is greatness.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- George Bernard Shaw</p>
