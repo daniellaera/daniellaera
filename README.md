@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- Brian Tracy</p>
+<p>- Celestine Chua</p>
