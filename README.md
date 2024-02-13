@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace if possible, truth at all costs.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Martin Luther</p>
+<p>- Benjamin Franklin</p>
