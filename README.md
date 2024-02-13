@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>Being wrong opens us up to the possibility of change.</p>
 
-<p>- Robert Greene</p>
+<p>- Mark Manson</p>
