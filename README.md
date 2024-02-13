@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>- Buddha</p>
+<p>- Ming-Dao Deng</p>
