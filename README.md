@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must accept finite disappointment, but never lose infinite hope.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Chinese Proverb</p>
