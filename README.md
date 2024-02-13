@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make each day a new horizon.</p>
+<p>Treat every moment as your last. It is not preparation for something else.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Shunryu Suzuki</p>
