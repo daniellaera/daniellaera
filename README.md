@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Kamal Ravikant</p>
