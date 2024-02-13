@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Even a hare will bite when it is cornered. </p>
 
 <p>- Chinese Proverb</p>
