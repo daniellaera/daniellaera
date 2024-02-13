@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let each man exercise the art he knows.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Aristophanes</p>
+<p>- Martin Luther King, Jr.</p>
