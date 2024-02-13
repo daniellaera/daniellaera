@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a series of choices and all we can do is make them.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Robert Greene</p>
