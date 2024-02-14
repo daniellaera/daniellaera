@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make peace with your inner turmoil.</p>
+<p>Management is doing things right; leadership is doing the right things.</p>
 
-<p>- Unknown</p>
+<p>- Peter Drucker</p>
