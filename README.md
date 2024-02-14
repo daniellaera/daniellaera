@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to learn late than never.</p>
+<p>A little impatience will spoil great plans.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Chinese Proverb</p>
