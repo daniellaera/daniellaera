@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyday you can take a tiny step in the right direction.</p>
+<p>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</p>
 
-<p>- Unknown</p>
+<p>- Charles Spurgeon</p>
