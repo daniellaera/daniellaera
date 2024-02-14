@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>The time is now, the place is here. Stay in the present.</p>
 
-<p>- Bodhidharma</p>
+<p>- Dan Millman</p>
