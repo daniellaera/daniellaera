@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>- Peter Drucker</p>
+<p>- Bodhidharma</p>
