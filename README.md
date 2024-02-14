@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>- Bob Marley</p>
+<p>- Ralph Marston</p>
