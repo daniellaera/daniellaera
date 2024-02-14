@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little impatience will spoil great plans.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Paulo Coelho</p>
