@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
 
-<p>- Bodhidharma</p>
+<p>- John Wooden</p>
