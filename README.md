@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>- Unknown</p>
+<p>- Maya Angelou</p>
