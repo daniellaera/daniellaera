@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is more important than knowledge.</p>
+<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
 
-<p>- Albert Einstein</p>
+<p>- Unknown</p>
