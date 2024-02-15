@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Albert Einstein</p>
