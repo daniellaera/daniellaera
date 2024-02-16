@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>- Criss Jami</p>
+<p>- Lin Yutang</p>
