@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>- Winston Churchill</p>
+<p>- Criss Jami</p>
