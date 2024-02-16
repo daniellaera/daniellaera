@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man is guilty of all the good he did not do. </p>
+<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
 
-<p>- Voltaire</p>
+<p>- Winston Churchill</p>
