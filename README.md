@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>Don't try to steer the river.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Deepak Chopra</p>
