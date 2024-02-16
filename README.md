@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm. Be kind.</p>
+<p>Less is more.</p>
 
-<p>- Colin Powell</p>
+<p>- Robert Browning</p>
