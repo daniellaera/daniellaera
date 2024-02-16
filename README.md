@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
+<p>A single dream is more powerful than a thousand realities.</p>
 
-<p>- Buddha</p>
+<p>- J.R.R. Tolkien</p>
