@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Working hard for something we don't care about is called stress: Working hard for something we love is called passion.</p>
+<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
 
-<p>- Simon Sinek</p>
+<p>- Charles Dickens</p>
