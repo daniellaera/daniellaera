@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
+<p>Most of the evil in this world is done by people with good intentions.</p>
 
-<p>- Chinese Proverb</p>
+<p>- T.S. Eliot</p>
