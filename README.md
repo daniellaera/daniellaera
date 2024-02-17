@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>- Charles Dickens</p>
+<p>- Bruce Lee</p>
