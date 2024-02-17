@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
 
-<p>- Elon Musk</p>
+<p>- Eckhart Tolle</p>
