@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Lolly Daskal</p>
