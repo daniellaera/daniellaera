@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</p>
+<p>I believe that one of life's greatest risks is never daring to risk.</p>
 
-<p>- Charles Darwin</p>
+<p>- Oprah Winfrey</p>
