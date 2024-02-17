@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Changing minds is harder than finding people who already agree.</p>
+<p>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</p>
 
-<p>- Jack Butcher</p>
+<p>- Aristotle</p>
