@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fool me once, shame on you; fool me twice, shame on me. </p>
+<p>Changing minds is harder than finding people who already agree.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Jack Butcher</p>
