@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
+<p>Fool me once, shame on you; fool me twice, shame on me. </p>
 
-<p>- Rita Mae Brown</p>
+<p>- Chinese Proverb</p>
