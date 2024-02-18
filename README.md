@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>- Rumi</p>
+<p>- Wayne Dyer</p>
