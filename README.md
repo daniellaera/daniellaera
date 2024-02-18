@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enlightenment is intimacy with all things.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>- Dogen</p>
+<p>- Bruce Lee</p>
