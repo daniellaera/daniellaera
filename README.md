@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>I've always tried to go a step past wherever people expected me to end up.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Beverly Sills</p>
