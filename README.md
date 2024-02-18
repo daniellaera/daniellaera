@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
+<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Dogen</p>
