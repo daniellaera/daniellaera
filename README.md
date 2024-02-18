@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're never too old for anything.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- Betty White</p>
+<p>- Mahatma Gandhi</p>
