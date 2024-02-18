@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
 
-<p>- Lao Tzu</p>
+<p>- George Bernard Shaw</p>
