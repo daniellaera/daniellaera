@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Rumi</p>
