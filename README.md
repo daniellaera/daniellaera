@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to find yourself is to lose yourself in the service of others.</p>
+<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Arnold Schwarzenegger</p>
