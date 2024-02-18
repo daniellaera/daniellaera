@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
+<p>Believe you can and you will be halfway there.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Lolly Daskal</p>
