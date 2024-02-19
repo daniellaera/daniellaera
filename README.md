@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>- Brian Tracy</p>
+<p>- Albert Einstein</p>
