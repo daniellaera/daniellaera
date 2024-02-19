@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>The giving of love is an education in itself.</p>
 
-<p>- Seneca</p>
+<p>- Eleanor Roosevelt</p>
