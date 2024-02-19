@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being wrong brings the opportunity for growth.</p>
+<p>The biggest room in the world is the room for improvement.</p>
 
-<p>- Mark Manson</p>
+<p>- Unknown</p>
