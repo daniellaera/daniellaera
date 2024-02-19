@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Brian Tracy</p>
