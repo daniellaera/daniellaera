@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
+<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
 
-<p>- Zig Ziglar</p>
+<p>- F. Scott Fitzgerald</p>
