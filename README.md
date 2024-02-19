@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
+<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Jon Kabat-Zinn</p>
