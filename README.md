@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fiction is the truth inside the lie.</p>
+<p>Love is not about possession. Love is about appreciation.</p>
 
-<p>- Stephen King</p>
+<p>- Osho</p>
