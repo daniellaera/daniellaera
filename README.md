@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Alexander Graham Bell</p>
