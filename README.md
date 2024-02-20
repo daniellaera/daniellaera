@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
+<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Deepak Chopra</p>
