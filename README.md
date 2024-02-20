@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one ever said life was fair. Just Eventful.</p>
+<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
 
-<p>- Carol Burnett</p>
+<p>- Zen Proverb</p>
