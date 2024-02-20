@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>- Deepak Chopra</p>
+<p>- Kahlil Gibran</p>
