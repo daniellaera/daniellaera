@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Mark Twain</p>
