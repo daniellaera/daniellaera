@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Relax. Nothing is under control.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Walt Whitman</p>
