@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>- Unknown</p>
+<p>- Deepak Chopra</p>
