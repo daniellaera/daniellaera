@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Theodore Roosevelt</p>
