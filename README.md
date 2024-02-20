@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is like money, easier made than kept.</p>
+<p>The essence of the Way is detachment.</p>
 
-<p>- Samuel Butler</p>
+<p>- Bodhidharma</p>
