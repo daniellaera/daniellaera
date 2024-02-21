@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- Rumi</p>
+<p>- Earl Nightingale</p>
