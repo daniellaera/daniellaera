@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may delay, but time will not.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Benjamin Franklin</p>
+<p>- Orison Swett Marden</p>
