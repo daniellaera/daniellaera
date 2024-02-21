@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are for dreamers. Goals are for achievers.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Henry Ward Beecher</p>
