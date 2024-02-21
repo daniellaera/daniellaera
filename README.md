@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Roy T. Bennett</p>
