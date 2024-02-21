@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows best knows how little he knows.</p>
+<p>Time you enjoy wasting, was not wasted.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- John Lennon</p>
