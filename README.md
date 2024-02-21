@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life may be full of pain but that's not an excuse to give up.</p>
+<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Honore de Balzac</p>
