@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- W. Clement Stone</p>
