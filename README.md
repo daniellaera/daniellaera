@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide what your truth is. Then live it.</p>
+<p>Better to light a candle than to curse the darkness. </p>
 
-<p>- Kamal Ravikant</p>
+<p>- Chinese Proverb</p>
