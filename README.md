@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By perseverance the snail reached the ark.</p>
+<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Ayn Rand</p>
