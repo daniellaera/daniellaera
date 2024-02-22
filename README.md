@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>Forget safety. Live where you fear to live.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Rumi</p>
