@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forget safety. Live where you fear to live.</p>
+<p>Intelligence is the ability to adapt to change.</p>
 
-<p>- Rumi</p>
+<p>- Stephen Hawking</p>
