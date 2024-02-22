@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence is the ability to adapt to change.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Ming-Dao Deng</p>
