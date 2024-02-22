@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humans and prosperity never endure side by side for long.</p>
+<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
 
-<p>- Herodotus</p>
+<p>- Marcus Aurelius</p>
