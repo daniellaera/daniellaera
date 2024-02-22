@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
 
 <p>- Roy T. Bennett</p>
