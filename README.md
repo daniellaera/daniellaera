@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to light a candle than to curse the darkness. </p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>- Chinese Proverb</p>
+<p>- Herodotus</p>
