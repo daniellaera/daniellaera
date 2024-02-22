@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each day your life grows a day shorter. Make every move count.</p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Bob Marley</p>
