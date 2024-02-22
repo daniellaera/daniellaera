@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
+<p>Decide what your truth is. Then live it.</p>
 
-<p>- Ayn Rand</p>
+<p>- Kamal Ravikant</p>
