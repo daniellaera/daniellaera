@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Socrates</p>
