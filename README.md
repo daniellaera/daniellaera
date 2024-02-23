@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
+<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Josh Waitzkin</p>
