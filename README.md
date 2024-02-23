@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dreamers are the saviors of the worlds.</p>
+<p>Is it really possible to tell someone else what one feels?</p>
 
-<p>- James Allen</p>
+<p>- Leo Tolstoy</p>
