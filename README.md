@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
 
-<p>- Socrates</p>
+<p>- Bob Marley</p>
