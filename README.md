@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Is it really possible to tell someone else what one feels?</p>
+<p>Being entirely honest with oneself is a good exercise.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Sigmund Freud</p>
