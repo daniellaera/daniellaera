@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The river that flows in you also flows in me.</p>
+<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
 
-<p>- Kabir</p>
+<p>- Jon Kabat-Zinn</p>
