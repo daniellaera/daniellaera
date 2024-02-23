@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
 
-<p>- Dogen</p>
+<p>- Paulo Coelho</p>
