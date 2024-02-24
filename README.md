@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>How much pain they have cost us, the evils which have never happened.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Thomas Jefferson</p>
