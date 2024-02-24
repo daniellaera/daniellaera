@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Start each day with a positive thought and a grateful heart.</p>
+<p>Success is within the reach of just about everyone.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Lolly Daskal</p>
