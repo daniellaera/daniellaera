@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember we're all in this alone.</p>
+<p>Question everything. Learn something. Answer nothing.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Euripides</p>
