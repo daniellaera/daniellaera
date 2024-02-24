@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past has no power over the present moment. </p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Will Rogers</p>
