@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pen is the tongue of the mind. </p>
+<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Sathya Sai Baba</p>
