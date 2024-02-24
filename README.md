@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
+<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
 
-<p>- Will Rogers</p>
+<p>- Richard Bach</p>
