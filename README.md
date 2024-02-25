@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>Freedom lies in being bold.</p>
 
-<p>- Criss Jami</p>
+<p>- Robert Frost</p>
