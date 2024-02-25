@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>Heal the past, live the present, dream the future.</p>
 
-<p>- Jim Rohn</p>
+<p>- Mary Engelbreit</p>
