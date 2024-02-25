@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
+<p>Mastering others is strength, mastering yourself is true power.</p>
 
-<p>- Bob Proctor</p>
+<p>- Lao Tzu</p>
