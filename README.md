@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>Everyone sees what you appear to be, few experience what you really are.</p>
 
-<p>- Lao Tzu</p>
+<p>- Niccolo Machiavelli</p>
