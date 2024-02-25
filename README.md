@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
+<p>You must either modify your dreams or magnify your skills.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Jim Rohn</p>
