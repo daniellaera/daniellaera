@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>The season of failure is the best time for sowing the seeds of success. </p>
 
-<p>- Robert Frost</p>
+<p>- Paramahansa Yogananda</p>
