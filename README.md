@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>The guest will judge better of a feast than the cook.</p>
 
-<p>- Seneca</p>
+<p>- Aristotle</p>
