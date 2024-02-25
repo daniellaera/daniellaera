@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The season of failure is the best time for sowing the seeds of success. </p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Sonia Ricotti</p>
