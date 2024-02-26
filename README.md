@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Norman Vincent Peale</p>
