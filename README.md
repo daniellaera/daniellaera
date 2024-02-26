@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is the price that life exacts for granting peace.</p>
+<p>Remain calm. Be kind.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Colin Powell</p>
