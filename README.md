@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between winning and losing is most often not quitting.</p>
+<p>A change is brought about because ordinary people do extraordinary things.</p>
 
-<p>- Walt Disney</p>
+<p>- Barack Obama</p>
