@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how tall the mountain is, it cannot block the sun.</p>
+<p>People don't care how much you know until they know how much you care.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Theodore Roosevelt</p>
