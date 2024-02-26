@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>- Honore de Balzac</p>
+<p>- Franz Kafka</p>
