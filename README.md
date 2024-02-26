@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good things aren't supposed to just fall into your lap.</p>
+<p>Even though you are on the right track - you will get run over if you just sit there.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Will Rogers</p>
