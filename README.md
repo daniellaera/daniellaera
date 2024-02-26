@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Miguel de Cervantes</p>
