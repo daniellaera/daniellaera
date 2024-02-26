@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The final mystery is oneself.</p>
+<p>I love fools' experiments. I am always making them.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Charles Darwin</p>
