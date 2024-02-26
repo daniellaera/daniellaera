@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You become stronger with every problem you face and every obstacle you overcome.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>- Celestine Chua</p>
+<p>- Honore de Balzac</p>
