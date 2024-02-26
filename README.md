@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
+<p>You become stronger with every problem you face and every obstacle you overcome.</p>
 
-<p>- John Carmack</p>
+<p>- Celestine Chua</p>
