@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People don't care how much you know until they know how much you care.</p>
+<p>Your vision will become clear only when you can look into your own heart.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Lolly Daskal</p>
