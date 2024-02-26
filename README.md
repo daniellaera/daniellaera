@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
+<p>You can never get enough of what you don't need to make you happy.</p>
 
-<p>- Huang Po</p>
+<p>- Eric Hoffer</p>
