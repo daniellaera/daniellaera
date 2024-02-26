@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Maxime Lagace</p>
