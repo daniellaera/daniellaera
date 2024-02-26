@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>Good things aren't supposed to just fall into your lap.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Audrey Hepburn</p>
