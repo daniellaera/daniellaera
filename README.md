@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Epictetus</p>
