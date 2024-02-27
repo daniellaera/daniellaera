@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Og Mandino</p>
