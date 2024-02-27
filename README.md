@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.</p>
+<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
 
-<p>- Richard Bach</p>
+<p>- Albert Einstein</p>
