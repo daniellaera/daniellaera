@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
+<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Bhagavad Gita</p>
