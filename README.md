@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>There is little success where there is little laughter.</p>
 
-<p>- Brian Tracy</p>
+<p>- Andrew Carnegie</p>
