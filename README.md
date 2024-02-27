@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something to move yourself toward your major goal every day.</p>
+<p>All wealth is the product of labor.</p>
 
-<p>- Brian Tracy</p>
+<p>- John Locke</p>
