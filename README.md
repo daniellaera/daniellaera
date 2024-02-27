@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
+<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
 
-<p>- Judy Garland</p>
+<p>- Eric Hoffer</p>
