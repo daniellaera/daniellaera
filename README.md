@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I love fools' experiments. I am always making them.</p>
+<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
 
-<p>- Charles Darwin</p>
+<p>- Eleanor Roosevelt</p>
