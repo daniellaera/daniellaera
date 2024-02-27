@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Robert Kiyosaki</p>
