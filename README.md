@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We suffer more often in imagination than in reality.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Seneca</p>
+<p>- Benjamin Franklin</p>
