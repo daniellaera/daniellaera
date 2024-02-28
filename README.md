@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>The only way round is through.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Robert Frost</p>
