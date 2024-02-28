@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>- Steve Maraboli</p>
+<p>- C. Sean McGee</p>
