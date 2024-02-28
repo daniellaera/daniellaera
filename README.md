@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a consequence and must not be a goal.</p>
+<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Zig Ziglar</p>
