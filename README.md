@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
+<p>When you move beyond your fear, you feel free.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Spencer Johnson</p>
