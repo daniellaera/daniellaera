@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
+<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
 
-<p>- C. Sean McGee</p>
+<p>- F. Scott Fitzgerald</p>
