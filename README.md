@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>- Kabir</p>
+<p>- Sathya Sai Baba</p>
