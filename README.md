@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Abraham Lincoln</p>
