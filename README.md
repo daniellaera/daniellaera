@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>All religions, arts and sciences are branches of the same tree. </p>
 
-<p>- Voltaire</p>
+<p>- Albert Einstein</p>
