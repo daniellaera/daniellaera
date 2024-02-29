@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All power is from within and therefore under our control.</p>
+<p>Wealth consists not in having great possessions, but in having few wants.</p>
 
-<p>- Robert Collier</p>
+<p>- Epictetus</p>
