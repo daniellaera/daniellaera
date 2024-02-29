@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about creating value.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>- Candice Carpenter</p>
+<p>- Robert Collier</p>
