@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe yourself to be.</p>
+<p>What have you done today to make someone else happy?</p>
 
-<p>- Paulo Coelho</p>
+<p>- Deepam Chaterjee</p>
