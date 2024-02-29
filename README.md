@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>The best way out is always through.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Robert Frost</p>
