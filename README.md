@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wealth consists not in having great possessions, but in having few wants.</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>- Epictetus</p>
+<p>- Henry David Thoreau</p>
