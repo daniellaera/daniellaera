@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way to 'find out if it will work out' is to do it.</p>
+<p>The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.</p>
 
-<p>- Simon Sinek</p>
+<p>- Herodotus</p>
