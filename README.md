@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Roy T. Bennett</p>
