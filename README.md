@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try to be a rainbow in someone's cloud.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>- Maya Angelou</p>
+<p>- Thomas Edison</p>
