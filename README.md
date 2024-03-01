@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Charles Dickens</p>
