@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
+<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Henry Ward Beecher</p>
