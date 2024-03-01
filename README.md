@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not a problem to be solved, but a reality to be experienced.</p>
+<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Vincent van Gogh</p>
