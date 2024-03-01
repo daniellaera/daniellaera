@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is no more uncertain than the present.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>- Walt Whitman</p>
+<p>- Aristotle</p>
