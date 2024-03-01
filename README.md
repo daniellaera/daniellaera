@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>- Bob Dylan</p>
+<p>- Soren Kierkegaard</p>
