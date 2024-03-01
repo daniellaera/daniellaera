@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>It is not fair to ask of others what you are not willing to do yourself.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Eleanor Roosevelt</p>
