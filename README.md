@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
 
-<p>- Aristotle</p>
+<p>- Brian Tracy</p>
