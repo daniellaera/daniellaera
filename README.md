@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
+<p>There is no such thing as a great talent without great willpower.</p>
 
-<p>- Brian Tracy</p>
+<p>- Honore de Balzac</p>
