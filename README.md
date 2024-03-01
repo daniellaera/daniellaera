@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never close your lips to those whom you have already opened your heart.</p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>- Charles Dickens</p>
+<p>- Bob Dylan</p>
