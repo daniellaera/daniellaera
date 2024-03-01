@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only defense against the world is a thorough knowledge of it.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>- John Locke</p>
+<p>- Simon Sinek</p>
