@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm an optimist by choice not by stupidity.</p>
+<p>Youth has no age.</p>
 
-<p>- Yanni</p>
+<p>- Pablo Picasso</p>
