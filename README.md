@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>- Dan Brown</p>
+<p>- George Washington</p>
