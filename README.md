@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is much more successfully looked at from a single window.</p>
+<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Marilyn Monroe</p>
