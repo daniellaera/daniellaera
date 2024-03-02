@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Barack Obama</p>
