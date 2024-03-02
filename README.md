@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Dan Brown</p>
