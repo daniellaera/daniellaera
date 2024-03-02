@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Jim Rohn</p>
