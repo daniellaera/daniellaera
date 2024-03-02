@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only lost cause is one we give up on before we enter the struggle.</p>
+<p>There exists only the present instant; a Now which always and without end is itself new.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Meister Eckhart</p>
