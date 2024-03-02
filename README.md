@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>- Lao Tzu</p>
+<p>- Christopher Columbus</p>
