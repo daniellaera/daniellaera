@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Here and now...breathe and relax...in battle and in life.</p>
+<p>Life is much more successfully looked at from a single window.</p>
 
-<p>- Dan Millman</p>
+<p>- F. Scott Fitzgerald</p>
