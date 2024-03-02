@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>- George Washington</p>
+<p>- Dan Millman</p>
