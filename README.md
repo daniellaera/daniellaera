@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
+<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Charles Swindoll</p>
