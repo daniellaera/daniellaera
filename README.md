@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goodness is the only investment that never fails.</p>
+<p>Imagination is the true magic carpet.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Norman Vincent Peale</p>
