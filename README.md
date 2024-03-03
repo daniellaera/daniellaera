@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way out is in.</p>
+<p>None but ourselves can free our minds.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Bob Marley</p>
