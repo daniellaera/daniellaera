@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools talk, cowards are silent, wise men listen.</p>
+<p>Never trust he who trusts everyone.</p>
 
 <p>- Carlos Ruiz Zafon</p>
