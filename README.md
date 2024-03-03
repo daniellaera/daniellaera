@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>- Aristotle</p>
+<p>- Tony Robbins</p>
