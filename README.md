@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is stupid. So are regrets.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Benjamin Franklin</p>
