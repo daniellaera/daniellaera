@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
+<p>Don't worry about being successful, but work toward being significant and the success will naturally follow.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Oprah Winfrey</p>
