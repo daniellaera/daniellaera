@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never trust he who trusts everyone.</p>
+<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Kahlil Gibran</p>
