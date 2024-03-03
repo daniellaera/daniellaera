@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None but ourselves can free our minds.</p>
+<p>Do the difficult things while they are easy and do the great things while they are small.</p>
 
-<p>- Bob Marley</p>
+<p>- Lao Tzu</p>
