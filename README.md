@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
+<p>The way out is in.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Thich Nhat Hanh</p>
