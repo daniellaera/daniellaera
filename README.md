@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>- Robin Williams</p>
+<p>- Henry Ford</p>
