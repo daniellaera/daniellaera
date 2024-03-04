@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Comedy = tragedy + time.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>- Carol Burnett</p>
+<p>- Beverly Sills</p>
