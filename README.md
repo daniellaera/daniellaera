@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>It's not what you pay a man, but what he costs you that counts.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Will Rogers</p>
