@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>- Elon Musk</p>
+<p>- Michael Jordan</p>
