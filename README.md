@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>- Henry Ford</p>
+<p>- Benjamin Franklin</p>
