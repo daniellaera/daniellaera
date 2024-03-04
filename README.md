@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most courageous act is still to think for yourself. Aloud.</p>
+<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
 
-<p>- Coco Chanel</p>
+<p>- Elon Musk</p>
