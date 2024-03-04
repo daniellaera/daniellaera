@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>The best revenge is to be unlike him who performed the injury.</p>
 
-<p>- Unknown</p>
+<p>- Marcus Aurelius</p>
