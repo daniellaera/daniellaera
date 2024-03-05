@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We turn not older with years but newer every day.</p>
+<p>Life is but one dream flowing into another.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Ming-Dao Deng</p>
