@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>- Henry Ford</p>
+<p>- Robert Kiyosaki</p>
