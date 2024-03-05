@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is not about possession. Love is about appreciation.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Osho</p>
+<p>- John Wooden</p>
