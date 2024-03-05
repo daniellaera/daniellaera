@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be true to yourself, help others, make each day your masterpiece</p>
+<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
 
-<p>- John Wooden</p>
+<p>- Robert F. Kennedy</p>
