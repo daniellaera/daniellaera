@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>Whatever happens always happens on time.</p>
 
-<p>- Elon Musk</p>
+<p>- Zen Proverb</p>
