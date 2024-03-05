@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiny change today brings a dramatically different tomorrow.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Richard Bach</p>
+<p>- Emily Dickinson</p>
