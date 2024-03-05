@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up on your dreams, or your dreams will give up on you.</p>
+<p>Listen to the secret sound, the real sound, which is inside you.</p>
 
-<p>- John Wooden</p>
+<p>- Kabir</p>
