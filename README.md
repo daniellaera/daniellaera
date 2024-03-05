@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Steve Harvey</p>
