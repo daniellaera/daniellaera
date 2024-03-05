@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to the secret sound, the real sound, which is inside you.</p>
+<p>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</p>
 
-<p>- Kabir</p>
+<p>- John Wooden</p>
