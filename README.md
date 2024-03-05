@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Laziness may appear attractive, but work gives satisfaction.</p>
+<p>Love is not about possession. Love is about appreciation.</p>
 
-<p>- Anne Frank</p>
+<p>- Osho</p>
