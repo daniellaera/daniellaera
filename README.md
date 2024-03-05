@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>- Unknown</p>
+<p>- Anne Frank</p>
