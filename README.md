@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>- Henry Ford</p>
+<p>- John Wooden</p>
