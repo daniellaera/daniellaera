@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only difference between success and failure is the ability to take action.</p>
+<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Henry Ford</p>
