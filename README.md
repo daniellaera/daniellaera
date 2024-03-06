@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fall into a ditch makes you wiser.</p>
+<p>Courage is the price that life exacts for granting peace.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Amelia Earhart</p>
