@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
 
-<p>- Estee Lauder</p>
+<p>- Roy T. Bennett</p>
