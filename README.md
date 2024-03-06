@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Vision is the art of seeing things invisible.</p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Helen Keller</p>
