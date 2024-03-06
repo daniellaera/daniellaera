@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>Do what is right, not what is easy, nor what is popular.</p>
 
-<p>- Estee Lauder</p>
+<p>- Roy T. Bennett</p>
