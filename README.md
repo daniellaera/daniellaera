@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who never made a mistake never tried anything new.</p>
+<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
 
-<p>- Albert Einstein</p>
+<p>- Ronald Reagan</p>
