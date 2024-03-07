@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success comes to those who become success conscious.</p>
+<p>Being wrong brings the opportunity for growth.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Mark Manson</p>
