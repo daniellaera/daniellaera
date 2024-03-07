@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the difficult things while they are easy and do the great things while they are small.</p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>- Lao Tzu</p>
+<p>- D. H. Lawrence</p>
