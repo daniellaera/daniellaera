@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
 
-<p>- Robin Sharma</p>
+<p>- Colin Powell</p>
