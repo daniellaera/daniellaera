@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't have time to do it right, when will you have time to do it over?</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- John Wooden</p>
+<p>- Gary Keller</p>
