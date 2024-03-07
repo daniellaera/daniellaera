@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>- Ralph Marston</p>
+<p>- Criss Jami</p>
