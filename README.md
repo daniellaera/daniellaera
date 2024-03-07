@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be totally at leisure for one day is to be immortal for one day. </p>
+<p>Learning never exhausts the mind. </p>
 
-<p>- Chinese Proverb</p>
+<p>- Leonardo da Vinci</p>
