@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a long lesson in humility. </p>
+<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Theodore Roosevelt</p>
