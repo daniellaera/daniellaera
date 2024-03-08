@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Mark Twain</p>
