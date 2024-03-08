@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who you are is defined by what you're willing to struggle for.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>- Mark Manson</p>
+<p>- Oprah Winfrey</p>
