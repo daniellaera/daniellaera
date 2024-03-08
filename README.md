@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is simple. If it was complicated, everyone would understand it.</p>
+<p>It's possible in ways both large or small to make a difference in someone's life.</p>
 
-<p>- Walt Whitman</p>
+<p>- Yanni</p>
