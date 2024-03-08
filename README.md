@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Josh Waitzkin</p>
