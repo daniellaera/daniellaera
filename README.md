@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time is a game played beautifully by children.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>- Heraclitus</p>
+<p>- Paramahansa Yogananda</p>
