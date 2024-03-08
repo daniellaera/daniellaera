@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>True life is lived when tiny changes occur.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Leo Tolstoy</p>
