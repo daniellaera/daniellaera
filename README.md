@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Tony Robbins</p>
