@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>So long as we are being remembered, we remain alive.</p>
+<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Thich Nhat Hanh</p>
