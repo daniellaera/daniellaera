@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True life is lived when tiny changes occur.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Walt Whitman</p>
