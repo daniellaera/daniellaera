@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>- Samuel Butler</p>
+<p>- Ming-Dao Deng</p>
