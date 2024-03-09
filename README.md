@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Euripides</p>
+<p>- Samuel Butler</p>
