@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Everybody has talent, but ability takes hard work.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Michael Jordan</p>
