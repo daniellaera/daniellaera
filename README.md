@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>- Jim Rohn</p>
+<p>- Henry Ford</p>
