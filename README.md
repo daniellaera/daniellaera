@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to sit back and observe, not everything needs a reaction.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>- Unknown</p>
+<p>- Ming-Dao Deng</p>
