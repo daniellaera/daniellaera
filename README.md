@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is not a four letter word...but often your reaction to it is!</p>
+<p>Remember we're all in this alone.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Lily Tomlin</p>
