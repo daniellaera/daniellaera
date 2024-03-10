@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
+<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
 
-<p>- Steve Harvey</p>
+<p>- Criss Jami</p>
