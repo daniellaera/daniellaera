@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most powerful warriors are patience and time.</p>
+<p>Reality is nothing but a collective hunch.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Lily Tomlin</p>
