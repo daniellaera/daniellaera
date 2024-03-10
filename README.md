@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings can alter their lives by altering their attitudes of mind.</p>
+<p>A man that flies from his fear may find that he has only taken a short cut to meet it.</p>
 
-<p>- William James</p>
+<p>- J.R.R. Tolkien</p>
