@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun is new each day.</p>
+<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
 
-<p>- Heraclitus</p>
+<p>- Dogen</p>
