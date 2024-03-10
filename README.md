@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>- Dogen</p>
+<p>- Elon Musk</p>
