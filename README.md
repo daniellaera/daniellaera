@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Human beings can alter their lives by altering their attitudes of mind.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- William James</p>
