@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Allow motion to equal emotion.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Huang Po</p>
