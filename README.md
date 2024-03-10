@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Les Brown</p>
+<p>- George Eliot</p>
