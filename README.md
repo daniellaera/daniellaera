@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smile, breathe and go slowly.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Pema Chodron</p>
