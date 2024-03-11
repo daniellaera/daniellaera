@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</p>
+<p>Don't talk about what you have done or what you are going to do.</p>
 
-<p>- Mark Twain</p>
+<p>- Thomas Jefferson</p>
