@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Showing off is the fool's idea of glory. </p>
+<p>No matter what happens in life, never lose sight of who you are.</p>
 
-<p>- Bruce Lee</p>
+<p>- Yanni</p>
