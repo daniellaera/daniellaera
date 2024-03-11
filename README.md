@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lack of emotion causes lack of progress and lack of motivation.</p>
+<p>Smile, breathe and go slowly.</p>
 
-<p>- Tony Robbins</p>
+<p>- Thich Nhat Hanh</p>
