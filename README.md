@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
+<p>Keep your face to the sunshine and you cannot see the shadows.</p>
 
-<p>- Michael Jordan</p>
+<p>- Helen Keller</p>
