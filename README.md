@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're curious, you find lots of interesting things to do.</p>
+<p>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</p>
 
-<p>- Walt Disney</p>
+<p>- Virginia Woolf</p>
