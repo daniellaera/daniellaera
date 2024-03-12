@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
+<p>One of the first signs of the beginning of understanding is the wish to die. </p>
 
-<p>- Josh Waitzkin</p>
+<p>- Franz Kafka</p>
