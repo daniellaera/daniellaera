@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>- Charles Darwin</p>
+<p>- Michael Jordan</p>
