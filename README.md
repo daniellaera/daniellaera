@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your face to the sunshine and you cannot see the shadows.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>- Helen Keller</p>
+<p>- Robert Kiyosaki</p>
