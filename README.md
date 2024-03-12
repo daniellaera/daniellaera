@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
+<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
 
-<p>- Lao Tzu</p>
+<p>- Og Mandino</p>
