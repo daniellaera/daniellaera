@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never was anything great achieved without danger.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Dr. Seuss</p>
