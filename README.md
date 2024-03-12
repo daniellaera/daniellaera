@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the first signs of the beginning of understanding is the wish to die. </p>
+<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
 
-<p>- Franz Kafka</p>
+<p>- Marcus Aurelius</p>
