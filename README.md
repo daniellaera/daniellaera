@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>- Aristophanes</p>
+<p>- Niccolo Machiavelli</p>
