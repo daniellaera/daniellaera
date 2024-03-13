@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>- Brian Tracy</p>
+<p>- Christopher McCandless</p>
