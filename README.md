@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>- Isaac Newton</p>
+<p>- Beverly Sills</p>
