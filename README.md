@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Richard Bach</p>
