@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>If you are far from the enemy, make him believe you are near.</p>
 
-<p>- Robert Collier</p>
+<p>- Sun Tzu</p>
