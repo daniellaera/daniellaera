@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Walt Disney</p>
