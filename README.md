@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is often achieved by those who don't know that failure is inevitable.</p>
+<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
 
-<p>- Coco Chanel</p>
+<p>- Robert Collier</p>
