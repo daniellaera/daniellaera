@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people get ahead during the time that others waste.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>- Henry Ford</p>
+<p>- Pablo Picasso</p>
