@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only encounters in history. There are no accidents.</p>
+<p>The time is always right to do what is right.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Martin Luther King, Jr.</p>
