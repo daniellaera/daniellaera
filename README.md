@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</p>
 
-<p>- Beverly Sills</p>
+<p>- Brian Tracy</p>
