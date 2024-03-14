@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>It is best to begin at the beginning.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Amelia Earhart</p>
