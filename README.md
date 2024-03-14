@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Criss Jami</p>
