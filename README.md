@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- Brian Tracy</p>
+<p>- Roy T. Bennett</p>
