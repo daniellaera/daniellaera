@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is always right to do what is right.</p>
+<p>Know yourself and you will win all battles.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Sun Tzu</p>
