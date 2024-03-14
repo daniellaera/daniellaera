@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that irritates us about others.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- Carl Jung</p>
+<p>- Earl Nightingale</p>
