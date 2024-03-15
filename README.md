@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Earl Nightingale</p>
