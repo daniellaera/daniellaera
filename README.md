@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
+<p>Trust, like the soul, never returns once it is gone.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Publilius Syrus</p>
