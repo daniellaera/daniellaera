@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My sun sets to rise again.</p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>- Robert Browning</p>
+<p>- Jeffrey Gitomer</p>
