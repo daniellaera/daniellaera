@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you chase two rabbits, you catch none.</p>
+<p>Every day do something that will inch you closer to a better tomorrow.</p>
 
-<p>- Confucius</p>
+<p>- Unknown</p>
