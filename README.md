@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are is the entry point.</p>
+<p>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</p>
 
-<p>- Kabir</p>
+<p>- Helen Keller</p>
