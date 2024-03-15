@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death is not an ending. It is a transformation.</p>
+<p>Choose to be optimistic, it feels better.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Dalai Lama</p>
