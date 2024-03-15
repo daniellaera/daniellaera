@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
 
-<p>- Unknown</p>
+<p>- Brian Tracy</p>
