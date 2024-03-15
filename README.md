@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Henry Ward Beecher</p>
