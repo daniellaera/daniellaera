@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There exists only the present instant; a Now which always and without end is itself new.</p>
+<p>Success is within the reach of just about everyone.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Lolly Daskal</p>
