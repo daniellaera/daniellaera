@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>Life is a journey, not a destination.</p>
 
-<p>- Elon Musk</p>
+<p>- Dan Millman</p>
