@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
+<p>Most people fail in life because they major in minor things.</p>
 
-<p>- Celestine Chua</p>
+<p>- Tony Robbins</p>
