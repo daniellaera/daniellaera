@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
+<p>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Steve Jobs</p>
