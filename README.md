@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a journey, not a destination.</p>
+<p>Don't let someone elses. opinion become your reality.</p>
 
-<p>- Dan Millman</p>
+<p>- Les Brown</p>
