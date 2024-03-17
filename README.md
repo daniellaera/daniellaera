@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True prayer has no set form.</p>
+<p>Nothing important is learned; it is simply remembered.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Carlos Ruiz Zafon</p>
