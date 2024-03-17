@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every limit is a beginning as well as an ending.</p>
+<p>Life does not get better by chance, it gets better by change.</p>
 
-<p>- George Eliot</p>
+<p>- Jim Rohn</p>
