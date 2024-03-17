@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Health is the greatest of all possessions.</p>
+<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Christopher Reeve</p>
