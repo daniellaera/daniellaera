@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>Help others achieve their dreams and you will achieve yours.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Les Brown</p>
