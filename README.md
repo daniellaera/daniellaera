@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest deception men suffer is from their own opinions.</p>
+<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Kamal Ravikant</p>
