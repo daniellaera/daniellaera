@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people feel the rain. Others just get wet. </p>
+<p>True prayer has no set form.</p>
 
-<p>- Bob Dylan</p>
+<p>- Morihei Ueshiba</p>
