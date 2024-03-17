@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>- Jim Rohn</p>
+<p>- Leonardo da Vinci</p>
