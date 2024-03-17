@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more I want to get something done, the less I call it work.</p>
+<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
 
-<p>- Richard Bach</p>
+<p>- Sun Tzu</p>
