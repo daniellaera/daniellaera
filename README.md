@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>Every limit is a beginning as well as an ending.</p>
 
-<p>- Spencer Johnson</p>
+<p>- George Eliot</p>
