@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you get up one more time than you fall, you will make it through.</p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Dr. Seuss</p>
