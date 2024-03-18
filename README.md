@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't worry about being successful, but work toward being significant and the success will naturally follow.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Joyce Meyer</p>
