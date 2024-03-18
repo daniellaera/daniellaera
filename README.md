@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
+<p>Don't worry about being successful, but work toward being significant and the success will naturally follow.</p>
 
-<p>- Steve Harvey</p>
+<p>- Oprah Winfrey</p>
