@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>Receive without pride, let go without attachment.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Marcus Aurelius</p>
