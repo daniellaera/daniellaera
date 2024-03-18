@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
+<p>The less you talk about your shame, the more of it you have.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Mark Manson</p>
