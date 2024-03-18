@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- Alan Watts</p>
+<p>- Johann Wolfgang von Goethe</p>
