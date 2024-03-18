@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Embrace the life you have and stop wishing that you could be someone else.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Alan Watts</p>
