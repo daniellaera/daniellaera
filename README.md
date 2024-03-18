@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Robert Greene</p>
