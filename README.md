@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A golden cage is still just a cage.</p>
+<p>Men are equal; it is not birth but virtue that makes the difference.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Voltaire</p>
