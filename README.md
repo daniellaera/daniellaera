@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every limit is a beginning as well as an ending.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>- George Eliot</p>
+<p>- Unknown</p>
