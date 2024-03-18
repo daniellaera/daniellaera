@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fall into a ditch makes you wiser.</p>
+<p>No matter how tall the mountain is, it cannot block the sun.</p>
 
 <p>- Chinese Proverb</p>
