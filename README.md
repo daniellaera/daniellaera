@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without pride, let go without attachment.</p>
+<p>Associate with people who are likely to improve you.  </p>
 
-<p>- Marcus Aurelius</p>
+<p>- Seneca</p>
