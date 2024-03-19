@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words, once they are printed, have a life of their own.</p>
+<p>Opportunities multiply as they are seized.</p>
 
-<p>- Carol Burnett</p>
+<p>- Sun Tzu</p>
