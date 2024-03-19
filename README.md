@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>You are free, and that is why you are lost.</p>
 
-<p>- Dan Brown</p>
+<p>- Franz Kafka</p>
