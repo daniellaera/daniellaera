@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of chaos lies opportunity.  </p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>- Bruce Lee</p>
+<p>- Jon Kabat-Zinn</p>
