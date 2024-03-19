@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always lived in the moment.</p>
+<p>You can't make someone feel good about themselves until you feel good about yourself.</p>
 
-<p>- Yanni</p>
+<p>- Robin Sharma</p>
