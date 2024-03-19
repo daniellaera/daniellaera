@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Love. Love is the path.</p>
+<p>Believe and you're halfway there.</p>
 
-<p>- Dan Millman</p>
+<p>- Harry S. Truman</p>
