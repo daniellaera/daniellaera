@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best fighter is never angry.</p>
+<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dan Brown</p>
