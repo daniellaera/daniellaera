@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles don't block the path, they are the path.</p>
+<p>Fiction is the truth inside the lie.</p>
 
-<p>- Zen Proverb</p>
+<p>- Stephen King</p>
