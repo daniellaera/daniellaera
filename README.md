@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.</p>
 
-<p>- Rumi</p>
+<p>- Mother Teresa</p>
