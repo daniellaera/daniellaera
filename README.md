@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe and you're halfway there.</p>
+<p>Aim for the moon. If you miss, you may hit a star.</p>
 
-<p>- Harry S. Truman</p>
+<p>- W. Clement Stone</p>
