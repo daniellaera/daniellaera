@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
+<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Ralph Marston</p>
