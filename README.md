@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
+<p>Don't let someone elses. opinion become your reality.</p>
 
-<p>- Yanni</p>
+<p>- Les Brown</p>
