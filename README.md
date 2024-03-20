@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
+<p>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Robert Frost</p>
