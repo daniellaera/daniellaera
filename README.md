@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conquer the devils with a little thing called love.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- Bob Marley</p>
+<p>- Charles Dickens</p>
