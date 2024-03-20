@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</p>
+<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
 
-<p>- Robert Frost</p>
+<p>- Yanni</p>
