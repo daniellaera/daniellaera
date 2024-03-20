@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
+<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Norman Vincent Peale</p>
