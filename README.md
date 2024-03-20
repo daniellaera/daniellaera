@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
+<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
 
-<p>- Tony Robbins</p>
+<p>- Mark Twain</p>
