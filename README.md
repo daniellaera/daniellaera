@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
+<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
 
-<p>- Criss Jami</p>
+<p>- Kamal Ravikant</p>
