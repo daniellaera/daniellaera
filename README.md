@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Ralph Marston</p>
+<p>- Charles Darwin</p>
