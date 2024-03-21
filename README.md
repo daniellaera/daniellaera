@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
+<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
 
-<p>- Mark Twain</p>
+<p>- Sigmund Freud</p>
