@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
+<p>If you can't feed a hundred people, then feed just one.</p>
 
-<p>- Rumi</p>
+<p>- Mother Teresa</p>
