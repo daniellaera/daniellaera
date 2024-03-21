@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</p>
+<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Mother Teresa</p>
