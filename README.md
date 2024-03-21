@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can change your mind, you can change your life.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>- William James</p>
+<p>- Audrey Hepburn</p>
