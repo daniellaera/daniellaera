@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
 
-<p>- Marilyn Monroe</p>
+<p>- Denis Waitley</p>
