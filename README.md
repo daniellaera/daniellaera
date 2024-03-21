@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
+<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
 
-<p>- Joan Rivers</p>
+<p>- Deepak Chopra</p>
