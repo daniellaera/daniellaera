@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
 
-<p>- Les Brown</p>
+<p>- Rumi</p>
