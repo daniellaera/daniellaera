@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
+<p>I am not what happened to me, I am what I choose to become.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Carl Jung</p>
