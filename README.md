@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
+<p>Don't stop when you're tired. Stop when you're done.</p>
 
-<p>- Tony Robbins</p>
+<p>- Marilyn Monroe</p>
