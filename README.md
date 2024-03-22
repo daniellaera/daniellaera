@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I begin with an idea and then it becomes something else.</p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Johann Wolfgang von Goethe</p>
