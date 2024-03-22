@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</p>
+<p>A fall into a ditch makes you wiser.</p>
 
-<p>- John Lennon</p>
+<p>- Chinese Proverb</p>
