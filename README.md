@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Les Brown</p>
+<p>- Morihei Ueshiba</p>
