@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
+<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
 
-<p>- Mark Manson</p>
+<p>- Les Brown</p>
