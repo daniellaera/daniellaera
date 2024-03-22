@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focused, hard work is the real key to success.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>- John Carmack</p>
+<p>- Oprah Winfrey</p>
