@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficulties strengthen the mind, as labor does the body.  </p>
+<p>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</p>
 
-<p>- Seneca</p>
+<p>- John Lennon</p>
