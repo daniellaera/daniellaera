@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fall into a ditch makes you wiser.</p>
+<p>It's not the men in your life that matters, it's the life in your men.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Mae West</p>
