@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
+<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Eckhart Tolle</p>
