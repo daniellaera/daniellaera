@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Og Mandino</p>
