@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Only put off until tomorrow what you are willing to die having left undone.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Pablo Picasso</p>
