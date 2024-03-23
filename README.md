@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man gotta right to decide his own destiny.</p>
+<p>If you want peace, you won't get it with violence.</p>
 
-<p>- Bob Marley</p>
+<p>- John Lennon</p>
