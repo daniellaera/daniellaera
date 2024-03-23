@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, you won't get it with violence.</p>
+<p>You are not only responsible for what you say, but also for what you do not say. </p>
 
-<p>- John Lennon</p>
+<p>- Martin Luther</p>
