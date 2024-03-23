@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only put off until tomorrow what you are willing to die having left undone.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Mary Engelbreit</p>
