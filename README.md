@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you admire was once a beginner.</p>
+<p>Everybody by your side ain't on your side.</p>
 
-<p>- Jack Butcher</p>
+<p>- Steve Harvey</p>
