@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody by your side ain't on your side.</p>
+<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
 
-<p>- Steve Harvey</p>
+<p>- Celestine Chua</p>
