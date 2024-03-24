@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>Change your thoughts and you change your world.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Norman Vincent Peale</p>
