@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to be walked over, you have to be lying down.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Celestine Chua</p>
+<p>- Eckhart Tolle</p>
