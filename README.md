@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What worries you, masters you.</p>
+<p>He who hesitates is a damned fool.</p>
 
-<p>- John Locke</p>
+<p>- Mae West</p>
