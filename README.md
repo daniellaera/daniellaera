@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</p>
+<p>Strive for excellence, not perfection, because we don't live in a perfect world.</p>
 
-<p>- Aristotle</p>
+<p>- Joyce Meyer</p>
