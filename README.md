@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I believe that one of life's greatest risks is never daring to risk.</p>
+<p>A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Alfred Adler</p>
