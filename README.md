@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
+<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
 
-<p>- George Washington</p>
+<p>- Osho</p>
