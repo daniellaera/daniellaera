@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life without love is like a tree without blossoms or fruit.</p>
+<p>Every limit is a beginning as well as an ending.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- George Eliot</p>
