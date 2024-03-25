@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freeing oneself from words is liberation. </p>
+<p>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</p>
 
-<p>- Bodhidharma</p>
+<p>- Gilbert Chesterton</p>
