@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Kahlil Gibran</p>
