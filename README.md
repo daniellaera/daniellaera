@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
+<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
 
-<p>- Margaret Mead</p>
+<p>- Kahlil Gibran</p>
