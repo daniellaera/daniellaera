@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
+<p>Don't let someone elses. opinion become your reality.</p>
 
-<p>- Robert Greene</p>
+<p>- Les Brown</p>
