@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Storms don't last forever.</p>
+<p>It's better to stand by someone's side than by yourself.</p>
 
-<p>- Unknown</p>
+<p>- Jack London</p>
