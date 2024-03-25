@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In three words I can sum up everything I've learned about life: it goes on.</p>
+<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
 
-<p>- Robert Frost</p>
+<p>- Zen Proverb</p>
