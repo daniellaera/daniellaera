@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
+<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
 
-<p>- Celestine Chua</p>
+<p>- Robert Greene</p>
