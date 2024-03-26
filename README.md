@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way we feel is the direct result of what we think.</p>
+<p>If you think adventure is dangerous, try routine; it is lethal.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Paulo Coelho</p>
