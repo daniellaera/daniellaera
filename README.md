@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men are equal before fish.</p>
+<p>Till it has loved, no man or woman can become itself.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Emily Dickinson</p>
