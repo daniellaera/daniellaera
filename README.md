@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Oprah Winfrey</p>
