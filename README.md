@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you think adventure is dangerous, try routine; it is lethal.</p>
+<p>To a mind that is still, the entire universe surrenders.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Zhuangzi</p>
