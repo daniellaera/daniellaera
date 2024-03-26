@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Dogen</p>
