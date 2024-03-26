@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
 
-<p>- Dogen</p>
+<p>- Maxime Lagace</p>
