@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
+<p>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</p>
 
-<p>- Yanni</p>
+<p>- Alexander Graham Bell</p>
