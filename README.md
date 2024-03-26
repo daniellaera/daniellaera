@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without the confidence, nothing can be accomplished.</p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Steve Maraboli</p>
