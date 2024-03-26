@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never to suffer would never to have been blessed.</p>
+<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Yanni</p>
