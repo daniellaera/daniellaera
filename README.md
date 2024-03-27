@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I pay attention to every minute of the day.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>- Steve Harvey</p>
+<p>- Marcus Aurelius</p>
