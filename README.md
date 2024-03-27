@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The chief enemy of creativity is good sense.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Joyce Meyer</p>
