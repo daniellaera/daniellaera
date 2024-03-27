@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>We must cultivate our garden. </p>
 
-<p>- Albert Einstein</p>
+<p>- Voltaire</p>
