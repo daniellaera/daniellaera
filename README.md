@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
+<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
 
-<p>- Dan Millman</p>
+<p>- Andrew Carnegie</p>
