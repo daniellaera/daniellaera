@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are clothes that thoughts wear</p>
+<p>I pay attention to every minute of the day.</p>
 
-<p>- Samuel Butler</p>
+<p>- Steve Harvey</p>
