@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
+<p>Never whine, never complain, never try to justify yourself.</p>
 
-<p>- Bruce Lee</p>
+<p>- Robert Greene</p>
