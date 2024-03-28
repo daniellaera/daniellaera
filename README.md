@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>Do what you can, with what you have, where you are.</p>
 
-<p>- Unknown</p>
+<p>- Theodore Roosevelt</p>
