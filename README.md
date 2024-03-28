@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aim at nothing, you will hit it every time.  </p>
+<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Christopher Columbus</p>
