@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're always free to change your mind and choose a different future, or a different past.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>- Richard Bach</p>
+<p>- Dan Millman</p>
