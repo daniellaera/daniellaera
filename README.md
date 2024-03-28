@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.</p>
+<p>By seeking and blundering we learn.</p>
 
-<p>- Criss Jami</p>
+<p>- Johann Wolfgang von Goethe</p>
