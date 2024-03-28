@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to predict your future is to create it.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Abraham Lincoln</p>
+<p>- Wayne Dyer</p>
