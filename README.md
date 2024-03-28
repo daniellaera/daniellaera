@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have a vision. Be demanding.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>- Colin Powell</p>
+<p>- Herman Melville</p>
