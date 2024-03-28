@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>- Herman Melville</p>
+<p>- Bruce Lee</p>
