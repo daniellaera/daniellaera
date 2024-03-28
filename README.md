@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To raise your consciousness, surround yourself with people of higher consciousness.</p>
+<p>A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.</p>
 
-<p>- Celestine Chua</p>
+<p>- Criss Jami</p>
