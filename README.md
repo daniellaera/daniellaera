@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real learning comes about when the competitive spirit has ceased.</p>
+<p>The best way to predict your future is to create it.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Abraham Lincoln</p>
