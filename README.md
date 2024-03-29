@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</p>
+<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
 
-<p>- Bob Proctor</p>
+<p>- Paramahansa Yogananda</p>
