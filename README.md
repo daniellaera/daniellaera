@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone sees what you appear to be, few experience what you really are.</p>
+<p>Success is getting what you want, happiness is wanting what you get.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- W.P. Kinsella</p>
