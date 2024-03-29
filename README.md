@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>Love is the absence of judgment.</p>
 
-<p>- Samuel Butler</p>
+<p>- Dalai Lama</p>
