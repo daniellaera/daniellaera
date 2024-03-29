@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>- Dalai Lama</p>
+<p>- Stephen King</p>
