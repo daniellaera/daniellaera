@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
+<p>A Quitter never wins - and - a Winner never quits.</p>
 
-<p>- Jack London</p>
+<p>- Napoleon Hill</p>
