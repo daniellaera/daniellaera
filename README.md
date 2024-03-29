@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
+<p>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Nicolas Chamfort</p>
