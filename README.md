@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
+<p>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ronald Reagan</p>
