@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Tony Robbins</p>
