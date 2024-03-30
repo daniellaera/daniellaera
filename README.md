@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>- Tony Robbins</p>
+<p>- Kamal Ravikant</p>
