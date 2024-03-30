@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
+<p>There is only the one reality, neither to be realized nor attained.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Huang Po</p>
