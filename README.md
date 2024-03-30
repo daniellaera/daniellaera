@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Earl Nightingale</p>
