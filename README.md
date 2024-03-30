@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Deepak Chopra</p>
