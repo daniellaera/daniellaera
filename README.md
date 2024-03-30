@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must cultivate our garden. </p>
+<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
 
-<p>- Voltaire</p>
+<p>- Dale Carnegie</p>
