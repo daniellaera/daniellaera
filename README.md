@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you talk about your shame, the more of it you have.</p>
+<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
 
-<p>- Mark Manson</p>
+<p>- Kahlil Gibran</p>
