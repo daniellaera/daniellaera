@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Aristotle</p>
