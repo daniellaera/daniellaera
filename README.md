@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
+<p>Relax. Nothing is under control.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Adi Da Samraj</p>
