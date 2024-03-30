@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Niccolo Machiavelli</p>
