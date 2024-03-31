@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less people know, the more stubbornly they know it.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
-<p>- Osho</p>
+<p>- Aristotle</p>
