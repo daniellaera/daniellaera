@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder the conflict, the greater the triumph. </p>
+<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
 
-<p>- George Washington</p>
+<p>- Morihei Ueshiba</p>
