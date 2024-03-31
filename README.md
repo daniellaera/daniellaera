@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Dalai Lama</p>
+<p>- Adi Da Samraj</p>
