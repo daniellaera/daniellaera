@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
+<p>Focused, hard work is the real key to success.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- John Carmack</p>
