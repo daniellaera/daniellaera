@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Mahatma Gandhi</p>
