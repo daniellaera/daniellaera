@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focused, hard work is the real key to success.</p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>- John Carmack</p>
+<p>- Zen Proverb</p>
