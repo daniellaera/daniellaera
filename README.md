@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Dalai Lama</p>
