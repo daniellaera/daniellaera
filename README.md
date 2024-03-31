@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>- Criss Jami</p>
+<p>- Benjamin Franklin</p>
