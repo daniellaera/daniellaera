@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</p>
+<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
 
-<p>- Robert Greene</p>
+<p>- Alexander Graham Bell</p>
