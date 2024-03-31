@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
+<p>Why do you stay in prison when the door is so wide open?</p>
 
-<p>- Unknown</p>
+<p>- Rumi</p>
