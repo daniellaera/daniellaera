@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</p>
+<p>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Kamal Ravikant</p>
