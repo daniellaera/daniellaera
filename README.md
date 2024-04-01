@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>- Elon Musk</p>
+<p>- Kabir</p>
