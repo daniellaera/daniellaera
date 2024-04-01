@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always lived in the moment.</p>
+<p>Confidence comes not from always being right but not fearing to be wrong.</p>
 
-<p>- Yanni</p>
+<p>- Unknown</p>
