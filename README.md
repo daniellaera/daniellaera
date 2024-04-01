@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Here and now...breathe and relax...in battle and in life.</p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>- Dan Millman</p>
+<p>- Chinese Proverb</p>
