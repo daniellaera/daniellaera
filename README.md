@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</p>
+<p>It's OK to have your eggs in one basket as long as you control what happens to that basket.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Elon Musk</p>
