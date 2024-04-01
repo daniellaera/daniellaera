@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
+<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
 
-<p>- Dan Brown</p>
+<p>- Denis Waitley</p>
