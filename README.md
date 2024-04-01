@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
+<p>I don't walk away from things that I think are unfinished.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Arnold Schwarzenegger</p>
