@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heart is what separates the good from the great.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>- Michael Jordan</p>
+<p>- Mary Engelbreit</p>
