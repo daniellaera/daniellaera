@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Dale Carnegie</p>
