@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
+<p>Longevity is a fleeting moment that lasts forever.</p>
 
-<p>- Alexander Pope</p>
+<p>- Vidal Sassoon</p>
