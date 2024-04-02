@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True prayer has no set form.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Josh Waitzkin</p>
