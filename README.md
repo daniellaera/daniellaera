@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People rarely succeed unless they have fun in what they are doing.</p>
+<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Steve Jobs</p>
