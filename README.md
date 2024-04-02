@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great loves too must be endured.</p>
+<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
 
-<p>- Coco Chanel</p>
+<p>- Robin Sharma</p>
