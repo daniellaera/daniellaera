@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>That some achieve great success is proof to all that others can achieve it as well.</p>
+<p>True prayer has no set form.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Morihei Ueshiba</p>
