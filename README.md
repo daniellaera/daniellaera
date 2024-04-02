@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
+<p>To travel is to be alive, but to get somewhere is to be dead.</p>
 
-<p>- Steve Jobs</p>
+<p>- Alan Watts</p>
