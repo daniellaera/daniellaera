@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
+<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
 
-<p>- Brian Tracy</p>
+<p>- Celestine Chua</p>
