@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>FOCUS - Follow One Course Until Successful</p>
+<p>What loneliness is more lonely than distrust?</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- George Eliot</p>
