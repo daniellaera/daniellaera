@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Richard Bach</p>
