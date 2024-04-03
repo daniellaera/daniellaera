@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I hear and I forget. I see and I remember. I do and I understand. </p>
+<p>Don't learn to do, but learn in doing.</p>
 
-<p>- Confucius</p>
+<p>- Samuel Butler</p>
