@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
+<p>Throw me to the wolves and I will return leading the pack.  </p>
 
-<p>- Richard Bach</p>
+<p>- Seneca</p>
