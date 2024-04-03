@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>Growing up is losing some illusions, in order to acquire others.</p>
 
-<p>- Socrates</p>
+<p>- Virginia Woolf</p>
