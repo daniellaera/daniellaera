@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Kabir</p>
