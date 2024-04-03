@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Socrates</p>
