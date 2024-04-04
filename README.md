@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise speak only of what they know.</p>
+<p>Self-control is strength.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- James Allen</p>
