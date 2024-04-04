@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-control is strength.</p>
+<p>There are people who have money and people who are rich.</p>
 
-<p>- James Allen</p>
+<p>- Coco Chanel</p>
