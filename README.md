@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.</p>
+<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Confucius</p>
