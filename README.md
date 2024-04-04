@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.</p>
+<p>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</p>
 
-<p>- Alan Watts</p>
+<p>- Bob Marley</p>
