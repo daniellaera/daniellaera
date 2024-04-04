@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be able to forget means sanity.</p>
+<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
 
-<p>- Jack London</p>
+<p>- Criss Jami</p>
