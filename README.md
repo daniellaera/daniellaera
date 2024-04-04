@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>- Bruce Lee</p>
+<p>- Dan Millman</p>
