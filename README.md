@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Alan Watts</p>
