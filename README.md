@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
 
-<p>- Alan Watts</p>
+<p>- Elon Musk</p>
