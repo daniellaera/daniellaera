@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>- Bette Midler</p>
+<p>- Bruce Lee</p>
