@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>Be a master of change rather than a victim of change.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Brian Tracy</p>
