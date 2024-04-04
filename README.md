@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
 
-<p>- Brian Tracy</p>
+<p>- Dogen</p>
