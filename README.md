@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
+<p>Little by little, one travels far.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- J.R.R. Tolkien</p>
