@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
+<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Kamal Ravikant</p>
