@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let each man exercise the art he knows.</p>
+<p>Action is the foundational key to all success.</p>
 
-<p>- Aristophanes</p>
+<p>- Pablo Picasso</p>
