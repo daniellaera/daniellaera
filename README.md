@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</p>
 
-<p>- Henry Ford</p>
+<p>- Dr. Seuss</p>
