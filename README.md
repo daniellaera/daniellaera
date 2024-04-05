@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My sun sets to rise again.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
-<p>- Robert Browning</p>
+<p>- Steve Harvey</p>
