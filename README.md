@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</p>
+<p>If there's a definition of freedom, I think it's this: living life on your terms.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Kamal Ravikant</p>
