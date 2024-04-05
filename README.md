@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>True love stories never have endings.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Richard Bach</p>
