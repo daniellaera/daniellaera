@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Jonathan Swift</p>
