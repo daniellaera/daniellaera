@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no next time. It's now or never.</p>
+<p>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</p>
 
-<p>- Celestine Chua</p>
+<p>- Tony Robbins</p>
