@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The significance of life is living.</p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Norman Vincent Peale</p>
