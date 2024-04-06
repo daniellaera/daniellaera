@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best mind-altering drug is the truth.</p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Walt Whitman</p>
