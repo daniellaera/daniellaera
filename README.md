@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>The purpose of life is the life of purpose.</p>
 
-<p>- Unknown</p>
+<p>- Robin Sharma</p>
