@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>- Elon Musk</p>
+<p>- Vince Lombardi</p>
