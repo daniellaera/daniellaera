@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>The best mind-altering drug is the truth.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Lily Tomlin</p>
