@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The roots of education are bitter, but the fruit is sweet.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>- Aristotle</p>
+<p>- Miguel de Cervantes</p>
