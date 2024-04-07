@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
-<p>- Buddha</p>
+<p>- Aristotle</p>
