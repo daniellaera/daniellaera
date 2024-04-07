@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
+<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
 
-<p>- James Matthew Barrie</p>
+<p>- Ray Bradbury</p>
