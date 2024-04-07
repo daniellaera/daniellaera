@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
+<p>Time is a game played beautifully by children.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Heraclitus</p>
