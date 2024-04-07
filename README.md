@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
+<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Lao Tzu</p>
