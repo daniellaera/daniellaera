@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My sun sets to rise again.</p>
+<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
 
-<p>- Robert Browning</p>
+<p>- James Matthew Barrie</p>
