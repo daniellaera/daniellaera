@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
+<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Christopher Reeve</p>
