@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
+<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
 
-<p>- John Eliot</p>
+<p>- Og Mandino</p>
