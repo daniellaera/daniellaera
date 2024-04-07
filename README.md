@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let what you cannot do interfere with what you can do.</p>
+<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
 
-<p>- John Wooden</p>
+<p>- Kahlil Gibran</p>
