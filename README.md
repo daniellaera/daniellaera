@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>My sun sets to rise again.</p>
 
-<p>- Lao Tzu</p>
+<p>- Robert Browning</p>
