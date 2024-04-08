@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Confucius</p>
+<p>- Ronald Reagan</p>
