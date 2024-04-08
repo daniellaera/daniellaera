@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest weariness comes from work not done.</p>
+<p>Choose a job you love, and you will never have to work a day in your life. </p>
 
-<p>- Eric Hoffer</p>
+<p>- Confucius</p>
