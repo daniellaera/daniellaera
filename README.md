@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is not for all men, but for those who seek it.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>- Ayn Rand</p>
+<p>- Andrew Carnegie</p>
