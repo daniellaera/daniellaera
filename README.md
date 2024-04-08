@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to sit back and observe, not everything needs a reaction.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>- Unknown</p>
+<p>- Heraclitus</p>
