@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the things you can't do stop you from doing what you can.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>- Ronald Reagan</p>
+<p>- George Eliot</p>
