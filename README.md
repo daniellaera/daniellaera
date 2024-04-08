@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>- Charles Dickens</p>
+<p>- Thich Nhat Hanh</p>
