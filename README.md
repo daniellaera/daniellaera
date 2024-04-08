@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do every act of your life as if it were your last.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Conrad Hilton</p>
