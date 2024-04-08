@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
+<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
 
-<p>- Confucius</p>
+<p>- Bruce Lee</p>
