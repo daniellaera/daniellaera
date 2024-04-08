@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All things come into being by conflict of opposites.</p>
+<p>One must be deeply aware of the impermanence of the world.</p>
 
-<p>- Heraclitus</p>
+<p>- Dogen</p>
