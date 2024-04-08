@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You change the world by being yourself.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>- Yoko Ono</p>
+<p>- Audrey Hepburn</p>
