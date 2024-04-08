@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>You change the world by being yourself.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Yoko Ono</p>
