@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
+<p>It does not do to dwell on dreams and forget to live, remember that.</p>
 
-<p>- Carl Jung</p>
+<p>- Albus Dumbledore</p>
