@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are is the entry point.</p>
+<p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
 
-<p>- Kabir</p>
+<p>- Carl Jung</p>
