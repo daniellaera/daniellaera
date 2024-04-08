@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Bruce Lee</p>
+<p>- Leo Tolstoy</p>
