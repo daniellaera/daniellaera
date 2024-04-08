@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lack of emotion causes lack of progress and lack of motivation.</p>
+<p>Learn to sit back and observe, not everything needs a reaction.</p>
 
-<p>- Tony Robbins</p>
+<p>- Unknown</p>
