@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All life is an experiment. The more experiments you make, the better.</p>
+<p>If you can handle rejection, you'll learn to get everything you want.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Tony Robbins</p>
