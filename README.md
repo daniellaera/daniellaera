@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>All life is an experiment. The more experiments you make, the better.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Ralph Waldo Emerson</p>
