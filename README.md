@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be fascinated instead of frustrated.</p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Robert Kiyosaki</p>
