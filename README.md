@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your friends close, and your enemies closer.</p>
+<p>He who knows how to wait need make no concessions.</p>
 
-<p>- Sun Tzu</p>
+<p>- Sigmund Freud</p>
