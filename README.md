@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
 
-<p>- Tony Robbins</p>
+<p>- Jim Rohn</p>
