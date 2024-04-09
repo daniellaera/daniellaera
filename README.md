@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't everything, but wanting to win is.</p>
+<p>Only I can change my life. No one can do it for me.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Carol Burnett</p>
