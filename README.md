@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Honore de Balzac</p>
