@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can live without money, but I cannot live without love.</p>
+<p>Faith is taking the first step even when you don't see the whole staircase.</p>
 
-<p>- Judy Garland</p>
+<p>- Martin Luther King, Jr.</p>
