@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Judy Garland</p>
