@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Johann Wolfgang von Goethe</p>
