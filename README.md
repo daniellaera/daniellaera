@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-control is strength.</p>
+<p>A life without a cause is a life without effect.</p>
 
-<p>- James Allen</p>
+<p>- Paulo Coelho</p>
