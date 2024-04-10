@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
 
-<p>- Estee Lauder</p>
+<p>- Steve Maraboli</p>
