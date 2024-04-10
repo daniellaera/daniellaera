@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
 
-<p>- Earl Nightingale</p>
+<p>- Estee Lauder</p>
