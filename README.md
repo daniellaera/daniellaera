@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Stephen King</p>
