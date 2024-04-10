@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
 
-<p>- Jim Rohn</p>
+<p>- Bruce Lee</p>
