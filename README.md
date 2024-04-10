@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>A real friend is one who walks in when the rest of the world walks out.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Unknown</p>
