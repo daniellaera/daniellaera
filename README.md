@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
+<p>If we are not able to smile, then the world will not have peace.</p>
 
-<p>- Bruce Lee</p>
+<p>- Thich Nhat Hanh</p>
