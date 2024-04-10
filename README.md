@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be able to forget means sanity.</p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>- Jack London</p>
+<p>- Samuel Butler</p>
