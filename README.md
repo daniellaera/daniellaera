@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are shaped and fashioned by what we love.</p>
+<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Thomas Jefferson</p>
