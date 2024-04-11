@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Roy T. Bennett</p>
