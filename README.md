@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>- Jim Rohn</p>
+<p>- Ming-Dao Deng</p>
