@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The power to make and break habits and learning how to do that is really important.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Elbert Hubbard</p>
