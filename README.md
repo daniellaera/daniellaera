@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There will always be suffering. But we must not suffer over the suffering.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>- Alan Watts</p>
+<p>- Vincent van Gogh</p>
