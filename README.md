@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
+<p>The season of failure is the best time for sowing the seeds of success. </p>
 
-<p>- Samuel Butler</p>
+<p>- Paramahansa Yogananda</p>
