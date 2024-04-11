@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The birth of the mind is the death of the senses.</p>
+<p>It is not fair to ask of others what you are not willing to do yourself.</p>
 
-<p>- Dan Millman</p>
+<p>- Eleanor Roosevelt</p>
