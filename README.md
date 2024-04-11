@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom itself demands discomfort.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>- Mark Manson</p>
+<p>- Deepak Chopra</p>
