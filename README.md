@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no limitations except those we create for ourselves.</p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Naval Ravikant</p>
