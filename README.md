@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- Deepak Chopra</p>
+<p>- F. Scott Fitzgerald</p>
