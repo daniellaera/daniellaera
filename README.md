@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The reward of suffering is experience.</p>
+<p>The birth of the mind is the death of the senses.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Dan Millman</p>
