@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</p>
 
-<p>- Nikola Tesla</p>
+<p>- Robin Sharma</p>
