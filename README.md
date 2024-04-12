@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Seneca</p>
