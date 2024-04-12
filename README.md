@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is simply what our feelings do to us.</p>
+<p>Be thankful for everything that happens in your life; it's all an experience.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Roy T. Bennett</p>
