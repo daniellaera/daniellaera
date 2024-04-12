@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is possible. The impossible just takes longer.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>- Dan Brown</p>
+<p>- Dan Millman</p>
