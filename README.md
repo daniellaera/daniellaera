@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
+<p>Everything is possible. The impossible just takes longer.</p>
 
-<p>- Dan Millman</p>
+<p>- Dan Brown</p>
