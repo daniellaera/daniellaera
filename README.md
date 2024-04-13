@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
 
-<p>- Aristotle</p>
+<p>- Chinese Proverb</p>
