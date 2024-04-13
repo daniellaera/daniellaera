@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
+<p>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Steve Maraboli</p>
