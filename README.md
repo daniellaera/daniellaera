@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not a skill. It is an attitude. </p>
+<p>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</p>
 
-<p>- Ralph Marston</p>
+<p>- Simon Sinek</p>
