@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
+<p>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</p>
 
-<p>- John Tukey</p>
+<p>- Kabir</p>
