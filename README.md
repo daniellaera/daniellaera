@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no ordinary moments.</p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>- Dan Millman</p>
+<p>- Albert Einstein</p>
