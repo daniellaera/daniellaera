@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who leaves the game wins it.</p>
+<p>If you want to achieve greatness stop asking for permission.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Unknown</p>
