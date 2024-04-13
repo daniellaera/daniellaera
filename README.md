@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wish it were easier, wish you were better.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>- Jim Rohn</p>
+<p>- Charles Dickens</p>
