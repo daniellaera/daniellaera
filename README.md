@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
+<p>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Amelia Earhart</p>
