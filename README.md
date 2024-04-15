@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is anger, there is always pain underneath.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- James Cameron</p>
