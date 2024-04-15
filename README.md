@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
+<p>I cannot make my days longer so I strive to make them better.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Henry David Thoreau</p>
