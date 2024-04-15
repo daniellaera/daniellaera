@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear of weakness only strengthens weakness.</p>
+<p>Where there is anger, there is always pain underneath.</p>
 
-<p>- Criss Jami</p>
+<p>- Eckhart Tolle</p>
