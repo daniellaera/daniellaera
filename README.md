@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I cannot make my days longer so I strive to make them better.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Andrew Carnegie</p>
