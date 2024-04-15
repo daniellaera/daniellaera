@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Curiosity is the most powerful thing you own.</p>
+<p>You're never given a dream without also being given the power to make it true.</p>
 
-<p>- James Cameron</p>
+<p>- Richard Bach</p>
