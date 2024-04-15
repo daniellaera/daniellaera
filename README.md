@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>- Albert Einstein</p>
+<p>- Ronald Reagan</p>
