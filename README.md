@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
+<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
 
-<p>- Simon Sinek</p>
+<p>- Bhagavad Gita</p>
