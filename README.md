@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment of happiness requires a great amount of Ignorance</p>
+<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Amelia Earhart</p>
