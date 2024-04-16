@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Because a thing seems difficult for you, do not think it impossible.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Maxime Lagace</p>
