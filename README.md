@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I defeat my enemies when I make them my friends.</p>
+<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
 
-<p>- Dalai Lama</p>
+<p>- Seneca</p>
