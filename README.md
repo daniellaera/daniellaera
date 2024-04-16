@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>- George Addair</p>
+<p>- Honore de Balzac</p>
