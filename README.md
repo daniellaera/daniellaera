@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
+<p>No one is useless in this world who lightens the burdens of another.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Charles Dickens</p>
