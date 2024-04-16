@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
+<p>Because a thing seems difficult for you, do not think it impossible.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Marcus Aurelius</p>
