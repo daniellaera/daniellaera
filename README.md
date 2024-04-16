@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the more you understand how your conscience works.</p>
+<p>Kindness is a language which the deaf can hear and the blind can see.</p>
 
-<p>- Criss Jami</p>
+<p>- Mark Twain</p>
