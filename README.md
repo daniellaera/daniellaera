@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one is useless in this world who lightens the burdens of another.</p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>- Charles Dickens</p>
+<p>- Albert Einstein</p>
