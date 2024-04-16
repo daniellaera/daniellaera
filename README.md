@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The source of a true smile is an awakened mind.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Dalai Lama</p>
