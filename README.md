@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners are not people who never fail, but people who never quit.</p>
+<p>Inner peace is when you realize that, in the end, nothing matters.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Maxime Lagace</p>
