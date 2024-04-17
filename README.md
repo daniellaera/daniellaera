@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The day is for honest men, the night for thieves.</p>
+<p>Make your stand today. On this spot. On this day.</p>
 
-<p>- Euripides</p>
+<p>- Ming-Dao Deng</p>
