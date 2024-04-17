@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inner peace is when you realize that, in the end, nothing matters.</p>
+<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Og Mandino</p>
