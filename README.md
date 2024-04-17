@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will succeed because most people are lazy.</p>
+<p>Successful people do what unsuccessful people are not willing to do.</p>
 
-<p>- Shahir Zag</p>
+<p>- Jim Rohn</p>
