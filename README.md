@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>- Alexander Pope</p>
+<p>- Les Brown</p>
