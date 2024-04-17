@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Euripides</p>
