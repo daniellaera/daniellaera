@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>When a man is penalized for honesty he learns to lie.</p>
 
-<p>- Buddha</p>
+<p>- Criss Jami</p>
