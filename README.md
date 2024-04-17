@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be wonderful if you're not afraid of it.</p>
+<p>Don't bother people for help without first trying to solve the problem yourself.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Colin Powell</p>
