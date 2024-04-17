@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never confuse a single defeat with a final defeat.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Zen Proverb</p>
