@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to set another goal or to dream a new dream.</p>
+<p>Life can be wonderful if you're not afraid of it.</p>
 
-<p>- Les Brown</p>
+<p>- Charlie Chaplin</p>
