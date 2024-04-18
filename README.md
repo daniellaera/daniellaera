@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
+<p>Nothing ever goes away until it has taught us what we need to know.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Pema Chodron</p>
