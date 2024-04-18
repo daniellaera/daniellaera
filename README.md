@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best thing to hold onto in life is each other.</p>
+<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Eckhart Tolle</p>
