@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If there's a definition of freedom, I think it's this: living life on your terms.</p>
+<p>You talk when you cease to be at peace with your thoughts.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Kahlil Gibran</p>
