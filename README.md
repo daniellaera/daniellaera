@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person hears only what they understand.</p>
+<p>We win by helping each other win.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Jack Butcher</p>
