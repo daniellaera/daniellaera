@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fewer the words, the better the prayer.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>- Martin Luther</p>
+<p>- Voltaire</p>
