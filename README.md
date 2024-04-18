@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
+<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
 
-<p>- Zen Proverb</p>
+<p>- Naval Ravikant</p>
