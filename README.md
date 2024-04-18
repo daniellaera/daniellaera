@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing ever goes away until it has taught us what we need to know.</p>
+<p>We run to win, not just to be in the race.  </p>
 
-<p>- Pema Chodron</p>
+<p>- Vince Lombardi</p>
