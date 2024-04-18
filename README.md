@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- J.R.R. Tolkien</p>
