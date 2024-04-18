@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Gilbert Chesterton</p>
