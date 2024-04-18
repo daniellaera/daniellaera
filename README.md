@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You talk when you cease to be at peace with your thoughts.</p>
+<p>A person hears only what they understand.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Johann Wolfgang von Goethe</p>
