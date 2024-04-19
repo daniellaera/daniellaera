@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyday you can take a tiny step in the right direction.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>- Unknown</p>
+<p>- Vincent van Gogh</p>
