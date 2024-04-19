@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Age is a very high price to pay for maturity.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- William James</p>
+<p>- Walt Whitman</p>
