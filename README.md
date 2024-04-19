@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whoever is happy will make others happy too.</p>
+<p>Everyday you can take a tiny step in the right direction.</p>
 
-<p>- Anne Frank</p>
+<p>- Unknown</p>
