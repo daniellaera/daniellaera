@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter how slow you go, as long as you don't stop.</p>
+<p>Act as if what you do makes a difference. It does.</p>
 
-<p>- Confucius</p>
+<p>- William James</p>
