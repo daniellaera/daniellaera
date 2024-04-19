@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even a hare will bite when it is cornered. </p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Vincent van Gogh</p>
