@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</p>
+<p>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</p>
 
-<p>- Steve Harvey</p>
+<p>- Dale Carnegie</p>
