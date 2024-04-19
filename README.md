@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Gurbaksh Chahal</p>
