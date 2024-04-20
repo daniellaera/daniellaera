@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>- Og Mandino</p>
+<p>- Paulo Coelho</p>
