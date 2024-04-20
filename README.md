@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
+<p>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Buddha</p>
