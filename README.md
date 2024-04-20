@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
+<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
 
-<p>- Mark Manson</p>
+<p>- Denis Waitley</p>
