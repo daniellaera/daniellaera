@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>- Dalai Lama</p>
+<p>- Mark Manson</p>
