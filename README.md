@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
+<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Criss Jami</p>
