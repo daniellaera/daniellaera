@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
 
-<p>- Les Brown</p>
+<p>- Ayn Rand</p>
