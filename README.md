@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
+<p>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</p>
 
-<p>- Criss Jami</p>
+<p>- Dan Millman</p>
