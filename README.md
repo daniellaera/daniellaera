@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
+<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Alexander Graham Bell</p>
