@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Roy T. Bennett</p>
