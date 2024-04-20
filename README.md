@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adults are just children who earn money.</p>
+<p>There are no ordinary moments.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Dan Millman</p>
