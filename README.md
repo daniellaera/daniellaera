@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>Be where your enemy is not.</p>
 
-<p>- Robin Sharma</p>
+<p>- Sun Tzu</p>
