@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Carlos Ruiz Zafon</p>
