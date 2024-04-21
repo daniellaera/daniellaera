@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul without imagination is what an observatory would be without a telescope.</p>
+<p>For your life to be great, your faith must be bigger than your fear.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Robin Sharma</p>
