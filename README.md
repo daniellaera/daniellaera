@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Napoleon Hill</p>
