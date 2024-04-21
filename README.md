@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inner peace is when you realize that, in the end, nothing matters.</p>
+<p>No one can confidently say that he will still be living tomorrow.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Euripides</p>
