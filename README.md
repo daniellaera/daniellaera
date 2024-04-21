@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best revenge is to be unlike him who performed the injury.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Henry Ward Beecher</p>
