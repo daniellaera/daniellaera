@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why fit in when you were born to stand out?</p>
+<p>Character is doing what you don't want to do but know you should do.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Joyce Meyer</p>
