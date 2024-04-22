@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never spend your money before you have earned it.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Will Rogers</p>
