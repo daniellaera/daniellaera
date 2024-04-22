@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth comes at the point of resistance.</p>
+<p>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Denis Waitley</p>
