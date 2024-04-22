@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are shaped and fashioned by what we love.</p>
+<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Celestine Chua</p>
