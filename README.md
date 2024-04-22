@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends upon ourselves.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>- Aristotle</p>
+<p>- Brian Tracy</p>
