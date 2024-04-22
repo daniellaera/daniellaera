@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Storms don't last forever.</p>
+<p>Never spend your money before you have earned it.</p>
 
-<p>- Unknown</p>
+<p>- Thomas Jefferson</p>
