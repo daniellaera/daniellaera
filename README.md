@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't always championships.</p>
+<p>Who you are is always right.</p>
 
-<p>- Michael Jordan</p>
+<p>- Ming-Dao Deng</p>
