@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>- Sigmund Freud</p>
+<p>- Bruce Lee</p>
