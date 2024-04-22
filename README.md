@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</p>
+<p>Knowing yourself is the beginning of all wisdom.</p>
 
-<p>- Denis Waitley</p>
+<p>- Aristotle</p>
