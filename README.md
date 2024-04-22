@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>- Aristotle</p>
+<p>- Spencer Johnson</p>
