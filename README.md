@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn off your mind, relax, and float downstream.</p>
+<p>Rewards and punishment is the lowest form of education.</p>
 
-<p>- John Lennon</p>
+<p>- Zhuangzi</p>
