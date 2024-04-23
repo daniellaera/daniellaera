@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take interest and even delight in doing the small things well.</p>
+<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
 
-<p>- Jim Rohn</p>
+<p>- George Washington</p>
