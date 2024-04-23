@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>A fall into a ditch makes you wiser.</p>
 
-<p>- Criss Jami</p>
+<p>- Chinese Proverb</p>
