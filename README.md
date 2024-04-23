@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't feed a hundred people, then feed just one.</p>
+<p>Learning never exhausts the mind. </p>
 
-<p>- Mother Teresa</p>
+<p>- Leonardo da Vinci</p>
