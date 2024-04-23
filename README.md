@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Henry Ward Beecher</p>
