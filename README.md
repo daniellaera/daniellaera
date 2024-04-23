@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fall into a ditch makes you wiser.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Jim Rohn</p>
