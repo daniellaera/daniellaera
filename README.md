@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When one does not have what one wants, one must want what one has.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Betty White</p>
