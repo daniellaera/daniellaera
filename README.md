@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Misfortune shows those who are not really friends.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>- Aristotle</p>
+<p>- Leonardo da Vinci</p>
