@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
+<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Benjamin Franklin</p>
