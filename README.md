@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
+<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Brian Tracy</p>
