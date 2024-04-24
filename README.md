@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be like a postage stamp. Stick to it until you get there.</p>
+<p>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</p>
 
-<p>- Bob Proctor</p>
+<p>- Robin Williams</p>
