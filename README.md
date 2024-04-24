@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ponder and deliberate before you make a move.</p>
+<p>Be like a postage stamp. Stick to it until you get there.</p>
 
-<p>- Sun Tzu</p>
+<p>- Bob Proctor</p>
