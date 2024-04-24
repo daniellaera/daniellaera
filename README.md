@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want work well done, select a busy man; the other kind has no time.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Deepak Chopra</p>
