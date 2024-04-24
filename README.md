@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Sigmund Freud</p>
