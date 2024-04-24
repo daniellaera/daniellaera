@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>- Thomas Edison</p>
+<p>- Sun Tzu</p>
