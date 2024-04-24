@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot have a positive life and a negative mind.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Elbert Hubbard</p>
