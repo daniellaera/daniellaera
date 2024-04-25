@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>Always focus on the front windshield and not the rear view mirror.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Colin Powell</p>
