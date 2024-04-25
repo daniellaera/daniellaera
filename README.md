@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is to console those who are broken by life.</p>
+<p>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- James Allen</p>
