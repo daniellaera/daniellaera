@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace begins with a smile.</p>
+<p>Public opinion is the worst of all opinions.</p>
 
-<p>- Mother Teresa</p>
+<p>- Nicolas Chamfort</p>
