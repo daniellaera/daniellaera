@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always focus on the front windshield and not the rear view mirror.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Colin Powell</p>
+<p>- Roy T. Bennett</p>
