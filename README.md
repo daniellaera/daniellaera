@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you will be halfway there.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Walt Whitman</p>
