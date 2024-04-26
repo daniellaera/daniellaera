@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are now, and you do become, what you think about.</p>
+<p>It is far easier to start something than it is to finish it.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Amelia Earhart</p>
