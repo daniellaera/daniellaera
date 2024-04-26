@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>One mistake does not have to rule a person's entire life.</p>
 
-<p>- Mark Twain</p>
+<p>- Joyce Meyer</p>
