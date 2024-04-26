@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger begins with folly, and ends with repentance. </p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>- Beverly Sills</p>
+<p>- Jeffrey Gitomer</p>
