@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who possesses most must be most afraid of loss.</p>
+<p>You are now, and you do become, what you think about.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Earl Nightingale</p>
