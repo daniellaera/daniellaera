@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
+<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
 
-<p>- Lao Tzu</p>
+<p>- Gustave Flaubert</p>
