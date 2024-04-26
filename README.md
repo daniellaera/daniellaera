@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One mistake does not have to rule a person's entire life.</p>
+<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Dogen</p>
