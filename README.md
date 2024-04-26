@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Laziness may appear attractive, but work gives satisfaction.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- Anne Frank</p>
+<p>- Mark Twain</p>
