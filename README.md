@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>- Elon Musk</p>
+<p>- Criss Jami</p>
