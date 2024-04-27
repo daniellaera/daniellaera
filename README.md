@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I pay attention to every minute of the day.</p>
+<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
 
-<p>- Steve Harvey</p>
+<p>- George Eliot</p>
