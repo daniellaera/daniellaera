@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sad thing is, you can still love someone and be wrong for them.</p>
+<p>Don't let the fear of losing be greater than the excitement of winning.</p>
 
-<p>- Elvis Presley</p>
+<p>- Robert Kiyosaki</p>
