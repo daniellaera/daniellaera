@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never settle for the crumbs of life.</p>
+<p>The score never interested me, only the game.</p>
 
-<p>- Og Mandino</p>
+<p>- Mae West</p>
