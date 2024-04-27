@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way we feel is the direct result of what we think.</p>
+<p>Sad thing is, you can still love someone and be wrong for them.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Elvis Presley</p>
