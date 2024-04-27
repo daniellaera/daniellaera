@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
+<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
 
-<p>- Alfred Adler</p>
+<p>- Simon Sinek</p>
