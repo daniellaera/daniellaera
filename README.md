@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>- Simon Sinek</p>
+<p>- Eric Hoffer</p>
