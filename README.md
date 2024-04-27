@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time heals what reason cannot.  </p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Seneca</p>
+<p>- Conrad Hilton</p>
