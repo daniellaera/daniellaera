@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>- Pema Chodron</p>
+<p>- Arnold Schwarzenegger</p>
