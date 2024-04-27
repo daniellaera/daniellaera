@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is free who is not master of himself.</p>
+<p>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</p>
 
-<p>- Epictetus</p>
+<p>- Pema Chodron</p>
