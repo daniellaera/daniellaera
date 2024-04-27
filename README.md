@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>- Albert Einstein</p>
+<p>- John Wooden</p>
