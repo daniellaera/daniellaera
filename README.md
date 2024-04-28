@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>We must be free not because we claim freedom, but because we practice it.</p>
 
-<p>- Paulo Coelho</p>
+<p>- William Faulkner</p>
