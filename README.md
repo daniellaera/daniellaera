@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Theodore Roosevelt</p>
