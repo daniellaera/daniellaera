@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</p>
+<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
 
-<p>- Robert Greene</p>
+<p>- Lolly Daskal</p>
