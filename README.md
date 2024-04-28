@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What have you done today to make someone else happy?</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Steve Harvey</p>
