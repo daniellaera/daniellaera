@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest act of kindness is worth more than the greatest intention.  </p>
+<p>Inspiration exists, but it has to find you working.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Pablo Picasso</p>
