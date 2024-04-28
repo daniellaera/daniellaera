@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>Everybody needs a passion. That's what keeps life interesting.</p>
 
-<p>- Steve Harvey</p>
+<p>- Betty White</p>
