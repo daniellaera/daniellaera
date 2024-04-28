@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspiration exists, but it has to find you working.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Ming-Dao Deng</p>
