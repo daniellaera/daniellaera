@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You came empty handed, and you will leave empty handed.</p>
+<p>The smallest act of kindness is worth more than the greatest intention.  </p>
 
-<p>- Bhagavad Gita</p>
+<p>- Kahlil Gibran</p>
