@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy when you can, and endure when you must.</p>
+<p>It is truth that liberates, not your effort to be free.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Jiddu Krishnamurti</p>
