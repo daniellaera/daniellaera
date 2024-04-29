@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Steve Maraboli</p>
