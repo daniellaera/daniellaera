@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>Be - don't try to become </p>
 
-<p>- Vidal Sassoon</p>
+<p>- Osho</p>
