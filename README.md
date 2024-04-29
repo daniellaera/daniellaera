@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place success comes before work is in the dictionary.</p>
+<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Alexander Pope</p>
