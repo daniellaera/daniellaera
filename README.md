@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
+<p>Happiness must be grown in one's own garden.</p>
 
-<p>- Celestine Chua</p>
+<p>- Mary Engelbreit</p>
