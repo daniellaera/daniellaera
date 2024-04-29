@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only put off until tomorrow what you are willing to die having left undone.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Vince Lombardi</p>
