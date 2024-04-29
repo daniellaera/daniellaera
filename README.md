@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Yanni</p>
