@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to give up some of the old so that you can make room for the new.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>- Yanni</p>
+<p>- Peter A. Cohen</p>
