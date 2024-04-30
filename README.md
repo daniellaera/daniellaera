@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom from desire leads to inner peace.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>- Lao Tzu</p>
+<p>- Albert Einstein</p>
