@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you admire was once a beginner.</p>
+<p>What people need and what they want may be very different.</p>
 
-<p>- Jack Butcher</p>
+<p>- Elbert Hubbard</p>
