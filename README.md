@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Light a candle instead of cursing the darkness.</p>
+<p>Everyone you admire was once a beginner.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Jack Butcher</p>
