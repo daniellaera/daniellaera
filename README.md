@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is more important than knowledge.</p>
+<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
 
-<p>- Albert Einstein</p>
+<p>- Shunryu Suzuki</p>
