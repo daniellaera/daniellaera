@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
+<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Dan Millman</p>
