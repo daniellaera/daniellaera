@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
+<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
 
-<p>- Albert Einstein</p>
+<p>- Epictetus</p>
