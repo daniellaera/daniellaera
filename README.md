@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only people without problems are those in cemeteries.</p>
+<p>True love stories never have endings.</p>
 
-<p>- Tony Robbins</p>
+<p>- Richard Bach</p>
