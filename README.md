@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>- Epictetus</p>
+<p>- Walt Disney</p>
