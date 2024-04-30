@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is the greatest friend.</p>
+<p>For all evils there are two remedies - time and silence.</p>
 
-<p>- Lao Tzu</p>
+<p>- Alexandre Dumas</p>
