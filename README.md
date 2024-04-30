@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people need and what they want may be very different.</p>
+<p>Discipline is the mark of intelligent living.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Sathya Sai Baba</p>
