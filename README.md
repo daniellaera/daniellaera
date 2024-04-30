@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't learn to do, but learn in doing.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>- Samuel Butler</p>
+<p>- George Bernard Shaw</p>
