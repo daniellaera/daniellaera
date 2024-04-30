@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All our dreams can come true, if we have the courage to pursue them.</p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>- Walt Disney</p>
+<p>- Unknown</p>
