@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Identify your problems, but give your power and energy to solutions.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>- Tony Robbins</p>
+<p>- James Cameron</p>
