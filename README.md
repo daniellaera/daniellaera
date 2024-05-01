@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>Words are clothes that thoughts wear</p>
 
-<p>- Chinese Proverb</p>
+<p>- Samuel Butler</p>
