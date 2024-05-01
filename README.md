@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Thomas Jefferson</p>
