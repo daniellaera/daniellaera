@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop being a prisoner of your past. Become the architect of your future.</p>
+<p>The best fighter is never angry.</p>
 
-<p>- Robin Sharma</p>
+<p>- Lao Tzu</p>
