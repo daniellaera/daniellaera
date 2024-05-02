@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best fighter is never angry.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>- Lao Tzu</p>
+<p>- Norman Vincent Peale</p>
