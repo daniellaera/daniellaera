@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>Wheresoever you go, go with all your heart.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Confucius</p>
