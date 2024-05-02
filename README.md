@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either you run the day or the day runs you.</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>- Jim Rohn</p>
+<p>- Henry David Thoreau</p>
