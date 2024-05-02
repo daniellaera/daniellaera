@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Norman Vincent Peale</p>
