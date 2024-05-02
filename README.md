@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
+<p>Stop being a prisoner of your past. Become the architect of your future.</p>
 
-<p>- Barack Obama</p>
+<p>- Robin Sharma</p>
