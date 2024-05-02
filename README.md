@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You make your own luck if you stay at it long enough.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Amelia Earhart</p>
