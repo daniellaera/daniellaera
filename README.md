@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
+<p>You're never given a dream without also being given the power to make it true.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Richard Bach</p>
