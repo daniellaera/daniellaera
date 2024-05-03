@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is permanent in this wicked world - not even our troubles.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Alexandre Dumas</p>
