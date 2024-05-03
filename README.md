@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
 
-<p>- Unknown</p>
+<p>- Jiddu Krishnamurti</p>
