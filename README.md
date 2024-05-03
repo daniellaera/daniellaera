@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Dr. Seuss</p>
