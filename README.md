@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something scares you, the more you should do it.</p>
+<p>The best fighter is never angry.</p>
 
-<p>- Mark Manson</p>
+<p>- Lao Tzu</p>
