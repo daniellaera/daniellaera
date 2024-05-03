@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who has overcome his fears will truly be free.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>- Aristotle</p>
+<p>- Robert F. Kennedy</p>
