@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Leo Tolstoy</p>
