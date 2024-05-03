@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The merit of all things lies in their difficulty.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Deepak Chopra</p>
