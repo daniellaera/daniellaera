@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You know the more one does the more one can do.</p>
+<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Mary Engelbreit</p>
