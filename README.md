@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
+<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Eckhart Tolle</p>
