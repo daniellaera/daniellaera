@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, hope is a good thing, maybe the best of things.</p>
+<p>I'd rather welcome change than cling to the past.</p>
 
-<p>- Stephen King</p>
+<p>- Robert Kiyosaki</p>
