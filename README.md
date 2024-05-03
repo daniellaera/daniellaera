@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Unknown</p>
