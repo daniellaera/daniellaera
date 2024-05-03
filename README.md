@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most powerful warriors are patience and time.</p>
+<p>Remember, hope is a good thing, maybe the best of things.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Stephen King</p>
