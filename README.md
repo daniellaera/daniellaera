@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Yanni</p>
