@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>- Alfred Adler</p>
+<p>- Aristotle</p>
