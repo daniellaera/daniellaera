@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go and do the things you can't. That is how you get to do them.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Chinese Proverb</p>
