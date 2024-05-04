@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll see it when you believe it. </p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Arnold Schwarzenegger</p>
