@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For the things we have to learn before we can do them, we learn by doing them.</p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>- Aristotle</p>
+<p>- Chinese Proverb</p>
