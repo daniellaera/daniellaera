@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear not the path of Truth for the lack of People walking on it.</p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Aristophanes</p>
