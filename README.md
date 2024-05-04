@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows how to wait need make no concessions.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Theodore Roosevelt</p>
