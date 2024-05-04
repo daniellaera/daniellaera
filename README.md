@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're curious, you find lots of interesting things to do.</p>
+<p>Don't let the past steal your present.</p>
 
-<p>- Walt Disney</p>
+<p>- Cherralea Morgen</p>
