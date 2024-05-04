@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With self-discipline, almost anything is possible.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Benjamin Franklin</p>
