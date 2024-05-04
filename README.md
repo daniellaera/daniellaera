@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the past steal your present.</p>
+<p>Success is a consequence and must not be a goal.</p>
 
-<p>- Cherralea Morgen</p>
+<p>- Gustave Flaubert</p>
