@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Elon Musk</p>
