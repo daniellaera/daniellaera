@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The source of a true smile is an awakened mind.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Pablo Picasso</p>
