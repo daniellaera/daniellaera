@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do anything, but let it produce joy.</p>
+<p>Every drop in the ocean counts. </p>
 
-<p>- Walt Whitman</p>
+<p>- Yoko Ono</p>
