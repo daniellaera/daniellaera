@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a consequence and must not be a goal.</p>
+<p>Be thankful for everything that happens in your life; it's all an experience.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Roy T. Bennett</p>
