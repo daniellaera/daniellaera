@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
+<p>In life you need either inspiration or desperation.</p>
 
-<p>- Aristophanes</p>
+<p>- Tony Robbins</p>
