@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
+<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
 
-<p>- Confucius</p>
+<p>- Judy Garland</p>
