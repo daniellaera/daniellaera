@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The mind is the limit.</p>
+<p>How people treat you is their karma; how you react is yours. </p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Wayne Dyer</p>
