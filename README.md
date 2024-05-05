@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
+<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Heraclitus</p>
