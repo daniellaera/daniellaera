@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn from the rejection and turn it into an opportunity!</p>
+<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Herbert Hoover</p>
