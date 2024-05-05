@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How people treat you is their karma; how you react is yours. </p>
+<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Ronald Reagan</p>
