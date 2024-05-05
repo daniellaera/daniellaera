@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When a man is penalized for honesty he learns to lie.</p>
+<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
 
-<p>- Criss Jami</p>
+<p>- Steve Maraboli</p>
