@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be thankful for everything that happens in your life; it's all an experience.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Henry Ford</p>
