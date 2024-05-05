@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>- Henry Ford</p>
+<p>- Norman Vincent Peale</p>
