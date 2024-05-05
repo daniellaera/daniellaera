@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
 
-<p>- Yanni</p>
+<p>- Elon Musk</p>
