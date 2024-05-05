@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest doer must also be a great dreamer.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Carlos Ruiz Zafon</p>
