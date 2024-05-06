@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>- Epictetus</p>
+<p>- Marilyn Monroe</p>
