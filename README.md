@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Naval Ravikant</p>
