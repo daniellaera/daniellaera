@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If what you're doing is not your passion, you have nothing to lose.</p>
+<p>The person who is his own master cannot tolerate another boss. </p>
 
-<p>- Celestine Chua</p>
+<p>- Chinese Proverb</p>
