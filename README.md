@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fool sees himself as another, but a wise man sees others as himself.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>- Dogen</p>
+<p>- Vince Lombardi</p>
