@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no mistakes in life, only lessons.</p>
+<p>He who violates another's honor loses his own.</p>
 
-<p>- Robin Sharma</p>
+<p>- Publilius Syrus</p>
