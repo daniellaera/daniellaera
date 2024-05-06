@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don´t hesitate or allow yourself to make excuses. Just get out and do it.</p>
+<p>Against the assault of laughter nothing can stand.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Mark Twain</p>
