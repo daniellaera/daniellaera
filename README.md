@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not believe that you will reach your destination without leaving the shore. </p>
+<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Criss Jami</p>
