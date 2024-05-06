@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place success comes before work is in the dictionary.</p>
+<p>Do what is right, not what is easy, nor what is popular.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Roy T. Bennett</p>
