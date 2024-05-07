@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
+<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
 
-<p>- Peter Drucker</p>
+<p>- Roy T. Bennett</p>
