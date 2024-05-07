@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom from desire leads to inner peace.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Lao Tzu</p>
+<p>- Stephen Hawking</p>
