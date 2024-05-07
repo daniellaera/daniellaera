@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
+<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
 
-<p>- Joan Rivers</p>
+<p>- Kamal Ravikant</p>
