@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Laurence J. Peter</p>
