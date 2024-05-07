@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
+<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Joan Rivers</p>
