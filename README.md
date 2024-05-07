@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He that can have patience can have what he will.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>- Benjamin Franklin</p>
+<p>- Confucius</p>
