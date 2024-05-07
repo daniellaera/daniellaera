@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Speak when you are angry - and you'll make the best speech you'll ever regret.</p>
+<p>He that can have patience can have what he will.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Benjamin Franklin</p>
