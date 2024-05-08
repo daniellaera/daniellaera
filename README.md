@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must cultivate our garden. </p>
+<p>Debt is the slavery of the free.</p>
 
-<p>- Voltaire</p>
+<p>- Publilius Syrus</p>
