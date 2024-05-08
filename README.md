@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Debt is the slavery of the free.</p>
+<p>He who knows how to wait need make no concessions.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Sigmund Freud</p>
