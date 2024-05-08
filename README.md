@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</p>
+<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Dogen</p>
