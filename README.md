@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
+<p>Behind every beautiful thing, there's some kind of pain.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Bob Dylan</p>
