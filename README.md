@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know of only one duty, and that is to love.</p>
+<p>Opportunities multiply as they are seized.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Sun Tzu</p>
