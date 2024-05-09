@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody has talent, but ability takes hard work.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>- Michael Jordan</p>
+<p>- Alexandre Dumas</p>
