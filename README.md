@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</p>
+<p>Nothing is permanent in this wicked world - not even our troubles.</p>
 
-<p>- Mark Twain</p>
+<p>- Charlie Chaplin</p>
