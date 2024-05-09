@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
+<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Mother Teresa</p>
