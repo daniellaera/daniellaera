@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-control is strength.</p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>- James Allen</p>
+<p>- Mary Engelbreit</p>
