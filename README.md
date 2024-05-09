@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Against the assault of laughter nothing can stand.</p>
+<p>Peace is letting it be. Letting life flow, letting emotions flow through you.</p>
 
-<p>- Mark Twain</p>
+<p>- Kamal Ravikant</p>
