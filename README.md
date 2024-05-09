@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is not a lover who does not love forever.</p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>- Euripides</p>
+<p>- Wayne Dyer</p>
