@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be where your enemy is not.</p>
+<p>The enemy is a very good teacher.</p>
 
-<p>- Sun Tzu</p>
+<p>- Dalai Lama</p>
