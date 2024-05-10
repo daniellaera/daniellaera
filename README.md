@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</p>
+<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
 
-<p>- Gary Keller</p>
+<p>- Sonia Ricotti</p>
