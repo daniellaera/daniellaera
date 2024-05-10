@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easier to lose than to win.  </p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Robert Greene</p>
