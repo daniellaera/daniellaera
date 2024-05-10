@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead the people, walk behind them.</p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>- Lao Tzu</p>
+<p>- Pablo Picasso</p>
