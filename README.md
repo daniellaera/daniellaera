@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
+<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
 
-<p>- William James</p>
+<p>- Kahlil Gibran</p>
