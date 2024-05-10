@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>- Jim Rohn</p>
+<p>- Pablo Picasso</p>
