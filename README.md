@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Shunryu Suzuki</p>
