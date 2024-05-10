@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who fails to plan, plans to fail.</p>
+<p>If you want peace, you won't get it with violence.</p>
 
-<p>- Unknown</p>
+<p>- John Lennon</p>
