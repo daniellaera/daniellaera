@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
+<p>It's easier to lose than to win.  </p>
 
-<p>- Amelia Earhart</p>
+<p>- Wayne Gretzky</p>
