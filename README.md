@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
+<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Theodore Roosevelt</p>
