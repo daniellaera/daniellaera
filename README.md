@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>Wherever you are is the entry point.</p>
 
-<p>- Aristotle</p>
+<p>- Kabir</p>
