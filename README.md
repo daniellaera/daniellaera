@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
+<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- William James</p>
