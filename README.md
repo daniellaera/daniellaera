@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Gary Keller</p>
