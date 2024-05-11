@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In three words I can sum up everything I've learned about life: it goes on.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>- Robert Frost</p>
+<p>- Unknown</p>
