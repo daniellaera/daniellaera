@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</p>
+<p>You must be willing to do what others won't do, to have what others won't have.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Les Brown</p>
