@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
 
-<p>- Unknown</p>
+<p>- Rumi</p>
