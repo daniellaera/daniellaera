@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forever is composed of now's.</p>
+<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Jack Butcher</p>
