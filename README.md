@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Normal is the average of deviance.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Lin Yutang</p>
