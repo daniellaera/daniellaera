@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who attain the middle Dominate the whole.</p>
+<p>Be kind whenever possible. It is always possible.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Dalai Lama</p>
