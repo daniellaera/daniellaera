@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind whenever possible. It is always possible.</p>
+<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
 
-<p>- Dalai Lama</p>
+<p>- Roy T. Bennett</p>
