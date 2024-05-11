@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>You just can't beat the person who never gives up. </p>
 
-<p>- Dalai Lama</p>
+<p>- Babe Ruth</p>
