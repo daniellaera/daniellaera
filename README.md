@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>- Lin Yutang</p>
+<p>- Unknown</p>
