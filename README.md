@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big and dare to fail.</p>
+<p>Forever is composed of now's.</p>
 
-<p>- Norman Vaughan</p>
+<p>- Emily Dickinson</p>
