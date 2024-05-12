@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
+<p>Get mad, then get over it.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Colin Powell</p>
