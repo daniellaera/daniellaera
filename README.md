@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never spend your money before you have earned it.</p>
+<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Nikola Tesla</p>
