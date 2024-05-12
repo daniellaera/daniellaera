@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>- Alexandre Dumas</p>
+<p>- Margaret Mead</p>
