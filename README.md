@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The destiny of man is in his own soul. </p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>- Herodotus</p>
+<p>- Virginia Woolf</p>
