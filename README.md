@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't look for meaning in the words. Listen to the silences.</p>
+<p>Opportunities multiply as they are seized.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Sun Tzu</p>
