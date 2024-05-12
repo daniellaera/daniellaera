@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>- Alan Watts</p>
+<p>- Herodotus</p>
