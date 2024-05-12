@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A self that goes on changing is a self that goes on living.</p>
+<p>Less is more.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Robert Browning</p>
