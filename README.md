@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True wealth is of the heart, not of the purse.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Og Mandino</p>
+<p>- Roy T. Bennett</p>
