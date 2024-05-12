@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking outside the box, get rid of the box.</p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Dudley Field Malone</p>
