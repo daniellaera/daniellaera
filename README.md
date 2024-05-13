@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is in your own heart.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- T.S. Eliot</p>
