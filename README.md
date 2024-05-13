@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the royal road to the unconscious. </p>
+<p>If I can stop one heart from breaking, I shall not live in vain.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Emily Dickinson</p>
