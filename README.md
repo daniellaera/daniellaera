@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>- Barack Obama</p>
+<p>- Mark Twain</p>
