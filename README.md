@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>- Mark Twain</p>
+<p>- Zen Proverb</p>
