@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.</p>
+<p>The guest will judge better of a feast than the cook.</p>
 
-<p>- James Allen</p>
+<p>- Aristotle</p>
