@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>- Zen Proverb</p>
+<p>- Osho</p>
