@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
+<p>Dreams are the royal road to the unconscious. </p>
 
-<p>- Zig Ziglar</p>
+<p>- Sigmund Freud</p>
