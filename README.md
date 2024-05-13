@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
+<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Simon Sinek</p>
