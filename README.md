@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
+<p>Life is a succession of lessons, which must be lived to be understood.</p>
 
-<p>- Bob Proctor</p>
+<p>- Ralph Waldo Emerson</p>
