@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Ronald Reagan</p>
