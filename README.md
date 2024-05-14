@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Ming-Dao Deng</p>
