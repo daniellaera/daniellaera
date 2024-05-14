@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>May you live all the days of your life.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Alfred Adler</p>
