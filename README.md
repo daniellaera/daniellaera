@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is the expansion of happiness.</p>
+<p>To forgive means pardoning the unpardonable.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Gilbert Chesterton</p>
