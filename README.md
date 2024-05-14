@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always lived in the moment.</p>
+<p>We build too many walls and not enough bridges.</p>
 
-<p>- Yanni</p>
+<p>- Isaac Newton</p>
