@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>- Babe Ruth</p>
+<p>- Robert Greene</p>
