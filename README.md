@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</p>
+<p>The purpose of life is to contribute in some way to making things better.</p>
 
-<p>- Unknown</p>
+<p>- Robert F. Kennedy</p>
