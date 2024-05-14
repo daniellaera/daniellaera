@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Johann Wolfgang von Goethe</p>
