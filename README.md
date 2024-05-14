@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>It is our choices that show what we truly are, far more than our abilities.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Albus Dumbledore</p>
