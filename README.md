@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one has ever become poor by giving.</p>
+<p>There are no uninteresting things, only uninterested people.</p>
 
-<p>- Anne Frank</p>
+<p>- Gilbert Chesterton</p>
