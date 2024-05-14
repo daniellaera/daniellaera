@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each day your life grows a day shorter. Make every move count.</p>
+<p>May you live all the days of your life.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Jonathan Swift</p>
