@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>No one has ever become poor by giving.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Anne Frank</p>
