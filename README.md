@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Mother Teresa</p>
