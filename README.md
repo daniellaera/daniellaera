@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
+<p>Waste no more time arguing about what a good man should be. Be one.</p>
 
-<p>- Bruce Lee</p>
+<p>- Marcus Aurelius</p>
