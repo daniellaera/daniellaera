@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Lao Tzu</p>
