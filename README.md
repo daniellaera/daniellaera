@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our choices that show what we truly are, far more than our abilities.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Gary Keller</p>
