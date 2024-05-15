@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about not knowing and then doing something anyway.</p>
+<p>If you spend too much time thinking about a thing, you'll never get it done. </p>
 
-<p>- Mark Manson</p>
+<p>- Bruce Lee</p>
