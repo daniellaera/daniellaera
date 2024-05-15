@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live simply, expect little, give much.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Pablo Picasso</p>
