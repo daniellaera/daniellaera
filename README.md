@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little progress each day adds up to big results.</p>
+<p>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</p>
 
-<p>- Unknown</p>
+<p>- Arnold Schwarzenegger</p>
