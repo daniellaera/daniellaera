@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day without laughter is a day wasted.</p>
+<p>Opportunities multiply as they are seized.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Sun Tzu</p>
