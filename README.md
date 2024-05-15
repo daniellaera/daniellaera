@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
 
-<p>- Buddha</p>
+<p>- Oprah Winfrey</p>
