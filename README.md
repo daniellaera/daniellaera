@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
+<p>The least deviation from truth will be multiplied later.</p>
 
-<p>- Brian Tracy</p>
+<p>- Aristotle</p>
