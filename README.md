@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to the secret sound, the real sound, which is inside you.</p>
+<p>Youth has no age.</p>
 
-<p>- Kabir</p>
+<p>- Pablo Picasso</p>
