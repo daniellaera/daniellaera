@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
+<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Deepak Chopra</p>
