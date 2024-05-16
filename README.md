@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Public opinion is the worst of all opinions.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Chinese Proverb</p>
