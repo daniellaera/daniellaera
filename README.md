@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Betty White</p>
+<p>- Pablo Picasso</p>
