@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Og Mandino</p>
