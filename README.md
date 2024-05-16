@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is not a lover who does not love forever.</p>
+<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
 
-<p>- Euripides</p>
+<p>- Charles Spurgeon</p>
