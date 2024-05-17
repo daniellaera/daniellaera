@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tradition is the illusion of permanence. </p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>- Woody Allen</p>
+<p>- Robert Kiyosaki</p>
