@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judge a man by his questions rather than his answers.</p>
+<p>Life is what happens to you while you're busy making other plans.</p>
 
-<p>- Voltaire</p>
+<p>- John Lennon</p>
