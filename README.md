@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>- Maya Angelou</p>
+<p>- Walt Disney</p>
