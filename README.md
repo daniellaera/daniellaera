@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The single most powerful asset we all have is our mind.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Sun Tzu</p>
