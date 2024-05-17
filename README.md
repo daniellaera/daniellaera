@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus is a matter of deciding what things you're not going to do.</p>
+<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
 
-<p>- John Carmack</p>
+<p>- Theodore Roosevelt</p>
