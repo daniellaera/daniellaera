@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Maya Angelou</p>
