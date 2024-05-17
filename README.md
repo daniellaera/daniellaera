@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
+<p>Nothing is really work unless you would rather be doing something else. </p>
 
-<p>- Robert F. Kennedy</p>
+<p>- James Matthew Barrie</p>
