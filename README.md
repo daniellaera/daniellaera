@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
 
-<p>- David Brinkley</p>
+<p>- Sathya Sai Baba</p>
