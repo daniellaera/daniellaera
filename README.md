@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>Love is the energy of life.</p>
 
-<p>- Unknown</p>
+<p>- Robert Browning</p>
