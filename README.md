@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't try to steer the river.</p>
+<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
 
-<p>- Deepak Chopra</p>
+<p>- Estee Lauder</p>
