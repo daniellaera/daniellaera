@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>If you care about someone enough, you'll always be there for them no matter what.</p>
 
-<p>- Aristotle</p>
+<p>- Roy T. Bennett</p>
