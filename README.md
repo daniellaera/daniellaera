@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
+<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
 
-<p>- Estee Lauder</p>
+<p>- David Brinkley</p>
