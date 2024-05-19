@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are disturbed not by things, but by the view which they take of them.</p>
+<p>Growing up is losing some illusions, in order to acquire others.</p>
 
-<p>- Epictetus</p>
+<p>- Virginia Woolf</p>
