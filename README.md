@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>Whatever you believe with feeling becomes your reality. </p>
 
-<p>- Aristotle</p>
+<p>- Brian Tracy</p>
