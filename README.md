@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not until we are lost do we begin to understand ourselves.</p>
+<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Steve Jobs</p>
