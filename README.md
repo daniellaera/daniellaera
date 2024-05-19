@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Unknown</p>
