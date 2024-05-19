@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage Is a Love Affair with the Unknown</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>- Osho</p>
+<p>- Samuel Beckett</p>
