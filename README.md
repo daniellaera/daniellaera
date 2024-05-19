@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the difficult things while they are easy and do the great things while they are small.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>- Lao Tzu</p>
+<p>- Henry David Thoreau</p>
