@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
+<p>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Zig Ziglar</p>
