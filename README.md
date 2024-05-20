@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tis not too late to seek a newer world.</p>
+<p>Attitude, not aptitude, determines altitude.  </p>
 
-<p>- Heraclitus</p>
+<p>- Zig Ziglar</p>
