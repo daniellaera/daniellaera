@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
 
-<p>- Ayn Rand</p>
+<p>- Thomas Jefferson</p>
