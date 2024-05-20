@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>- Yanni</p>
+<p>- Naval Ravikant</p>
