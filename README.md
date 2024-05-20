@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Eckhart Tolle</p>
