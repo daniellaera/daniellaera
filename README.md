@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
+<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
 
-<p>- Charles Dickens</p>
+<p>- Unknown</p>
