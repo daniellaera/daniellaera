@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Ming-Dao Deng</p>
