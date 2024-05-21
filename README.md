@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>As you love yourself, life loves you back.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Kamal Ravikant</p>
