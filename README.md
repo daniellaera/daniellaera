@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you love yourself, life loves you back.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Kahlil Gibran</p>
