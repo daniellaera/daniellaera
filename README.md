@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>- Herman Melville</p>
+<p>- Richard Bach</p>
