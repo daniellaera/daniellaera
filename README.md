@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Stephen King</p>
+<p>- Paulo Coelho</p>
