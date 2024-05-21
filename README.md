@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The merit of all things lies in their difficulty.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Herman Melville</p>
