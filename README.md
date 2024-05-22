@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
+<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Stephen King</p>
