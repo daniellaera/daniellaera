@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anxiety is the dizziness of freedom.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Barack Obama</p>
