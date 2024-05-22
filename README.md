@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
+<p>Imagination means nothing without doing.  </p>
 
-<p>- Stephen King</p>
+<p>- Charlie Chaplin</p>
