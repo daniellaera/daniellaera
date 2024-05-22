@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All things come into being by conflict of opposites.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>- Heraclitus</p>
+<p>- Richard Bach</p>
