@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
+<p>To lose your temper is only useful once a year.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Colin R. Davis</p>
