@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>- George Eliot</p>
+<p>- Margaret Mead</p>
