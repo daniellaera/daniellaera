@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You do not read a book for the book's sake, but for your own.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Earl Nightingale</p>
+<p>- John Eliot</p>
