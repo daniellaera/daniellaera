@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>- Bob Marley</p>
+<p>- Napoleon Hill</p>
