@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fall into a ditch makes you wiser.</p>
+<p>Real loss is only possible when you love something more than you love yourself.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robin Williams</p>
