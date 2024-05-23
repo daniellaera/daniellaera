@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in the darkness that one finds the light.</p>
+<p>How much pain they have cost us, the evils which have never happened.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Thomas Jefferson</p>
