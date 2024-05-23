@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real loss is only possible when you love something more than you love yourself.</p>
+<p>When you've got nothing, you've got nothing to lose.</p>
 
-<p>- Robin Williams</p>
+<p>- Bob Dylan</p>
