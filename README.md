@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</p>
 
-<p>- Vince Lombardi</p>
+<p>- Tony Robbins</p>
