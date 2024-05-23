@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Norman Vincent Peale</p>
