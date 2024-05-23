@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How much pain they have cost us, the evils which have never happened.</p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Franz Kafka</p>
