@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know the rules well, so you can break them effectively.</p>
+<p>We would accomplish many more things if we did not think of them as impossible.</p>
 
-<p>- Dalai Lama</p>
+<p>- Vince Lombardi</p>
