@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who know, do. Those that understand, teach.</p>
+<p>Longevity is a fleeting moment that lasts forever.</p>
 
-<p>- Aristotle</p>
+<p>- Vidal Sassoon</p>
