@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
+<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Albus Dumbledore</p>
