@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you've got nothing, you've got nothing to lose.</p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>- Bob Dylan</p>
+<p>- Bob Marley</p>
