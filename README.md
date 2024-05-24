@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Spencer Johnson</p>
