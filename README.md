@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person who does not read is no better than one cannot read.</p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Helen Keller</p>
