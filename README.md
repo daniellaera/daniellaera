@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Avoiding danger is no safer in the long run than exposure.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>- Helen Keller</p>
+<p>- Lin Yutang</p>
