@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Zhuangzi</p>
