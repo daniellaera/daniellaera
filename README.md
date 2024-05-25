@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who look for the bad in people will surely find it.</p>
+<p>Productize your perspective.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Jack Butcher</p>
