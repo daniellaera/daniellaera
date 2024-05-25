@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are as many opinions as there are experts.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Oprah Winfrey</p>
