@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Looking after my health today gives me a better hope for tomorrow. </p>
+<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Naval Ravikant</p>
