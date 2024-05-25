@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>- Bob Marley</p>
+<p>- Dan Brown</p>
