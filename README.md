@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
+<p>Where you are right now doesn't have to determine where you'll end up.</p>
 
-<p>- Aristotle</p>
+<p>- Barack Obama</p>
