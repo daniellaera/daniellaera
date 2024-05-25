@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must embrace pain and burn it as fuel for our journey.</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Kamal Ravikant</p>
