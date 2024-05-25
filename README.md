@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>Too many of us are not living our dreams because we are living our fears.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Les Brown</p>
