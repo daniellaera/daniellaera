@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>- Barack Obama</p>
+<p>- Amelia Earhart</p>
