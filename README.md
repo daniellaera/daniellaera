@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
+<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Martin Luther King, Jr.</p>
