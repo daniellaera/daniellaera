@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be confident, not certain.</p>
+<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Aristotle</p>
