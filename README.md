@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>The ability to observe without evaluating is the highest form of intelligence.</p>
 
-<p>- Steve Jobs</p>
+<p>- Jiddu Krishnamurti</p>
