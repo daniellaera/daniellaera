@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Productize your perspective.</p>
+<p>All human beings can alter their lives by altering their attitudes.</p>
 
-<p>- Jack Butcher</p>
+<p>- Andrew Carnegie</p>
