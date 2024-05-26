@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
+<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Celestine Chua</p>
