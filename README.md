@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you take responsibility for your past and present, the more you are able to create the future you seek.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>- Celestine Chua</p>
+<p>- Steve Jobs</p>
