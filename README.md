@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>You are the average of the five people you spend most time with.</p>
 
-<p>- Aristotle</p>
+<p>- Jim Rohn</p>
