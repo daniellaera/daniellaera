@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
 
-<p>- Unknown</p>
+<p>- Chinese Proverb</p>
