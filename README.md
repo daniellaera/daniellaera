@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can bring you peace but yourself.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Johann Wolfgang von Goethe</p>
