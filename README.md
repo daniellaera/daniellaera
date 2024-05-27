@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not stuck where you are unless you decide to be.  </p>
+<p>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Robert Frost</p>
