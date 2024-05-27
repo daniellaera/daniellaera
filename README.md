@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You change the world by being yourself.</p>
+<p>None but ourselves can free our minds.</p>
 
-<p>- Yoko Ono</p>
+<p>- Bob Marley</p>
