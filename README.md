@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what happens to you, but how you react to it that matters.</p>
+<p>Whatever you believe with feeling becomes your reality. </p>
 
-<p>- Epictetus</p>
+<p>- Brian Tracy</p>
