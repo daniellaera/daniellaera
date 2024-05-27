@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Unknown</p>
