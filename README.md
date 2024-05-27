@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
+<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 
-<p>- Unknown</p>
+<p>- Elbert Hubbard</p>
