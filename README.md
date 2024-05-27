@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Celestine Chua</p>
+<p>- Barack Obama</p>
