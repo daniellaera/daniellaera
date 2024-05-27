@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Marcus Aurelius</p>
