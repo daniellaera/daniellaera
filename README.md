@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
+<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
 
-<p>- Osho</p>
+<p>- Ray Bradbury</p>
