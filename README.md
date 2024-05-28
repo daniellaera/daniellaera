@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
+<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
 
 <p>- Brian Tracy</p>
