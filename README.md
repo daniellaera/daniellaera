@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
+<p>What you become is far more important than what you get.</p>
 
-<p>- Ayn Rand</p>
+<p>- Jim Rohn</p>
