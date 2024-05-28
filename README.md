@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best dreams happen when you're awake.</p>
+<p>New beginnings are disguised as painful endings.</p>
 
-<p>- Cherie Gilderbloom</p>
+<p>- Lao Tzu</p>
