@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One day, in retrospect, the years of struggle will strike you as the most beautiful.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Stephen King</p>
