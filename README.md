@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more one judges, the less one loves.</p>
+<p>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Elon Musk</p>
