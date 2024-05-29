@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once you learn to quit, it becomes a habit.</p>
+<p>A fool sees himself as another, but a wise man sees others as himself.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Dogen</p>
