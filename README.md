@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To perceive is to suffer.</p>
+<p>Our stories may be singular, but our destination is shared.</p>
 
-<p>- Aristotle</p>
+<p>- Barack Obama</p>
