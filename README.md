@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Health is the greatest of all possessions.</p>
+<p>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Plato</p>
