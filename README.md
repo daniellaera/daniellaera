@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to be looked over than overlooked.</p>
+<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
 
-<p>- Mae West</p>
+<p>- Carl Jung</p>
