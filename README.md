@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness is a language which the deaf can hear and the blind can see.</p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>- Mark Twain</p>
+<p>- D. H. Lawrence</p>
