@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Robert Kiyosaki</p>
