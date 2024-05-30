@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Zig Ziglar</p>
