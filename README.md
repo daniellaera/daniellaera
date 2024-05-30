@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is simply what our feelings do to us.</p>
+<p>If there were no God, there would be no atheists.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Gilbert Chesterton</p>
