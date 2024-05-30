@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money poisons you when you've got it, and starves you when you haven't.</p>
+<p>Life can be wonderful if you're not afraid of it.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Charlie Chaplin</p>
