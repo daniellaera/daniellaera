@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to make time, even for something as universal as staring at the stars.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Paulo Coelho</p>
