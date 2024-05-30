@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Mahatma Gandhi</p>
