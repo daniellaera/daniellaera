@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</p>
+<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
 
-<p>- Og Mandino</p>
+<p>- Earl Nightingale</p>
