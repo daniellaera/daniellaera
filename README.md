@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't think money does everything or you are going to end up doing everything for money.</p>
+<p>Older men declare war. But it is youth that must fight and die.</p>
 
-<p>- Voltaire</p>
+<p>- Herbert Hoover</p>
