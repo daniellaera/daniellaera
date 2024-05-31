@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Miguel de Cervantes</p>
