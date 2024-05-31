@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Norman Vincent Peale</p>
