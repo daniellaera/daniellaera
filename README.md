@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is simple. If it was complicated, everyone would understand it.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>- Walt Whitman</p>
+<p>- Steve Maraboli</p>
