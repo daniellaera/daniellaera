@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can suffer the pain of change or suffer remaining the way you are.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Aristotle</p>
