@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it.</p>
+<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Carlos Ruiz Zafon</p>
