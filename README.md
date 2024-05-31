@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>If you can't imagine it, you can't have it.</p>
 
-<p>- Denis Waitley</p>
+<p>- Toni Morrison</p>
