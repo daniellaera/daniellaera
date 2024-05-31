@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't imagine it, you can't have it.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>- Toni Morrison</p>
+<p>- Joyce Meyer</p>
