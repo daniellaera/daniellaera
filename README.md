@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your cents: dollars will take care of themselves.</p>
+<p>To belittle, you have to be little.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Kahlil Gibran</p>
