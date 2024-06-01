@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Gilbert Chesterton</p>
