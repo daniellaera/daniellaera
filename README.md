@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
+<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
 
-<p>- Bruce Lee</p>
+<p>- Earl Nightingale</p>
