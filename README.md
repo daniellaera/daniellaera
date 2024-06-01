@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
+<p>Take care of your cents: dollars will take care of themselves.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Thomas Jefferson</p>
