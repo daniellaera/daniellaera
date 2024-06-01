@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>Nature is pleased with simplicity. And nature is no dummy.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Isaac Newton</p>
