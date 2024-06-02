@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
 
-<p>- Alfred Adler</p>
+<p>- Brian Tracy</p>
