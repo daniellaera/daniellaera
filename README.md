@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Naval Ravikant</p>
