@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have to make a choice and don't make it, that is in itself a choice.</p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>- William James</p>
+<p>- Bob Dylan</p>
