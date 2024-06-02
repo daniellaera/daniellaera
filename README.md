@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
 
-<p>- Criss Jami</p>
+<p>- Steve Maraboli</p>
