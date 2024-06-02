@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
+<p>When you have to make a choice and don't make it, that is in itself a choice.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- William James</p>
