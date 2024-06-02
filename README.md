@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Samuel Butler</p>
+<p>- Henry Ward Beecher</p>
