@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>- Celestine Chua</p>
+<p>- Chinese Proverb</p>
