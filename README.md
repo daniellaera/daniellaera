@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be yourself; everyone else is already taken.</p>
+<p>Everybody by your side ain't on your side.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Steve Harvey</p>
