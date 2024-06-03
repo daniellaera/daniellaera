@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Bruce Lee</p>
+<p>- Maxime Lagace</p>
