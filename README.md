@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
+<p>The person who cannot control his words shows that he cannot control himself.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Robert Greene</p>
