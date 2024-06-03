@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From the errors of others, a wise man corrects his own.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Thich Nhat Hanh</p>
