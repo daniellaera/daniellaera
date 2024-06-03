@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The one who boasts does so only out of a feeling of inferiority.</p>
+<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
 
-<p>- Alfred Adler</p>
+<p>- Celestine Chua</p>
