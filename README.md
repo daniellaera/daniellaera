@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who cannot control his words shows that he cannot control himself.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- Robert Greene</p>
+<p>- Mark Twain</p>
