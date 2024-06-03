@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I skate to where the puck is going to be, not where it has been.</p>
+<p>Today I begin a new life. I will greet this day with love in my heart.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Og Mandino</p>
