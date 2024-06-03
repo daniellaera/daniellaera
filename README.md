@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving back involves a certain amount of giving up.</p>
+<p>The wise warrior avoids the battle.</p>
 
-<p>- Colin Powell</p>
+<p>- Sun Tzu</p>
