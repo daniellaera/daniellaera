@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victory is always possible for the person who refuses to stop fighting.</p>
+<p>From the errors of others, a wise man corrects his own.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Publilius Syrus</p>
