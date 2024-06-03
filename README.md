@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can dim the light which shines from within.</p>
+<p>The one who boasts does so only out of a feeling of inferiority.</p>
 
-<p>- Maya Angelou</p>
+<p>- Alfred Adler</p>
