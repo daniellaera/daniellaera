@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Wayne Dyer</p>
