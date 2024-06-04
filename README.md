@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Spencer Johnson</p>
