@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>- Michael Jordan</p>
+<p>- Robert Greene</p>
