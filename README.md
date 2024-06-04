@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each day your life grows a day shorter. Make every move count.</p>
+<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Celestine Chua</p>
