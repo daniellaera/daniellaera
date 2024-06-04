@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to become younger.</p>
+<p>When you're curious, you find lots of interesting things to do.</p>
 
-<p>- Mae West</p>
+<p>- Walt Disney</p>
