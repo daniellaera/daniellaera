@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who avoid failure also avoid success.</p>
+<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Hans Christian Andersen</p>
