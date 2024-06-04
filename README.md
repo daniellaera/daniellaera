@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're curious, you find lots of interesting things to do.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>- Walt Disney</p>
+<p>- Michael Jordan</p>
