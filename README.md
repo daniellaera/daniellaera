@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy is a commodity, execution is an art.</p>
+<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
 
-<p>- Peter Drucker</p>
+<p>- Naval Ravikant</p>
