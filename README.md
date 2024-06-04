@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>You are never too old to become younger.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Mae West</p>
