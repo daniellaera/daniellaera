@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can dim the light which shines from within.</p>
+<p>Gratitude is the fairest blossom which springs from the soul.</p>
 
-<p>- Maya Angelou</p>
+<p>- Henry Ward Beecher</p>
