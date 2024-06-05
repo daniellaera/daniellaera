@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Gratitude is the fairest blossom which springs from the soul.</p>
+<p>You must welcome change as the rule but not as your ruler. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Denis Waitley</p>
