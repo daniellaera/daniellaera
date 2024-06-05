@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Gary Keller</p>
