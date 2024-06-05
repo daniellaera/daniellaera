@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>- Peter Drucker</p>
+<p>- Charles Dickens</p>
