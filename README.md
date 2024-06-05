@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Wayne Dyer</p>
