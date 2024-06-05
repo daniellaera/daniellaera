@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about doing the right thing, not about doing everything right.</p>
+<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
 
-<p>- Gary Keller</p>
+<p>- Kabir</p>
