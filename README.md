@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Deepak Chopra</p>
