@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>- Epictetus</p>
+<p>- Chinese Proverb</p>
