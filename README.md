@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
+<p>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Roy T. Bennett</p>
