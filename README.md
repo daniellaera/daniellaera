@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perplexity is the beginning of knowledge.</p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>- Kahlil Gibran</p>
+<p>- Billie Jean King</p>
