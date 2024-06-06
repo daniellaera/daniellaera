@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>A man that flies from his fear may find that he has only taken a short cut to meet it.</p>
 
-<p>- Deepak Chopra</p>
+<p>- J.R.R. Tolkien</p>
