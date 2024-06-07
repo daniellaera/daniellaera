@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
 
-<p>- Emily Dickinson</p>
+<p>- Genghis Khan</p>
