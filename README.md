@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>He who has overcome his fears will truly be free.</p>
 
-<p>- Brian Tracy</p>
+<p>- Aristotle</p>
