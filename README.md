@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
+<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
 
-<p>- Genghis Khan</p>
+<p>- Carl Jung</p>
