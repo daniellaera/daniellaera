@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your wounds into wisdom. </p>
+<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- William Faulkner</p>
