@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find your Light; They can't love you if they can't see you.</p>
+<p>When you are totally at peace with yourself, nothing can shake you.</p>
 
-<p>- Bette Midler</p>
+<p>- Deepam Chaterjee</p>
