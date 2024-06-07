@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
+<p>You win more from losing than winning.</p>
 
-<p>- Simon Sinek</p>
+<p>- Morgan Wootten</p>
