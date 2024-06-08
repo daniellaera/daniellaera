@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</p>
+<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
 
-<p>- Celestine Chua</p>
+<p>- Unknown</p>
