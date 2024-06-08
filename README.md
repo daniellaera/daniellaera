@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>To be angry is to revenge the faults of others on ourselves.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Alexander Pope</p>
