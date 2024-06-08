@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>You cannot have a positive life and a negative mind.</p>
 
-<p>- Unknown</p>
+<p>- Joyce Meyer</p>
