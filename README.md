@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>Love is merely the name for the desire and pursuit of the whole.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Aristophanes</p>
