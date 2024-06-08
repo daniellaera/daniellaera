@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Johann Wolfgang von Goethe</p>
