@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Dan Millman</p>
