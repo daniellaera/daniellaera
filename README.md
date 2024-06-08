@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot have a positive life and a negative mind.</p>
+<p>The constant assertion of belief is an indication of fear.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Jiddu Krishnamurti</p>
