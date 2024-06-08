@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Unknown</p>
+<p>- Dr. Seuss</p>
