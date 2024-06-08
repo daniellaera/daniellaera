@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to give up some of the old so that you can make room for the new.</p>
+<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
 
-<p>- Yanni</p>
+<p>- Huang Po</p>
