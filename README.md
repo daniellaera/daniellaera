@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
+<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Walt Whitman</p>
