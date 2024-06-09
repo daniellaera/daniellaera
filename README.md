@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art, like morality, consists of drawing the line somewhere.</p>
+<p>We build too many walls and not enough bridges.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Isaac Newton</p>
