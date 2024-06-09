@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Unknown</p>
+<p>- William Faulkner</p>
