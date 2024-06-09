@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We build too many walls and not enough bridges.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Isaac Newton</p>
+<p>- John Eliot</p>
