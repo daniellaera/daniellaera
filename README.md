@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
+<p>The world is changed by your example, not by your opinion.</p>
 
-<p>- Genghis Khan</p>
+<p>- Paulo Coelho</p>
