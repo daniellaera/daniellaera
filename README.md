@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The businessman's tool is value.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>- Ayn Rand</p>
+<p>- Les Brown</p>
