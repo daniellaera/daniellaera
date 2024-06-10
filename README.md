@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to lose all you have to find out who you truly are.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Wayne Dyer</p>
