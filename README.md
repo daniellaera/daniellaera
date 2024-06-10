@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is changed by your example, not by your opinion.</p>
+<p>Life is but one dream flowing into another.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Ming-Dao Deng</p>
