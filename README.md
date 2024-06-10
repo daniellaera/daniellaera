@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to set another goal or to dream a new dream.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>- Les Brown</p>
+<p>- Benjamin Franklin</p>
