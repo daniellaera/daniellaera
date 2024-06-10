@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An investment in knowledge pays the best interest.</p>
+<p>If you put water into a cup, it becomes the cup.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Bruce Lee</p>
