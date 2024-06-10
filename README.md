@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great minds are always feared by lesser minds.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>- Dan Brown</p>
+<p>- Dalai Lama</p>
