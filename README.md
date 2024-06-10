@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change yourself - you are in control.</p>
+<p>Sometimes you have to lose all you have to find out who you truly are.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Roy T. Bennett</p>
