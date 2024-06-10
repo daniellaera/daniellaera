@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pen is the tongue of the mind. </p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Genghis Khan</p>
