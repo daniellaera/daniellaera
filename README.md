@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Thomas Edison</p>
