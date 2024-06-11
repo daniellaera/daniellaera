@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Kamal Ravikant</p>
