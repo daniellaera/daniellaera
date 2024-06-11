@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let the beauty of what you love be what you do.</p>
+<p>Don't live the same year 75 times and call it a life.</p>
 
-<p>- Rumi</p>
+<p>- Robin Sharma</p>
