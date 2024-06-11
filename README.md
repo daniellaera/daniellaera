@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Music is like creating an emotional painting. The sounds are the colors.</p>
+<p>The deeper the truth in a creative work, the longer it will live.  </p>
 
-<p>- Yanni</p>
+<p>- Charlie Chaplin</p>
