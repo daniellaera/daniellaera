@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success and failure come and go, but don't let them define you. It's who you are that matters.</p>
+<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Zen Proverb</p>
