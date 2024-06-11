@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The cost of leadership is self-interest.</p>
+<p>Music is like creating an emotional painting. The sounds are the colors.</p>
 
-<p>- Simon Sinek</p>
+<p>- Yanni</p>
