@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The deeper the truth in a creative work, the longer it will live.  </p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- J.R.R. Tolkien</p>
