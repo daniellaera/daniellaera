@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not something ready made. It comes from your own actions.</p>
+<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
 
-<p>- Dalai Lama</p>
+<p>- Dale Carnegie</p>
