@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
+<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
 
-<p>- Zen Proverb</p>
+<p>- Kamal Ravikant</p>
