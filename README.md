@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not the knowing that is difficult, but the doing. </p>
+<p>Work out your own salvation. Do not depend on others.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Buddha</p>
