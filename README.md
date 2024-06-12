@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>Being wrong opens us up to the possibility of change.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Mark Manson</p>
