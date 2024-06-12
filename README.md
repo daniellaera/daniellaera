@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being wrong opens us up to the possibility of change.</p>
+<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
 
-<p>- Mark Manson</p>
+<p>- Chinese Proverb</p>
