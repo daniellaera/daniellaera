@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
+<p>As you love yourself, life loves you back.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Kamal Ravikant</p>
