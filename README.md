@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dance first. Think later. It's the natural order.</p>
+<p>Walk towards the sunshine, and the shadows will fall behind you.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Mary Engelbreit</p>
