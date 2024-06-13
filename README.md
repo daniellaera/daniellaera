@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no way to happiness - happiness is the way.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- William Faulkner</p>
