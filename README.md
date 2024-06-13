@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nature does not hurry, yet everything is accomplished.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>- Lao Tzu</p>
+<p>- Thich Nhat Hanh</p>
