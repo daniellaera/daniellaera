@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make peace with your inner turmoil.</p>
+<p>Tomorrow is only found in the calendar of fools.</p>
 
-<p>- Unknown</p>
+<p>- Og Mandino</p>
