@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have a vision. Be demanding.</p>
+<p>Take care of your cents: dollars will take care of themselves.</p>
 
-<p>- Colin Powell</p>
+<p>- Thomas Jefferson</p>
