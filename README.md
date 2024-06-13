@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To get angry is like to revenge yourself for the guilt of others.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Oprah Winfrey</p>
