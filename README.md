@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
+<p>Art, like morality, consists of drawing the line somewhere.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Gilbert Chesterton</p>
