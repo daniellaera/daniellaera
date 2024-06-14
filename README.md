@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One must be poor to know the luxury of giving.</p>
+<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
 
-<p>- George Eliot</p>
+<p>- Tony Robbins</p>
