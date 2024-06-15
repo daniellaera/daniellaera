@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>Things do not have meaning. We assign meaning to everything.</p>
 
-<p>- Yanni</p>
+<p>- Tony Robbins</p>
