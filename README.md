@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your mind your own business.</p>
+<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
 
-<p>- Jack Butcher</p>
+<p>- Audrey Hepburn</p>
