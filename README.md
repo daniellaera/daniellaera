@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Steve Jobs</p>
