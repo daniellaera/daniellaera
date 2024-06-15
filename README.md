@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things do not have meaning. We assign meaning to everything.</p>
+<p>Life moves on and so should we.</p>
 
-<p>- Tony Robbins</p>
+<p>- Spencer Johnson</p>
