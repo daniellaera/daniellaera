@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who wishes to fight must first count the cost.</p>
+<p>Be grateful for what you have now, and nothing should be taken for granted.</p>
 
-<p>- Sun Tzu</p>
+<p>- Roy T. Bennett</p>
