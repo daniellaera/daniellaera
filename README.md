@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
+<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Charles Dickens</p>
