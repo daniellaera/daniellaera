@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My sun sets to rise again.</p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>- Robert Browning</p>
+<p>- Paulo Coelho</p>
