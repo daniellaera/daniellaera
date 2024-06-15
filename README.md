@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Invisible things are the only realities.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Judy Garland</p>
