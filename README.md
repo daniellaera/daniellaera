@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>- Kilian Jornet</p>
+<p>- Hans Christian Andersen</p>
