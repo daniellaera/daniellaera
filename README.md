@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not titles that honour men, but men that honour titles.</p>
+<p>Make your mind your own business.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Jack Butcher</p>
