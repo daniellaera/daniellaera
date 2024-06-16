@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Until you change how you get things done, you'll never know what works best.</p>
+<p>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Andrew Carnegie</p>
