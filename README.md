@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The hard path is often the right one. The river teaches more than the shore.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Aristotle</p>
