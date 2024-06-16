@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want. Happiness is wanting what you get.</p>
+<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Naval Ravikant</p>
