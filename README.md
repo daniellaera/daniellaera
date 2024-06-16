@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no value in anything until it is finished. </p>
+<p>Success is getting what you want. Happiness is wanting what you get.</p>
 
-<p>- Genghis Khan</p>
+<p>- Andrew Carnegie</p>
