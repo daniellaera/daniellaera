@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
+<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
 
-<p>- Betty White</p>
+<p>- Eric Hoffer</p>
