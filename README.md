@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The hardest arithmetic to master is that which enables us to count our blessings.</p>
+<p>Never let your memories be greater than your dreams.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Doug Ivester</p>
