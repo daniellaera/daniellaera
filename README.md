@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>- St. Jerome</p>
+<p>- Henry Ward Beecher</p>
