@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of chaos lies opportunity.  </p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>- Bruce Lee</p>
+<p>- Aristophanes</p>
