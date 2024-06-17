@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
+<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
 
-<p>- Robin Sharma</p>
+<p>- Robert Collier</p>
