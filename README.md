@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember to look up at the stars and not down at your feet.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Dalai Lama</p>
