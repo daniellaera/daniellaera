@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I defeat my enemies when I make them my friends.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>- Dalai Lama</p>
+<p>- Bruce Lee</p>
