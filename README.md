@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Honore de Balzac</p>
