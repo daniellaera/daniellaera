@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it. </p>
+<p>Success is about creating value.</p>
 
-<p>- Bodhidharma</p>
+<p>- Candice Carpenter</p>
