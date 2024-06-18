@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>It is useless to meet revenge with revenge; it will heal nothing.</p>
 
-<p>- Aristophanes</p>
+<p>- J.R.R. Tolkien</p>
