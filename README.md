@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Bodhidharma</p>
