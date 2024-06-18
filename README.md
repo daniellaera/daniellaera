@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By perseverance the snail reached the ark.</p>
+<p>Don't let the fear of losing be greater than the excitement of winning.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Robert Kiyosaki</p>
