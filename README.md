@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
+<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
 
-<p>- Mother Teresa</p>
+<p>- G.I. Gurdjieff</p>
