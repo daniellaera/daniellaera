@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart that gives, gathers.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>- Lao Tzu</p>
+<p>- D. H. Lawrence</p>
