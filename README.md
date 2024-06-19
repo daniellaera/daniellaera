@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man should fear never beginning to live.</p>
+<p>Receive without complaint, Work with fate.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Ming-Dao Deng</p>
