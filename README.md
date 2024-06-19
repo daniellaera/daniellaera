@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Joan Rivers</p>
