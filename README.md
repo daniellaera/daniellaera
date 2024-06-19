@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
+<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
 
-<p>- Steve Jobs</p>
+<p>- Robert Kiyosaki</p>
