@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things may come to those who wait, but only the things left by those who hustle.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Audrey Hepburn</p>
