@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without complaint, Work with fate.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Stephen Hawking</p>
