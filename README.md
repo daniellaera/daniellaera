@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>New beginnings are disguised as painful endings.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Lao Tzu</p>
