@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>What the mind can conceive, it can achieve.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Napoleon Hill</p>
