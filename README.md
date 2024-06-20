@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
 
-<p>- Ayn Rand</p>
+<p>- John Carmack</p>
