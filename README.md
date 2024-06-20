@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>Stop wasting time defending your problems and work on addressing them instead.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Celestine Chua</p>
