@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
+<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
 
 <p>- Nikola Tesla</p>
