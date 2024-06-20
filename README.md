@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</p>
 
-<p>- Barack Obama</p>
+<p>- Mark Manson</p>
