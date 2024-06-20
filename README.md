@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Peter Drucker</p>
