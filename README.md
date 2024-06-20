@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to live until you die.</p>
+<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
 
-<p>- Dan Millman</p>
+<p>- Lao Tzu</p>
