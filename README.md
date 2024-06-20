@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop wasting time defending your problems and work on addressing them instead.</p>
+<p>All has not been said and never will be.</p>
 
-<p>- Celestine Chua</p>
+<p>- Samuel Beckett</p>
