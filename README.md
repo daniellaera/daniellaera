@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All has not been said and never will be.</p>
+<p>No duty is more urgent than that of returning thanks.</p>
 
-<p>- Samuel Beckett</p>
+<p>- James Allen</p>
