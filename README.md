@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive, it can achieve.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Alan Watts</p>
