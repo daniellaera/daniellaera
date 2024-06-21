@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every beautiful thing, there's some kind of pain.</p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>- Bob Dylan</p>
+<p>- Arnold Schwarzenegger</p>
