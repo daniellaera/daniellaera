@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From morning till night, we should never rely on a single thing.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
 
-<p>- Huang Po</p>
+<p>- Beverly Sills</p>
