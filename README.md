@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Aristotle</p>
