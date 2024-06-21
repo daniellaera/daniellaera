@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Og Mandino</p>
