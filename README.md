@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>Behind every beautiful thing, there's some kind of pain.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Bob Dylan</p>
