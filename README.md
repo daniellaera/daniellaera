@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no absolute success in the world, only constant progress.</p>
+<p>Those who are easily shocked should be shocked more often.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Mae West</p>
