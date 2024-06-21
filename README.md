@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No duty is more urgent than that of returning thanks.</p>
+<p>The person who never made a mistake never tried anything new.</p>
 
-<p>- James Allen</p>
+<p>- Albert Einstein</p>
