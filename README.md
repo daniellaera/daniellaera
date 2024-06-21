@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who never made a mistake never tried anything new.</p>
+<p>Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.</p>
 
-<p>- Albert Einstein</p>
+<p>- Earl Nightingale</p>
