@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope is not a strategy. Luck is not a factor. Fear is not an option.</p>
+<p>Wherever you are is the entry point.</p>
 
-<p>- James Cameron</p>
+<p>- Kabir</p>
