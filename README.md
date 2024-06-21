@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who realize their folly are not true fools.</p>
+<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
 
-<p>- Zhuangzi</p>
+<p>- Yanni</p>
