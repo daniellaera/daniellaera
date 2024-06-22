@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Riches don't make a man rich, they only make him busier.</p>
+<p>There is no excuse for not trying.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Barack Obama</p>
