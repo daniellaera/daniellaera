@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
+<p>Don't wish it were easier, wish you were better.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Jim Rohn</p>
