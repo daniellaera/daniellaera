@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wish it were easier, wish you were better.</p>
+<p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
 
-<p>- Jim Rohn</p>
+<p>- Carl Jung</p>
