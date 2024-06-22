@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I defeat my enemies when I make them my friends.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- Dalai Lama</p>
+<p>- James Allen</p>
