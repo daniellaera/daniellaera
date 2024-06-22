@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I live by letting things happen.</p>
+<p>Saying nothing sometimes says the most.</p>
 
-<p>- Dogen</p>
+<p>- Emily Dickinson</p>
