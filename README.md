@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, you travel, and as you love, you attract.</p>
+<p>Time stays long enough for anyone who will use it.</p>
 
-<p>- James Allen</p>
+<p>- Leonardo da Vinci</p>
