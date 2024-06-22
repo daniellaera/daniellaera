@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking outside the box, get rid of the box.</p>
+<p>Riches don't make a man rich, they only make him busier.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Christopher Columbus</p>
