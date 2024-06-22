@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>- Yanni</p>
+<p>- Dalai Lama</p>
