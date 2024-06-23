@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Mark Twain</p>
+<p>- Gary Keller</p>
