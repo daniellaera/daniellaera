@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Beverly Sills</p>
+<p>- John Wooden</p>
