@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
+<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Elbert Hubbard</p>
