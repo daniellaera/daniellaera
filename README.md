@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
+<p>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</p>
 
-<p>- Mother Teresa</p>
+<p>- Gabor Mate</p>
