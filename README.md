@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The majority of what you want will come from the minority of what you do.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>- Gary Keller</p>
+<p>- D. H. Lawrence</p>
