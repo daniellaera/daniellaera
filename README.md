@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Og Mandino</p>
