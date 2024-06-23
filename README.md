@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
 
-<p>- Elbert Hubbard</p>
+<p>- Genghis Khan</p>
