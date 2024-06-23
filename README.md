@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We've got to live, no matter how many skies have fallen.</p>
+<p>Art is to console those who are broken by life.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Vincent van Gogh</p>
