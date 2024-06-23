@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The power of man has grown in every sphere, except over himself.</p>
+<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
 
-<p>- Winston Churchill</p>
+<p>- Dalai Lama</p>
