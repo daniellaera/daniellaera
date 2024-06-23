@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
+<p>Better to have, and not need, than to need, and not have.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Franz Kafka</p>
