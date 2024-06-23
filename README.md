@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, hope is a good thing, maybe the best of things.</p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>- Stephen King</p>
+<p>- Ming-Dao Deng</p>
