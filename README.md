@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>- Genghis Khan</p>
+<p>- Lolly Daskal</p>
