@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>The power of man has grown in every sphere, except over himself.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Winston Churchill</p>
