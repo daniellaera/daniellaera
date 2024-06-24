@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Seungsahn</p>
