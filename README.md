@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+<p>The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.</p>
 
-<p>- Albert Einstein</p>
+<p>- Sonia Ricotti</p>
