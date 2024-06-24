@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>If everyone is moving forward together, then success takes care of itself.</p>
 
-<p>- James Allen</p>
+<p>- Henry Ford</p>
