@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>- Seungsahn</p>
+<p>- Laurence J. Peter</p>
