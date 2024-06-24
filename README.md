@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If everyone is moving forward together, then success takes care of itself.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>- Henry Ford</p>
+<p>- Johann Wolfgang von Goethe</p>
