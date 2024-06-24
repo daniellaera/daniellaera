@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners don't Quit. That's why they Win.</p>
+<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
 
-<p>- Unknown</p>
+<p>- Charles Swindoll</p>
