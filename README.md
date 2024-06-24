@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Health is the greatest of all possessions.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Og Mandino</p>
