@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The very essence of instinct is that it's followed independently of reason.</p>
+<p>It's just a bad day, not a bad life.</p>
 
-<p>- Charles Darwin</p>
+<p>- Mary Engelbreit</p>
