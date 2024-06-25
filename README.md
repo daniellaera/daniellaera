@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is what you have before you understand the problem.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>- Woody Allen</p>
+<p>- Colin Powell</p>
