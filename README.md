@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Gilbert Chesterton</p>
