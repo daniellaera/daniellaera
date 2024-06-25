@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>- Albert Einstein</p>
+<p>- Henry Ward Beecher</p>
