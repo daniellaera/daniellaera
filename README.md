@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's just a bad day, not a bad life.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Charles Dickens</p>
