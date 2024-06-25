@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of worrying about what you cannot control, shift your energy to what you can create.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Elon Musk</p>
