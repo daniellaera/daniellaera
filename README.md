@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know of only one duty, and that is to love.</p>
+<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Charles Spurgeon</p>
