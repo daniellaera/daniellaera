@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
+<p>What is a friend? A single soul dwelling in two bodies.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Aristotle</p>
