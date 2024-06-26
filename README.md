@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you get up one more time than you fall, you will make it through.</p>
+<p>Be kind, for everyone you meet is fighting a harder battle.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Plato</p>
