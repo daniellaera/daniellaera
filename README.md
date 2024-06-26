@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Peace. Peace is the path.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>- Dan Millman</p>
+<p>- Naval Ravikant</p>
