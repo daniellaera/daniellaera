@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love the life you live, live the life you love.</p>
+<p>You purchase pain with all that joy can give and die of nothing but a rage to live.</p>
 
-<p>- Bob Marley</p>
+<p>- Alexander Pope</p>
