@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>High thoughts must have high language.</p>
+<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
 
-<p>- Aristophanes</p>
+<p>- Audrey Hepburn</p>
