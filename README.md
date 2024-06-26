@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>- Euripides</p>
+<p>- Abraham Lincoln</p>
