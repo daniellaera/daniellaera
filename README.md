@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>Love the life you live, live the life you love.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Bob Marley</p>
