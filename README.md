@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Zen Proverb</p>
