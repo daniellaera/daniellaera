@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To know your Enemy, you must become your Enemy.</p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>- Sun Tzu</p>
+<p>- Martin Luther King, Jr.</p>
