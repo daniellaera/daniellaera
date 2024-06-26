@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
+<p>There is no path to Peace. Peace is the path.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Dan Millman</p>
