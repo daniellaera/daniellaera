@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
+<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
 
-<p>- John Lennon</p>
+<p>- Ralph Marston</p>
