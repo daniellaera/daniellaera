@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Elon Musk</p>
