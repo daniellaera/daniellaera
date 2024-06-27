@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>- Bruce Lee</p>
+<p>- Herodotus</p>
