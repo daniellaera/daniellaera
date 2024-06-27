@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</p>
+<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Richard Bach</p>
