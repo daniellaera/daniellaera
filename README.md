@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more real than nothing.</p>
+<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Confucius</p>
