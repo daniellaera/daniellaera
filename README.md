@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
 
-<p>- Huang Po</p>
+<p>- Winston Churchill</p>
