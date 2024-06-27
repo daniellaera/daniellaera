@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Confucius</p>
+<p>- Paulo Coelho</p>
