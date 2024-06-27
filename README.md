@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
+<p>Nothing is more real than nothing.</p>
 
-<p>- Mark Twain</p>
+<p>- Samuel Beckett</p>
