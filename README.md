@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>Your spirit is the true shield.</p>
 
-<p>- Dogen</p>
+<p>- Morihei Ueshiba</p>
