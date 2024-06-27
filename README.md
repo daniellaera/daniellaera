@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>- Richard Bach</p>
+<p>- Chinese Proverb</p>
