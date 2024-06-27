@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Bruce Lee</p>
