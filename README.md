@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>- Woody Allen</p>
+<p>- J.R.R. Tolkien</p>
