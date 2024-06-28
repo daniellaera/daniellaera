@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
+<p>Whether you think you can or think you can't – you are right.</p>
 
-<p>- Brian Tracy</p>
+<p>- Henry Ford</p>
