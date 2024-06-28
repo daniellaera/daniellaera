@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>Human beings can alter their lives by altering their attitudes of mind.</p>
 
-<p>- Criss Jami</p>
+<p>- William James</p>
