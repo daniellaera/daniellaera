@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>- Albert Einstein</p>
+<p>- Lin Yutang</p>
