@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings can alter their lives by altering their attitudes of mind.</p>
+<p>The more we value things, the less we value ourselves.  </p>
 
-<p>- William James</p>
+<p>- Bruce Lee</p>
