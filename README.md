@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we value things, the less we value ourselves.  </p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>- Bruce Lee</p>
+<p>- Mae West</p>
