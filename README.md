@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Brian Tracy</p>
