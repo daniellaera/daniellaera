@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only be afraid of what you think you know.</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Robin Sharma</p>
