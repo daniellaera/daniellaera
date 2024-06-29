@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>Associate with people who are likely to improve you.  </p>
 
-<p>- Virginia Woolf</p>
+<p>- Seneca</p>
