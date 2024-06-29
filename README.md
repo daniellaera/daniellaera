@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
+<p>Be royal in your own fashion: act like a king to be treated like one.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Robert Greene</p>
