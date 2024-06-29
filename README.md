@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
+<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
 
-<p>- Stephen King</p>
+<p>- Jack Butcher</p>
