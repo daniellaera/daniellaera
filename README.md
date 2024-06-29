@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do two things at once is to do neither.</p>
+<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Andrew Carnegie</p>
