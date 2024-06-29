@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep others in suspense, cultivate an air of unpredictability.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>- Robert Greene</p>
+<p>- Jim Rohn</p>
