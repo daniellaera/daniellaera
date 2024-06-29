@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>To do two things at once is to do neither.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Publilius Syrus</p>
