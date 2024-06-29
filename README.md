@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either you run the day or the day runs you.</p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>- Jim Rohn</p>
+<p>- Seneca</p>
