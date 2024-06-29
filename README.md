@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be royal in your own fashion: act like a king to be treated like one.</p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>- Robert Greene</p>
+<p>- Jiddu Krishnamurti</p>
