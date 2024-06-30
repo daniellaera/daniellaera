@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
 
-<p>- Robert Browning</p>
+<p>- Michael Jordan</p>
