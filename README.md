@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A zen master's life is one continuous mistake.</p>
+<p>Genius is patience.</p>
 
-<p>- Dogen</p>
+<p>- Isaac Newton</p>
