@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Gilbert Chesterton</p>
