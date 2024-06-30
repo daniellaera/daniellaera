@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
 
-<p>- Alexander Pope</p>
+<p>- Jim Rohn</p>
