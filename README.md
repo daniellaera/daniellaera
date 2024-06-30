@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>Talent is luck. The important thing in life is courage.</p>
 
-<p>- Isaac Newton</p>
+<p>- Woody Allen</p>
