@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>- Woody Allen</p>
+<p>- Roy T. Bennett</p>
