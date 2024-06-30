@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
+<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
 
-<p>- Sydney Smith</p>
+<p>- George Washington</p>
