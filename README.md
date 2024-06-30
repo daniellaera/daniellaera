@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>A zen master's life is one continuous mistake.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Dogen</p>
