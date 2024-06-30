@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </p>
+<p>Hope is not a strategy. Luck is not a factor. Fear is not an option.</p>
 
-<p>- George Washington</p>
+<p>- James Cameron</p>
