@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Alexander Pope</p>
