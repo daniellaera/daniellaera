@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fallacies do not cease to be fallacies because they become fashions.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Sydney Smith</p>
