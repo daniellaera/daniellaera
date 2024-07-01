@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
+<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Unknown</p>
