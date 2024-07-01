@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Miguel de Cervantes</p>
