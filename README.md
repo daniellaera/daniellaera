@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't look for meaning in the words. Listen to the silences.</p>
+<p>Reading should be a pleasure, not a chore.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Joan Rivers</p>
