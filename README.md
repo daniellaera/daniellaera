@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Becoming a great leader doesn't mean being perfect. it means living with your imperfections.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>- Lolly Daskal</p>
+<p>- George Bernard Shaw</p>
