@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live outside the law, you must be honest. </p>
+<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
 
-<p>- Bob Dylan</p>
+<p>- Seneca</p>
