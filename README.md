@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>You'll see it when you believe it. </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Wayne Dyer</p>
