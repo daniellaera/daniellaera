@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>Forget safety. Live where you fear to live.</p>
 
-<p>- Betty White</p>
+<p>- Rumi</p>
