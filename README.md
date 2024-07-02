@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Small men think they are small; great men never know they are great. </p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Walt Whitman</p>
