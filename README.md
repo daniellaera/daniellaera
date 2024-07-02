@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forget safety. Live where you fear to live.</p>
+<p>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</p>
 
-<p>- Rumi</p>
+<p>- Bette Midler</p>
