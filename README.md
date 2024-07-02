@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can dim the light which shines from within.</p>
+<p>People think about what they don't want and attract more of the same.</p>
 
-<p>- Maya Angelou</p>
+<p>- Unknown</p>
