@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</p>
+<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
 
-<p>- Bette Midler</p>
+<p>- Deepak Chopra</p>
