@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in your life are those that you set yourself.</p>
+<p>Small men think they are small; great men never know they are great. </p>
 
-<p>- Celestine Chua</p>
+<p>- Chinese Proverb</p>
