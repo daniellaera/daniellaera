@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's more to life than being a passenger.</p>
+<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
 
-<p>- Amelia Earhart</p>
+<p>- Nicolas Chamfort</p>
