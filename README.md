@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>- Robert Greene</p>
+<p>- Harry S. Truman</p>
