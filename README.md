@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
 
-<p>- Dan Millman</p>
+<p>- Robert Greene</p>
