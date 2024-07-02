@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reading should be a pleasure, not a chore.</p>
+<p>Words, once they are printed, have a life of their own.</p>
 
-<p>- Joan Rivers</p>
+<p>- Carol Burnett</p>
