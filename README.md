@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
+<p>Each day provides it's own gifts.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Marcus Aurelius</p>
