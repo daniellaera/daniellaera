@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind is infinite, it's your doubts that are limiting.</p>
+<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Honore de Balzac</p>
