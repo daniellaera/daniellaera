@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each day provides it's own gifts.</p>
+<p>The best answer to anger is silence.</p>
 
 <p>- Marcus Aurelius</p>
