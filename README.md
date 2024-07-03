@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>If you want peace, you won't get it with violence.</p>
 
-<p>- Lolly Daskal</p>
+<p>- John Lennon</p>
