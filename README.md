@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Memory is the scribe of the soul.</p>
+<p>It is in changing that we find purpose.</p>
 
-<p>- Aristotle</p>
+<p>- Heraclitus</p>
