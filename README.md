@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Chinese Proverb</p>
