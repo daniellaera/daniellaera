@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best answer to anger is silence.</p>
+<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Carlos Ruiz Zafon</p>
