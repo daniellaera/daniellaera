@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, you won't get it with violence.</p>
+<p>Don't bother people for help without first trying to solve the problem yourself.</p>
 
-<p>- John Lennon</p>
+<p>- Colin Powell</p>
