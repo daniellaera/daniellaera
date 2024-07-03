@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in changing that we find purpose.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>- Heraclitus</p>
+<p>- Robin Williams</p>
