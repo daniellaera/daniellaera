@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Lolly Daskal</p>
