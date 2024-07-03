@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>- Alan Watts</p>
+<p>- Vince Lombardi</p>
