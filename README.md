@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your setback is just a setup for a comeback.</p>
+<p>It is easy to discover what another has discovered before.</p>
 
-<p>- Steve Harvey</p>
+<p>- Christopher Columbus</p>
