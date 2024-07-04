@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one ever said life was fair. Just Eventful.</p>
+<p>When you're at the end of your rope, tie a knot and hold on.</p>
 
-<p>- Carol Burnett</p>
+<p>- Theodore Roosevelt</p>
