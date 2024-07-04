@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To plant a garden is to believe in tomorrow.  </p>
+<p>Most of the evil in this world is done by people with good intentions.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- T.S. Eliot</p>
