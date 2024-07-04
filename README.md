@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>Never waste a minute of your precious life thinking about people you don't like.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Celestine Chua</p>
