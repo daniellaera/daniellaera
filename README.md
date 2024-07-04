@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is the life of purpose.</p>
+<p>To plant a garden is to believe in tomorrow.  </p>
 
-<p>- Robin Sharma</p>
+<p>- Audrey Hepburn</p>
