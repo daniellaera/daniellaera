@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
+<p>If you can't argue both sides, you can't argue.</p>
 
-<p>- Yanni</p>
+<p>- Jack Butcher</p>
