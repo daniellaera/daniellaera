@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
 
-<p>- Pema Chodron</p>
+<p>- Yanni</p>
