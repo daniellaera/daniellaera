@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Lao Tzu</p>
