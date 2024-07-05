@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't have time to do it right, when will you have time to do it over?</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>- John Wooden</p>
+<p>- Lin Yutang</p>
