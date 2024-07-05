@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>The temptation to give up is strongest just before victory.</p>
 
-<p>- Unknown</p>
+<p>- Zen Proverb</p>
