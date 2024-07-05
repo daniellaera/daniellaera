@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To belittle, you have to be little.</p>
+<p>Hope means hoping when everything seems hopeless.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Gilbert Chesterton</p>
