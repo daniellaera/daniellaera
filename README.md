@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Avoiding danger is no safer in the long run than exposure.</p>
+<p>To belittle, you have to be little.</p>
 
-<p>- Helen Keller</p>
+<p>- Kahlil Gibran</p>
