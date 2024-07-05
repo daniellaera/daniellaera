@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up on your dreams, or your dreams will give up on you.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
 <p>- John Wooden</p>
