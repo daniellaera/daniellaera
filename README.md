@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Helen Keller</p>
