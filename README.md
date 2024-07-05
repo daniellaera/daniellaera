@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to light a candle than to curse the darkness. </p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Eleanor Roosevelt</p>
