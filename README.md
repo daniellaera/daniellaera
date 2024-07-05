@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- John Wooden</p>
