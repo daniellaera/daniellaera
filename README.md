@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Roy T. Bennett</p>
