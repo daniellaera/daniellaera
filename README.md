@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Andrew Hendrixson</p>
