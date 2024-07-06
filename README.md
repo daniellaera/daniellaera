@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>- Robin Sharma</p>
+<p>- Walt Disney</p>
