@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every failure brings with it the seed of an equivalent success.</p>
+<p>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Bette Midler</p>
