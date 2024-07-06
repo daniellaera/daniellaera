@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smile, breathe and go slowly.</p>
+<p>If you are unable to find the truth right where you are, where else do you expect to find it?</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Dogen</p>
