@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To some degree, you control your life by controlling your time.</p>
+<p>No one is useless in this world who lightens the burdens of another.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Charles Dickens</p>
