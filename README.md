@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to get started is to quit talking and begin doing.</p>
+<p>Smile, breathe and go slowly.</p>
 
-<p>- Walt Disney</p>
+<p>- Thich Nhat Hanh</p>
