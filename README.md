@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Herman Melville</p>
