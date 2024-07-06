@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past has no power over the present moment. </p>
+<p>To some degree, you control your life by controlling your time.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Conrad Hilton</p>
