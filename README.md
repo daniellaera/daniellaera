@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Facts are the enemy of truth. </p>
+<p>Live your life and forget your age.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Norman Vincent Peale</p>
