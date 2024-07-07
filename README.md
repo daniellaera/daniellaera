@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>To do great work one must be very idle as well as very industrious.</p>
 
-<p>- Franz Kafka</p>
+<p>- Samuel Butler</p>
