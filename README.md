@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If ever you feel like an animal among men, be a lion.</p>
+<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
 
-<p>- Criss Jami</p>
+<p>- Theodore Roosevelt</p>
