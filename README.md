@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like underwear, should be changed twice a day.  </p>
+<p>Success comes to those who become success conscious.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Napoleon Hill</p>
