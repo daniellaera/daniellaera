@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do great work one must be very idle as well as very industrious.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>- Samuel Butler</p>
+<p>- Dan Millman</p>
