@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
+<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Albus Dumbledore</p>
