@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A very little key will open a very heavy door.</p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>- Charles Dickens</p>
+<p>- Joyce Meyer</p>
