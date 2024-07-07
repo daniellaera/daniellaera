@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- Barack Obama</p>
+<p>- T.S. Eliot</p>
