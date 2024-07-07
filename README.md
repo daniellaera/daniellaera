@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Here and now...breathe and relax...in battle and in life.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Dan Millman</p>
+<p>- Charles Dickens</p>
