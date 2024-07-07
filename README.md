@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes things become possible if we want them bad enough.</p>
+<p>There will always be suffering. But we must not suffer over the suffering.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Alan Watts</p>
