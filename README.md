@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show up even when you don't want to show up.</p>
+<p>Rewards and punishment is the lowest form of education.</p>
 
-<p>- Steve Harvey</p>
+<p>- Zhuangzi</p>
