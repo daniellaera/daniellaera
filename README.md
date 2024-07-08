@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot find peace by avoiding life.</p>
+<p>Within every desire is the mechanics of its fulfillment.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Deepak Chopra</p>
