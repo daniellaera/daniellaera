@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The act of taking the first step is what separates the winners from the losers.</p>
+<p>New beginnings are disguised as painful endings.</p>
 
-<p>- Brian Tracy</p>
+<p>- Lao Tzu</p>
