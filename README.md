@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>You cannot find peace by avoiding life.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Virginia Woolf</p>
