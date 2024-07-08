@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>- Alfred Adler</p>
+<p>- Brian Tracy</p>
