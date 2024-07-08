@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
+<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Kahlil Gibran</p>
