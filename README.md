@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New beginnings are disguised as painful endings.</p>
+<p>Knowledge isn't power until it is applied.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dale Carnegie</p>
