@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>- Robert Greene</p>
+<p>- Steve Harvey</p>
