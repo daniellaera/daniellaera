@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rewards and punishment is the lowest form of education.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>- Zhuangzi</p>
+<p>- Mark Manson</p>
