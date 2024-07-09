@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Walt Whitman</p>
