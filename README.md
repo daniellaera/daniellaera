@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to set another goal or to dream a new dream.</p>
+<p>You must welcome change as the rule but not as your ruler. </p>
 
-<p>- Les Brown</p>
+<p>- Denis Waitley</p>
