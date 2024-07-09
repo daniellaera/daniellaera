@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Paulo Coelho</p>
