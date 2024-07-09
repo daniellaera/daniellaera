@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>- Henry Ford</p>
+<p>- Zen Proverb</p>
