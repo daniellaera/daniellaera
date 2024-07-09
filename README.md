@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no limitations except those we create for ourselves.</p>
+<p>I must also have a dark side if I am to be whole.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Carl Jung</p>
