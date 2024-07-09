@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- Mark Manson</p>
+<p>- Meister Eckhart</p>
