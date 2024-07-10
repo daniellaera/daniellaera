@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person hears only what they understand.</p>
+<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Gustave Flaubert</p>
