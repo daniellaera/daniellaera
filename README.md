@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others achieve their dreams and you will achieve yours.</p>
+<p>When one door closes another door opens. </p>
 
-<p>- Les Brown</p>
+<p>- Alexander Graham Bell</p>
