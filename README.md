@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
+<p>We can't help everyone, but everyone can help someone.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Ronald Reagan</p>
