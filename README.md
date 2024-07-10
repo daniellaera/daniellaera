@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to travel a long way to find what is near.</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>- Paulo Coelho</p>
+<p>- D. H. Lawrence</p>
