@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can't help everyone, but everyone can help someone.</p>
+<p>We must embrace pain and burn it as fuel for our journey.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Kenji Miyazawa</p>
