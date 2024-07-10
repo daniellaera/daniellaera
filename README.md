@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Public opinion is the worst of all opinions.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Carlos Ruiz Zafon</p>
