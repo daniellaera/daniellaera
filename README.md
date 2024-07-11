@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes success isn't about making the right decision, it's more about making some decision.</p>
+<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
 
-<p>- Robin Sharma</p>
+<p>- Audrey Hepburn</p>
