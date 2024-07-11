@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
+<p>If we are not able to smile, then the world will not have peace.</p>
 
-<p>- Judy Garland</p>
+<p>- Thich Nhat Hanh</p>
