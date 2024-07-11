@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Alone we can do so little; together we can do so much.</p>
+<p>Confidence comes not from always being right but not fearing to be wrong.</p>
 
-<p>- Helen Keller</p>
+<p>- Unknown</p>
