@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without pride, let go without attachment.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Harry S. Truman</p>
