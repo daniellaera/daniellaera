@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All human wisdom is contained in these two words - Wait and Hope</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Helen Keller</p>
