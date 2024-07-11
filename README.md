@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is permanent in this wicked world - not even our troubles.</p>
+<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Audrey Hepburn</p>
