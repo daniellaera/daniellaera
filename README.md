@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once a decision was made, I didn't worry about it afterward.</p>
+<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Seneca</p>
