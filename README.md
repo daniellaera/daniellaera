@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>Sometimes success isn't about making the right decision, it's more about making some decision.</p>
 
-<p>- Michael Jordan</p>
+<p>- Robin Sharma</p>
