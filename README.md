@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Harry S. Truman</p>
