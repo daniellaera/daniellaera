@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We would accomplish many more things if we did not think of them as impossible.</p>
+<p>An ounce of performance is worth pounds of promises.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Mae West</p>
