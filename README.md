@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Lao Tzu</p>
