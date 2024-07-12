@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>- Sydney Smith</p>
+<p>- Dan Millman</p>
