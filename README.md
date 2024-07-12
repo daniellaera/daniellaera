@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
 
-<p>- Margaret Mead</p>
+<p>- Roy T. Bennett</p>
