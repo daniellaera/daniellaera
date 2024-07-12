@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This is such a short and precious life that it's really important that you don't spend it being unhappy.</p>
+<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Alan Watts</p>
