@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we are not able to smile, then the world will not have peace.</p>
+<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Zig Ziglar</p>
