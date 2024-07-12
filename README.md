@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
+<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
 
-<p>- Og Mandino</p>
+<p>- George Eliot</p>
