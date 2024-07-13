@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Spencer Johnson</p>
