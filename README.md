@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a difference between giving directions and giving direction.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>- Simon Sinek</p>
+<p>- Naval Ravikant</p>
