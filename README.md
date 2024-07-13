@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</p>
+<p>Take into account that great love and great achievements involve great risk.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Dalai Lama</p>
