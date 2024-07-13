@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is nothing more than a few simple disciplines practiced every day.</p>
+<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
 
-<p>- Jim Rohn</p>
+<p>- Virginia Woolf</p>
