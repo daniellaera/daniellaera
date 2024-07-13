@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>- Les Brown</p>
+<p>- Wayne Dyer</p>
