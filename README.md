@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>There is a difference between giving directions and giving direction.</p>
 
-<p>- Dalai Lama</p>
+<p>- Simon Sinek</p>
