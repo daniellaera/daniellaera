@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Tony Robbins</p>
