@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to immortality is first living a life worth remembering. </p>
+<p>Your purpose will be clear only when you listen to your heart.</p>
 
-<p>- Bruce Lee</p>
+<p>- Lolly Daskal</p>
