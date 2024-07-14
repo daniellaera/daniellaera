@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must be willing to do what others won't do, to have what others won't have.</p>
+<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
 
-<p>- Les Brown</p>
+<p>- Abraham Lincoln</p>
