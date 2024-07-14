@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Miguel de Cervantes</p>
