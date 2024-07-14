@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We turn not older with years but newer every day.</p>
+<p>Because a thing seems difficult for you, do not think it impossible.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Marcus Aurelius</p>
