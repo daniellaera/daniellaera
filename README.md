@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your neighbor is the man who needs you.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Mark Twain</p>
