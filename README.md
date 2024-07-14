@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The golden opportunity you are seeking is within yourself.</p>
+<p>By perseverance the snail reached the ark.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Charles Spurgeon</p>
