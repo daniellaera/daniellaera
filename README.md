@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
+<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
 
-<p>- Aristotle</p>
+<p>- Winston Churchill</p>
