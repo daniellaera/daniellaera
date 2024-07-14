@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Integrity is the ability to stand by an idea.</p>
+<p>You must be willing to do what others won't do, to have what others won't have.</p>
 
-<p>- Ayn Rand</p>
+<p>- Les Brown</p>
