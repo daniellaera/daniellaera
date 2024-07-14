@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>- Winston Churchill</p>
+<p>- Dr. Seuss</p>
