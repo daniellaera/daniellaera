@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Emily Dickinson</p>
