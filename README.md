@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Robert F. Kennedy</p>
