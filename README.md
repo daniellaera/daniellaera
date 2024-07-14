@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>The future is the worst thing about the present.</p>
 
-<p>- Mark Twain</p>
+<p>- Gustave Flaubert</p>
