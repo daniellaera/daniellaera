@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
+<p>Your neighbor is the man who needs you.</p>
 
-<p>- Charles Dickens</p>
+<p>- Elbert Hubbard</p>
