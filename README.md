@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are tempted to give up, your breakthrough is probably just around the corner.</p>
+<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
 
-<p>- Joyce Meyer</p>
+<p>- W. Clement Stone</p>
