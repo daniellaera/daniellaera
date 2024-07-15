@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul without imagination is what an observatory would be without a telescope.</p>
+<p>Not everything that weighs you down is yours to carry.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Unknown</p>
