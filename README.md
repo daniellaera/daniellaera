@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</p>
+<p>Believe you can and you're halfway there.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Theodore Roosevelt</p>
