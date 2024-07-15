@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is created twice, first in the mind and then in reality.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>- Robin Sharma</p>
+<p>- Lolly Daskal</p>
