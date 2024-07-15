@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>Those who cannot change their minds cannot change anything.</p>
 
-<p>- Chinese Proverb</p>
+<p>- George Bernard Shaw</p>
