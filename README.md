@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>- William Faulkner</p>
+<p>- Lao Tzu</p>
