@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People don't care how much you know until they know how much you care.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Unknown</p>
