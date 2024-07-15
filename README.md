@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>When you are tempted to give up, your breakthrough is probably just around the corner.</p>
 
-<p>- Unknown</p>
+<p>- Joyce Meyer</p>
