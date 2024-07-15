@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When things go wrong, don't go with them.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>- Elvis Presley</p>
+<p>- Unknown</p>
