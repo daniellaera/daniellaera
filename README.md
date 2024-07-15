@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>Anger begins with folly, and ends with repentance. </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Beverly Sills</p>
