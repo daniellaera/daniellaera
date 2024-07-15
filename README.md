@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind whenever possible. It is always possible.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>- Dalai Lama</p>
+<p>- George Bernard Shaw</p>
