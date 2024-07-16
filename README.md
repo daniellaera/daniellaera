@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to live until you die.</p>
+<p>Stay away from people who makes you feel like you are wasting their time.</p>
 
-<p>- Dan Millman</p>
+<p>- Paulo Coelho</p>
