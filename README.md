@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success comes from knowing that you did your best to become the best that you are capable of becoming.</p>
+<p>The wise man reads both books and life itself.</p>
 
-<p>- John Wooden</p>
+<p>- Lin Yutang</p>
