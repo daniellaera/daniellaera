@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>- Zen Proverb</p>
+<p>- Audrey Hepburn</p>
