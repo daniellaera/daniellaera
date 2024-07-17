@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.</p>
+<p>There is no absolute success in the world, only constant progress.</p>
 
-<p>- Epictetus</p>
+<p>- Jonathan Swift</p>
