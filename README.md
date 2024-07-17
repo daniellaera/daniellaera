@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever is begun in anger, ends in shame.</p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Jiddu Krishnamurti</p>
