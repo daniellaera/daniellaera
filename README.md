@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no absolute success in the world, only constant progress.</p>
+<p>Follow the man who seeks the truth; run from the man who has found it.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Vaclav Havel</p>
