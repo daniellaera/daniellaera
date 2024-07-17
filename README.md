@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If light is in your heart, you will find your way home.  </p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Rumi</p>
+<p>- Dan Millman</p>
