@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man gotta right to decide his own destiny.</p>
+<p>Wherever you are is the entry point.</p>
 
-<p>- Bob Marley</p>
+<p>- Kabir</p>
