@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Follow the man who seeks the truth; run from the man who has found it.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Aristotle</p>
