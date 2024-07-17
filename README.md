@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Bob Marley</p>
