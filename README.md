@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New beginnings are disguised as painful endings.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>- Lao Tzu</p>
+<p>- Adi Da Samraj</p>
