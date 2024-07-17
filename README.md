@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>- Og Mandino</p>
+<p>- Rumi</p>
