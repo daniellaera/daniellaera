@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
 
-<p>- Confucius</p>
+<p>- Samuel Butler</p>
