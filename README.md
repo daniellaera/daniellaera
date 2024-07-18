@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
 
-<p>- Zhuangzi</p>
+<p>- Steve Jobs</p>
