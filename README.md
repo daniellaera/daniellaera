@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>Let us rather run the risk of wearing out than rusting out.</p>
 
-<p>- Henry Ford</p>
+<p>- Theodore Roosevelt</p>
