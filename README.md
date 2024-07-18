@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>- Samuel Butler</p>
+<p>- Johann Wolfgang von Goethe</p>
