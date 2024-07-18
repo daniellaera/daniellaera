@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Shunryu Suzuki</p>
