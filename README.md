@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>As mortals, we're ruled by conditions, not by ourselves.</p>
 
-<p>- Robert Greene</p>
+<p>- Bodhidharma</p>
