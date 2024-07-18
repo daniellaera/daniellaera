@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Brian Tracy</p>
+<p>- F. Scott Fitzgerald</p>
