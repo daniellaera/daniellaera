@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Robert Greene</p>
