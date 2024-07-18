@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
 
-<p>- George Eliot</p>
+<p>- Gary Keller</p>
