@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We're responsible for everything that happens to us.</p>
+<p>You just can't beat the person who never gives up. </p>
 
-<p>- Yanni</p>
+<p>- Babe Ruth</p>
