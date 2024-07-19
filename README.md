@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always try to be a little kinder than necessary.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Mark Twain</p>
