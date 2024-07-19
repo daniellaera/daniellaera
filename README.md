@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
+<p>The power of man has grown in every sphere, except over himself.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Winston Churchill</p>
