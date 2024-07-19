@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are today where your thoughts have brought you.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>- James Allen</p>
+<p>- Betty White</p>
