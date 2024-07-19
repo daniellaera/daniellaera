@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Andrew Carnegie</p>
