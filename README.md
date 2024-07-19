@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>Whoever is happy will make others happy too.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Anne Frank</p>
