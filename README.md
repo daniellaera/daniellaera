@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
+<p>They who have conquered doubt and fear have conquered failure.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- James Allen</p>
