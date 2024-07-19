@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
+<p>Receive without pride, let go without attachment.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Marcus Aurelius</p>
