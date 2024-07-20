@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Robert Collier</p>
