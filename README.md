@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>Every day passes whether you participate or not.</p>
 
-<p>- Barack Obama</p>
+<p>- Ming-Dao Deng</p>
