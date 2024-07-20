@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
 
-<p>- Unknown</p>
+<p>- Naval Ravikant</p>
