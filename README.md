@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</p>
+<p>He will win who knows when to fight and when not to fight.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Sun Tzu</p>
