@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day passes whether you participate or not.</p>
+<p>For your life to be great, your faith must be bigger than your fear.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Robin Sharma</p>
