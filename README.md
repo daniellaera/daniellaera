@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is like money, easier made than kept.</p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Samuel Butler</p>
+<p>- Charles Dickens</p>
