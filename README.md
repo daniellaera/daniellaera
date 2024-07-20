@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion creates, addiction consumes.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>- Gabor Mate</p>
+<p>- Samuel Butler</p>
