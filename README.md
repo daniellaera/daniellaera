@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be prepared is half the victory. </p>
+<p>Words are clothes that thoughts wear</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Samuel Butler</p>
