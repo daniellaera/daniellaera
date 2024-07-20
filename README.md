@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
+<p>Where you are right now doesn't have to determine where you'll end up.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Barack Obama</p>
