@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the energy of life.</p>
+<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
 
-<p>- Robert Browning</p>
+<p>- Elbert Hubbard</p>
