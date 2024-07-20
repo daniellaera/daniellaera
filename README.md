@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Paulo Coelho</p>
