@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not about what it is, it's about what it can become.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Dalai Lama</p>
