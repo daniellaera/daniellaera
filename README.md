@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I think self-awareness is probably the most important thing towards being a champion. </p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>- Billie Jean King</p>
+<p>- Ralph Marston</p>
