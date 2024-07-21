@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>- Ralph Marston</p>
+<p>- Honore de Balzac</p>
