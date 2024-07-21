@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
+<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
 
-<p>- William Faulkner</p>
+<p>- Deepak Chopra</p>
