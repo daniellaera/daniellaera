@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judge your success by what you had to give up in order to get it.</p>
+<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
 
-<p>- Dalai Lama</p>
+<p>- Audrey Hepburn</p>
