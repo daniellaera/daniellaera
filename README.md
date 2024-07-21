@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Toni Morrison</p>
