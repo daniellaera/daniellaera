@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Aristotle</p>
