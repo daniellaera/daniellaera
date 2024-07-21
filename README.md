@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- George Bernard Shaw</p>
