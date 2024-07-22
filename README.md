@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>- Steve Maraboli</p>
+<p>- John Wooden</p>
