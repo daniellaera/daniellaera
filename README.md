@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you let your head get too big, it'll break your neck.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>- Elvis Presley</p>
+<p>- Chinese Proverb</p>
