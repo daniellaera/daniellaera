@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life may be full of pain but that's not an excuse to give up.</p>
+<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Eric Hoffer</p>
