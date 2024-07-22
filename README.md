@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When people are free to do as they please, they usually imitate each other.</p>
+<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Jonathan Swift</p>
