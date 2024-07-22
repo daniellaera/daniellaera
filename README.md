@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be approximately right rather than exactly wrong.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>- John Tukey</p>
+<p>- Gilbert Chesterton</p>
