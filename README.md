@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>- Ayn Rand</p>
+<p>- George Eliot</p>
