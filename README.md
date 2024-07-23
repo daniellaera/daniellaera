@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day is an opportunity to a make a new happy ending.</p>
+<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Johann Wolfgang von Goethe</p>
