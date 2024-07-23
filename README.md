@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Aristotle</p>
