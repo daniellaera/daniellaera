@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>To love means loving the unlovable.</p>
 
-<p>- Rumi</p>
+<p>- Gilbert Chesterton</p>
