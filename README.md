@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a difference between giving directions and giving direction.</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>- Simon Sinek</p>
+<p>- Jonathan Swift</p>
