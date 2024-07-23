@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why compare yourself with others? No one in the entire world can do a better job of being you than you.</p>
+<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
 
-<p>- Unknown</p>
+<p>- Voltaire</p>
