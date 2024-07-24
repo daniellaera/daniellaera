@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Steve Maraboli</p>
