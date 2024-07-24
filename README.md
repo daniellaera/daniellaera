@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>We suffer more often in imagination than in reality.</p>
 
-<p>- Og Mandino</p>
+<p>- Seneca</p>
