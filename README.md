@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Peter Drucker</p>
+<p>- T.S. Eliot</p>
