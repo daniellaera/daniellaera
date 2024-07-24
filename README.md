@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>To improve is to change, so to be perfect is to change often.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Winston Churchill</p>
