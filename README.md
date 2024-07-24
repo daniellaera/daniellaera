@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like a wheel. Sooner or later, it always comes around to where you started again.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Stephen King</p>
+<p>- Gurbaksh Chahal</p>
