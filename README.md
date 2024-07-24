@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>Troubles are often the tools by which God fashions us for better things.</p>
 
-<p>- Jim Rohn</p>
+<p>- Henry Ward Beecher</p>
