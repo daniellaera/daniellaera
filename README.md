@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn the pain into power.</p>
+<p>Life is like a wheel. Sooner or later, it always comes around to where you started again.</p>
 
-<p>- Unknown</p>
+<p>- Stephen King</p>
