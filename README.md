@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man's worth is no greater than his ambitions.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Thomas Jefferson</p>
