@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
+<p>The world doesn't owe you anything. It was here first.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Mark Twain</p>
