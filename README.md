@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
+<p>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</p>
 
-<p>- Winston Churchill</p>
+<p>- James Matthew Barrie</p>
