@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Oprah Winfrey</p>
