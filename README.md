@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Judy Garland</p>
+<p>- Lao Tzu</p>
