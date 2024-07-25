@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>- Robert Greene</p>
+<p>- Mahatma Gandhi</p>
