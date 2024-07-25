@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
 
-<p>- Lao Tzu</p>
+<p>- Winston Churchill</p>
