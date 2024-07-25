@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
+<p>There are no uninteresting things, only uninterested people.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Gilbert Chesterton</p>
