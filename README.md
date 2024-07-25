@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Virginia Woolf</p>
