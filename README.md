@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Henry Ward Beecher</p>
