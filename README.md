@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving back involves a certain amount of giving up.</p>
+<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
 
-<p>- Colin Powell</p>
+<p>- Samuel Butler</p>
