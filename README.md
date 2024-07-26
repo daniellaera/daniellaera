@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>- Voltaire</p>
+<p>- Arnold Schwarzenegger</p>
