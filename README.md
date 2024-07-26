@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>- Heraclitus</p>
+<p>- Jim Rohn</p>
