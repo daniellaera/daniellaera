@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothing of our thoughts.</p>
+<p>Wisdom is the oneness of mind that guides and permeates all things.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Heraclitus</p>
