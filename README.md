@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Mark Twain</p>
+<p>- Gary Keller</p>
