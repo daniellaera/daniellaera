@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The majority of what you want will come from the minority of what you do.</p>
+<p>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</p>
 
-<p>- Gary Keller</p>
+<p>- Robert Greene</p>
