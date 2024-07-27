@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't bother people for help without first trying to solve the problem yourself.</p>
+<p>Few things are more deceptive than memories.</p>
 
-<p>- Colin Powell</p>
+<p>- Carlos Ruiz Zafon</p>
