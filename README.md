@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Harry S. Truman</p>
