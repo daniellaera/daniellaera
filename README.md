@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we dwell on is who we become.</p>
+<p>The clock indicates the moment...but what does eternity indicate?</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Walt Whitman</p>
