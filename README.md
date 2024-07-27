@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Voltaire</p>
