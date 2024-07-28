@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Yanni</p>
+<p>- Gurbaksh Chahal</p>
