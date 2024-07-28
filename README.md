@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
+<p>Quality is not an act, it is a habit.</p>
 
-<p>- Estee Lauder</p>
+<p>- Aristotle</p>
