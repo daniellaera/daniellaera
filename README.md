@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The temptation to give up is strongest just before victory.</p>
+<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
 
-<p>- Zen Proverb</p>
+<p>- Yanni</p>
