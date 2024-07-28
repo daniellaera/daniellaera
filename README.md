@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
+<p>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- T.S. Eliot</p>
