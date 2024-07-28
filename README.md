@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give way to laziness.</p>
+<p>A minute's success pays the failure of years.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Robert Browning</p>
