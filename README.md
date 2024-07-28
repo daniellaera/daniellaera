@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>What worries you, masters you.</p>
 
-<p>- Aristotle</p>
+<p>- John Locke</p>
