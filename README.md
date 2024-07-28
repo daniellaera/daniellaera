@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Distant water does not put out a nearby fire.</p>
+<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Dalai Lama</p>
