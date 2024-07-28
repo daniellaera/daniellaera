@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are is the entry point.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>- Kabir</p>
+<p>- Mark Manson</p>
