@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What worries you, masters you.</p>
+<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
 
-<p>- John Locke</p>
+<p>- Estee Lauder</p>
