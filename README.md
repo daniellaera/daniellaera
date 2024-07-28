@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the royal road to the unconscious. </p>
+<p>Fear is your worst enemy. Risk is your best friend.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Gurbaksh Chahal</p>
