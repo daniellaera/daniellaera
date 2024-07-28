@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>- Celestine Chua</p>
+<p>- Chinese Proverb</p>
