@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
 
-<p>- Criss Jami</p>
+<p>- George Bernard Shaw</p>
