@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or nothing.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Helen Keller</p>
+<p>- Tony Robbins</p>
