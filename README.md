@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Henry Ford</p>
