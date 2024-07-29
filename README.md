@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life should be touched, not strangled.  </p>
+<p>When things go wrong, don't go with them.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Elvis Presley</p>
