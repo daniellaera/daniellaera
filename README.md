@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>Seek not the good in external things;seek it in yourselves.</p>
 
-<p>- Steve Harvey</p>
+<p>- Epictetus</p>
