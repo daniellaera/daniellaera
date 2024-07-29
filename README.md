@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
+<p>The pain of parting is nothing to the joy of meeting again.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Charles Dickens</p>
