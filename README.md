@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</p>
+<p>If the only prayer you ever say in your entire life is thank you, it will be enough.</p>
 
-<p>- Gary Keller</p>
+<p>- Meister Eckhart</p>
