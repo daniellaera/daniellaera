@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are is the entry point.</p>
+<p>If you can't feed a hundred people, then feed just one.</p>
 
-<p>- Kabir</p>
+<p>- Mother Teresa</p>
