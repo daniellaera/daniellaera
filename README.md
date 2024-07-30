@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man's character is his fate.</p>
+<p>It is easier to fight for one's principles than to live up to them. </p>
 
-<p>- Heraclitus</p>
+<p>- Alfred Adler</p>
