@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None but ourselves can free our minds.</p>
+<p>To be truly ignorant, be content with your own knowledge.</p>
 
-<p>- Bob Marley</p>
+<p>- Zhuangzi</p>
