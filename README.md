@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Robin Williams</p>
+<p>- John Wooden</p>
