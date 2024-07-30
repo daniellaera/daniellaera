@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Robert Collier</p>
