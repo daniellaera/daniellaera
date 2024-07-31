@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>- Charles Dickens</p>
+<p>- Margaret Mead</p>
