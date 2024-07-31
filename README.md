@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do your best. What you plant now, you will harvest later.</p>
+<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
 
-<p>- Og Mandino</p>
+<p>- John Eliot</p>
