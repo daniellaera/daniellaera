@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Eckhart Tolle</p>
