@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let what you cannot do interfere with what you can do.</p>
+<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
 
-<p>- John Wooden</p>
+<p>- Og Mandino</p>
