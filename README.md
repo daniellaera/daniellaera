@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Don't let what you cannot do interfere with what you can do.</p>
 
-<p>- Alan Watts</p>
+<p>- John Wooden</p>
