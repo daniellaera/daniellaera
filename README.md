@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>High thoughts must have high language.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>- Aristophanes</p>
+<p>- Thich Nhat Hanh</p>
