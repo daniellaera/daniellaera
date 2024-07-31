@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
 
-<p>- Margaret Mead</p>
+<p>- Carlos Ruiz Zafon</p>
