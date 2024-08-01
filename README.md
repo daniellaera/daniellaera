@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Harry S. Truman</p>
