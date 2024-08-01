@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</p>
+<p>You'll see it when you believe it. </p>
 
-<p>- Rumi</p>
+<p>- Wayne Dyer</p>
