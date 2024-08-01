@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Facts are the enemy of truth. </p>
+<p>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Margaret Mead</p>
