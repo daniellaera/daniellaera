@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
+<p>The wiser you get, the less you care to look like a fool.</p>
 
-<p>- Criss Jami</p>
+<p>- Maxime Lagace</p>
