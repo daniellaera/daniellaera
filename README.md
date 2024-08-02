@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Maxime Lagace</p>
