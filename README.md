@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
+<p>Don't cry because it's over. Smile because it happened.</p>
 
-<p>- Criss Jami</p>
+<p>- Dr. Seuss</p>
