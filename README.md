@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Ayn Rand</p>
