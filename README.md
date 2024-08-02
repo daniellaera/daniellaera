@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Dogen</p>
