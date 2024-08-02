@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dance first. Think later. It's the natural order.</p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>- Samuel Beckett</p>
+<p>- Margaret Mead</p>
