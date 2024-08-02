@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>- Ayn Rand</p>
+<p>- Benjamin Franklin</p>
