@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be one person in this world, but to one person you may mean the world.</p>
+<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
 
-<p>- Unknown</p>
+<p>- D. H. Lawrence</p>
