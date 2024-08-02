@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
 
-<p>- Dogen</p>
+<p>- Kamal Ravikant</p>
