@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Quitter never wins - and - a Winner never quits.</p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Johann Wolfgang von Goethe</p>
