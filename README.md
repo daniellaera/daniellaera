@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>The wisdom of life consists in the elimination of the nonessentials.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Lin Yutang</p>
