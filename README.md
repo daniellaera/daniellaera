@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm. Be kind.</p>
+<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
 
-<p>- Colin Powell</p>
+<p>- Roy T. Bennett</p>
