@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- F. Scott Fitzgerald</p>
