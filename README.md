@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only people without problems are those in cemeteries.</p>
+<p>Never whine, never complain, never try to justify yourself.</p>
 
-<p>- Tony Robbins</p>
+<p>- Robert Greene</p>
