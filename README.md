@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Barack Obama</p>
