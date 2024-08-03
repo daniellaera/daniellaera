@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Paulo Coelho</p>
+<p>- Oscar Wilde</p>
