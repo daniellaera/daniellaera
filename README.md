@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never whine, never complain, never try to justify yourself.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>- Robert Greene</p>
+<p>- Dan Millman</p>
