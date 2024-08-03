@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>- John Wooden</p>
+<p>- Samuel Butler</p>
