@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
+<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
 
-<p>- Robin Sharma</p>
+<p>- Tony Robbins</p>
