@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>Walk slowly but never walk backward.</p>
 
-<p>- Jack London</p>
+<p>- Unknown</p>
