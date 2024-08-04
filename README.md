@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show me a hero, and I'll write you a tragedy.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Mary Engelbreit</p>
