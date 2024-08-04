@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Elbert Hubbard</p>
