@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is like money, easier made than kept.</p>
+<p>Remember we're all in this alone.</p>
 
-<p>- Samuel Butler</p>
+<p>- Lily Tomlin</p>
