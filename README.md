@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
+<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
 
-<p>- Lao Tzu</p>
+<p>- Jon Kabat-Zinn</p>
