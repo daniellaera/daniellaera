@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let each man exercise the art he knows.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- Aristophanes</p>
+<p>- F. Scott Fitzgerald</p>
