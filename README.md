@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Harry S. Truman</p>
