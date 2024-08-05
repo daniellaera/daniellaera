@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Theodore Roosevelt</p>
