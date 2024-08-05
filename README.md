@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With self-discipline, almost anything is possible.</p>
+<p>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Harry S. Truman</p>
