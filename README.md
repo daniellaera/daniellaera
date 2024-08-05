@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only lost cause is one we give up on before we enter the struggle.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Socrates</p>
