@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Brian Tracy</p>
