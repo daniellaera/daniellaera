@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can calculate the worth of a man by the number of his enemies.</p>
+<p>You have to keep breaking your heart until it opens.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Rumi</p>
