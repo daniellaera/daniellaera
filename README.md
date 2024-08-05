@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We need never be ashamed of our tears.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- Charles Dickens</p>
+<p>- Eckhart Tolle</p>
