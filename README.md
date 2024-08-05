@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the things you can't do stop you from doing what you can.</p>
+<p>Always do your best. What you plant now, you will harvest later.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Og Mandino</p>
