@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do your best. What you plant now, you will harvest later.</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Og Mandino</p>
+<p>- Henry Ward Beecher</p>
