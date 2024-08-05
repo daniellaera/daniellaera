@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I learned the value of hard work by working hard. </p>
+<p>You can calculate the worth of a man by the number of his enemies.</p>
 
-<p>- Margaret Mead</p>
+<p>- Gustave Flaubert</p>
