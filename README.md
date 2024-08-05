@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time heals what reason cannot.  </p>
+<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
 
-<p>- Seneca</p>
+<p>- Bodhidharma</p>
