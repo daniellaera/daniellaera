@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>- Dalai Lama</p>
+<p>- Aristotle</p>
