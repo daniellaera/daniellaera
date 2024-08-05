@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Ronald Reagan</p>
