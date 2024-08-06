@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
 
-<p>- Brian Tracy</p>
+<p>- Elbert Hubbard</p>
