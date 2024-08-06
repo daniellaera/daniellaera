@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Mother Teresa</p>
