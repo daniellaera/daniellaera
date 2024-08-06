@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Nature is pleased with simplicity. And nature is no dummy.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Isaac Newton</p>
