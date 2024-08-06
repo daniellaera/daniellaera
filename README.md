@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
+<p>We can have more than we've got because we can become more than we are.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Jim Rohn</p>
