@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>- Plato</p>
+<p>- Norman Vincent Peale</p>
