@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whenever you do a thing, act as if all the world were watching.</p>
+<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Norman Vincent Peale</p>
