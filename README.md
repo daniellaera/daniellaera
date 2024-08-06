@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to understanding is a few good examples.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>- Isaac Newton</p>
+<p>- Christopher Columbus</p>
