@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
+<p>Anger begins with folly, and ends with repentance. </p>
 
-<p>- Naval Ravikant</p>
+<p>- Beverly Sills</p>
