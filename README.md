@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</p>
+<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Simon Sinek</p>
