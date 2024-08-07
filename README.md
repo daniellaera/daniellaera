@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-knowledge is the beginning of self-correction.</p>
+<p>Only when I fall do I get up again.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Vincent van Gogh</p>
