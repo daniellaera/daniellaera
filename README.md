@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>Trust is built and maintained by many small actions over time.</p>
 
-<p>- Isaac Newton</p>
+<p>- Lolly Daskal</p>
