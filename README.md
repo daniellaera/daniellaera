@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to offer no excuse than a bad one. </p>
+<p>FOCUS - Follow One Course Until Successful</p>
 
-<p>- George Washington</p>
+<p>- Robert Kiyosaki</p>
