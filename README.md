@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger begins with folly, and ends with repentance. </p>
+<p>It is better to offer no excuse than a bad one. </p>
 
-<p>- Beverly Sills</p>
+<p>- George Washington</p>
