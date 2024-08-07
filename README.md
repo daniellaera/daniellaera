@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
+<p>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Richard Bach</p>
