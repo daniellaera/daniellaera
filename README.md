@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A very little key will open a very heavy door.</p>
+<p>Your next step is simple. You are the first domino.</p>
 
-<p>- Charles Dickens</p>
+<p>- Gary Keller</p>
