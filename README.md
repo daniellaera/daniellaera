@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is a poor teacher.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Joyce Meyer</p>
