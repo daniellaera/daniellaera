@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Celestine Chua</p>
