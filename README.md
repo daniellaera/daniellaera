@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The idea of ourselves is our escape from the fact of what we really are.</p>
+<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Aristotle</p>
