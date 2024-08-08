@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>Success is a poor teacher.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robert Kiyosaki</p>
