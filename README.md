@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you do, not what you say you'll do.</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>- Carl Jung</p>
+<p>- Unknown</p>
