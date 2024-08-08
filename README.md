@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A goal is a dream with a deadline.</p>
+<p>Only the educated are free.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Epictetus</p>
