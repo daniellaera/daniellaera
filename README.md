@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust is built and maintained by many small actions over time.</p>
+<p>The desire for more positive experience is itself a negative experience.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Mark Manson</p>
