@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want. Happiness is wanting what you get.</p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Napoleon Hill</p>
