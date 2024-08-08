@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>- Robin Sharma</p>
+<p>- Jim Rohn</p>
