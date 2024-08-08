@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>The person who is his own master cannot tolerate another boss. </p>
 
-<p>- Harry S. Truman</p>
+<p>- Chinese Proverb</p>
