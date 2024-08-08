@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to be walked over, you have to be lying down.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>- Celestine Chua</p>
+<p>- Harry S. Truman</p>
