@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The desire for more positive experience is itself a negative experience.</p>
+<p>Patience is a bitter plant, but its fruit is sweet.</p>
 
-<p>- Mark Manson</p>
+<p>- Chinese Proverb</p>
