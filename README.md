@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is too important to be taken seriously.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Eric Hoffer</p>
