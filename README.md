@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have the mind or you can have the moment.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Christopher McCandless</p>
