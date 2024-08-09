@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rudeness is the weak man's imitation of strength.</p>
+<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Betty White</p>
