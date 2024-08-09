@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
+<p>The source of a true smile is an awakened mind.</p>
 
-<p>- Betty White</p>
+<p>- Thich Nhat Hanh</p>
