@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>Life is too important to be taken seriously.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Oscar Wilde</p>
