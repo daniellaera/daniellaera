@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
 
-<p>- Bob Marley</p>
+<p>- Martin Luther King, Jr.</p>
