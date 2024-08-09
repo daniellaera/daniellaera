@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>Some men see things as they are and ask why. Others dream things that never were and ask why not.</p>
 
-<p>- Colin Powell</p>
+<p>- George Bernard Shaw</p>
