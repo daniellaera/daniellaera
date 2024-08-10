@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk to someone about themselves and they'll listen for hours.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>- Dale Carnegie</p>
+<p>- Wayne Dyer</p>
