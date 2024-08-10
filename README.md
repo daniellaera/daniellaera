@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
+<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Unknown</p>
