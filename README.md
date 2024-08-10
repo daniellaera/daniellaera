@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Roy T. Bennett</p>
