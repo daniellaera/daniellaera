@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is more cheated than the selfish man.</p>
+<p>Be strong. Be confident. Be the star of your own life.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Estee Lauder</p>
