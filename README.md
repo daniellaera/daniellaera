@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We turn not older with years but newer every day.</p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Robert Greene</p>
