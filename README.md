@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perplexity is the beginning of knowledge.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Emily Dickinson</p>
