@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>We think too much and feel too little.</p>
 
-<p>- John Eliot</p>
+<p>- Charlie Chaplin</p>
