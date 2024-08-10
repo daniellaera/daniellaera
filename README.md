@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>- Les Brown</p>
+<p>- Dale Carnegie</p>
