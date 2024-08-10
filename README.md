@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every blessing ignored becomes a curse.</p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Paulo Coelho</p>
+<p>- Wayne Dyer</p>
