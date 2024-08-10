@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows best knows how little he knows.</p>
+<p>Perplexity is the beginning of knowledge.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Kahlil Gibran</p>
