@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The source of a true smile is an awakened mind.</p>
+<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- T.S. Eliot</p>
