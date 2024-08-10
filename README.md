@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>Tradition is the illusion of permanence. </p>
 
-<p>- Wayne Dyer</p>
+<p>- Woody Allen</p>
