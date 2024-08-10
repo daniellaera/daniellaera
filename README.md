@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never take your position for granted and never let any favors you receive go to your head.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>- Robert Greene</p>
+<p>- Henry Ward Beecher</p>
