@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Open your mind before your mouth.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>- Aristophanes</p>
+<p>- Zig Ziglar</p>
