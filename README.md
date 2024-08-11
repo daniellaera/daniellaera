@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>- Unknown</p>
+<p>- Hans Christian Andersen</p>
