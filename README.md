@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>- Alan Watts</p>
+<p>- Walt Disney</p>
