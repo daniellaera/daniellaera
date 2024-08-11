@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think about what they don't want and attract more of the same.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
 
-<p>- Unknown</p>
+<p>- Johann Wolfgang von Goethe</p>
