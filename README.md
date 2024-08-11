@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to make time, even for something as universal as staring at the stars.</p>
+<p>People think about what they don't want and attract more of the same.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Unknown</p>
