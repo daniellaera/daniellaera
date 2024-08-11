@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</p>
 
-<p>- Unknown</p>
+<p>- Aristophanes</p>
