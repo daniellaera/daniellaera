@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Hans Christian Andersen</p>
