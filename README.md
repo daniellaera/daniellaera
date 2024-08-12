@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>To find yourself, think for yourself.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Socrates</p>
