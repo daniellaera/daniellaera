@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is a puzzle; no need to make sense out of it.</p>
+<p>Don't give up the fight, Stand up for your rights.</p>
 
-<p>- Socrates</p>
+<p>- Bob Marley</p>
