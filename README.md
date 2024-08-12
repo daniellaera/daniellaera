@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>He who cannot be a good follower cannot be a good leader.</p>
 
-<p>- Brian Tracy</p>
+<p>- Aristotle</p>
