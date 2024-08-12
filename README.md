@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Socrates</p>
