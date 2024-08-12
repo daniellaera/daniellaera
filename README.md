@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
+<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
 
-<p>- William Faulkner</p>
+<p>- Norman Vincent Peale</p>
