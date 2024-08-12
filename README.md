@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is stumbling from failure to failure with no loss of enthusiasm.</p>
+<p>Failure is an option, fear is not.</p>
 
-<p>- Winston Churchill</p>
+<p>- James Cameron</p>
