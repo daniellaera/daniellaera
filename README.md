@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the power of thought that gives man power over nature.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Joyce Meyer</p>
