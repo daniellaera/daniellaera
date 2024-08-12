@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Hans Christian Andersen</p>
