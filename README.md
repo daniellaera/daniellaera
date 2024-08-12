@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not regret the past. Look to the future.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Norman Vincent Peale</p>
