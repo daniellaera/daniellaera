@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something to move yourself toward your major goal every day.</p>
+<p>Only those who do nothing at all make no mistakes.</p>
 
-<p>- Brian Tracy</p>
+<p>- Unknown</p>
