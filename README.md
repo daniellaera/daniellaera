@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Thomas Jefferson</p>
