@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
 
-<p>- Thomas Edison</p>
+<p>- Voltaire</p>
