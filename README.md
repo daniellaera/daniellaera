@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Zen Proverb</p>
