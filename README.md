@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart that gives, gathers.</p>
+<p>Dance first. Think later. It's the natural order.</p>
 
-<p>- Lao Tzu</p>
+<p>- Samuel Beckett</p>
