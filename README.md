@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can often change your circumstances by changing your attitude.</p>
+<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Thomas Edison</p>
