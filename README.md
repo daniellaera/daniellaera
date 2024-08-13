@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dance first. Think later. It's the natural order.</p>
+<p>Forever is composed of now's.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Emily Dickinson</p>
