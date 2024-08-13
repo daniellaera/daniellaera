@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To a mind that is still, the entire universe surrenders.</p>
+<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
 
-<p>- Zhuangzi</p>
+<p>- Huang Po</p>
