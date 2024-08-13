@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To earn more you must learn more.</p>
+<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
 
-<p>- Brian Tracy</p>
+<p>- Criss Jami</p>
