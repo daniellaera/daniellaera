@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most powerful warriors are patience and time.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- G.I. Gurdjieff</p>
