@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
+<p>Do something to move yourself toward your major goal every day.</p>
 
-<p>- Bob Proctor</p>
+<p>- Brian Tracy</p>
