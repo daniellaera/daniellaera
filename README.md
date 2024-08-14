@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A minute's success pays the failure of years.</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>- Robert Browning</p>
+<p>- Michael Jordan</p>
