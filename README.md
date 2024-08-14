@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Life is much more successfully looked at from a single window.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- F. Scott Fitzgerald</p>
