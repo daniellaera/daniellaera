@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</p>
 
-<p>- Robin Williams</p>
+<p>- Eleanor Roosevelt</p>
