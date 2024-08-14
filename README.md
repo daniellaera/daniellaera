@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>It's better to dance than to march through life.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Yoko Ono</p>
