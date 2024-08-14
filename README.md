@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
+<p>The deeper the truth in a creative work, the longer it will live.  </p>
 
-<p>- Sun Tzu</p>
+<p>- Charlie Chaplin</p>
