@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hut full of laughter is richer than a palace full of sadness.</p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>- Zen Proverb</p>
+<p>- Soyen Shaku</p>
