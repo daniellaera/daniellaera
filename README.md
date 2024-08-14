@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Robin Williams</p>
