@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always turn a negative situation into a positive situation.</p>
+<p>Even in the grave, all is not lost.</p>
 
-<p>- Michael Jordan</p>
+<p>- Edgar Allan Poe</p>
