@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</p>
+<p>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</p>
 
-<p>- Tony Robbins</p>
+<p>- Seneca</p>
