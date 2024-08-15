@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Understanding that rests in what it does not understand is the finest.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Zhuangzi</p>
+<p>- Robert Kiyosaki</p>
