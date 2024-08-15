@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>- St. Jerome</p>
+<p>- Zhuangzi</p>
