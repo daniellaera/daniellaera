@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
+<p>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</p>
 
-<p>- Judy Garland</p>
+<p>- Tony Robbins</p>
