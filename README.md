@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
+<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
 
-<p>- Lao Tzu</p>
+<p>- George Bernard Shaw</p>
