@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk slowly but never walk backward.</p>
+<p>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </p>
 
-<p>- Unknown</p>
+<p>- St. Jerome</p>
