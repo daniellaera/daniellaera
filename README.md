@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not how much money you make, it's how much money you keep.</p>
+<p>Our view of the world is truly shaped by what we decide to hear.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- William James</p>
