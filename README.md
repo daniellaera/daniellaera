@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To know your Enemy, you must become your Enemy.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>- Sun Tzu</p>
+<p>- Oprah Winfrey</p>
