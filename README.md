@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only encounters in history. There are no accidents.</p>
+<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Earl Nightingale</p>
