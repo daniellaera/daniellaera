@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>You are not stuck where you are unless you decide to be.  </p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Wayne Dyer</p>
