@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
+<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
 
-<p>- Brian Tracy</p>
+<p>- Honore de Balzac</p>
