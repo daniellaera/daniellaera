@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Thich Nhat Hanh</p>
