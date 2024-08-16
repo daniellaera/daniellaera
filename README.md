@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Brian Tracy</p>
