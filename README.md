@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who possesses most must be most afraid of loss.</p>
+<p>Men trust their ears less than their eyes.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Herodotus</p>
