@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth comes at the point of resistance.</p>
+<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
 
-<p>- Josh Waitzkin</p>
+<p>- W. Clement Stone</p>
