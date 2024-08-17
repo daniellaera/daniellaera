@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest weariness comes from work not done.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Will Rogers</p>
