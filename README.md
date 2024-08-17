@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Anne Frank</p>
