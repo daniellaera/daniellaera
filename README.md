@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why do you stay in prison when the door is so wide open?</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Rumi</p>
+<p>- Martin Luther King, Jr.</p>
