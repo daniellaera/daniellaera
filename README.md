@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</p>
+<p>The greatest weariness comes from work not done.</p>
 
-<p>- Celestine Chua</p>
+<p>- Eric Hoffer</p>
