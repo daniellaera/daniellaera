@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must accept finite disappointment, but never lose infinite hope.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Lolly Daskal</p>
