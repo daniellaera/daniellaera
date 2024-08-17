@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>- Denis Waitley</p>
+<p>- Simon Sinek</p>
