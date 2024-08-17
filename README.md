@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>- John Eliot</p>
+<p>- Socrates</p>
