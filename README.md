@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wisest men follow their own direction.</p>
+<p>Life is the dancer and you are the dance.</p>
 
-<p>- Euripides</p>
+<p>- Eckhart Tolle</p>
