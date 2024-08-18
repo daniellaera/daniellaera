@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The question isn't who is going to let me; it's who is going to stop me.</p>
+<p>If I cannot do great things. I can do small things in a great way.</p>
 
-<p>- Ayn Rand</p>
+<p>- Martin Luther King, Jr.</p>
