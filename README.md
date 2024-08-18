@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A zen master's life is one continuous mistake.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>- Dogen</p>
+<p>- John D. Rockefeller</p>
