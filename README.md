@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>Enthusiasm makes up for a host of deficiencies.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Barack Obama</p>
