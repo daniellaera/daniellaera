@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reality is nothing but a collective hunch.</p>
+<p>It's easier to lose than to win.  </p>
 
-<p>- Lily Tomlin</p>
+<p>- Wayne Gretzky</p>
