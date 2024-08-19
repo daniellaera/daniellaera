@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your outlook on life that counts.</p>
+<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
 
-<p>- Betty White</p>
+<p>- Charles Swindoll</p>
