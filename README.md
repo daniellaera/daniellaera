@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never trust he who trusts everyone.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Bob Proctor</p>
