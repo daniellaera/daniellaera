@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>- Steve Harvey</p>
+<p>- Betty White</p>
