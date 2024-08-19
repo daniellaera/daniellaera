@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is a difficult thing to achieve.  </p>
+<p>No one is useless in this world who lightens the burdens of another.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Charles Dickens</p>
