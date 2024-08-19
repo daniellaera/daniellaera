@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easier to lose than to win.  </p>
+<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Steve Harvey</p>
