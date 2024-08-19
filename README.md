@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>Where focus goes, energy flows.</p>
 
 <p>- Tony Robbins</p>
