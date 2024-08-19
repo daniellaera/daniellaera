@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where focus goes, energy flows.</p>
+<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
 
-<p>- Tony Robbins</p>
+<p>- Marcus Aurelius</p>
