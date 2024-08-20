@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>- Lao Tzu</p>
+<p>- Bruce Lee</p>
