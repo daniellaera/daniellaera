@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only be afraid of what you think you know.</p>
+<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Vaclav Havel</p>
