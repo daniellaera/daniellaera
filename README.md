@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
+<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Osho</p>
