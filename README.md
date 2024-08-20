@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>Throw me to the wolves and I will return leading the pack.  </p>
 
-<p>- Steve Harvey</p>
+<p>- Seneca</p>
