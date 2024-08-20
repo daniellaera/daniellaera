@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The score never interested me, only the game.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>- Mae West</p>
+<p>- Oprah Winfrey</p>
