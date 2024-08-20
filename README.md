@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Amelia Earhart</p>
