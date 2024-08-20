@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of chaos lies opportunity.  </p>
+<p>Nothing is really work unless you would rather be doing something else. </p>
 
-<p>- Bruce Lee</p>
+<p>- James Matthew Barrie</p>
