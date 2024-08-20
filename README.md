@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You get in life what you have the courage to ask for.</p>
+<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Heraclitus</p>
