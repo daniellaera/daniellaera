@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forever is composed of now's.</p>
+<p>Smile, breathe and go slowly.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Thich Nhat Hanh</p>
