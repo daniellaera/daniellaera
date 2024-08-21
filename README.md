@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I succeeded by saying what everyone else is thinking.</p>
+<p>Excellence is not a skill. It is an attitude. </p>
 
-<p>- Joan Rivers</p>
+<p>- Ralph Marston</p>
