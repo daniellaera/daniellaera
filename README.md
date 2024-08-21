@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>Do not be so open-minded that your brains fall out.</p>
 
-<p>- Denis Waitley</p>
+<p>- Gilbert Chesterton</p>
