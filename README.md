@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is passion that makes man live; wisdom makes one only last.</p>
+<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Tony Robbins</p>
