@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Wayne Dyer</p>
