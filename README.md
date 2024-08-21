@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
+<p>Freedom itself demands discomfort.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Mark Manson</p>
