@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
+<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
 
-<p>- James Allen</p>
+<p>- Roy T. Bennett</p>
