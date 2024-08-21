@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Follow your instincts. That is where true wisdom manifests itself.</p>
+<p>It is passion that makes man live; wisdom makes one only last.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Nicolas Chamfort</p>
