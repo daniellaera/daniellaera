@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
+<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Bob Marley</p>
