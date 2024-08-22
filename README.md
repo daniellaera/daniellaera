@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is far easier to start something than it is to finish it.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Leo Tolstoy</p>
