@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every drop in the ocean counts. </p>
+<p>The more we value things, the less we value ourselves.  </p>
 
-<p>- Yoko Ono</p>
+<p>- Bruce Lee</p>
