@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Tony Robbins</p>
