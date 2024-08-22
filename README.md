@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise man reads both books and life itself.</p>
+<p>Treat every moment as your last. It is not preparation for something else.</p>
 
-<p>- Lin Yutang</p>
+<p>- Shunryu Suzuki</p>
