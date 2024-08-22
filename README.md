@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we value things, the less we value ourselves.  </p>
+<p>Even a hare will bite when it is cornered. </p>
 
-<p>- Bruce Lee</p>
+<p>- Chinese Proverb</p>
