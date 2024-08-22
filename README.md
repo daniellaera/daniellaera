@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</p>
+<p>Men are equal; it is not birth but virtue that makes the difference.</p>
 
-<p>- Unknown</p>
+<p>- Voltaire</p>
