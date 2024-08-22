@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People rarely succeed unless they have fun in what they are doing.</p>
+<p>The greatest miracle is to be alive.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Thich Nhat Hanh</p>
