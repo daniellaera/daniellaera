@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are equal; it is not birth but virtue that makes the difference.</p>
+<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
 
-<p>- Voltaire</p>
+<p>- Denis Waitley</p>
