@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe nothing you hear, and only one half that you see.</p>
+<p>It is far easier to start something than it is to finish it.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Amelia Earhart</p>
