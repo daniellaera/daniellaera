@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest miracle is to be alive.</p>
+<p>You can have results or excuses, but not both.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Arnold Schwarzenegger</p>
