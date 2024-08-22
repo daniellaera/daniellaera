@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>- Tony Robbins</p>
+<p>- Beverly Sills</p>
