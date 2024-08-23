@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+<p>We make a living by what we get, but we make a life by what we give.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Unknown</p>
