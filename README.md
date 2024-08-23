@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>- Gary Keller</p>
+<p>- Ralph Waldo Emerson</p>
