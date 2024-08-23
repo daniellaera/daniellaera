@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>Life is much more successfully looked at from a single window.</p>
 
-<p>- Eric Hoffer</p>
+<p>- F. Scott Fitzgerald</p>
