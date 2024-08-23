@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Les Brown</p>
+<p>- Benjamin Franklin</p>
