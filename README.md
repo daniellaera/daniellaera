@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't, you must. If you must, you can.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>- Tony Robbins</p>
+<p>- Chinese Proverb</p>
