@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
+<p>If you can't, you must. If you must, you can.</p>
 
-<p>- Aristotle</p>
+<p>- Tony Robbins</p>
