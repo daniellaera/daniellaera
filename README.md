@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heaven is right where you are standing.</p>
+<p>All you need is the plan, the road map, and the courage to press on to your destination.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Earl Nightingale</p>
