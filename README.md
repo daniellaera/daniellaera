@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Integrity is the ability to stand by an idea.</p>
+<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
 
-<p>- Ayn Rand</p>
+<p>- Aristotle</p>
