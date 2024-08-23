@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are clothes that thoughts wear</p>
+<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
 
-<p>- Samuel Butler</p>
+<p>- Bruce Lee</p>
