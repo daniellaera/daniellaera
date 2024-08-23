@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing external to you has any power over you.</p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Ayn Rand</p>
