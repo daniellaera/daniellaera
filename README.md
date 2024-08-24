@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>- Dr. Seuss</p>
+<p>- Woody Allen</p>
