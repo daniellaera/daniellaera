@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
 
-<p>- Unknown</p>
+<p>- Michael Jordan</p>
