@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk slowly but never walk backward.</p>
+<p>The friendship that can cease has never been real. </p>
 
-<p>- Unknown</p>
+<p>- St. Jerome</p>
