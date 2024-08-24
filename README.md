@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A leader leads by example, not by force.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>- Sun Tzu</p>
+<p>- Benjamin Franklin</p>
