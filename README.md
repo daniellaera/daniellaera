@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friendship that can cease has never been real. </p>
+<p>It is your attitude, not your aptitude, that determines your altitude.</p>
 
-<p>- St. Jerome</p>
+<p>- Zig Ziglar</p>
