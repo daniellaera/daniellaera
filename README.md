@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adults are just children who earn money.</p>
+<p>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Morihei Ueshiba</p>
