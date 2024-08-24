@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goals are the fuel in the furnace of achievement.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>- Brian Tracy</p>
+<p>- Spencer Johnson</p>
