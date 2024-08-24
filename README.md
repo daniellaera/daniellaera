@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</p>
+<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Zig Ziglar</p>
