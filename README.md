@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
+<p>Walk slowly but never walk backward.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Unknown</p>
