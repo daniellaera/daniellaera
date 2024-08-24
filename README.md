@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</p>
+<p>The most wasted day of all is that on which we have not laughed.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Nicolas Chamfort</p>
