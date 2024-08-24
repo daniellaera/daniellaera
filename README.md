@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you change what you believe, you change what you do.</p>
+<p>Adults are just children who earn money.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Kenneth Branagh</p>
