@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The chief danger in life is that you may take too many precautions.</p>
+<p>Time stays long enough for anyone who will use it.</p>
 
-<p>- Alfred Adler</p>
+<p>- Leonardo da Vinci</p>
