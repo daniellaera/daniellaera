@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time stays long enough for anyone who will use it.</p>
+<p>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- J.R.R. Tolkien</p>
