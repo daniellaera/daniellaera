@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be calm is the highest achievement of the self.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>- Zen Proverb</p>
+<p>- Michael Jordan</p>
