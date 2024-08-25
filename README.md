@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
+<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Rumi</p>
