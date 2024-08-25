@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life may be full of pain but that's not an excuse to give up.</p>
+<p>If there's a definition of freedom, I think it's this: living life on your terms.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Kamal Ravikant</p>
