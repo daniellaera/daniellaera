@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>- Tony Robbins</p>
+<p>- Brian Tracy</p>
