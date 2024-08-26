@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>- Jim Rohn</p>
+<p>- Naval Ravikant</p>
