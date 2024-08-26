@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>You don't know who is important to you until you actually lose them.</p>
 
-<p>- Herodotus</p>
+<p>- Mahatma Gandhi</p>
