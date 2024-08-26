@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We need a backbone, not a wishbone.</p>
+<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Celestine Chua</p>
