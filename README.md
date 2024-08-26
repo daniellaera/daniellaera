@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goals are the fuel in the furnace of achievement.</p>
+<p>Remember to look up at the stars and not down at your feet.</p>
 
-<p>- Brian Tracy</p>
+<p>- Stephen Hawking</p>
