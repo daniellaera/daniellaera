@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
+<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Tony Robbins</p>
