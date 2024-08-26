@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You make your own luck if you stay at it long enough.</p>
+<p>In life you need either inspiration or desperation.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Tony Robbins</p>
