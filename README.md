@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who wishes to be obeyed must know how to command.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Paulo Coelho</p>
