@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Gary Keller</p>
