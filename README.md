@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion creates, addiction consumes.</p>
+<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
 
-<p>- Gabor Mate</p>
+<p>- Dogen</p>
