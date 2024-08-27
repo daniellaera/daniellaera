@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Robin Sharma</p>
