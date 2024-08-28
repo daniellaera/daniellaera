@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To love means loving the unlovable.</p>
+<p>Sometimes success isn't about making the right decision, it's more about making some decision.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Robin Sharma</p>
