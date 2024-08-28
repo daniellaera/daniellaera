@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
+<p>To love means loving the unlovable.</p>
 
-<p>- Barack Obama</p>
+<p>- Gilbert Chesterton</p>
