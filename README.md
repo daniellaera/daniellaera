@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Sigmund Freud</p>
