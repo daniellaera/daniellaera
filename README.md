@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Ray Bradbury</p>
+<p>- John Wooden</p>
