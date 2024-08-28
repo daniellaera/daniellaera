@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Jiddu Krishnamurti</p>
