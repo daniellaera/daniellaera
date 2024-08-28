@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Eleanor Roosevelt</p>
