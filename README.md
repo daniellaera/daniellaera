@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
+<p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Aristotle</p>
