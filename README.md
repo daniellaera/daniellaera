@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
+<p>Life would be tragic if it weren't funny.</p>
 
-<p>- Robert Collier</p>
+<p>- Stephen Hawking</p>
