@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
+<p>If ever you feel like an animal among men, be a lion.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Criss Jami</p>
