@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The single most powerful asset we all have is our mind.</p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Jeffrey Gitomer</p>
