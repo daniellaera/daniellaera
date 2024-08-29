@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Martin Luther King, Jr.</p>
