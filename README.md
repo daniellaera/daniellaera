@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
+<p>It's not what you pay a man, but what he costs you that counts.</p>
 
-<p>- Charles Dickens</p>
+<p>- Will Rogers</p>
