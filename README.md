@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is contagious. So is lack of confidence.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Lin Yutang</p>
