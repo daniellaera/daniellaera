@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to the secret sound, the real sound, which is inside you.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>- Kabir</p>
+<p>- Miguel de Cervantes</p>
