@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Paulo Coelho</p>
