@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Marilyn Monroe</p>
