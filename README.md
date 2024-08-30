@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
+<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Marcus Aurelius</p>
