@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Chinese Proverb</p>
