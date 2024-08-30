@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>- Paulo Coelho</p>
+<p>- Albert Einstein</p>
