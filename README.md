@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you pay a man, but what he costs you that counts.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- Will Rogers</p>
+<p>- Judy Garland</p>
