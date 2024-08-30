@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the midst of chaos, there is also opportunity.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>- Sun Tzu</p>
+<p>- Toni Morrison</p>
