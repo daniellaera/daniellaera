@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
 
-<p>- Lin Yutang</p>
+<p>- Bob Marley</p>
