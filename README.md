@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Definitions belong to the definers, not the defined.</p>
+<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
 
-<p>- Toni Morrison</p>
+<p>- Charles Dickens</p>
