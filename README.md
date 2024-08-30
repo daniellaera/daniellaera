@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>- George Eliot</p>
+<p>- Joyce Meyer</p>
