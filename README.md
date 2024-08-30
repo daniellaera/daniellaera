@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Embrace the life you have and stop wishing that you could be someone else.</p>
+<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Unknown</p>
