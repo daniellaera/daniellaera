@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is born deaf and dumb.</p>
+<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
 
-<p>- Honore de Balzac</p>
+<p>- Bob Marley</p>
