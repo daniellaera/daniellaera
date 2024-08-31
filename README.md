@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing we have to fear is fear itself.</p>
+<p>To plant a garden is to believe in tomorrow.  </p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Audrey Hepburn</p>
