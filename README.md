@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A needle is not sharp at both ends. </p>
+<p>Behind every cloud is another cloud.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Judy Garland</p>
