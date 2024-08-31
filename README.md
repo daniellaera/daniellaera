@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A real friend is one who walks in when the rest of the world walks out.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>- Unknown</p>
+<p>- Sigmund Freud</p>
