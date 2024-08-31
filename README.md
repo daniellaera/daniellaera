@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>- Eckhart Tolle</p>
+<p>- Wayne Dyer</p>
