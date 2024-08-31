@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every cloud is another cloud.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- Judy Garland</p>
+<p>- Honore de Balzac</p>
