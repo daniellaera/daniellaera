@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be willing to be a beginner every single morning.</p>
+<p>The only thing we have to fear is fear itself.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Franklin D. Roosevelt</p>
