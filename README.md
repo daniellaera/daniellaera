@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
+<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Jim Rohn</p>
