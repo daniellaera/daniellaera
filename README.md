@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whoever is happy will make others happy too.</p>
+<p>It's wise to tell the truth. It's even wiser to tell it kindly.</p>
 
-<p>- Anne Frank</p>
+<p>- Maxime Lagace</p>
