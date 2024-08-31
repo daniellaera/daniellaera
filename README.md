@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When one does not have what one wants, one must want what one has.</p>
+<p>It's your life-but only if you make it so.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Eleanor Roosevelt</p>
