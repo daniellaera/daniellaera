@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Create each day anew.</p>
+<p>There's no next time. It's now or never.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Celestine Chua</p>
