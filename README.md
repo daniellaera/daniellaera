@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Curiosity is the most powerful thing you own.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>- James Cameron</p>
+<p>- Paulo Coelho</p>
