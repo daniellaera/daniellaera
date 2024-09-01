@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
+<p>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</p>
 
-<p>- Dan Millman</p>
+<p>- Robert Frost</p>
