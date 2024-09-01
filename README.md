@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>Success is the progressive realization of a worthy goal or ideal.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Earl Nightingale</p>
