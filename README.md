@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about not knowing and then doing something anyway.</p>
+<p>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</p>
 
-<p>- Mark Manson</p>
+<p>- Dan Millman</p>
