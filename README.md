@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
+<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
 
-<p>- Bob Marley</p>
+<p>- Tony Robbins</p>
