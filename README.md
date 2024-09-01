@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the root is strong, the fruit is sweet.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>- Bob Marley</p>
+<p>- Leo Tolstoy</p>
