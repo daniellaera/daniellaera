@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To become what you are not, behave as you do not.</p>
+<p>Sad thing is, you can still love someone and be wrong for them.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Elvis Presley</p>
