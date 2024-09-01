@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>- Estee Lauder</p>
+<p>- James Cameron</p>
