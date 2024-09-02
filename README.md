@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Oscar Wilde</p>
