@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>Every time we liberate a woman, we liberate a man. </p>
 
-<p>- Henry David Thoreau</p>
+<p>- Margaret Mead</p>
