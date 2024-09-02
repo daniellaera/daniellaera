@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must not sit down and wait for miracles. Up and be going!</p>
+<p>Listen to what you know instead of what you fear.</p>
 
-<p>- John Eliot</p>
+<p>- Richard Bach</p>
