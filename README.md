@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Dan Millman</p>
