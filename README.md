@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time we liberate a woman, we liberate a man. </p>
+<p>The best way to predict your future is to create it.</p>
 
-<p>- Margaret Mead</p>
+<p>- Abraham Lincoln</p>
