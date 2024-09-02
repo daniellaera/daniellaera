@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of empires, is the empire over one's self.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Ayn Rand</p>
