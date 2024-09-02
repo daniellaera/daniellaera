@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
+<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
 
-<p>- Gary Keller</p>
+<p>- Robin Sharma</p>
