@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Unknown</p>
+<p>- Alexander Pope</p>
