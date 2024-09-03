@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man desires to live long, but no man wishes to be old.</p>
+<p>There is nothing more truly artistic than to love people.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Vincent van Gogh</p>
