@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your dreams, you never know when you might need them.</p>
+<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Kamal Ravikant</p>
