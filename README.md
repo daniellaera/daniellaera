@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let each man exercise the art he knows.</p>
+<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
 
-<p>- Aristophanes</p>
+<p>- Pablo Picasso</p>
