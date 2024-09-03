@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Unknown</p>
