@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>Reading should be a pleasure, not a chore.</p>
 
-<p>- Tony Robbins</p>
+<p>- Joan Rivers</p>
