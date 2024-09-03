@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Art of Peace begins with you.</p>
+<p>Children are our greatest natural resource.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Herbert Hoover</p>
