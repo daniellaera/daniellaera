@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reading should be a pleasure, not a chore.</p>
+<p>The Art of Peace begins with you.</p>
 
-<p>- Joan Rivers</p>
+<p>- Morihei Ueshiba</p>
