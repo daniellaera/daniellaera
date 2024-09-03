@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is untrue to his own cause cannot command the respect of others.</p>
+<p>Every man desires to live long, but no man wishes to be old.</p>
 
-<p>- Albert Einstein</p>
+<p>- Jonathan Swift</p>
