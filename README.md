@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Unknown</p>
+<p>- Tony Robbins</p>
