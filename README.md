@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Euripides</p>
