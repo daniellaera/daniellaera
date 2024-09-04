@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Dale Carnegie</p>
