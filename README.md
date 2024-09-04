@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Gary Keller</p>
