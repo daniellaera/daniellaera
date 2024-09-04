@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't, you must. If you must, you can.</p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>- Tony Robbins</p>
+<p>- Jon Kabat-Zinn</p>
