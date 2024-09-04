@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important battle is one to conquer yourself.</p>
+<p>You are what you believe in. You become that which you believe you can become.</p>
 
-<p>- Yanni</p>
+<p>- Bhagavad Gita</p>
