@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of getting ahead is getting started.</p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>- Mark Twain</p>
+<p>- Steve Harvey</p>
