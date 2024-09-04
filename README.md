@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tension is who you think you should be. Relaxation is who you are.</p>
+<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Joyce Meyer</p>
