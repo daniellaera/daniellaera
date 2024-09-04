@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
+<p>The most important battle is one to conquer yourself.</p>
 
-<p>- Colin Powell</p>
+<p>- Yanni</p>
