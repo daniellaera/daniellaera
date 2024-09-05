@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take away love and our earth is a tomb.</p>
+<p>If you think adventure is dangerous, try routine; it is lethal.</p>
 
-<p>- Robert Browning</p>
+<p>- Paulo Coelho</p>
