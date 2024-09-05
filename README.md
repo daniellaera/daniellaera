@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>In nature there is no alienation. Everything belongs.</p>
 
-<p>- Samuel Butler</p>
+<p>- Ming-Dao Deng</p>
