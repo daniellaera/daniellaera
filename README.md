@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
+<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Wayne Gretzky</p>
