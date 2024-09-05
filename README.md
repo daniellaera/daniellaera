@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Understanding that rests in what it does not understand is the finest.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- Zhuangzi</p>
+<p>- Beverly Sills</p>
