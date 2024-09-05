@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you pay a man, but what he costs you that counts.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>- Will Rogers</p>
+<p>- Heraclitus</p>
