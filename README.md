@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Steve Maraboli</p>
