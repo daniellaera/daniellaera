@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In nature there is no alienation. Everything belongs.</p>
+<p>If we are not able to smile, then the world will not have peace.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Thich Nhat Hanh</p>
