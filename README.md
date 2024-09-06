@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is the sum of small efforts, repeated day in and day out.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>- Robert Collier</p>
+<p>- Steve Harvey</p>
