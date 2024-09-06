@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
+<p>People think about what they don't want and attract more of the same.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Unknown</p>
