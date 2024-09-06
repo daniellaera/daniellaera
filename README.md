@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth is in a series of mistakes. That's the only way you learn.</p>
+<p>Allow motion to equal emotion.</p>
 
-<p>- Steve Harvey</p>
+<p>- Elbert Hubbard</p>
