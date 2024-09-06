@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One's best success comes after their greatest disappointments.</p>
+<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Naval Ravikant</p>
