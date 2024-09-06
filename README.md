@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Steve Jobs</p>
+<p>- Charles Dickens</p>
