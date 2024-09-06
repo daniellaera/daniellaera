@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
+<p>Life is a process. We are a process. The universe is a process.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Anne Wilson Schaef</p>
