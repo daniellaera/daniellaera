@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>They say love is the best investment; the more you give, the more you get in return.</p>
+<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Dan Millman</p>
