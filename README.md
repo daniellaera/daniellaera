@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you make a choice, you change the future.</p>
+<p>Your success and happiness lie in you.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Helen Keller</p>
