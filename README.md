@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
+<p>If you pray for rain, be prepared to deal with some mud.</p>
 
-<p>- Will Rogers</p>
+<p>- Mary Engelbreit</p>
