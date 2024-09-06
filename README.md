@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Allow motion to equal emotion.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Will Rogers</p>
