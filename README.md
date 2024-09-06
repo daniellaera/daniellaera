@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you pray for rain, be prepared to deal with some mud.</p>
+<p>Don't blame others. it won't make you a better person.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Lolly Daskal</p>
