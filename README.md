@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>- Steve Harvey</p>
+<p>- Robert Kiyosaki</p>
