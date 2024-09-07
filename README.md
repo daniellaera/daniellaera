@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>- Wayne Dyer</p>
+<p>- C. Sean McGee</p>
