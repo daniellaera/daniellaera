@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>The older you get the stronger the wind gets - and it's always in your face.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Pablo Picasso</p>
