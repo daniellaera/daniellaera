@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
+<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Brian Tracy</p>
