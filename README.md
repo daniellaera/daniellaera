@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Arnold Schwarzenegger</p>
