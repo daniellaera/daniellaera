@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Wayne Dyer</p>
