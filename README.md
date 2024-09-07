@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Elbert Hubbard</p>
