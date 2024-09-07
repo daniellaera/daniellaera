@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friend is the man who knows all about you, and still likes you.</p>
+<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Norman Vincent Peale</p>
