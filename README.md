@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
 
-<p>- Estee Lauder</p>
+<p>- Napoleon Hill</p>
