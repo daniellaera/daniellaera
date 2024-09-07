@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our deeds determine us, as much as we determine our deeds.</p>
+<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
 
-<p>- George Eliot</p>
+<p>- Mother Teresa</p>
