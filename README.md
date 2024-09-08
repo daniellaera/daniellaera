@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</p>
+<p>If we all did the things we are capable of doing, we would literally astound ourselves.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Thomas Edison</p>
