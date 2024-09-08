@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love your enemies, for they tell you your faults.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Bette Midler</p>
