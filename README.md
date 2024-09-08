@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before preparing to improve the world, first look around your own home three times. </p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>- Chinese Proverb</p>
+<p>- Confucius</p>
