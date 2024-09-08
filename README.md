@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always remember that you are absolutely unique. Just like everyone else. </p>
+<p>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</p>
 
-<p>- Margaret Mead</p>
+<p>- Earl Nightingale</p>
