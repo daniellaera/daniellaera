@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must welcome change as the rule but not as your ruler. </p>
+<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
 
-<p>- Denis Waitley</p>
+<p>- Les Brown</p>
