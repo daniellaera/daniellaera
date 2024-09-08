@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to light a candle than to curse the darkness. </p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Chinese Proverb</p>
+<p>- John Wooden</p>
