@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all here for some special reason.</p>
+<p>Better to light a candle than to curse the darkness. </p>
 
-<p>- Robin Sharma</p>
+<p>- Chinese Proverb</p>
