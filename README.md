@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>- Zen Proverb</p>
+<p>- Carl Jung</p>
