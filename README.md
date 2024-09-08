@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Belief creates the actual fact.</p>
+<p>You must welcome change as the rule but not as your ruler. </p>
 
-<p>- William James</p>
+<p>- Denis Waitley</p>
