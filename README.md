@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't let your failures define you. You have to let your failures teach you.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>- Barack Obama</p>
+<p>- Jim Rohn</p>
