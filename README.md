@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something threatens your identity, the more you will avoid it.</p>
+<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
 
-<p>- Mark Manson</p>
+<p>- Jack Butcher</p>
