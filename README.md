@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop being tormented by everyone else's reaction to you.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
 
-<p>- Joyce Meyer</p>
+<p>- Beverly Sills</p>
