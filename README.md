@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>There is nothing quite so tragic as a young cynic.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Maya Angelou</p>
