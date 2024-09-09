@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life as an exclamation rather than an explanation.</p>
+<p>I dream my painting and I paint my dream.</p>
 
-<p>- Isaac Newton</p>
+<p>- Vincent van Gogh</p>
