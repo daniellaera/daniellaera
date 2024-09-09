@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take into account that great love and great achievements involve great risk.</p>
+<p>Creativity is intelligence having fun.</p>
 
-<p>- Dalai Lama</p>
+<p>- Albert Einstein</p>
