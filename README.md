@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you pay a man, but what he costs you that counts.</p>
+<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
 
-<p>- Will Rogers</p>
+<p>- Jim Rohn</p>
