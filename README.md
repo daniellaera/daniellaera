@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
+<p>Live your life as an exclamation rather than an explanation.</p>
 
-<p>- Jim Rohn</p>
+<p>- Isaac Newton</p>
