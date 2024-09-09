@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I dream my painting and I paint my dream.</p>
+<p>You can't let your failures define you. You have to let your failures teach you.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Barack Obama</p>
