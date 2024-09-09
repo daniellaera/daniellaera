@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The question is not what you look at, but what you see.</p>
+<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Charles Darwin</p>
