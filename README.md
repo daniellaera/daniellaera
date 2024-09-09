@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>The question is not what you look at, but what you see.</p>
 
-<p>- Jim Rohn</p>
+<p>- Henry David Thoreau</p>
