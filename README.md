@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Zen Proverb</p>
