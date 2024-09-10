@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</p>
+<p>Life happens in the river, not the shore.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Maxime Lagace</p>
