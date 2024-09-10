@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Emily Dickinson</p>
