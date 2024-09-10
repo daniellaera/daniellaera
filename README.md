@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Spencer Johnson</p>
