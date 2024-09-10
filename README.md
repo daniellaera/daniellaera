@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Gurbaksh Chahal</p>
