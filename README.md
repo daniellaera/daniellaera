@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyday you can take a tiny step in the right direction.</p>
+<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
 
-<p>- Unknown</p>
+<p>- Leo Tolstoy</p>
