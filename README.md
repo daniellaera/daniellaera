@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My definition of success is control.</p>
+<p>Nothing important is learned; it is simply remembered.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Carlos Ruiz Zafon</p>
