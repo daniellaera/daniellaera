@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>My definition of success is control.</p>
 
-<p>- Zen Proverb</p>
+<p>- Kenneth Branagh</p>
