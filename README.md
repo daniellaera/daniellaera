@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
+<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Tony Robbins</p>
