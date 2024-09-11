@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To perceive is to suffer.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>- Aristotle</p>
+<p>- Franklin D. Roosevelt</p>
