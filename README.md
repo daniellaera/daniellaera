@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Paramahansa Yogananda</p>
