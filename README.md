@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage Is a Love Affair with the Unknown</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Osho</p>
+<p>- Isaac Newton</p>
