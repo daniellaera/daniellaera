@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
+<p>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</p>
 
-<p>- Robin Sharma</p>
+<p>- Oprah Winfrey</p>
