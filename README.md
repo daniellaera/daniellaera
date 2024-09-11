@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To every action there is always opposed an equal reaction.</p>
+<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
 
-<p>- Isaac Newton</p>
+<p>- Vincent van Gogh</p>
