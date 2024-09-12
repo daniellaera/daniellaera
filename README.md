@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
+<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
 
-<p>- Woody Allen</p>
+<p>- James Allen</p>
