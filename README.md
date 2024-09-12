@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
+<p>Everything that irritates us about others.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Carl Jung</p>
