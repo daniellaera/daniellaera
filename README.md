@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He will win who knows when to fight and when not to fight.</p>
+<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
 
-<p>- Sun Tzu</p>
+<p>- Woody Allen</p>
