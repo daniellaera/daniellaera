@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
+<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
 
-<p>- Brian Tracy</p>
+<p>- Paulo Coelho</p>
