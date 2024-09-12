@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In spite of everything, I shall rise again.</p>
+<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Robert Collier</p>
