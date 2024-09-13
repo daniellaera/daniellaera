@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>Once you choose hope, anything's possible.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Christopher Reeve</p>
