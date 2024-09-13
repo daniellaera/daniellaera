@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The grass is greener where you water it.</p>
+<p>Most people fail in life because they major in minor things.</p>
 
-<p>- Neil Barringham</p>
+<p>- Tony Robbins</p>
