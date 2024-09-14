@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quieter you become, the more you are able to hear.</p>
+<p>Showing off is the fool's idea of glory. </p>
 
-<p>- Rumi</p>
+<p>- Bruce Lee</p>
