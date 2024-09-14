@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Hans Christian Andersen</p>
