@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of difficulty lies opportunity.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>- Albert Einstein</p>
+<p>- Charles Darwin</p>
