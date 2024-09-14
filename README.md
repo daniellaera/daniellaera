@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Debt is the slavery of the free.</p>
+<p>Be strong. Be confident. Be the star of your own life.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Estee Lauder</p>
