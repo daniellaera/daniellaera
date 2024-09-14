@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</p>
 
-<p>- Christopher McCandless</p>
+<p>- Sathya Sai Baba</p>
