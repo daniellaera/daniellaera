@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anxiety is the dizziness of freedom.</p>
+<p>It is better to light a single candle than to curse the darkness.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Eleanor Roosevelt</p>
