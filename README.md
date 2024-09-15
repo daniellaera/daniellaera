@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only I can change my life. No one can do it for me.</p>
+<p>The healthiest response to life is joy.</p>
 
-<p>- Carol Burnett</p>
+<p>- Deepak Chopra</p>
