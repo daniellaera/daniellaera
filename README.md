@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to keep breaking your heart until it opens.</p>
+<p>Do not wait for leaders; do it alone, person to person.</p>
 
-<p>- Rumi</p>
+<p>- Mother Teresa</p>
