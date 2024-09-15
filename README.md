@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man should fear never beginning to live.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Henry Ford</p>
