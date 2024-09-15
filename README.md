@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>Tension is who you think you should be. Relaxation is who you are.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Chinese Proverb</p>
