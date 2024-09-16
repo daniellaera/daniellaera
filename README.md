@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our stories may be singular, but our destination is shared.</p>
+<p>Change begets change. Nothing propagates so fast.</p>
 
-<p>- Barack Obama</p>
+<p>- Charles Dickens</p>
