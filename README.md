@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</p>
+<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Audrey Hepburn</p>
