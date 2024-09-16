@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stay away from people who makes you feel like you are wasting their time.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>- Paulo Coelho</p>
+<p>- Oscar Wilde</p>
