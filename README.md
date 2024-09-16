@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
+<p>Live in the sunshine, swim the sea, drink the wild air.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Ralph Waldo Emerson</p>
