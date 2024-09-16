@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live in the sunshine, swim the sea, drink the wild air.</p>
+<p>Love is the absence of judgment.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Dalai Lama</p>
