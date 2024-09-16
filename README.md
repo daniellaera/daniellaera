@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
+<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
 
-<p>- Bruce Lee</p>
+<p>- Gilbert Chesterton</p>
