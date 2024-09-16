@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't want anything. Then you get everything.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>- Seungsahn</p>
+<p>- Jim Rohn</p>
