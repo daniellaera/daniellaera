@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Eric Hoffer</p>
+<p>- Lao Tzu</p>
