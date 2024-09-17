@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Eric Hoffer</p>
