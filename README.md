@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Unknown</p>
+<p>- Ralph Waldo Emerson</p>
