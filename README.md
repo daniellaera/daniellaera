@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The cost of leadership is self-interest.</p>
+<p>We all give up great expectations along the way.</p>
 
-<p>- Simon Sinek</p>
+<p>- Carlos Ruiz Zafon</p>
