@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death is not sad; the sad thing is that most people don't really live at all.</p>
+<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
 
-<p>- Dan Millman</p>
+<p>- Eleanor Roosevelt</p>
