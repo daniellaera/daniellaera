@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>Every day passes whether you participate or not.</p>
 
-<p>- Yanni</p>
+<p>- Ming-Dao Deng</p>
