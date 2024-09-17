@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>Death is not sad; the sad thing is that most people don't really live at all.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Dan Millman</p>
