@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
+<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Carlos Ruiz Zafon</p>
