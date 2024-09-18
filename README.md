@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big. Start small. But most of all, start.</p>
+<p>To travel is to be alive, but to get somewhere is to be dead.</p>
 
-<p>- Simon Sinek</p>
+<p>- Alan Watts</p>
