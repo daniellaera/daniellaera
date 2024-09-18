@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
 
-<p>- Alan Watts</p>
+<p>- Jim Rohn</p>
