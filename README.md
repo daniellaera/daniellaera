@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not why the addiction but why the pain.</p>
+<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
 
-<p>- Gabor Mate</p>
+<p>- Gilbert Chesterton</p>
