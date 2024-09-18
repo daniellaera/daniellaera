@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
+<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
 
-<p>- Tony Robbins</p>
+<p>- Albert Einstein</p>
