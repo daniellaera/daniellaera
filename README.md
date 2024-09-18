@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give so much away people insist on paying you.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>- Jack Butcher</p>
+<p>- Tony Robbins</p>
