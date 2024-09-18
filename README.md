@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>One loyal friend is worth ten thousand relatives.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Euripides</p>
