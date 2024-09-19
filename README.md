@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man invented language to satisfy his deep need to complain.</p>
+<p>The grass is greener where you water it.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Neil Barringham</p>
