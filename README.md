@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn the rules like a pro, so you can break them like an artist.</p>
+<p>Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Earl Nightingale</p>
