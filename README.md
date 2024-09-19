@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The chief danger in life is that you may take too many precautions.</p>
+<p>Man invented language to satisfy his deep need to complain.</p>
 
-<p>- Alfred Adler</p>
+<p>- Lily Tomlin</p>
