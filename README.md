@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>- Unknown</p>
+<p>- Oprah Winfrey</p>
