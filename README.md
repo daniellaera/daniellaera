@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The grass is greener where you water it.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Neil Barringham</p>
+<p>- Lao Tzu</p>
