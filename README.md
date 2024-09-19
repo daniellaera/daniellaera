@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your mind your own business.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Jack Butcher</p>
+<p>- Pablo Picasso</p>
