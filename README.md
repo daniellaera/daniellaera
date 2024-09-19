@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools read fast. Geniuses reread.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Alfred Adler</p>
