@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friend is the man who knows all about you, and still likes you.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Betty White</p>
