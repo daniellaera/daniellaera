@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give way to laziness.</p>
+<p>Fear is what stops you. Courage is what keeps you going.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Unknown</p>
