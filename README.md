@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>May you live all the days of your life.</p>
+<p>We must not sit down and wait for miracles. Up and be going!</p>
 
-<p>- Jonathan Swift</p>
+<p>- John Eliot</p>
