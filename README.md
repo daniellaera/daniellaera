@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Elbert Hubbard</p>
