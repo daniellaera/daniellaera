@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>- Betty White</p>
+<p>- Kenneth Branagh</p>
