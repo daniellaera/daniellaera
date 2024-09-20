@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An ounce of performance is worth pounds of promises.</p>
+<p>The first principle of success is desire.</p>
 
-<p>- Mae West</p>
+<p>- Robert Collier</p>
