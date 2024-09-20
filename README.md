@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+<p>You can't tell big dreams to small minded people.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Steve Harvey</p>
