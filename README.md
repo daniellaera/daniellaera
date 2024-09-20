@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>- Rumi</p>
+<p>- Joyce Meyer</p>
