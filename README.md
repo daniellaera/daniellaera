@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first principle of success is desire.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Robert Collier</p>
+<p>- Eckhart Tolle</p>
