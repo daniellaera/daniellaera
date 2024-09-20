@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>Never whine, never complain, never try to justify yourself.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Robert Greene</p>
