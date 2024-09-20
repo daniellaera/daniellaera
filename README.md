@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
+<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
 
-<p>- Unknown</p>
+<p>- Dan Millman</p>
