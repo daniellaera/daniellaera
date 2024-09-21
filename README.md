@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>Not doing it is certainly the best way to not getting it.  </p>
 
-<p>- Henry Ford</p>
+<p>- Wayne Gretzky</p>
