@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>The constant assertion of belief is an indication of fear.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Jiddu Krishnamurti</p>
