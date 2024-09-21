@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
+<p>Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.</p>
 
-<p>- Brian Tracy</p>
+<p>- Adi Da Samraj</p>
