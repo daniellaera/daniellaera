@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't tell big dreams to small minded people.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>- Steve Harvey</p>
+<p>- Deepak Chopra</p>
