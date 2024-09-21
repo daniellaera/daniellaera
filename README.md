@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We ordinary people must forge our own beauty.</p>
+<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Zig Ziglar</p>
