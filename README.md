@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have as much laughter as you have faith.</p>
+<p>I don't ever give up. I'd have to be dead or completely incapacitated.</p>
 
-<p>- Martin Luther</p>
+<p>- Elon Musk</p>
