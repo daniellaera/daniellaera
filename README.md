@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The strongest and sweetest songs yet remain to be sung.</p>
+<p>Progress is limited by your ability to change your mind.</p>
 
-<p>- Walt Whitman</p>
+<p>- Jack Butcher</p>
