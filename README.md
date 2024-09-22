@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>If there were no God, there would be no atheists.</p>
 
-<p>- St. Jerome</p>
+<p>- Gilbert Chesterton</p>
