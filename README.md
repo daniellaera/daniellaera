@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is limited by your ability to change your mind.</p>
+<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
 
-<p>- Jack Butcher</p>
+<p>- Paramahansa Yogananda</p>
