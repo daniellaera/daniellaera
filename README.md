@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
+<p>The birth of the mind is the death of the senses.</p>
 
-<p>- Tony Robbins</p>
+<p>- Dan Millman</p>
