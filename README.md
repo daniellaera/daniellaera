@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
+<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
 
-<p>- Socrates</p>
+<p>- Bruce Lee</p>
