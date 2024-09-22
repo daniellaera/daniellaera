@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
+<p>The strongest and sweetest songs yet remain to be sung.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Walt Whitman</p>
