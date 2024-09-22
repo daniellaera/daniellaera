@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Action is the foundational key to all success.</p>
+<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Sun Tzu</p>
