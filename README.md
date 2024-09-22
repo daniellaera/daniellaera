@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- Bruce Lee</p>
+<p>- Unknown</p>
