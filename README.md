@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>- Unknown</p>
+<p>- Ralph Marston</p>
