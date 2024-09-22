@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Plants grow weak without wind.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>- Maxime Lagace</p>
+<p>- T.S. Eliot</p>
