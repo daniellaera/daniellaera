@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
+<p>For fast-acting relief try slowing down.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Lily Tomlin</p>
