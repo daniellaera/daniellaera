@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing worse than being blind is having sight but no vision.</p>
+<p>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</p>
 
-<p>- Helen Keller</p>
+<p>- Sathya Sai Baba</p>
