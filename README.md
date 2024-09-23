@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>We need a backbone, not a wishbone.</p>
 
-<p>- Alfred Adler</p>
+<p>- Joyce Meyer</p>
