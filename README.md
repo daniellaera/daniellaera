@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people feel the rain. Others just get wet. </p>
+<p>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</p>
 
-<p>- Bob Dylan</p>
+<p>- Alan Watts</p>
