@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Gary Keller</p>
+<p>- John Eliot</p>
