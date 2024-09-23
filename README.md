@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ours to be spent, not to be saved. </p>
+<p>Some people feel the rain. Others just get wet. </p>
 
-<p>- D. H. Lawrence</p>
+<p>- Bob Dylan</p>
