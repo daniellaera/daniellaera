@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to learn late than never.</p>
+<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Huang Po</p>
