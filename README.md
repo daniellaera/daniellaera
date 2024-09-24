@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>On the other side of the clouds is a bright blue sky.</p>
+<p>Every saint has a past, and every sinner has a future.</p>
 
-<p>- Unknown</p>
+<p>- Oscar Wilde</p>
