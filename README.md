@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
+<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
 
-<p>- James Allen</p>
+<p>- Robin Sharma</p>
