@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Tony Robbins</p>
+<p>- Alexander Pope</p>
