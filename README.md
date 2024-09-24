@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Og Mandino</p>
