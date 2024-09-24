@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>Everyone is a moon, and has a dark side which he never shows to anybody.</p>
 
-<p>- Babe Ruth</p>
+<p>- Mark Twain</p>
