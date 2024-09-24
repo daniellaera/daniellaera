@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
 
-<p>- Elon Musk</p>
+<p>- Tony Robbins</p>
