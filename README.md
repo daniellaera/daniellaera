@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Robin Sharma</p>
+<p>- Adi Da Samraj</p>
