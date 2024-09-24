@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
 
-<p>- Og Mandino</p>
+<p>- Elon Musk</p>
