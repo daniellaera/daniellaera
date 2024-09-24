@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>Don't blame others. it won't make you a better person.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Lolly Daskal</p>
