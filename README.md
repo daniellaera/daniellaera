@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ours to be spent, not to be saved. </p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Helen Keller</p>
