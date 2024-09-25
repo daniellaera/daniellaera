@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a girl the right shoes, and she can conquer the world.</p>
+<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
 
-<p>- Bette Midler</p>
+<p>- Kilian Jornet</p>
