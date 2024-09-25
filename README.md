@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
+<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Norman Vincent Peale</p>
