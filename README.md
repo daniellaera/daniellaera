@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can see it in your mind, you can hold it in your mind.</p>
+<p>Act as if what you do makes a difference. It does.</p>
 
-<p>- Steve Harvey</p>
+<p>- William James</p>
