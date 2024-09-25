@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Where violence reigns, reason is weak.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Nicolas Chamfort</p>
