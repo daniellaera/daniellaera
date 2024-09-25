@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to shut your eyes, so you can see the real beauty.</p>
+<p>The future is no more uncertain than the present.</p>
 
-<p>- Kilian Jornet</p>
+<p>- Walt Whitman</p>
