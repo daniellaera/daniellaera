@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Colin Powell</p>
