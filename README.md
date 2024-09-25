@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act as if what you do makes a difference. It does.</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- William James</p>
+<p>- Henry Ward Beecher</p>
