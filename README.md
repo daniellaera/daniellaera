@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where violence reigns, reason is weak.</p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Steve Harvey</p>
