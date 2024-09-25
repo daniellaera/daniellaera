@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mountain never yields to the wind no matter how strong it is.</p>
+<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
 
-<p>- Zen Proverb</p>
+<p>- Hans Christian Andersen</p>
