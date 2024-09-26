@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Judy Garland</p>
