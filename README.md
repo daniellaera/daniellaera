@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
+<p>The person who cannot control his words shows that he cannot control himself.</p>
 
-<p>- Brian Tracy</p>
+<p>- Robert Greene</p>
