@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
+<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
 
-<p>- Mother Teresa</p>
+<p>- George Bernard Shaw</p>
