@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fiction is the truth inside the lie.</p>
+<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
 
-<p>- Stephen King</p>
+<p>- Winston Churchill</p>
