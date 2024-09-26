@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never get enough of what you don't need to make you happy.</p>
+<p>There is a big difference between being centered and being self-centered.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Lolly Daskal</p>
