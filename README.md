@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not doing it is certainly the best way to not getting it.  </p>
+<p>Fiction is the truth inside the lie.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Stephen King</p>
