@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk does not cook rice.</p>
+<p>Not doing it is certainly the best way to not getting it.  </p>
 
-<p>- Chinese Proverb</p>
+<p>- Wayne Gretzky</p>
