@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Og Mandino</p>
