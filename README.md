@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is hopeless; we must hope for everything.</p>
+<p>There are no limitations to the mind except those we acknowledge...</p>
 
-<p>- Euripides</p>
+<p>- Napoleon Hill</p>
