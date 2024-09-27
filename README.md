@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.</p>
 
-<p>- Huang Po</p>
+<p>- J.R.R. Tolkien</p>
