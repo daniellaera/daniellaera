@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all those who wander are lost.</p>
+<p>I like the dreams of the future better than the history of the past.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Thomas Jefferson</p>
