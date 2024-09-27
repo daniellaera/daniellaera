@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>I've always lived in the moment.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Yanni</p>
