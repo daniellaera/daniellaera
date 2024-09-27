@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>- Rumi</p>
+<p>- Huang Po</p>
