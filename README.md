@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always lived in the moment.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Yanni</p>
+<p>- Paulo Coelho</p>
