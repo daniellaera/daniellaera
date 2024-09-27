@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>- Henry Ford</p>
+<p>- Benjamin Franklin</p>
