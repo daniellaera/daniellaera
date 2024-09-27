@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
+<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Amelia Earhart</p>
