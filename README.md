@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
+<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Vincent van Gogh</p>
