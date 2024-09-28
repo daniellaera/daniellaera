@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
+<p>Action is the foundational key to all success.</p>
 
-<p>- Yanni</p>
+<p>- Pablo Picasso</p>
