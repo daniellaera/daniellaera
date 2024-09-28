@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All has not been said and never will be.</p>
+<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Elbert Hubbard</p>
