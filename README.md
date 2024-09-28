@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friend is the man who knows all about you, and still likes you.</p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Gustave Flaubert</p>
