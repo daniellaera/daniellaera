@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Oprah Winfrey</p>
