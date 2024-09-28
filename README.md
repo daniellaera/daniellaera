@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
+<p>It's not what you've got; it's what you do that makes the difference.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Celestine Chua</p>
