@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>You'll see it when you believe it. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Wayne Dyer</p>
