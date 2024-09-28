@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It all depends on what you choose to believe.</p>
+<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Yanni</p>
