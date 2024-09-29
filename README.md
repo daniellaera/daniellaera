@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>- Unknown</p>
+<p>- Herodotus</p>
