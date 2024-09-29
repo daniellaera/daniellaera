@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be calm is the highest achievement of the self.</p>
+<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
 
-<p>- Zen Proverb</p>
+<p>- Socrates</p>
