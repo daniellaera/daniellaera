@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never waste a minute of your precious life thinking about people you don't like.</p>
+<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
 
-<p>- Celestine Chua</p>
+<p>- Dale Carnegie</p>
