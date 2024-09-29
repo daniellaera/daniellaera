@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For all evils there are two remedies - time and silence.</p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Zen Proverb</p>
