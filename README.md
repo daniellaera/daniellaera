@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being a good example is the best form of service.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Carl Jung</p>
