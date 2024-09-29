@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Yanni</p>
