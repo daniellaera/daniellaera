@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools read fast. Geniuses reread.</p>
+<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Dalai Lama</p>
