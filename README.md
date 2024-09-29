@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>The best teacher is experience and not through someone's distorted point of view.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Jack Kerouac</p>
