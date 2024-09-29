@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience is the sure sign of a bad memory.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Mark Twain</p>
+<p>- Theodore Roosevelt</p>
