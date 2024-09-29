@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With self-discipline, almost anything is possible.</p>
+<p>Being a good example is the best form of service.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Sathya Sai Baba</p>
