@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The season of failure is the best time for sowing the seeds of success. </p>
+<p>I like the dreams of the future better than the history of the past.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Thomas Jefferson</p>
