@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pen is the tongue of the mind. </p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Confucius</p>
