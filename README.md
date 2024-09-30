@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your face to the sunshine and you cannot see the shadows.</p>
+<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
 
-<p>- Helen Keller</p>
+<p>- James Cameron</p>
