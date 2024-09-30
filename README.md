@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
+<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Jeffrey Gitomer</p>
