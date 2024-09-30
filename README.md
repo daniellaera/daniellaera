@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Joyce Meyer</p>
