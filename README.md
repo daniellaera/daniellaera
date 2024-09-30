@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>- Dalai Lama</p>
+<p>- Oprah Winfrey</p>
