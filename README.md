@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>- Bhagavad Gita</p>
+<p>- Miguel de Cervantes</p>
