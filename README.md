@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
+<p>Rivers know this: there is no hurry. We shall get there some day.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- A.A. Milne</p>
