@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never fear quarrels, but seek hazardous adventures.</p>
+<p>A change is brought about because ordinary people do extraordinary things.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Barack Obama</p>
