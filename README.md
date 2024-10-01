@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>Those who can make you believe absurdities can make you commit atrocities. </p>
 
-<p>- Spencer Johnson</p>
+<p>- Voltaire</p>
