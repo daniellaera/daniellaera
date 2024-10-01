@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Allow motion to equal emotion.</p>
+<p>You change the world by being yourself.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Yoko Ono</p>
