@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is the progressive realization of a worthy goal or ideal.</p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Alexandre Dumas</p>
