@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
 
-<p>- Bodhidharma</p>
+<p>- Carl Jung</p>
