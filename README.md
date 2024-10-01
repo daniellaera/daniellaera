@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something new, you have to stop doing something old.</p>
+<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
 
-<p>- Peter Drucker</p>
+<p>- Lao Tzu</p>
