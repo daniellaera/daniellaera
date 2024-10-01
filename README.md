@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows how to wait need make no concessions.</p>
+<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
 
-<p>- Sigmund Freud</p>
+<p>- Brian Tracy</p>
