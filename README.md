@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Spencer Johnson</p>
