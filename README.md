@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A change is brought about because ordinary people do extraordinary things.</p>
+<p>Be a good animal, true to your instincts.</p>
 
-<p>- Barack Obama</p>
+<p>- D. H. Lawrence</p>
