@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Naval Ravikant</p>
