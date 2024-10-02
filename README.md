@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lose your temper is only useful once a year.</p>
+<p>He who knows how to wait need make no concessions.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Sigmund Freud</p>
