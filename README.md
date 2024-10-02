@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>- Earl Nightingale</p>
+<p>- Franz Kafka</p>
