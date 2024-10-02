@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is often achieved by those who don't know that failure is inevitable.</p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>- Coco Chanel</p>
+<p>- Helen Keller</p>
