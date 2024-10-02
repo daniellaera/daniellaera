@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like underwear, should be changed twice a day.  </p>
+<p>Change your thoughts and you change your world.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Norman Vincent Peale</p>
