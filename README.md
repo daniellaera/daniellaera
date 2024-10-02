@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows how to wait need make no concessions.</p>
+<p>The secret of life is to fall seven times and to get up eight times.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Paulo Coelho</p>
