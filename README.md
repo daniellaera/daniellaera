@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wit is educated insolence.</p>
+<p>The harder the conflict, the greater the triumph. </p>
 
-<p>- Aristotle</p>
+<p>- George Washington</p>
