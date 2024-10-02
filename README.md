@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>To forgive means pardoning the unpardonable.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Gilbert Chesterton</p>
