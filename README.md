@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man can get rich himself unless he enriches others.</p>
+<p>Less is more.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Robert Browning</p>
