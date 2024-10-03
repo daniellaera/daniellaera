@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
 
-<p>- Ralph Marston</p>
+<p>- Zig Ziglar</p>
