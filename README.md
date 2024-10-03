@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
+<p>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Stephen King</p>
