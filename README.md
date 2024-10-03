@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Marilyn Monroe</p>
