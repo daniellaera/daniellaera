@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whoever is happy will make others happy too.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>- Anne Frank</p>
+<p>- Betty White</p>
