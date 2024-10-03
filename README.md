@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Short cuts make long delays.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Earl Nightingale</p>
