@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</p>
+<p>Expect the best of yourself, and then do what is necessary to make it a reality.</p>
 
-<p>- Bob Proctor</p>
+<p>- Ralph Marston</p>
