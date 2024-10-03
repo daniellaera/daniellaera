@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
+<p>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</p>
 
-<p>- Bruce Lee</p>
+<p>- Bob Proctor</p>
