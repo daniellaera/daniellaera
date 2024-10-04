@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you genuinely want something, don't wait for it - teach yourself.</p>
+<p>The decisions of our past are the architects of our present.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Dan Brown</p>
