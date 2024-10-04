@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who know, do. Those that understand, teach.</p>
+<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
 
-<p>- Aristotle</p>
+<p>- Criss Jami</p>
