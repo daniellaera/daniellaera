@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
 
-<p>- Pema Chodron</p>
+<p>- Naval Ravikant</p>
