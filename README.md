@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must embrace pain and burn it as fuel for our journey.</p>
+<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Roy T. Bennett</p>
