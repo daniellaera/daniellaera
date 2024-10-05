@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
+<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Betty White</p>
