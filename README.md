@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Get busy living, or get busy dying.</p>
+<p>Successful people do what unsuccessful people are not willing to do.</p>
 
-<p>- Stephen King</p>
+<p>- Jim Rohn</p>
