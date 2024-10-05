@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</p>
+<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Kahlil Gibran</p>
