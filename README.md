@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loss is nothing else but change and change is nature's delight.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Steve Maraboli</p>
