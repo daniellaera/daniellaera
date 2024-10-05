@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Debt is the slavery of the free.</p>
+<p>Saying nothing sometimes says the most.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Emily Dickinson</p>
