@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
+<p>Debt is the slavery of the free.</p>
 
-<p>- Bob Marley</p>
+<p>- Publilius Syrus</p>
