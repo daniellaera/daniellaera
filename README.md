@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- Bob Marley</p>
