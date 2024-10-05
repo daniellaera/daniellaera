@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Carl Jung</p>
