@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We run to win, not just to be in the race.  </p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Norman Vincent Peale</p>
