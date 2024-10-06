@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
+<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Ralph Marston</p>
