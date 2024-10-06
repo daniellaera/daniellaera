@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no way to happiness - happiness is the way.</p>
+<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Gurbaksh Chahal</p>
