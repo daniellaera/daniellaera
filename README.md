@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Napoleon Hill</p>
