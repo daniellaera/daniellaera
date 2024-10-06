@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not the knowing that is difficult, but the doing. </p>
+<p>Art is the signature of civilizations. </p>
 
-<p>- Chinese Proverb</p>
+<p>- Beverly Sills</p>
