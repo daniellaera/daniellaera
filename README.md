@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>- Beverly Sills</p>
+<p>- Earl Nightingale</p>
