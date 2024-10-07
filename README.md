@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
 
-<p>- David Brinkley</p>
+<p>- Elbert Hubbard</p>
