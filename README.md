@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not stuck where you are unless you decide to be.  </p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>- Wayne Dyer</p>
+<p>- C. Sean McGee</p>
