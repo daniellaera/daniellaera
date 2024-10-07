@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Hans Christian Andersen</p>
