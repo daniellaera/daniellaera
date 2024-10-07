@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistake is a mistake only if you make it twice.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>- Robin Sharma</p>
+<p>- Maxime Lagace</p>
