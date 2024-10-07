@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The very essence of instinct is that it's followed independently of reason.</p>
+<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
 
-<p>- Charles Darwin</p>
+<p>- George Bernard Shaw</p>
