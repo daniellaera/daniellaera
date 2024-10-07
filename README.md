@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>- Maxime Lagace</p>
+<p>- Benjamin Franklin</p>
