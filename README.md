@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
+<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
 
-<p>- Aristotle</p>
+<p>- Jiddu Krishnamurti</p>
