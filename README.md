@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Amelia Earhart</p>
