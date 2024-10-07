@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Seneca</p>
