@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A thing must be loved before it is lovable.</p>
+<p>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Wayne Gretzky</p>
