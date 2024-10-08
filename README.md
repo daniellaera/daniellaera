@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
+<p>Humans and prosperity never endure side by side for long.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Herodotus</p>
