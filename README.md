@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tradition is the illusion of permanence. </p>
+<p>You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</p>
 
-<p>- Woody Allen</p>
+<p>- Seneca</p>
