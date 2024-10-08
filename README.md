@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</p>
+<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Tony Robbins</p>
