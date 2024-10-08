@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we know how to adapt, we end up being superior.</p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Les Brown</p>
