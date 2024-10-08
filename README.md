@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is an iceberg.</p>
+<p>The greatest doer must also be a great dreamer.</p>
 
-<p>- Unknown</p>
+<p>- Theodore Roosevelt</p>
