@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Storms don't last forever.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Unknown</p>
+<p>- Lao Tzu</p>
