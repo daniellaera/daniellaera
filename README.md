@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
+<p>He who laughs at himself never runs out of things to laugh at.</p>
 
-<p>- Lao Tzu</p>
+<p>- Epictetus</p>
