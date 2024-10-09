@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
 
-<p>- Barack Obama</p>
+<p>- Steve Harvey</p>
