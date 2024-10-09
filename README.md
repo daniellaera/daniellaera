@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do every act of your life as if it were your last.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>- Marcus Aurelius</p>
+<p>- Confucius</p>
