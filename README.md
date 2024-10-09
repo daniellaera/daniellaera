@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Lao Tzu</p>
