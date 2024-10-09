@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>The purpose of life is the expansion of happiness.</p>
 
-<p>- Winston Churchill</p>
+<p>- Deepak Chopra</p>
