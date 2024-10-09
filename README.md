@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>The quality, not the longevity, of one's life is what is important.</p>
 
-<p>- Margaret Mead</p>
+<p>- Martin Luther King, Jr.</p>
