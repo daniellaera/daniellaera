@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>Imagination is the beginning of creation.</p>
 
-<p>- Epictetus</p>
+<p>- George Bernard Shaw</p>
