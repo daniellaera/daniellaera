@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I hear and I forget. I see and I remember. I do and I understand. </p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>- Confucius</p>
+<p>- Criss Jami</p>
