@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't have anything worthwhile without difficulties.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Walt Disney</p>
