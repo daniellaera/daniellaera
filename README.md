@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams have only one owner at a time. That's why dreamers are lonely.</p>
+<p>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</p>
 
-<p>- William Faulkner</p>
+<p>- Sonia Ricotti</p>
