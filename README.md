@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Within every desire is the mechanics of its fulfillment.</p>
+<p>Believe that life is worth living and your belief will help create the fact.</p>
 
-<p>- Deepak Chopra</p>
+<p>- William James</p>
