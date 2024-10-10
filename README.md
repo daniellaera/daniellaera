@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
+<p>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.</p>
 
-<p>- Mother Teresa</p>
+<p>- William Faulkner</p>
