@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>- Isaac Newton</p>
+<p>- Harry S. Truman</p>
