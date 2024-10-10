@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only the one reality, neither to be realized nor attained.</p>
+<p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
 
-<p>- Huang Po</p>
+<p>- Aristotle</p>
