@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything worth doing is worth doing slowly.</p>
+<p>There is only the one reality, neither to be realized nor attained.</p>
 
-<p>- Mae West</p>
+<p>- Huang Po</p>
