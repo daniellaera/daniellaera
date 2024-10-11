@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The one who boasts does so only out of a feeling of inferiority.</p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>- Alfred Adler</p>
+<p>- Dan Millman</p>
