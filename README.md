@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>The one who boasts does so only out of a feeling of inferiority.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Alfred Adler</p>
