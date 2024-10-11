@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our joy does not have to be based on our circumstances.</p>
+<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Deepak Chopra</p>
