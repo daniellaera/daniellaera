@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Champions keep playing until they get it right.</p>
+<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
 
-<p>- Billie Jean King</p>
+<p>- Pema Chodron</p>
