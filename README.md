@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The clock indicates the moment...but what does eternity indicate?</p>
+<p>The ones who are crazy enough to think they can change the world, are the ones that do.</p>
 
-<p>- Walt Whitman</p>
+<p>- Steve Jobs</p>
