@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conquer the devils with a little thing called love.</p>
+<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
 
-<p>- Bob Marley</p>
+<p>- Bhagavad Gita</p>
