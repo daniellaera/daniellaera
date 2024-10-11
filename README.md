@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of your greatest lessons come from your darkest moments.</p>
+<p>Success is often achieved by those who don't know that failure is inevitable.</p>
 
-<p>- Roger Lee</p>
+<p>- Coco Chanel</p>
