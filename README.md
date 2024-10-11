@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
+<p>Never trust he who trusts everyone.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Carlos Ruiz Zafon</p>
