@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find something you love and do it better than everyone else.</p>
+<p>Champions keep playing until they get it right.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Billie Jean King</p>
