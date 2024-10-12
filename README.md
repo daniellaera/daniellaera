@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>The difference between winning and losing is most often not quitting.</p>
 
-<p>- Bette Midler</p>
+<p>- Walt Disney</p>
