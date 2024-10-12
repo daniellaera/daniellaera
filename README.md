@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is bitter, but its fruit is sweet.</p>
+<p>Don't waste time on excuses. Just get it done.</p>
 
-<p>- Aristotle</p>
+<p>- Ralph Marston</p>
