@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ability is a poor man's wealth.</p>
+<p>The best way out is always through.</p>
 
-<p>- John Wooden</p>
+<p>- Robert Frost</p>
