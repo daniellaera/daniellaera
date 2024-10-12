@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way out is always through.</p>
+<p>The attempt to escape from pain, is what creates more pain.</p>
 
-<p>- Robert Frost</p>
+<p>- Gabor Mate</p>
