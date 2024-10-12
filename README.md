@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>They who have conquered doubt and fear have conquered failure.</p>
 
-<p>- Gabor Mate</p>
+<p>- James Allen</p>
