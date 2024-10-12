@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Zen Proverb</p>
