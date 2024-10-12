@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
 
-<p>- Ralph Marston</p>
+<p>- Ming-Dao Deng</p>
