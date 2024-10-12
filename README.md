@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>They who have conquered doubt and fear have conquered failure.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>- James Allen</p>
+<p>- Rumi</p>
