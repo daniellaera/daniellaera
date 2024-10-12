@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By failing to prepare, you are preparing to fail.</p>
+<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Paramahansa Yogananda</p>
