@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no mistakes in life, only lessons.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>- Robin Sharma</p>
+<p>- Alexandre Dumas</p>
