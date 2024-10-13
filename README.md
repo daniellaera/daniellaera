@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cleverness is not wisdom.</p>
+<p>You can have the mind or you can have the moment.</p>
 
-<p>- Euripides</p>
+<p>- Naval Ravikant</p>
