@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good system shortens the road to the goal. </p>
+<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- William James</p>
