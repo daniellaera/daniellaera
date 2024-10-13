@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
+<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
 
-<p>- John Carmack</p>
+<p>- Kamal Ravikant</p>
