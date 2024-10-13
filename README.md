@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who fails to plan, plans to fail.</p>
+<p>A man is literally what he thinks.</p>
 
-<p>- Unknown</p>
+<p>- James Allen</p>
