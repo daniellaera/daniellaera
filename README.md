@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what happens to you while you're busy making other plans.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- John Lennon</p>
+<p>- Meister Eckhart</p>
