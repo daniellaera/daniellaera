@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Paulo Coelho</p>
