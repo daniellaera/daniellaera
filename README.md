@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have the mind or you can have the moment.</p>
+<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
 
-<p>- Naval Ravikant</p>
+<p>- John Carmack</p>
