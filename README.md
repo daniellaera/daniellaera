@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
+<p>If you think adventure is dangerous, try routine; it is lethal.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Paulo Coelho</p>
