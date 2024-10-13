@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is literally what he thinks.</p>
+<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
 
-<p>- James Allen</p>
+<p>- Bruce Lee</p>
