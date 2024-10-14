@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>Once you choose hope, anything's possible.</p>
 
-<p>- Osho</p>
+<p>- Christopher Reeve</p>
