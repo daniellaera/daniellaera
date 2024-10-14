@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Joyce Meyer</p>
