@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in the darkness that one finds the light.</p>
+<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
 
-<p>- Meister Eckhart</p>
+<p>- Estee Lauder</p>
