@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
+<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Naval Ravikant</p>
