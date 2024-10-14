@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not an exception, it is a prevailing attitude.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>- Colin Powell</p>
+<p>- George Bernard Shaw</p>
