@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Jim Rohn</p>
+<p>- Will Rogers</p>
