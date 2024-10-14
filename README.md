@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is doing what you don't want to do but know you should do.</p>
+<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Carlos Ruiz Zafon</p>
