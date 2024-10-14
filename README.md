@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
 
-<p>- Robin Williams</p>
+<p>- Jim Rohn</p>
