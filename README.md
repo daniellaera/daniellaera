@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The decisions of our past are the architects of our present.</p>
+<p>I have no methods; all I do is accept people as they are.</p>
 
-<p>- Dan Brown</p>
+<p>- Joan Rivers</p>
