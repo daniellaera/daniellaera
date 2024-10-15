@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are far from the enemy, make him believe you are near.</p>
+<p>The decisions of our past are the architects of our present.</p>
 
-<p>- Sun Tzu</p>
+<p>- Dan Brown</p>
