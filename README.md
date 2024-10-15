@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From the errors of others, a wise man corrects his own.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Helen Keller</p>
