@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
+<p>The highest level of wisdom is when you not only accept but love adversity.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Maxime Lagace</p>
