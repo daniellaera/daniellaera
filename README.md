@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Carlos Ruiz Zafon</p>
