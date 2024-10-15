@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pen is the tongue of the mind. </p>
+<p>The biggest challenge after success is shutting up about it.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Criss Jami</p>
