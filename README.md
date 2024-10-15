@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Avoiding failure is to avoid progress.</p>
+<p>Love is the expression of one's values.</p>
 
-<p>- Unknown</p>
+<p>- Ayn Rand</p>
