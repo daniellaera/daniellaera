@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walking with a friend in the dark is better than walking alone in the light.</p>
+<p>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</p>
 
-<p>- Helen Keller</p>
+<p>- Steve Harvey</p>
