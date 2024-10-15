@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>The way of success is the way of continuous pursuit of knowledge.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Napoleon Hill</p>
