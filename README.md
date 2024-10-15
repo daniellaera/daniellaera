@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Lao Tzu</p>
