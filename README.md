@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have no methods; all I do is accept people as they are.</p>
+<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
 
-<p>- Joan Rivers</p>
+<p>- Naval Ravikant</p>
