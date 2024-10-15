@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>If you are far from the enemy, make him believe you are near.</p>
 
-<p>- Lao Tzu</p>
+<p>- Sun Tzu</p>
