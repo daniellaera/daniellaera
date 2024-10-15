@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
+<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
 
-<p>- Bruce Lee</p>
+<p>- Sonia Ricotti</p>
