@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>- Naval Ravikant</p>
+<p>- Miguel de Cervantes</p>
