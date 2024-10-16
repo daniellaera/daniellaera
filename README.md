@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest fears lie in anticipation.</p>
+<p>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Andrew Carnegie</p>
