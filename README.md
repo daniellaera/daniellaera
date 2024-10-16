@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
 
-<p>- Michael Jordan</p>
+<p>- George Eliot</p>
