@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goodness is the only investment that never fails.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- John Wooden</p>
