@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not until we are lost do we begin to understand ourselves.</p>
+<p>Goodness is the only investment that never fails.</p>
 
 <p>- Henry David Thoreau</p>
