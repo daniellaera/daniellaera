@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let making a living prevent you from making a life.</p>
+<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
 
-<p>- John Wooden</p>
+<p>- Tony Robbins</p>
