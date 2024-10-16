@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not until we are lost do we begin to understand ourselves.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Henry David Thoreau</p>
+<p>- Wayne Dyer</p>
