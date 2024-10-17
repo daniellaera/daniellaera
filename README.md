@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
+<p>Everything has its beauty, but not everyone sees it. </p>
 
-<p>- Zen Proverb</p>
+<p>- Confucius</p>
