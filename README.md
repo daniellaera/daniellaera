@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything has its beauty, but not everyone sees it. </p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>- Confucius</p>
+<p>- Dalai Lama</p>
