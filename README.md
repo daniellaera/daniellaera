@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
+<p>Forgive those who have hurt you.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Les Brown</p>
