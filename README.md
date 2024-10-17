@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>Remember, today is the tomorrow you worried about yesterday.</p>
 
-<p>- Margaret Mead</p>
+<p>- Dale Carnegie</p>
