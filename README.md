@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be curious, not judgmental.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>- Walt Whitman</p>
+<p>- Isaac Newton</p>
