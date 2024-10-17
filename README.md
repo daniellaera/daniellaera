@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
+<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Zen Proverb</p>
