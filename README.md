@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
 
-<p>- Isaac Newton</p>
+<p>- Maxime Lagace</p>
