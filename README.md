@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
+<p>When you love someone, you love the person as they are, and not as you'd like them to be.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Leo Tolstoy</p>
