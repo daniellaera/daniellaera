@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect is earned by effort not age, all things age without effort.</p>
+<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Criss Jami</p>
