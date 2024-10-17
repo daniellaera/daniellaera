@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative people are often found either disagreeable or intimidating by mediocrities.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- Criss Jami</p>
+<p>- Honore de Balzac</p>
