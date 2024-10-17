@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We ordinary people must forge our own beauty.</p>
+<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Herbert Hoover</p>
