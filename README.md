@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive those who have hurt you.</p>
+<p>The quality of your commitments will determine the course of your life.</p>
 
-<p>- Les Brown</p>
+<p>- Ralph Marston</p>
