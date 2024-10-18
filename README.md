@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Barack Obama</p>
