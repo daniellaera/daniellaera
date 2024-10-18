@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
+<p>Self-control is strength.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- James Allen</p>
