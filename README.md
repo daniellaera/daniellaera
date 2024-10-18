@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- John Eliot</p>
+<p>- Theodore Roosevelt</p>
