@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Eighty percent of success is showing up. </p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>- Woody Allen</p>
+<p>- Yanni</p>
