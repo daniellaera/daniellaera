@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is just information and an opportunity to change your course.</p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Roy T. Bennett</p>
