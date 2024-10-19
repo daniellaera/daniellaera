@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>- Betty White</p>
+<p>- Andrew Carnegie</p>
