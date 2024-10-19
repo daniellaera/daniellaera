@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>- Robin Sharma</p>
+<p>- Ayn Rand</p>
