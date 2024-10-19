@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life isn't about finding yourself. Life is about creating yourself.</p>
+<p>It does not matter how slowly you go so long as you do not stop.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Confucius</p>
