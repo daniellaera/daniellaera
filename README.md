@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even the finest sword plunged into salt water will eventually rust.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- Sun Tzu</p>
+<p>- Mark Twain</p>
