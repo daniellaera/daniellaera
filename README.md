@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to get started is to quit talking and begin doing.</p>
+<p>The journey, not the destination matters.</p>
 
-<p>- Walt Disney</p>
+<p>- T.S. Eliot</p>
