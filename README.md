@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find something you love and do it better than everyone else.</p>
+<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Roy T. Bennett</p>
