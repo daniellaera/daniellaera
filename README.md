@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>Luck is what happens when preparation meets opportunity.  </p>
 
-<p>- Andrew Carnegie</p>
+<p>- Seneca</p>
