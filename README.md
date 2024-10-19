@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfectionism is simply putting a limit on your future.</p>
+<p>The way to get started is to quit talking and begin doing.</p>
 
-<p>- John Eliot</p>
+<p>- Walt Disney</p>
