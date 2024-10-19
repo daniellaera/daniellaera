@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey, not the destination matters.</p>
+<p>Your mind is infinite, it's your doubts that are limiting.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Robert Kiyosaki</p>
