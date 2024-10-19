@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are illusions of the mind.</p>
+<p>The more something scares you, the more you should do it.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Mark Manson</p>
