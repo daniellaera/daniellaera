@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>- Buddha</p>
+<p>- Sun Tzu</p>
