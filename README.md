@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rest and be kind, you don't have to prove anything.</p>
+<p>The whole is greater than the sum of its parts.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Aristotle</p>
