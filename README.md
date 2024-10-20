@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the change that you want to see in the world.</p>
+<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Theodore Roosevelt</p>
