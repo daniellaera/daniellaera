@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>In the middle of difficulty lies opportunity.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Albert Einstein</p>
