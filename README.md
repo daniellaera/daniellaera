@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Lolly Daskal</p>
