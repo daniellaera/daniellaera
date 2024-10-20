@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to see what you see.</p>
+<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Mark Twain</p>
