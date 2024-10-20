@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </p>
+<p>The most wasted day of all is that on which we have not laughed.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Nicolas Chamfort</p>
