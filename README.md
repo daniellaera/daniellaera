@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole is greater than the sum of its parts.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>- Aristotle</p>
+<p>- Betty White</p>
