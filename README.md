@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Roy T. Bennett</p>
