@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</p>
+<p>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</p>
 
-<p>- Colin Powell</p>
+<p>- Robert Kiyosaki</p>
