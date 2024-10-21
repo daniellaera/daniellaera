@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>- Unknown</p>
+<p>- Napoleon Hill</p>
