@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Elbert Hubbard</p>
