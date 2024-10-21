@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon. Even if you miss, you'll land among the stars.</p>
+<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- George Bernard Shaw</p>
