@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You do not read a book for the book's sake, but for your own.</p>
+<p>Age is a very high price to pay for maturity.</p>
 
-<p>- Earl Nightingale</p>
+<p>- William James</p>
