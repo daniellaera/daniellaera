@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
+<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 
-<p>- John Locke</p>
+<p>- Vaclav Havel</p>
