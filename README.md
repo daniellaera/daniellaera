@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>Let us rather run the risk of wearing out than rusting out.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Theodore Roosevelt</p>
