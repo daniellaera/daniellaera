@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>- Criss Jami</p>
+<p>- Johann Wolfgang von Goethe</p>
