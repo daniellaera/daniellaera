@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- T.S. Eliot</p>
