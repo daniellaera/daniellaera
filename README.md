@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
+<p>Champions keep playing until they get it right.</p>
 
-<p>- Lao Tzu</p>
+<p>- Billie Jean King</p>
