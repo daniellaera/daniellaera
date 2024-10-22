@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Relax. Nothing is under control.</p>
+<p>To improve is to change, so to be perfect is to change often.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Winston Churchill</p>
