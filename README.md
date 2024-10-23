@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heart is what separates the good from the great.</p>
+<p>The greatest miracle is to be alive.</p>
 
-<p>- Michael Jordan</p>
+<p>- Thich Nhat Hanh</p>
