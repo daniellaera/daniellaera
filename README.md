@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is your worst enemy. Risk is your best friend.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- George Bernard Shaw</p>
