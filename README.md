@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't have anything worthwhile without difficulties.</p>
+<p>Victims recite problems, leaders provide solutions.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Robin Sharma</p>
