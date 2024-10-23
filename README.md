@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not stop thinking of life as an adventure.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Criss Jami</p>
