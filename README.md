@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest miracle is to be alive.</p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Harry S. Truman</p>
