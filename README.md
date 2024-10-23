@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A thing must be loved before it is lovable.</p>
+<p>Perplexity is the beginning of knowledge.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Kahlil Gibran</p>
