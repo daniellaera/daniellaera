@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
+<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Helen Keller</p>
