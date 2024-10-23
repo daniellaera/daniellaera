@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something you've never had you must be willing to do something you've never done.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Unknown</p>
