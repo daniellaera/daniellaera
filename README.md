@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be one person in this world, but to one person you may mean the world.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Unknown</p>
+<p>- James Allen</p>
