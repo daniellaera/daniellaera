@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>Someday death will take us to another star.</p>
 
-<p>- Thomas Edison</p>
+<p>- Vincent van Gogh</p>
