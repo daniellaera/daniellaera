@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not a problem to be solved, but a reality to be experienced.</p>
+<p>The very essence of instinct is that it's followed independently of reason.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Charles Darwin</p>
