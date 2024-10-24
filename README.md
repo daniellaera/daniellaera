@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Soren Kierkegaard</p>
