@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Someday death will take us to another star.</p>
+<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Naval Ravikant</p>
