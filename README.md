@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The grass is greener where you water it.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- Neil Barringham</p>
+<p>- Thomas Edison</p>
