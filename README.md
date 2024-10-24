@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The very essence of instinct is that it's followed independently of reason.</p>
+<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
 
-<p>- Charles Darwin</p>
+<p>- Zig Ziglar</p>
