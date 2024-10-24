@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
+<p>I never dwell on what happened. You can't change it. Move forward.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Joan Rivers</p>
