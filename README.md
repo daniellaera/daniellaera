@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
+<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
 
-<p>- Ayn Rand</p>
+<p>- Robert Kiyosaki</p>
