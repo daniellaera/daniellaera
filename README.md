@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
+<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
 
-<p>- Stephen King</p>
+<p>- Charles Dickens</p>
