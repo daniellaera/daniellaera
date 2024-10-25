@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are dark shadows on the earth, but its lights are stronger in the contrast.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>- Charles Dickens</p>
+<p>- Zen Proverb</p>
