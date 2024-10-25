@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A leader leads by example, not by force.</p>
+<p>Anyone who reads a book with a sense of obligation does not understand the art of reading.</p>
 
-<p>- Sun Tzu</p>
+<p>- Lin Yutang</p>
