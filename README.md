@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I want the fishing rod, not the fish.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Yanni</p>
+<p>- Leo Tolstoy</p>
