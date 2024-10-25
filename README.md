@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One never does wrong by doing right.</p>
+<p>Whatever happens always happens on time.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Zen Proverb</p>
