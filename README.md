@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>In life you need either inspiration or desperation.</p>
 
-<p>- Aristotle</p>
+<p>- Tony Robbins</p>
