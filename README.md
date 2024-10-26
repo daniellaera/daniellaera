@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
+<p>Let not your mind run on what you lack as much as on what you have already.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Marcus Aurelius</p>
