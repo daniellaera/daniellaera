@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
+<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Unknown</p>
