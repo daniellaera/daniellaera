@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
 
-<p>- Unknown</p>
+<p>- John Tukey</p>
