@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>- Jim Rohn</p>
+<p>- Les Brown</p>
