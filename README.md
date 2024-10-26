@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anxiety is the dizziness of freedom.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Jim Rohn</p>
