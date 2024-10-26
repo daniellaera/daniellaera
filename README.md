@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men are equal before fish.</p>
+<p>Believe and you're halfway there.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Harry S. Truman</p>
