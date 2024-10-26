@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
+<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Deepak Chopra</p>
