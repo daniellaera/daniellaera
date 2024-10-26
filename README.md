@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must find the place inside yourself where nothing is impossible.</p>
+<p>The purpose of life is to contribute in some way to making things better.</p>
 
-<p>- Les Brown</p>
+<p>- Robert F. Kennedy</p>
