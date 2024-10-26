@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools read fast. Geniuses reread.</p>
+<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Henry Ward Beecher</p>
