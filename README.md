@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never put off to tomorrow what you can do to-day.</p>
+<p>Fear not the path of Truth for the lack of People walking on it.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robert F. Kennedy</p>
