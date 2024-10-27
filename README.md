@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must be free not because we claim freedom, but because we practice it.</p>
+<p>Common sense is not so common. </p>
 
-<p>- William Faulkner</p>
+<p>- Voltaire</p>
