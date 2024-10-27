@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
+<p>The only way round is through.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Robert Frost</p>
