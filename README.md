@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
+<p>Never put off to tomorrow what you can do to-day.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Thomas Jefferson</p>
