@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
+<p>Darkness is the absence of light.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Kamal Ravikant</p>
