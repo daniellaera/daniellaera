@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</p>
+<p>The highest level of wisdom is when you not only accept but love adversity.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Maxime Lagace</p>
