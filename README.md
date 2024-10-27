@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
+<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
 
-<p>- Unknown</p>
+<p>- Steve Maraboli</p>
