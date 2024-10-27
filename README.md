@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way round is through.</p>
+<p>Happiness is only real, when shared.</p>
 
-<p>- Robert Frost</p>
+<p>- Christopher McCandless</p>
