@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who you are is defined by what you're willing to struggle for.</p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>- Mark Manson</p>
+<p>- Martin Luther</p>
