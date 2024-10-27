@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave to stand for what you believe in even if you stand alone.</p>
+<p>Who you are is defined by what you're willing to struggle for.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Mark Manson</p>
