@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is useless to attempt to reason a man out of a thing he was never reasoned into.</p>
+<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Dale Carnegie</p>
