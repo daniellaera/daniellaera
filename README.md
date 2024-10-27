@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is only real, when shared.</p>
+<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
 
-<p>- Christopher McCandless</p>
+<p>- Jack Kerouac</p>
