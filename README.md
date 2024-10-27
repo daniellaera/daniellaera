@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.</p>
+<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
 
-<p>- Wayne Dyer</p>
+<p>- Oprah Winfrey</p>
