@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strive for excellence, not perfection, because we don't live in a perfect world.</p>
+<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Amelia Earhart</p>
