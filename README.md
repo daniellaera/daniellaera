@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every drop in the ocean counts. </p>
+<p>The best thing to hold onto in life is each other.</p>
 
-<p>- Yoko Ono</p>
+<p>- Audrey Hepburn</p>
