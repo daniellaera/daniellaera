@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>Awaken. Take heed, do not squander your life.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Dogen</p>
