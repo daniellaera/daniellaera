@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
+<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Dalai Lama</p>
