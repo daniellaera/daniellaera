@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>- Tony Robbins</p>
+<p>- Thomas Jefferson</p>
