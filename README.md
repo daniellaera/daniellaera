@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Vision is the art of seeing things invisible.</p>
+<p>A little impatience will spoil great plans.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Chinese Proverb</p>
