@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do all things with love.</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>- Og Mandino</p>
+<p>- Aristophanes</p>
