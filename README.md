@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it hurts - observe. Life is trying to teach you something.</p>
+<p>In the middle of chaos lies opportunity.  </p>
 
-<p>- Anita Krizzan</p>
+<p>- Bruce Lee</p>
