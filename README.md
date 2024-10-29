@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>Dreams are for dreamers. Goals are for achievers.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Arnold Schwarzenegger</p>
