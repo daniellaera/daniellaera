@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is only real, when shared.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- Christopher McCandless</p>
+<p>- James Allen</p>
