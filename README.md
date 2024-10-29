@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Allow motion to equal emotion.</p>
+<p>Humans and prosperity never endure side by side for long.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Herodotus</p>
