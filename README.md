@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awaken. Take heed, do not squander your life.</p>
+<p>If you do not conquer self, you will be conquered by self.</p>
 
-<p>- Dogen</p>
+<p>- Napoleon Hill</p>
