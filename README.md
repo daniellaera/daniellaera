@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you persuade me, you won't persuade me.</p>
+<p>It is in the darkness that one finds the light.</p>
 
-<p>- Aristophanes</p>
+<p>- Meister Eckhart</p>
