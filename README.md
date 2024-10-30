@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A life without a cause is a life without effect.</p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Naval Ravikant</p>
