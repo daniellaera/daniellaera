@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Colin Powell</p>
+<p>- Henry Ford</p>
