@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- A.A. Milne</p>
