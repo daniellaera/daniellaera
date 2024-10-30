@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Plato</p>
