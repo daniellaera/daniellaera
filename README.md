@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Identification with our mind causes thought to become compulsive.</p>
+<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Oprah Winfrey</p>
