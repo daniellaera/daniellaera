@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
+<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
 
-<p>- A.A. Milne</p>
+<p>- Martin Luther King, Jr.</p>
