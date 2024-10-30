@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man desires to live long, but no man wishes to be old.</p>
+<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Colin Powell</p>
