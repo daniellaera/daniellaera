@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>- Les Brown</p>
+<p>- Jon Kabat-Zinn</p>
