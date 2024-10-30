@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Ralph Waldo Emerson</p>
