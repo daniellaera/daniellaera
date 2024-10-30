@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you change what you believe, you change what you do.</p>
+<p>Every man desires to live long, but no man wishes to be old.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Jonathan Swift</p>
