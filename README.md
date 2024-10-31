@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
+<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Buddha</p>
