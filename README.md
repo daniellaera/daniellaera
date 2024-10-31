@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man can get rich himself unless he enriches others.</p>
+<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Napoleon Hill</p>
