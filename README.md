@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>- Heraclitus</p>
+<p>- Chinese Proverb</p>
