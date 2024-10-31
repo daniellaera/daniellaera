@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Buddha</p>
