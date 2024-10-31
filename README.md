@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
+<p>I cannot make my days longer so I strive to make them better.</p>
 
-<p>- Buddha</p>
+<p>- Henry David Thoreau</p>
