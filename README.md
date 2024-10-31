@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Get busy living, or get busy dying.</p>
+<p>Success is getting what you want, happiness is wanting what you get.</p>
 
-<p>- Stephen King</p>
+<p>- W.P. Kinsella</p>
