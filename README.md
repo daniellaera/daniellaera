@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you love yourself, life loves you back.</p>
+<p>No man can get rich himself unless he enriches others.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Earl Nightingale</p>
