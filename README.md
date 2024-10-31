@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absurdity is the ecstasy of intellectualism.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Criss Jami</p>
+<p>- Benjamin Franklin</p>
