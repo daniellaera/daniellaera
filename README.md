@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
+<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
 
-<p>- Buddha</p>
+<p>- Carlos Ruiz Zafon</p>
