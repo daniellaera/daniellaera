@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the power of thought that gives man power over nature.</p>
+<p>Absurdity is the ecstasy of intellectualism.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Criss Jami</p>
