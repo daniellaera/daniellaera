@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>As you love yourself, life loves you back.</p>
 
-<p>- Herman Melville</p>
+<p>- Kamal Ravikant</p>
