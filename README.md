@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Thomas Jefferson</p>
