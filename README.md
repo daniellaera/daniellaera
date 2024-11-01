@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If ever you feel like an animal among men, be a lion.</p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>- Criss Jami</p>
+<p>- Seneca</p>
