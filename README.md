@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
+<p>Winners are not people who never fail, but people who never quit.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Arnold Schwarzenegger</p>
