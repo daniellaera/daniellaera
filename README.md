@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a very long time to become young.</p>
+<p>When you are totally at peace with yourself, nothing can shake you.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Deepam Chaterjee</p>
