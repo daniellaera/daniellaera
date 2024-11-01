@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</p>
+<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
 
-<p>- Ralph Marston</p>
+<p>- Buddha</p>
