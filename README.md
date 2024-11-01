@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything becomes interesting if you look at it long enough..</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>- Gustave Flaubert</p>
+<p>- Herodotus</p>
