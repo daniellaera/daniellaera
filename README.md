@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We suffer more often in imagination than in reality.  </p>
+<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
 
-<p>- Seneca</p>
+<p>- F. Scott Fitzgerald</p>
