@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatness lies not in being strong, but in the right use of strength.</p>
+<p>Everyone is a moon, and has a dark side which he never shows to anybody.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Mark Twain</p>
