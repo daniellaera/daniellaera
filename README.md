@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
+<p>Respect was invented to cover the empty place where love should be.</p>
 
-<p>- Winston Churchill</p>
+<p>- Leo Tolstoy</p>
