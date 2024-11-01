@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners are not people who never fail, but people who never quit.</p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Gustave Flaubert</p>
