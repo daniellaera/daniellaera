@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>- Unknown</p>
+<p>- Zhuangzi</p>
