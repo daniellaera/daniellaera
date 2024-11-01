@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone is a moon, and has a dark side which he never shows to anybody.</p>
+<p>If ever you feel like an animal among men, be a lion.</p>
 
-<p>- Mark Twain</p>
+<p>- Criss Jami</p>
