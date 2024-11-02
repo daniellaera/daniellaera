@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
+<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Kahlil Gibran</p>
