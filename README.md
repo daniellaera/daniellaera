@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
+<p>Do the difficult things while they are easy and do the great things while they are small.</p>
 
-<p>- Rumi</p>
+<p>- Lao Tzu</p>
