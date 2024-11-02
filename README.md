@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quieter you become, the more you are able to hear.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- Rumi</p>
+<p>- Mark Twain</p>
