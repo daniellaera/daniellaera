@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Andrew Carnegie</p>
