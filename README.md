@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't settle, and don't struggle.</p>
+<p>If I can laugh, I can live.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Christopher Reeve</p>
