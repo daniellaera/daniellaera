@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>- Huang Po</p>
+<p>- Estee Lauder</p>
