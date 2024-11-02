@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>Dreams are for dreamers. Goals are for achievers.</p>
 
-<p>- John Eliot</p>
+<p>- Arnold Schwarzenegger</p>
