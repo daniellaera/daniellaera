@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>Optimism is the one quality more associated with success and happiness than any other.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Brian Tracy</p>
