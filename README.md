@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>- Mark Twain</p>
+<p>- Margaret Mead</p>
