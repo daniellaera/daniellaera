@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>- Margaret Mead</p>
+<p>- Robert Kiyosaki</p>
