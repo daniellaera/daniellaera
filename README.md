@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be yourself; everyone else is already taken.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Alexander Graham Bell</p>
