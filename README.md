@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
 
-<p>- Alan Watts</p>
+<p>- Roy T. Bennett</p>
