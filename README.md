@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All human wisdom is contained in these two words - Wait and Hope</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Zen Proverb</p>
