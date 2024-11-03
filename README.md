@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>Thinking will not overcome fear but action will. </p>
 
-<p>- Les Brown</p>
+<p>- W. Clement Stone</p>
