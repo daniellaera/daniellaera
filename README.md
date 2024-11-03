@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>Before you can see the Light, you have to deal with the darkness.</p>
 
-<p>- Babe Ruth</p>
+<p>- Dan Millman</p>
