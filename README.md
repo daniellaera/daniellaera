@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Seneca</p>
