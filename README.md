@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Night is a more quiet time to work. It aids thought.</p>
+<p>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Bhagavad Gita</p>
