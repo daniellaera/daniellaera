@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you can see the Light, you have to deal with the darkness.</p>
+<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
 
-<p>- Dan Millman</p>
+<p>- Benjamin Mays</p>
