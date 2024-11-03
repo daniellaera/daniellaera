@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
+<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Alexander Graham Bell</p>
