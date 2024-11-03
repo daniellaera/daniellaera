@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can laugh, I can live.</p>
+<p>Every strike brings me closer to the next home run. </p>
 
-<p>- Christopher Reeve</p>
+<p>- Babe Ruth</p>
