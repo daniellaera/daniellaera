@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no ordinary moments.</p>
+<p>It's not what you pay a man, but what he costs you that counts.</p>
 
-<p>- Dan Millman</p>
+<p>- Will Rogers</p>
