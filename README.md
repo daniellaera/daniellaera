@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>- Walt Disney</p>
+<p>- Jack Butcher</p>
