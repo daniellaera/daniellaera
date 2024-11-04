@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
+<p>Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Roy T. Bennett</p>
