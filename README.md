@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Light a candle instead of cursing the darkness.</p>
+<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Gurbaksh Chahal</p>
