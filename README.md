@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure is always derived from something outside you, whereas joy arises from within. </p>
+<p>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Elon Musk</p>
