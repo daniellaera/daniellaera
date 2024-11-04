@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you pay a man, but what he costs you that counts.</p>
+<p>Light a candle instead of cursing the darkness.</p>
 
-<p>- Will Rogers</p>
+<p>- Eleanor Roosevelt</p>
