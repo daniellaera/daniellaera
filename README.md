@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I learned the value of hard work by working hard. </p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>- Margaret Mead</p>
+<p>- Stephen King</p>
