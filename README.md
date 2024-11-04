@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>Adventure is worthwhile in itself.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Amelia Earhart</p>
