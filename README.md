@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change begets change. Nothing propagates so fast.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>- Charles Dickens</p>
+<p>- Niccolo Machiavelli</p>
