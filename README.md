@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>- Elon Musk</p>
+<p>- Zen Proverb</p>
