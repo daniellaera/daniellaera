@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is no more uncertain than the present.</p>
+<p>If you want to be successful, you have to jump, there's no way around it.</p>
 
-<p>- Walt Whitman</p>
+<p>- Steve Harvey</p>
