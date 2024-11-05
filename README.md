@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>I wasn't brave, I just didn't have time to be scared.</p>
 
-<p>- Alan Watts</p>
+<p>- Amelia Earhart</p>
