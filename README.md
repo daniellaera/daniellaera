@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your dream has to be bigger than your fear.</p>
+<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
 
-<p>- Steve Harvey</p>
+<p>- Celestine Chua</p>
