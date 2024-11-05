@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Changing minds is harder than finding people who already agree.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>- Jack Butcher</p>
+<p>- J.R.R. Tolkien</p>
