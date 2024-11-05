@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
+<p>Changing minds is harder than finding people who already agree.</p>
 
-<p>- Celestine Chua</p>
+<p>- Jack Butcher</p>
