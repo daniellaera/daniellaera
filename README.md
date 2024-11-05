@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Andrew Hendrixson</p>
