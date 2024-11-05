@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing like looking if you want to find something.</p>
+<p>The future is no more uncertain than the present.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Walt Whitman</p>
