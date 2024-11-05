@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Alan Watts</p>
