@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop comparing yourself to others and focus on your own improvement.</p>
+<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Brian Tracy</p>
