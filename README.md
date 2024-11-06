@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the average of the five people you spend most time with.</p>
+<p>If you can't imagine it, you can't have it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Toni Morrison</p>
