@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is not a four letter word...but often your reaction to it is!</p>
+<p>Discontent is the first necessity of progress.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Thomas Edison</p>
