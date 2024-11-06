@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
+<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
 
-<p>- Jack Butcher</p>
+<p>- Jiddu Krishnamurti</p>
