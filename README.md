@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Epictetus</p>
