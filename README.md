@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Gilbert Chesterton</p>
