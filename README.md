@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
+<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
 
-<p>- Ayn Rand</p>
+<p>- Ming-Dao Deng</p>
