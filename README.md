@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not engaging in ignorance is wisdom. </p>
+<p>Remain calm. Be kind.</p>
 
-<p>- Bodhidharma</p>
+<p>- Colin Powell</p>
