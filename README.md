@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is the worst thing about the present.</p>
+<p>It is only depth of character that determines the profundity with which we face life.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Ming-Dao Deng</p>
