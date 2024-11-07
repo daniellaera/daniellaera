@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
+<p>In order to control myself I must first accept myself by going with and not against my nature.</p>
 
-<p>- Celestine Chua</p>
+<p>- Bruce Lee</p>
