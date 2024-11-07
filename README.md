@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is just information and an opportunity to change your course.</p>
+<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Ralph Waldo Emerson</p>
