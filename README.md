@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mistake is only an error, it becomes a mistake when you fail to correct it.</p>
+<p>When a man is penalized for honesty he learns to lie.</p>
 
-<p>- John Lennon</p>
+<p>- Criss Jami</p>
