@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only I can change my life. No one can do it for me.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>- Carol Burnett</p>
+<p>- Nicolas Chamfort</p>
