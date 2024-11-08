@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend major time on minor things.</p>
+<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
 
-<p>- Jim Rohn</p>
+<p>- Thomas Edison</p>
