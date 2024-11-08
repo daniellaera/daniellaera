@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality means doing it right when no one is looking.</p>
+<p>All great truths begin as blasphemies.</p>
 
-<p>- Henry Ford</p>
+<p>- George Bernard Shaw</p>
