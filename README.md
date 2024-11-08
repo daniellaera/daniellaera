@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
+<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Colin Powell</p>
