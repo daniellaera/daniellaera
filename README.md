@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Arnold Schwarzenegger</p>
