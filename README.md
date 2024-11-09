@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>- Dalai Lama</p>
+<p>- Zhuangzi</p>
