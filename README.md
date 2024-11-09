@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise man will be master of his mind, a fool will be its slave.</p>
+<p>Help others achieve their dreams and you will achieve yours.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Les Brown</p>
