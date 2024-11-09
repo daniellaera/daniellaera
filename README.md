@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
+<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
 
-<p>- Dogen</p>
+<p>- Morihei Ueshiba</p>
