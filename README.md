@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>Don't let someone elses. opinion become your reality.</p>
 
-<p>- Lao Tzu</p>
+<p>- Les Brown</p>
