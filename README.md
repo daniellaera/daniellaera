@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Josh Waitzkin</p>
