@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>- Helen Keller</p>
+<p>- Ray Bradbury</p>
