@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>Time stays long enough for anyone who will use it.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Leonardo da Vinci</p>
