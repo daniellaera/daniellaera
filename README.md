@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time stays long enough for anyone who will use it.</p>
+<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Dalai Lama</p>
