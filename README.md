@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfectionism is simply putting a limit on your future.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>- John Eliot</p>
+<p>- Carol Burnett</p>
