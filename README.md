@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools talk, cowards are silent, wise men listen.</p>
+<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Seungsahn</p>
