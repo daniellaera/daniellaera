@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have a dream, you've got to grab it and never let go.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Carol Burnett</p>
+<p>- Benjamin Franklin</p>
