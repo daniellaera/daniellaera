@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>Youth has no age.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Pablo Picasso</p>
