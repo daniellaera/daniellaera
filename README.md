@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>- Seungsahn</p>
+<p>- Kenneth Branagh</p>
