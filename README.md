@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>Happiness is only real, when shared.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Christopher McCandless</p>
