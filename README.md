@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live simply, expect little, give much.</p>
+<p>One never does wrong by doing right.</p>
 
 <p>- Norman Vincent Peale</p>
