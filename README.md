@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>- Pablo Picasso</p>
+<p>- G.I. Gurdjieff</p>
