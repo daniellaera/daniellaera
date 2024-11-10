@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>- Zhuangzi</p>
+<p>- Gilbert Chesterton</p>
