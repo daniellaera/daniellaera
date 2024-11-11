@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>You may delay, but time will not.</p>
 
-<p>- Colin Powell</p>
+<p>- Benjamin Franklin</p>
