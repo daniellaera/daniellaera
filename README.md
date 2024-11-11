@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Walt Whitman</p>
