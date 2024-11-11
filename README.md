@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without complaint, Work with fate.</p>
+<p>The grass is greener where you water it.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Neil Barringham</p>
