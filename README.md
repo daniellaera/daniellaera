@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>Good things aren't supposed to just fall into your lap.</p>
 
-<p>- Elon Musk</p>
+<p>- Audrey Hepburn</p>
