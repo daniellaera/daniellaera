@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Samuel Butler</p>
