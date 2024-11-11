@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
 
-<p>- Samuel Butler</p>
+<p>- Elon Musk</p>
