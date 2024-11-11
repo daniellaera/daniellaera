@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Because a thing seems difficult for you, do not think it impossible.</p>
+<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- John D. Rockefeller</p>
