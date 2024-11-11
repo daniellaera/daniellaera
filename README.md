@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Ralph Marston</p>
+<p>- Norman Vincent Peale</p>
