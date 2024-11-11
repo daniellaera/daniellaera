@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
+<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
 
-<p>- Jack Butcher</p>
+<p>- Laurence J. Peter</p>
