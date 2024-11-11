@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good things aren't supposed to just fall into your lap.</p>
+<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Peter A. Cohen</p>
