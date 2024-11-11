@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may delay, but time will not.</p>
+<p>Patience expands your options. If you insist on immediate gratification, your choices are severely limited.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Ralph Marston</p>
