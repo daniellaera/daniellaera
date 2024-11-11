@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The grass is greener where you water it.</p>
+<p>Because a thing seems difficult for you, do not think it impossible.</p>
 
-<p>- Neil Barringham</p>
+<p>- Marcus Aurelius</p>
