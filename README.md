@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to give up some of the old so that you can make room for the new.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>- Yanni</p>
+<p>- Lao Tzu</p>
