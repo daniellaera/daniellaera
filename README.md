@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</p>
+<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Unknown</p>
