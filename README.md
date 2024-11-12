@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Judy Garland</p>
+<p>- Paulo Coelho</p>
