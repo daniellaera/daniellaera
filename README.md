@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>What worries you, masters you.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- John Locke</p>
