@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To travel is to be alive, but to get somewhere is to be dead.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>- Alan Watts</p>
+<p>- Dogen</p>
