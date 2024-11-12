@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
+<p>You have to make time, even for something as universal as staring at the stars.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- W.P. Kinsella</p>
