@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>You're never given a dream without also being given the power to make it true.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Richard Bach</p>
