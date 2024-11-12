@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
+<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Estee Lauder</p>
