@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Yanni</p>
