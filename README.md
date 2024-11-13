@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>- Dogen</p>
+<p>- Herbert Hoover</p>
