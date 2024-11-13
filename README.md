@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>Music is like creating an emotional painting. The sounds are the colors.</p>
 
-<p>- Henry Ford</p>
+<p>- Yanni</p>
