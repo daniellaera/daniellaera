@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where focus goes, energy flows.</p>
+<p>Go confidently in the direction of your dreams. Live the life you've imagined.</p>
 
-<p>- Tony Robbins</p>
+<p>- Arnold Schwarzenegger</p>
