@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Conrad Hilton</p>
