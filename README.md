@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
+<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Thomas Jefferson</p>
