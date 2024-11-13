@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>- Dogen</p>
+<p>- Dudley Field Malone</p>
