@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>- Naval Ravikant</p>
+<p>- Henry Ford</p>
