@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even in the grave, all is not lost.</p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Deepak Chopra</p>
