@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Among the things you can give and still keep are your word, a smile, and a grateful heart.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Og Mandino</p>
