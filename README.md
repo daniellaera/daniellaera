@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment is a fresh beginning.</p>
+<p>What you become is far more important than what you get.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Jim Rohn</p>
