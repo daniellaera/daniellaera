@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Amelia Earhart</p>
