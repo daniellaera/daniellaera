@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what happens to you while you're busy making other plans.</p>
+<p>Life's too mysterious to take too serious.</p>
 
-<p>- John Lennon</p>
+<p>- Mary Engelbreit</p>
