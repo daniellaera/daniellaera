@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
+<p>Life is what happens to you while you're busy making other plans.</p>
 
-<p>- Tony Robbins</p>
+<p>- John Lennon</p>
