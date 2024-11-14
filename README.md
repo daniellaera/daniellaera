@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you become is far more important than what you get.</p>
+<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
 
-<p>- Jim Rohn</p>
+<p>- Theodore Roosevelt</p>
