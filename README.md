@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams have only one owner at a time. That's why dreamers are lonely.</p>
+<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
 
-<p>- William Faulkner</p>
+<p>- Andrew Carnegie</p>
