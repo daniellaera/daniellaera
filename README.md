@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody needs a passion. That's what keeps life interesting.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Betty White</p>
+<p>- William Faulkner</p>
