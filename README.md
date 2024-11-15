@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
+<p>There can be no deep disappointment where there is not deep love.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Martin Luther King, Jr.</p>
