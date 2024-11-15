@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>Everybody needs a passion. That's what keeps life interesting.</p>
 
-<p>- Euripides</p>
+<p>- Betty White</p>
