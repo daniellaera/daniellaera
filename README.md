@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a question and how we live it is our answer.</p>
+<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
 
-<p>- Gary Keller</p>
+<p>- Ayn Rand</p>
