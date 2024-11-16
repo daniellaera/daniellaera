@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're not making mistakes, then you're not doing anything.</p>
+<p>Excellence is not a skill. It is an attitude. </p>
 
-<p>- John Wooden</p>
+<p>- Ralph Marston</p>
