@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
+<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
 
-<p>- Ayn Rand</p>
+<p>- Miguel de Cervantes</p>
