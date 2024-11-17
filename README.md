@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men do not attract which they want but that which they are.</p>
+<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
 
-<p>- James Allen</p>
+<p>- Yanni</p>
