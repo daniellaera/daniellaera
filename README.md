@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Aristotle</p>
+<p>- Mark Twain</p>
