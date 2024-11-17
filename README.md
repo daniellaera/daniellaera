@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>- Maya Angelou</p>
+<p>- Sun Tzu</p>
