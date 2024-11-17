@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Mahatma Gandhi</p>
