@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Maya Angelou</p>
