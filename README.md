@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>- Albert Einstein</p>
+<p>- James Allen</p>
