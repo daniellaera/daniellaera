@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>- Unknown</p>
+<p>- Harry S. Truman</p>
