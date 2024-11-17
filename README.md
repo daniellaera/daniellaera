@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
+<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Steve Maraboli</p>
