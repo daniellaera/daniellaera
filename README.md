@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There exists only the present instant; a Now which always and without end is itself new.</p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Henry Ward Beecher</p>
