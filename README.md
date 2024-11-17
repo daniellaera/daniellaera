@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Facts are the enemy of truth. </p>
+<p>There exists only the present instant; a Now which always and without end is itself new.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Meister Eckhart</p>
