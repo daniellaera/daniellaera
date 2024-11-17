@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Albert Einstein</p>
