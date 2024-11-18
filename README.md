@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
+<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Steve Maraboli</p>
