@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.</p>
+<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
 
-<p>- Aristophanes</p>
+<p>- Heraclitus</p>
