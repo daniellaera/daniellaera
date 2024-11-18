@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
+<p>I believe that one of life's greatest risks is never daring to risk.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Oprah Winfrey</p>
