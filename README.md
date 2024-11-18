@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your spirit is the true shield.</p>
+<p>The time is always right to do what is right.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Martin Luther King, Jr.</p>
