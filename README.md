@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is always right to do what is right.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Dan Millman</p>
