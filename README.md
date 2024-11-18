@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best teacher is experience and not through someone's distorted point of view.</p>
+<p>Learn to value yourself, which means: fight for your happiness.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Ayn Rand</p>
