@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world doesn't always give you want, but it often gives you what you need.</p>
+<p>It is the greatest of all mistakes to do nothing because you can only do little; do something.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Sydney Smith</p>
