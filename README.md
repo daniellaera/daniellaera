@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>The most wasted day of all is that on which we have not laughed.</p>
 
-<p>- Dogen</p>
+<p>- Nicolas Chamfort</p>
