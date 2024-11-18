@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
+<p>The best teacher is experience and not through someone's distorted point of view.</p>
 
-<p>- Bruce Lee</p>
+<p>- Jack Kerouac</p>
