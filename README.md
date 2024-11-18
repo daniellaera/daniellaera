@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you truly expect something to be difficult, it will be.</p>
+<p>Your spirit is the true shield.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Morihei Ueshiba</p>
