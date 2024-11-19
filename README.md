@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Pablo Picasso</p>
