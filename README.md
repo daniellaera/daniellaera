@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In three words I can sum up everything I've learned about life: it goes on.</p>
+<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
 
-<p>- Robert Frost</p>
+<p>- Denis Waitley</p>
