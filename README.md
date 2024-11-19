@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
+<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
 
-<p>- Bruce Lee</p>
+<p>- Unknown</p>
