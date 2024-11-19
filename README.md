@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Marcus Aurelius</p>
