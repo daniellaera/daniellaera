@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>What we know is a drop, what we don't know is an ocean. </p>
 
-<p>- Ayn Rand</p>
+<p>- Isaac Newton</p>
