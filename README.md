@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
+<p>Don't be afraid to give up the good to go for the great.</p>
 
-<p>- Unknown</p>
+<p>- John D. Rockefeller</p>
