@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man should fear never beginning to live.</p>
+<p>Time goes from present to past.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Shunryu Suzuki</p>
