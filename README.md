@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more acquaintances you have, the less you know them.</p>
+<p>Live simply, expect little, give much.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Norman Vincent Peale</p>
