@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every act of creation is first an act of destruction.</p>
+<p>You are not stuck where you are unless you decide to be.  </p>
 
-<p>- Pablo Picasso</p>
+<p>- Wayne Dyer</p>
