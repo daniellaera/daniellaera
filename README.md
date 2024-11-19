@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time goes from present to past.</p>
+<p>We are shaped and fashioned by what we love.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Johann Wolfgang von Goethe</p>
