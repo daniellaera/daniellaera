@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Les Brown</p>
