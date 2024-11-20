@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you change what you believe, you change what you do.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Martin Luther King, Jr.</p>
