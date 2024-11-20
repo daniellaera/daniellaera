@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True life is lived when tiny changes occur.</p>
+<p>To lose your temper is only useful once a year.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Colin R. Davis</p>
