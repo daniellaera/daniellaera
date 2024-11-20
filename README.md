@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>True life is lived when tiny changes occur.</p>
 
-<p>- Dogen</p>
+<p>- Leo Tolstoy</p>
