@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must accept finite disappointment, but never lose infinite hope.</p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Aristotle</p>
