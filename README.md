@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First learn the meaning of what you say, and then speak.</p>
+<p>The smallest of actions is always better than the noblest of intentions.</p>
 
-<p>- Epictetus</p>
+<p>- Robin Sharma</p>
