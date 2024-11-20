@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I succeeded by saying what everyone else is thinking.</p>
+<p>Happiness must be grown in one's own garden.</p>
 
-<p>- Joan Rivers</p>
+<p>- Mary Engelbreit</p>
