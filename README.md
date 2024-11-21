@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
+<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Denis Waitley</p>
