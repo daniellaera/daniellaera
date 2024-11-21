@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember we're all in this alone.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Euripides</p>
