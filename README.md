@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tradition is the illusion of permanence. </p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>- Woody Allen</p>
+<p>- Socrates</p>
