@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Joyce Meyer</p>
