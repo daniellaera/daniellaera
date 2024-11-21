@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
 
-<p>- Ralph Marston</p>
+<p>- Nikola Tesla</p>
