@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>Loving thoughts and actions are clearly beneficial for our physical and mental health.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Dalai Lama</p>
