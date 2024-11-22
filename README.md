@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
+<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
 
-<p>- Buddha</p>
+<p>- Ming-Dao Deng</p>
