@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way out is in.</p>
+<p>We are shaped and fashioned by what we love.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Johann Wolfgang von Goethe</p>
