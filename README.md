@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you pray for rain, be prepared to deal with some mud.</p>
+<p>Trust, like the soul, never returns once it is gone.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Publilius Syrus</p>
