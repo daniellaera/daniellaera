@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sad thing is, you can still love someone and be wrong for them.</p>
+<p>Change is never easy, but always possible.</p>
 
-<p>- Elvis Presley</p>
+<p>- Barack Obama</p>
