@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.</p>
+<p>Learn to sit back and observe, not everything needs a reaction.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Unknown</p>
