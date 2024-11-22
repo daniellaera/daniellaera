@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>If you pray for rain, be prepared to deal with some mud.</p>
 
-<p>- Og Mandino</p>
+<p>- Mary Engelbreit</p>
