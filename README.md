@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to sit back and observe, not everything needs a reaction.</p>
+<p>No man is happy unless he believes he is.</p>
 
-<p>- Unknown</p>
+<p>- Publilius Syrus</p>
