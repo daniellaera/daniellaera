@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take away love and our earth is a tomb.</p>
+<p>Sad thing is, you can still love someone and be wrong for them.</p>
 
-<p>- Robert Browning</p>
+<p>- Elvis Presley</p>
