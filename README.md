@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Franz Kafka</p>
+<p>- Eric Hoffer</p>
