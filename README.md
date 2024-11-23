@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never to suffer would never to have been blessed.</p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Franz Kafka</p>
