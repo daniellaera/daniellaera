@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fool me once, shame on you; fool me twice, shame on me. </p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Christopher McCandless</p>
