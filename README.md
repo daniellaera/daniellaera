@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
 
-<p>- Alfred Adler</p>
+<p>- Marilyn Monroe</p>
