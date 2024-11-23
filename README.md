@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The glow of one warm thought is to me worth more than money.</p>
+<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Hans Christian Andersen</p>
