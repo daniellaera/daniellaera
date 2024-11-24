@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Euripides</p>
+<p>- Gurbaksh Chahal</p>
