@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
 
-<p>- Estee Lauder</p>
+<p>- Maxime Lagace</p>
