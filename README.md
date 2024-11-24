@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever satisfies the soul is truth.</p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>- Walt Whitman</p>
+<p>- Estee Lauder</p>
