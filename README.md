@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Niccolo Machiavelli</p>
