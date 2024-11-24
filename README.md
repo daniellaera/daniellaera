@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change yourself and you have done your part in changing the world.</p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- George Washington</p>
