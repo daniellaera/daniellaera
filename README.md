@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have no more right to consume happiness without producing it than to consume wealth without producing it.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Johann Wolfgang von Goethe</p>
