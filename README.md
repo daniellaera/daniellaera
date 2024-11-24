@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you trust yourself, you will know how to live.</p>
+<p>Don't learn to do, but learn in doing.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Samuel Butler</p>
