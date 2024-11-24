@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes a change of perspective is all it takes to see the light.</p>
+<p>Change yourself and you have done your part in changing the world.</p>
 
-<p>- Dan Brown</p>
+<p>- Paramahansa Yogananda</p>
