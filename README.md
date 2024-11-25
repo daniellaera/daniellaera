@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best thing to hold onto in life is each other.</p>
+<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Rumi</p>
