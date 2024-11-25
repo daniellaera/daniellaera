@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
+<p>The score never interested me, only the game.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Mae West</p>
