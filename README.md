@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not about what it is, it's about what it can become.</p>
+<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Robert F. Kennedy</p>
