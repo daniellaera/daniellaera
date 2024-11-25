@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your heart is the size of an ocean. Go find yourself in its hidden depths.</p>
+<p>You are what you believe in. You become that which you believe you can become.</p>
 
-<p>- Rumi</p>
+<p>- Bhagavad Gita</p>
