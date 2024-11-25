@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let someone elses. opinion become your reality.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>- Les Brown</p>
+<p>- Confucius</p>
