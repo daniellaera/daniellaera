@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loss is nothing else but change and change is nature's delight.</p>
+<p>Don't let someone elses. opinion become your reality.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Les Brown</p>
