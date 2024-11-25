@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each problem has a positive side.</p>
+<p>The best thing to hold onto in life is each other.</p>
 
-<p>- Og Mandino</p>
+<p>- Audrey Hepburn</p>
