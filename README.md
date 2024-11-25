@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can laugh, I can live.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Dr. Seuss</p>
