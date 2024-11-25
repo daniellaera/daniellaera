@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive yourself for your faults and your mistakes and move on.</p>
+<p>Not why the addiction but why the pain.</p>
 
-<p>- Les Brown</p>
+<p>- Gabor Mate</p>
