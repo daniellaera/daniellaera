@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't wait for inspiration. You have to go after it with a club. </p>
+<p>If I can laugh, I can live.</p>
 
-<p>- Jack London</p>
+<p>- Christopher Reeve</p>
