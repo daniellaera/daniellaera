@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</p>
+<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- George Eliot</p>
