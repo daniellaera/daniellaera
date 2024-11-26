@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth comes at the point of resistance.</p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Norman Vincent Peale</p>
