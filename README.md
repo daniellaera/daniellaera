@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
 
-<p>- Earl Nightingale</p>
+<p>- George Bernard Shaw</p>
