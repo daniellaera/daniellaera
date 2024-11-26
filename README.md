@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Even the finest sword plunged into salt water will eventually rust.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Sun Tzu</p>
