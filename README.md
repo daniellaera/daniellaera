@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>The source of a true smile is an awakened mind.</p>
 
-<p>- Bob Dylan</p>
+<p>- Thich Nhat Hanh</p>
