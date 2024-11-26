@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let not your mind run on what you lack as much as on what you have already.</p>
+<p>If you want to keep your memories, you first have to live them.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Bob Dylan</p>
