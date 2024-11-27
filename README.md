@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Health is the greatest of all possessions.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>- Jonathan Swift</p>
+<p>- J.R.R. Tolkien</p>
