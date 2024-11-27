@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have to live life with a sense of urgency so not a minute is wasted.</p>
+<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
 
-<p>- Les Brown</p>
+<p>- Robert Kiyosaki</p>
