@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only I can change my life. No one can do it for me.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Carol Burnett</p>
+<p>- Paulo Coelho</p>
