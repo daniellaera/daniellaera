@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great acts are made up of small deeds.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dan Millman</p>
