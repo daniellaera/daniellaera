@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up on your dreams, or your dreams will give up on you.</p>
+<p>Only I can change my life. No one can do it for me.</p>
 
-<p>- John Wooden</p>
+<p>- Carol Burnett</p>
