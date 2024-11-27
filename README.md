@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Lao Tzu</p>
