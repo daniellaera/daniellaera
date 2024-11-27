@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Jim Rohn</p>
+<p>- John Wooden</p>
