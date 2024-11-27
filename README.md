@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not the knowing that is difficult, but the doing. </p>
+<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Ralph Waldo Emerson</p>
