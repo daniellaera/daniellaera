@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Spencer Johnson</p>
