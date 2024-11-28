@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</p>
+<p>What loneliness is more lonely than distrust?</p>
 
-<p>- Alan Watts</p>
+<p>- George Eliot</p>
