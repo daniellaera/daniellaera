@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
+<p>The key to success is to focus our conscious mind on things we desire not things we fear. </p>
 
-<p>- Confucius</p>
+<p>- Brian Tracy</p>
