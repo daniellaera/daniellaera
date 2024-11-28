@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</p>
+<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Nicolas Chamfort</p>
