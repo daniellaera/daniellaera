@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Misfortune shows those who are not really friends.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>- Aristotle</p>
+<p>- Marcus Aurelius</p>
