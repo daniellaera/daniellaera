@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>Your heart is full of fertile seeds, waiting to sprout.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Morihei Ueshiba</p>
