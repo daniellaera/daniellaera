@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing good ever comes of violence.</p>
+<p>The universe doesn't allow perfection.</p>
 
-<p>- Martin Luther</p>
+<p>- Stephen Hawking</p>
