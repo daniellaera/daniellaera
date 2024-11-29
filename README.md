@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspiration exists, but it has to find you working.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Colin Powell</p>
