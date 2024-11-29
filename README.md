@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is not a lover who does not love forever.</p>
+<p>Nothing good ever comes of violence.</p>
 
-<p>- Euripides</p>
+<p>- Martin Luther</p>
