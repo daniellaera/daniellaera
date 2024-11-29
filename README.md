@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>- Buddha</p>
+<p>- Euripides</p>
