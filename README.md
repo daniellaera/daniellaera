@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To love means loving the unlovable.</p>
+<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Brian Tracy</p>
