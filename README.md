@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Watch what you say, and whatever you say, practice it.</p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>- Soyen Shaku</p>
+<p>- Herodotus</p>
