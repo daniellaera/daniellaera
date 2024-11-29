@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
+<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
 
-<p>- Brian Tracy</p>
+<p>- Carl Jung</p>
