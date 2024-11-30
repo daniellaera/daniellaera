@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you are, be a good one.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Ming-Dao Deng</p>
