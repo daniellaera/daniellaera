@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
+<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Paramahansa Yogananda</p>
