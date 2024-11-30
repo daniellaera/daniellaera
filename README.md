@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>- Confucius</p>
+<p>- Henry Ward Beecher</p>
