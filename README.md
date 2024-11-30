@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
+<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
 
-<p>- T.S. Eliot</p>
+<p>- G.I. Gurdjieff</p>
