@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An un-examined life is not worth living.</p>
+<p>I succeeded by saying what everyone else is thinking.</p>
 
-<p>- Socrates</p>
+<p>- Joan Rivers</p>
