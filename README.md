@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is best to begin at the beginning.</p>
+<p>Whatever you are, be a good one.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Abraham Lincoln</p>
