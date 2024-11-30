@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</p>
 
-<p>- Lolly Daskal</p>
+<p>- T.S. Eliot</p>
