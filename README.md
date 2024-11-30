@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>It is best to begin at the beginning.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Amelia Earhart</p>
