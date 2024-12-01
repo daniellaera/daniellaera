@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who leaves the game wins it.</p>
+<p>Take into account that great love and great achievements involve great risk.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Dalai Lama</p>
