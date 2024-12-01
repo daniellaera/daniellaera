@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to be looked over than overlooked.</p>
+<p>There is peace even in the storm.</p>
 
-<p>- Mae West</p>
+<p>- Vincent van Gogh</p>
