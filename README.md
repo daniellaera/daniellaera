@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not how much we give but how much love we put into giving.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>- Mother Teresa</p>
+<p>- Robert Collier</p>
