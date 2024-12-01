@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let not your mind run on what you lack as much as on what you have already.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- Marcus Aurelius</p>
+<p>- Beverly Sills</p>
