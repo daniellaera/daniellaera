@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
+<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
 
-<p>- Helen Keller</p>
+<p>- Deepak Chopra</p>
