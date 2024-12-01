@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>Let not your mind run on what you lack as much as on what you have already.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Marcus Aurelius</p>
