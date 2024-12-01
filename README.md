@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest deception men suffer is from their own opinions.</p>
+<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Norman Vincent Peale</p>
