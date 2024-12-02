@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
+<p>Fear is a natural reaction to moving closer to the truth.</p>
 
-<p>- Aristotle</p>
+<p>- Pema Chodron</p>
