@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is a natural reaction to moving closer to the truth.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>- Pema Chodron</p>
+<p>- Huang Po</p>
