@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sadness is but a wall between two gardens.</p>
+<p>It does not do to dwell on dreams and forget to live, remember that.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Albus Dumbledore</p>
