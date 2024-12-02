@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A minute's success pays the failure of years.</p>
+<p>Death is not an ending. It is a transformation.</p>
 
-<p>- Robert Browning</p>
+<p>- Ming-Dao Deng</p>
