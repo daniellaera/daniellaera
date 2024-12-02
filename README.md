@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>There is peace even in the storm.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Vincent van Gogh</p>
