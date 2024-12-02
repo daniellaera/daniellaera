@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be angry is to revenge the faults of others on ourselves.</p>
+<p>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</p>
 
-<p>- Alexander Pope</p>
+<p>- Zig Ziglar</p>
