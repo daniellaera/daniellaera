@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is peace even in the storm.</p>
+<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- George Bernard Shaw</p>
