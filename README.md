@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is simply the name we give our mistakes. </p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>- Oscar Wilde</p>
+<p>- Vincent van Gogh</p>
