@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
+<p>By failing to prepare, you are preparing to fail.</p>
 
-<p>- William James</p>
+<p>- Benjamin Franklin</p>
