@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When people are free to do as they please, they usually imitate each other.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Mahatma Gandhi</p>
