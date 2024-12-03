@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything worth doing is worth doing slowly.</p>
+<p>See what you're doing wrong, laugh at it, change and do better.</p>
 
-<p>- Mae West</p>
+<p>- Spencer Johnson</p>
