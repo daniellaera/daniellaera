@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
+<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
 
-<p>- Sun Tzu</p>
+<p>- Andrew Carnegie</p>
