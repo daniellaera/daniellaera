@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not regret the past. Look to the future.</p>
+<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Isaac Newton</p>
