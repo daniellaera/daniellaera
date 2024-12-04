@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your problem isn't the problem. Your reaction is the problem.</p>
+<p>If you truly love Nature, you will find beauty everywhere. </p>
 
-<p>- Unknown</p>
+<p>- Vincent van Gogh</p>
