@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
+<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
 
-<p>- Albert Einstein</p>
+<p>- Kenneth Branagh</p>
