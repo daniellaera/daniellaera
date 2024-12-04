@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always remember that you are absolutely unique. Just like everyone else. </p>
+<p>A minute's success pays the failure of years.</p>
 
-<p>- Margaret Mead</p>
+<p>- Robert Browning</p>
