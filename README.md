@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Identify your problems, but give your power and energy to solutions.</p>
+<p>Quality is not an act, it is a habit.</p>
 
-<p>- Tony Robbins</p>
+<p>- Aristotle</p>
