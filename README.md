@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Carl Jung</p>
+<p>- Charles Darwin</p>
