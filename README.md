@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
+<p>Whenever you do a thing, act as if all the world were watching.</p>
 
-<p>- Yanni</p>
+<p>- Thomas Jefferson</p>
