@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death smiles at us all. All we can do is smile back.</p>
+<p>Alone we can do so little; together we can do so much.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Helen Keller</p>
