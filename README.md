@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something worth remembering.</p>
+<p>To forgive means pardoning the unpardonable.</p>
 
-<p>- Elvis Presley</p>
+<p>- Gilbert Chesterton</p>
