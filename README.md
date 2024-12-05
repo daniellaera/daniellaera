@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Create with the heart; build with the mind.</p>
+<p>Fear does not have any special power unless you empower it by submitting to it.</p>
 
-<p>- Criss Jami</p>
+<p>- Les Brown</p>
