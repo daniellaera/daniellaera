@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
+<p>The road to success and the road to failure are almost exactly the same.</p>
 
-<p>- Robin Sharma</p>
+<p>- Colin R. Davis</p>
