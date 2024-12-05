@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Samuel Beckett</p>
