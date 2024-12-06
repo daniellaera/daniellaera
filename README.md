@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person who does not read is no better than one cannot read.</p>
+<p>I've always tried to go a step past wherever people expected me to end up.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Beverly Sills</p>
