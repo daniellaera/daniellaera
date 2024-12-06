@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rivers know this: there is no hurry. We shall get there some day.</p>
+<p>Smell the cheese often so you know when it is getting old.</p>
 
-<p>- A.A. Milne</p>
+<p>- Spencer Johnson</p>
