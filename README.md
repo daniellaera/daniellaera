@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success and the road to failure are almost exactly the same.</p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>- Colin R. Davis</p>
+<p>- Margaret Mead</p>
