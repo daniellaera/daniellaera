@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you resist, persists.</p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>- Carl Jung</p>
+<p>- Naval Ravikant</p>
