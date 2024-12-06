@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>- Simon Sinek</p>
+<p>- Niccolo Machiavelli</p>
