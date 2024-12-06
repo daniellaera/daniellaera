@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>- Margaret Mead</p>
+<p>- Unknown</p>
