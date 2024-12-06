@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</p>
+<p>If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.</p>
 
-<p>- Robin Williams</p>
+<p>- Simon Sinek</p>
