@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
+<p>What you resist, persists.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Carl Jung</p>
