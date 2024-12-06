@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people feel the rain. Others just get wet. </p>
+<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
 
-<p>- Bob Dylan</p>
+<p>- Eckhart Tolle</p>
