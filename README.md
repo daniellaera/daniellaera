@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Norman Vincent Peale</p>
