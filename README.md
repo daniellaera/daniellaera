@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
+<p>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Gilbert Chesterton</p>
