@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>- Alan Watts</p>
+<p>- Brian Tracy</p>
