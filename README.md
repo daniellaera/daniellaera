@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
+<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
 
-<p>- Yanni</p>
+<p>- Sun Tzu</p>
