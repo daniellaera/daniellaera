@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>- Robin Sharma</p>
+<p>- Roy T. Bennett</p>
