@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more acquaintances you have, the less you know them.</p>
+<p>The birth of the mind is the death of the senses.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Dan Millman</p>
