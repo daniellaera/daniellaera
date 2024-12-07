@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
+<p>The smallest of actions is always better than the noblest of intentions.</p>
 
-<p>- Tony Robbins</p>
+<p>- Robin Sharma</p>
