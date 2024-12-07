@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The birth of the mind is the death of the senses.</p>
+<p>Be where your enemy is not.</p>
 
-<p>- Dan Millman</p>
+<p>- Sun Tzu</p>
