@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>- Sun Tzu</p>
+<p>- Ming-Dao Deng</p>
