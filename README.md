@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</p>
+<p>Success is getting what you want, happiness is wanting what you get.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- W.P. Kinsella</p>
