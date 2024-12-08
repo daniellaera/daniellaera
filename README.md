@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no value in anything until it is finished. </p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>- Genghis Khan</p>
+<p>- Laurence J. Peter</p>
