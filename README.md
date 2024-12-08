@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Elon Musk</p>
