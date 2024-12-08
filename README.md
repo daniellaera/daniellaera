@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First say to yourself what you would be; and then do what you have to do.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Epictetus</p>
+<p>- Adi Da Samraj</p>
