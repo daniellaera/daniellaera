@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- William Faulkner</p>
