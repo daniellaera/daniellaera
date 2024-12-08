@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Gurbaksh Chahal</p>
