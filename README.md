@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
+<p>There is no value in anything until it is finished. </p>
 
-<p>- William Faulkner</p>
+<p>- Genghis Khan</p>
