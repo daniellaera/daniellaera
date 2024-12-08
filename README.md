@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want, happiness is wanting what you get.</p>
+<p>Choose a job you love, and you will never have to work a day in your life. </p>
 
-<p>- W.P. Kinsella</p>
+<p>- Confucius</p>
