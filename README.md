@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, you travel, and as you love, you attract.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- James Allen</p>
+<p>- Steve Maraboli</p>
