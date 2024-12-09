@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>We lie the loudest when we lie to ourselves.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Eric Hoffer</p>
