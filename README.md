@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything flows, nothing stands still.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>- Heraclitus</p>
+<p>- D. H. Lawrence</p>
