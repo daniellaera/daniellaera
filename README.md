@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>- Robert Frost</p>
+<p>- Rumi</p>
