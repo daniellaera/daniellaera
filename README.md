@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>As you think, you travel, and as you love, you attract.</p>
 
-<p>- Rumi</p>
+<p>- James Allen</p>
