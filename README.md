@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
 
-<p>- Steve Maraboli</p>
+<p>- Kabir</p>
