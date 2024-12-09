@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We lie the loudest when we lie to ourselves.</p>
+<p>The pen is the tongue of the mind. </p>
 
-<p>- Eric Hoffer</p>
+<p>- Miguel de Cervantes</p>
