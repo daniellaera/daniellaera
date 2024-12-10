@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never dwell on what happened. You can't change it. Move forward.</p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>- Joan Rivers</p>
+<p>- Simon Sinek</p>
