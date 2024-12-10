@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One must be deeply aware of the impermanence of the world.</p>
+<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
 
-<p>- Dogen</p>
+<p>- Paulo Coelho</p>
