@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Paramahansa Yogananda</p>
