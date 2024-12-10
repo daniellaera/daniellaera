@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>- Lao Tzu</p>
+<p>- Mark Twain</p>
