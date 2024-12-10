@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
+<p>Loss is nothing else but change and change is nature's delight.</p>
 
-<p>- Zhuangzi</p>
+<p>- Marcus Aurelius</p>
