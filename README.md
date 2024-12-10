@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>- Simon Sinek</p>
+<p>- Eric Hoffer</p>
