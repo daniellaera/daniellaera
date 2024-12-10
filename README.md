@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life and forget your age.</p>
+<p>A single dream is more powerful than a thousand realities.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- J.R.R. Tolkien</p>
