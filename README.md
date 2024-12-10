@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>I've always tried to go a step past wherever people expected me to end up.</p>
 
-<p>- Bob Dylan</p>
+<p>- Beverly Sills</p>
