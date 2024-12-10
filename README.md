@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>I never dwell on what happened. You can't change it. Move forward.</p>
 
-<p>- John Eliot</p>
+<p>- Joan Rivers</p>
