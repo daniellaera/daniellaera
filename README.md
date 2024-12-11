@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know your gifts and share them.</p>
+<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
 
-<p>- Les Brown</p>
+<p>- Tony Robbins</p>
