@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once a decision was made, I didn't worry about it afterward.</p>
+<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Charles Dickens</p>
