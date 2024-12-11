@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every beautiful thing, there's some kind of pain.</p>
+<p>Start each day with a positive thought and a grateful heart.</p>
 
-<p>- Bob Dylan</p>
+<p>- Roy T. Bennett</p>
