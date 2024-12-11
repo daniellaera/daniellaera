@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The privilege of a lifetime is to become who you truly are.</p>
+<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
 
-<p>- Carl Jung</p>
+<p>- Audrey Hepburn</p>
