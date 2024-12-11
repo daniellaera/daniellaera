@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dance first. Think later. It's the natural order.</p>
+<p>Every saint has a past, and every sinner has a future.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Oscar Wilde</p>
