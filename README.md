@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Play your part in life, but never forget that it is only a role.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Gilbert Chesterton</p>
