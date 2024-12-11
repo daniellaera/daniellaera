@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every saint has a past, and every sinner has a future.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Eckhart Tolle</p>
