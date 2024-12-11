@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are totally at peace with yourself, nothing can shake you.</p>
+<p>He who has overcome his fears will truly be free.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Aristotle</p>
