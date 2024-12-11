@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.</p>
 
-<p>- Les Brown</p>
+<p>- Steve Harvey</p>
