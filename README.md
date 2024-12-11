@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
+<p>Let each man exercise the art he knows.</p>
 
-<p>- Tony Robbins</p>
+<p>- Aristophanes</p>
