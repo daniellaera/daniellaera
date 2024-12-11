@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
+<p>Once a decision was made, I didn't worry about it afterward.</p>
 
-<p>- Brian Tracy</p>
+<p>- Harry S. Truman</p>
