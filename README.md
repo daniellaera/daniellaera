@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
+<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
 
-<p>- Tony Robbins</p>
+<p>- Rumi</p>
