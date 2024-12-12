@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
+<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Henry Ward Beecher</p>
