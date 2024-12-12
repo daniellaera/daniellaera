@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.</p>
+<p>We must have strong minds, ready to accept facts as they are.</p>
 
-<p>- Charles Dickens</p>
+<p>- Harry S. Truman</p>
