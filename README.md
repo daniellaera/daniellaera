@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>- Rumi</p>
+<p>- Samuel Beckett</p>
