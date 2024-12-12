@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must have strong minds, ready to accept facts as they are.</p>
+<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Rita Mae Brown</p>
