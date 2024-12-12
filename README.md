@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our happiness depends on the habit of mind we cultivate.</p>
+<p>It is our choices that show what we truly are, far more than our abilities.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Albus Dumbledore</p>
