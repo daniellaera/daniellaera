@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Euripides</p>
