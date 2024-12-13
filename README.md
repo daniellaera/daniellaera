@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Emily Dickinson</p>
