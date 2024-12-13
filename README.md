@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First learn the meaning of what you say, and then speak.</p>
+<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
 
-<p>- Epictetus</p>
+<p>- Oprah Winfrey</p>
