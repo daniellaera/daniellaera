@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>Failing is another stepping stone to greatness.</p>
 
-<p>- Beverly Sills</p>
+<p>- Oprah Winfrey</p>
