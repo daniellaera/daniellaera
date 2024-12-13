@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</p>
+<p>Preoccupied with a single leaf you won't see the tree.</p>
 
-<p>- Mark Twain</p>
+<p>- Unknown</p>
