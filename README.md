@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>Your greatest asset is your earning ability. Your greatest resource is your time.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Brian Tracy</p>
