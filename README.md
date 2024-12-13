@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a difference between giving directions and giving direction.</p>
+<p>First learn the meaning of what you say, and then speak.</p>
 
-<p>- Simon Sinek</p>
+<p>- Epictetus</p>
