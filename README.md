@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</p>
+<p>Life is but one dream flowing into another.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ming-Dao Deng</p>
