@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
+<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
 
-<p>- Jim Rohn</p>
+<p>- Norman Vincent Peale</p>
