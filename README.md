@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final; failure is never fatal.</p>
+<p>You are what you do, not what you say you'll do.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Carl Jung</p>
