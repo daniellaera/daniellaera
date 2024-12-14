@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>- Elvis Presley</p>
+<p>- Confucius</p>
