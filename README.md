@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is but one dream flowing into another.</p>
+<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Ralph Marston</p>
