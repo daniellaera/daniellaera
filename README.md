@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
+<p>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</p>
 
-<p>- Zen Proverb</p>
+<p>- Henry Ward Beecher</p>
