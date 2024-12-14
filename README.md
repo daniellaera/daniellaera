@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The price of inaction is far greater than the cost of making a mistake.</p>
+<p>You do not read a book for the book's sake, but for your own.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Earl Nightingale</p>
