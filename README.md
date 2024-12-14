@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I hear and I forget. I see and I remember. I do and I understand. </p>
+<p>We must create our own world or we will die from inaction.</p>
 
-<p>- Confucius</p>
+<p>- Robert Greene</p>
