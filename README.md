@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mountain never yields to the wind no matter how strong it is.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>- Zen Proverb</p>
+<p>- Sigmund Freud</p>
