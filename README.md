@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
+<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
 
-<p>- Mark Twain</p>
+<p>- Jim Rohn</p>
