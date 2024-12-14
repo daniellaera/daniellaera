@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must create our own world or we will die from inaction.</p>
+<p>The price of inaction is far greater than the cost of making a mistake.</p>
 
-<p>- Robert Greene</p>
+<p>- Meister Eckhart</p>
