@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
+<p>Don't be afraid that you do not know something. Be afraid of not learning about it.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Zen Proverb</p>
