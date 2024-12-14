@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is more cheated than the selfish man.</p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Elvis Presley</p>
