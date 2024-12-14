@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When one does not have what one wants, one must want what one has.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Henry Ward Beecher</p>
