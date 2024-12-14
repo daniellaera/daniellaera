@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You do not read a book for the book's sake, but for your own.</p>
+<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Mark Twain</p>
