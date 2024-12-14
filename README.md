@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fool me once, shame on you; fool me twice, shame on me. </p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Zen Proverb</p>
