@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.</p>
 
-<p>- Gary Keller</p>
+<p>- Steve Maraboli</p>
