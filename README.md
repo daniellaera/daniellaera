@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- Ayn Rand</p>
+<p>- F. Scott Fitzgerald</p>
