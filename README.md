@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show me a hero, and I'll write you a tragedy.</p>
+<p>Fear can hold you prisoner. Hope can set you free.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Stephen King</p>
