@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first principle of success is desire.</p>
+<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
 
-<p>- Robert Collier</p>
+<p>- Joan Rivers</p>
