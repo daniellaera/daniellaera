@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience is the sure sign of a bad memory.</p>
+<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
 
-<p>- Mark Twain</p>
+<p>- Martin Luther King, Jr.</p>
