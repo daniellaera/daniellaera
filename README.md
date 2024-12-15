@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
+<p>We make a living by what we get, but we make a life by what we give.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Unknown</p>
