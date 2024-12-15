@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
+<p>Until you change how you get things done, you'll never know what works best.</p>
 
-<p>- Celestine Chua</p>
+<p>- Roy T. Bennett</p>
