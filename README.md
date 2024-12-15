@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Niccolo Machiavelli</p>
