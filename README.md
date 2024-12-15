@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To get angry is like to revenge yourself for the guilt of others.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- Jonathan Swift</p>
+<p>- F. Scott Fitzgerald</p>
