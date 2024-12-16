@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>- Bob Dylan</p>
+<p>- Helen Keller</p>
