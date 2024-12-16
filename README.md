@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
 
-<p>- Colin Powell</p>
+<p>- Voltaire</p>
