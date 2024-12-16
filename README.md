@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who you are is always right.</p>
+<p>I want the fishing rod, not the fish.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Yanni</p>
