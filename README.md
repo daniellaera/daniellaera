@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Heraclitus</p>
+<p>- Alan Watts</p>
