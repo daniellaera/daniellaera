@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I want the fishing rod, not the fish.</p>
+<p>The quieter you become, the more you are able to hear.</p>
 
-<p>- Yanni</p>
+<p>- Rumi</p>
