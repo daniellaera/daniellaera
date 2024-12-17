@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>Decide what your truth is. Then live it.</p>
 
-<p>- Elvis Presley</p>
+<p>- Kamal Ravikant</p>
