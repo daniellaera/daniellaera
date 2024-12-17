@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>- Nikola Tesla</p>
+<p>- C. Sean McGee</p>
