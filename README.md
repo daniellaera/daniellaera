@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is more important than knowledge.</p>
+<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
 
-<p>- Albert Einstein</p>
+<p>- Yanni</p>
