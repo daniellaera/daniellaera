@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will face many defeats in life, but never let yourself be defeated.</p>
+<p>Confuse them with your silence and amaze them with your actions.</p>
 
-<p>- Maya Angelou</p>
+<p>- Unknown</p>
