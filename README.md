@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if you're sure you can win, be careful that you can live with what you lose.</p>
+<p>We are shaped and fashioned by what we love.</p>
 
-<p>- Gary Keller</p>
+<p>- Johann Wolfgang von Goethe</p>
