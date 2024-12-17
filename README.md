@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are shaped and fashioned by what we love.</p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Elvis Presley</p>
