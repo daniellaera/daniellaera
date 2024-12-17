@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
 
-<p>- Dogen</p>
+<p>- Nikola Tesla</p>
