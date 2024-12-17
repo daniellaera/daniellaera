@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
+<p>You will face many defeats in life, but never let yourself be defeated.</p>
 
-<p>- Criss Jami</p>
+<p>- Maya Angelou</p>
