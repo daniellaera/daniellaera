@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be calm is the highest achievement of the self.</p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>- Zen Proverb</p>
+<p>- Roy T. Bennett</p>
