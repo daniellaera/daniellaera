@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who never made a mistake never tried anything new.</p>
+<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
 
-<p>- Albert Einstein</p>
+<p>- Eckhart Tolle</p>
