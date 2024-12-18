@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who has ever made anything of importance was disciplined.</p>
+<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
 
-<p>- Andrew Hendrixson</p>
+<p>- Alexander Graham Bell</p>
