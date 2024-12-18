@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Heraclitus</p>
