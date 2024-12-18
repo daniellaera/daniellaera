@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>What you become is far more important than what you get.</p>
 
-<p>- Seneca</p>
+<p>- Jim Rohn</p>
