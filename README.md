@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline yourself, and others won't need to.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- John Wooden</p>
+<p>- Lolly Daskal</p>
