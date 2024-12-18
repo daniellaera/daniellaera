@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest act of kindness is worth more than the greatest intention.  </p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Zen Proverb</p>
