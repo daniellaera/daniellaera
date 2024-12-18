@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear can hold you prisoner. Hope can set you free.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>- Stephen King</p>
+<p>- Margaret Mead</p>
