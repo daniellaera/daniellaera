@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Because of your smile, you make life more beautiful.</p>
+<p>A golden cage is still just a cage.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Anita Krizzan</p>
