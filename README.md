@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A golden cage is still just a cage.</p>
+<p>Work is always an antidote to depression.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Eleanor Roosevelt</p>
