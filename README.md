@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances rule men; men do not rule circumstances. </p>
+<p>Everyone you admire was once a beginner.</p>
 
-<p>- Herodotus</p>
+<p>- Jack Butcher</p>
