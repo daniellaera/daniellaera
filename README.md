@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Sigmund Freud</p>
