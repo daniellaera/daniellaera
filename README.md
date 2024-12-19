@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>The quality of your commitments will determine the course of your life.</p>
 
-<p>- Mark Twain</p>
+<p>- Ralph Marston</p>
