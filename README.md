@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have it all. You just can't have it all at once. </p>
+<p>Circumstances rule men; men do not rule circumstances. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Herodotus</p>
