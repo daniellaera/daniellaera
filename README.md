@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you admire was once a beginner.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>- Jack Butcher</p>
+<p>- Thich Nhat Hanh</p>
