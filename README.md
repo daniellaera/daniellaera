@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul is neither born, and nor does it die.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Mark Twain</p>
