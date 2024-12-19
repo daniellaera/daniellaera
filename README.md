@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your commitments will determine the course of your life.</p>
+<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
 
-<p>- Ralph Marston</p>
+<p>- Zig Ziglar</p>
