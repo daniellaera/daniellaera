@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
+<p>The constant assertion of belief is an indication of fear.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Jiddu Krishnamurti</p>
