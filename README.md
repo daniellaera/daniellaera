@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True love stories never have endings.</p>
+<p>Our deeds determine us, as much as we determine our deeds.</p>
 
-<p>- Richard Bach</p>
+<p>- George Eliot</p>
