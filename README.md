@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are people who have money and people who are rich.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Coco Chanel</p>
+<p>- Ralph Waldo Emerson</p>
