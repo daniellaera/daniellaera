@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Theodore Roosevelt</p>
