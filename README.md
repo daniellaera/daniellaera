@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Plants grow weak without wind.</p>
+<p>A golden cage is still just a cage.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Anita Krizzan</p>
