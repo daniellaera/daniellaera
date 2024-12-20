@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Against the assault of laughter nothing can stand.</p>
+<p>We are all different. Don't judge, understand instead.</p>
 
-<p>- Mark Twain</p>
+<p>- Roy T. Bennett</p>
