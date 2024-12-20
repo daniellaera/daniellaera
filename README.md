@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something scares you, the more you should do it.</p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>- Mark Manson</p>
+<p>- Alexandre Dumas</p>
