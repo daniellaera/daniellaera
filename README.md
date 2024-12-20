@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not an exception, it is a prevailing attitude.</p>
+<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
 
-<p>- Colin Powell</p>
+<p>- Unknown</p>
