@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the royal road to the unconscious. </p>
+<p>Success is never final, failure is never fatal. It's courage that counts.</p>
 
-<p>- Sigmund Freud</p>
+<p>- John Wooden</p>
