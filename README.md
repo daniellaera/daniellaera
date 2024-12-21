@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people need and what they want may be very different.</p>
+<p>Get mad, then get over it.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Colin Powell</p>
