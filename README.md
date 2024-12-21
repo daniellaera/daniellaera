@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>- Yoko Ono</p>
+<p>- Jim Rohn</p>
