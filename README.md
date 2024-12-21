@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing more frightful than ignorance in action.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Eckhart Tolle</p>
