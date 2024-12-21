@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
+<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Albert Einstein</p>
