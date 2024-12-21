@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>You are today where your thoughts have brought you.</p>
 
-<p>- Unknown</p>
+<p>- James Allen</p>
