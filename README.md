@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All that we see or seem is but a dream within a dream.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- John Wooden</p>
