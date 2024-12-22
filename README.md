@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>- Ronald Reagan</p>
+<p>- C. Sean McGee</p>
