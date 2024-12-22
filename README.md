@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
+<p>You do not read a book for the book's sake, but for your own.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Earl Nightingale</p>
