@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
+<p>The single biggest problem in communication is the illusion that it has taken place.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- George Bernard Shaw</p>
