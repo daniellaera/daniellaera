@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>There's no next time. It's now or never.</p>
 
-<p>- St. Jerome</p>
+<p>- Celestine Chua</p>
