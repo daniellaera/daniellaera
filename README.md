@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is never too late to be what you might have been.</p>
+<p>Do the difficult things while they are easy and do the great things while they are small.</p>
 
-<p>- George Eliot</p>
+<p>- Lao Tzu</p>
