@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The single biggest problem in communication is the illusion that it has taken place.</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- D. H. Lawrence</p>
