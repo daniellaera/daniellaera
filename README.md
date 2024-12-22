@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no next time. It's now or never.</p>
+<p>All you need is the plan, the road map, and the courage to press on to your destination.</p>
 
-<p>- Celestine Chua</p>
+<p>- Earl Nightingale</p>
