@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
 
-<p>- Albert Einstein</p>
+<p>- Jim Rohn</p>
