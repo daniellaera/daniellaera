@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
 
-<p>- Ralph Marston</p>
+<p>- Mother Teresa</p>
