@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Force has no place where there is need of skill. </p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>- Herodotus</p>
+<p>- Spencer Johnson</p>
