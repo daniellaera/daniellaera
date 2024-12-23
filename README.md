@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no uninteresting things, only uninterested people.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Napoleon Hill</p>
