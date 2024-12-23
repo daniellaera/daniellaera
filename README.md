@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Comedy = tragedy + time.</p>
+<p>Being a good example is the best form of service.</p>
 
-<p>- Carol Burnett</p>
+<p>- Sathya Sai Baba</p>
