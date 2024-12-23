@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to predict the future is to create it.</p>
+<p>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Thich Nhat Hanh</p>
