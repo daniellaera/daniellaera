@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Peter Drucker</p>
