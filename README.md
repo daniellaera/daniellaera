@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something new, you have to stop doing something old.</p>
+<p>There are no uninteresting things, only uninterested people.</p>
 
-<p>- Peter Drucker</p>
+<p>- Gilbert Chesterton</p>
