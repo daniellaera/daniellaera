@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
+<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Thomas Jefferson</p>
