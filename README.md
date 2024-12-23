@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace if possible, truth at all costs.</p>
+<p>Comedy = tragedy + time.</p>
 
-<p>- Martin Luther</p>
+<p>- Carol Burnett</p>
