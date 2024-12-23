@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Ralph Marston</p>
