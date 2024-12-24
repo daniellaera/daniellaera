@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
+<p>Remember, hope is a good thing, maybe the best of things.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Stephen King</p>
