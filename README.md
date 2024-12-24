@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
+<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Ayn Rand</p>
