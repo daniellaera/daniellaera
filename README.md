@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</p>
+<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
 
-<p>- Les Brown</p>
+<p>- Maxime Lagace</p>
