@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
+<p>It is easier to fight for one's principles than to live up to them. </p>
 
-<p>- Ayn Rand</p>
+<p>- Alfred Adler</p>
