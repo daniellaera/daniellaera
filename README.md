@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humans and prosperity never endure side by side for long.</p>
+<p>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</p>
 
-<p>- Herodotus</p>
+<p>- Simon Sinek</p>
