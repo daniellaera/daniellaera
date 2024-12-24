@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Kahlil Gibran</p>
