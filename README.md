@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, hope is a good thing, maybe the best of things.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>- Stephen King</p>
+<p>- Socrates</p>
