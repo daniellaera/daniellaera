@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who hesitates is a damned fool.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- Mae West</p>
+<p>- Roy T. Bennett</p>
