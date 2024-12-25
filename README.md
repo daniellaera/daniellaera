@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Force has no place where there is need of skill. </p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>- Herodotus</p>
+<p>- Eric Hoffer</p>
