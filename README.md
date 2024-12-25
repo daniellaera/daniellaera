@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>I am not what happened to me, I am what I choose to become.</p>
 
-<p>- Gabor Mate</p>
+<p>- Carl Jung</p>
