@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I dream my painting and I paint my dream.</p>
+<p>Human beings believe just as they breathe - in order to survive.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Carlos Ruiz Zafon</p>
