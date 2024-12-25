@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings believe just as they breathe - in order to survive.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Wayne Dyer</p>
