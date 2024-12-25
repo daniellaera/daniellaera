@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are possessed by nothing possess everything.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Meister Eckhart</p>
