@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not what happened to me, I am what I choose to become.</p>
+<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
 
-<p>- Carl Jung</p>
+<p>- Celestine Chua</p>
