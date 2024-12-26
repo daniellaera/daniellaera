@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let what you cannot do interfere with what you can do.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
 <p>- John Wooden</p>
