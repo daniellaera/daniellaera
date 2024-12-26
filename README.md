@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your neighbor is the man who needs you.</p>
+<p>It doesn't matter what you do, only how well you do it.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Dan Millman</p>
