@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</p>
 
-<p>- Tony Robbins</p>
+<p>- Gary Keller</p>
