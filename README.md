@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
+<p>You can't build a reputation on what you are going to do. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Henry Ford</p>
