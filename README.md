@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter what you do, only how well you do it.</p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>- Dan Millman</p>
+<p>- Tony Robbins</p>
