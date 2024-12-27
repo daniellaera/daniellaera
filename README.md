@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give out what you most want to come back.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Robin Sharma</p>
+<p>- Unknown</p>
