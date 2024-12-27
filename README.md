@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't make things happen then things will happen to you.</p>
+<p>From the errors of others, a wise man corrects his own.</p>
 
-<p>- Robert Collier</p>
+<p>- Publilius Syrus</p>
