@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From the errors of others, a wise man corrects his own.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Dan Millman</p>
