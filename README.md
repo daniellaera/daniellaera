@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Robert Collier</p>
