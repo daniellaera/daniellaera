@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>- Alan Watts</p>
+<p>- Norman Vincent Peale</p>
