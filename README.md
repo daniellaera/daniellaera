@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
 
-<p>- George Addair</p>
+<p>- Arnold Schwarzenegger</p>
