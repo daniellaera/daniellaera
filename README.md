@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Les Brown</p>
