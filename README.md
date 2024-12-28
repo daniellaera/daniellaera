@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can start changing our world for the better daily, no matter how small the action.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Nelson Mandela</p>
+<p>- George Addair</p>
