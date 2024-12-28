@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Weeds are flowers too, once you get to know them.</p>
+<p>It's possible in ways both large or small to make a difference in someone's life.</p>
 
-<p>- A.A. Milne</p>
+<p>- Yanni</p>
