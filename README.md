@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's possible in ways both large or small to make a difference in someone's life.</p>
+<p>Your only obligation in any lifetime is to be true to yourself.</p>
 
-<p>- Yanni</p>
+<p>- Richard Bach</p>
