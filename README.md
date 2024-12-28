@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
+<p>Don't be afraid to give up the good to go for the great.</p>
 
-<p>- Celestine Chua</p>
+<p>- John D. Rockefeller</p>
