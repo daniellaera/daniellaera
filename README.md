@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If life were predictable it would cease to be life, and be without flavor.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Robert Kiyosaki</p>
