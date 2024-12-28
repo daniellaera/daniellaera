@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
 
-<p>- Jim Rohn</p>
+<p>- Celestine Chua</p>
