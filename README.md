@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only be afraid of what you think you know.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Eleanor Roosevelt</p>
