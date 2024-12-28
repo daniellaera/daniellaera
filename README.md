@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
+<p>Life is a journey, not a destination.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Dan Millman</p>
