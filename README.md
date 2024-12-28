@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
+<p>You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Arnold Schwarzenegger</p>
