@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a journey, not a destination.</p>
+<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
 
-<p>- Dan Millman</p>
+<p>- Zig Ziglar</p>
