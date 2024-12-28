@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Jim Rohn</p>
