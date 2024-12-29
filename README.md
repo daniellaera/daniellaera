@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
+<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
 
-<p>- James Cameron</p>
+<p>- Charles Dickens</p>
