@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>Live, travel, adventure, bless, and don't be sorry.  </p>
 
-<p>- Les Brown</p>
+<p>- Jack Kerouac</p>
