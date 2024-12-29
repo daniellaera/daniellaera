@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Charles Swindoll</p>
