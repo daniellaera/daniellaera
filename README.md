@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.</p>
+<p>The way to love anything is to realize that it may be lost.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Gilbert Chesterton</p>
