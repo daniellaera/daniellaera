@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Les Brown</p>
