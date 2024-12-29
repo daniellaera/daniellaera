@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
+<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Kahlil Gibran</p>
