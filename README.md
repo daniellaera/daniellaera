@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your gift is something that you can do innately better than anything else.</p>
+<p>There will always be suffering. But we must not suffer over the suffering.</p>
 
-<p>- Steve Harvey</p>
+<p>- Alan Watts</p>
