@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Albert Einstein</p>
