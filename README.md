@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of your thoughts.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>- Unknown</p>
+<p>- Les Brown</p>
