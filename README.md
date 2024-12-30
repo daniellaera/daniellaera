@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Amelia Earhart</p>
