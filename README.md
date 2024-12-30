@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
+<p>Anger begins with folly, and ends with repentance. </p>
 
-<p>- Eckhart Tolle</p>
+<p>- Beverly Sills</p>
