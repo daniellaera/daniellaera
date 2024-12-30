@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
+<p>To be able to forget means sanity.</p>
 
-<p>- Buddha</p>
+<p>- Jack London</p>
