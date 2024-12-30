@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</p>
+<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
 
-<p>- Dan Millman</p>
+<p>- Nikola Tesla</p>
