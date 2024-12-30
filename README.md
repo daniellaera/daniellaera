@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Og Mandino</p>
