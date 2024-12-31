@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would you do if you weren't afraid?</p>
+<p>You can't tell big dreams to small minded people.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Steve Harvey</p>
