@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- James Cameron</p>
