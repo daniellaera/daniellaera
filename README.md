@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>I am thankful to all those who said no. It's because of them, I did it myself.  </p>
 
-<p>- Aristotle</p>
+<p>- Wayne Dyer</p>
