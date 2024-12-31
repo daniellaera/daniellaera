@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
 
-<p>- Dan Brown</p>
+<p>- Lao Tzu</p>
