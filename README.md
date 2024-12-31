@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>We are all like the bright moon, we still have our darker side.  </p>
 
-<p>- Martin Luther</p>
+<p>- Kahlil Gibran</p>
