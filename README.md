@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>- Jim Rohn</p>
+<p>- Gary Keller</p>
