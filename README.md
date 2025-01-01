@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>- Jack Butcher</p>
+<p>- Robert Collier</p>
