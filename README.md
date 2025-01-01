@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>Don't be afraid to see what you see.</p>
 
-<p>- Richard Bach</p>
+<p>- Ronald Reagan</p>
