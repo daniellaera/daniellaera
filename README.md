@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone sees what you appear to be, few experience what you really are.</p>
+<p>It is not enough to win a war; it is more important to organize the peace.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Aristotle</p>
