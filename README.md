@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
+<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
 
-<p>- Richard Bach</p>
+<p>- Virginia Woolf</p>
