@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not enough to win a war; it is more important to organize the peace.</p>
+<p>Remember to look up at the stars and not down at your feet.</p>
 
-<p>- Aristotle</p>
+<p>- Stephen Hawking</p>
