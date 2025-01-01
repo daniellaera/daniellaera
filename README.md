@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>- Gary Keller</p>
+<p>- Chinese Proverb</p>
