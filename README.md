@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Richard Bach</p>
