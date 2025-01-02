@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about doing the right thing, not about doing everything right.</p>
+<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
 
-<p>- Gary Keller</p>
+<p>- Mahatma Gandhi</p>
