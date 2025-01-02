@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
 
-<p>- Winston Churchill</p>
+<p>- Audrey Hepburn</p>
