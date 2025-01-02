@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>Success is about doing the right thing, not about doing everything right.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Gary Keller</p>
