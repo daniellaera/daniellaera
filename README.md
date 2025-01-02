@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
+<p>From the errors of others, a wise man corrects his own.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Publilius Syrus</p>
