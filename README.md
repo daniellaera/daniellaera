@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Tony Robbins</p>
+<p>- John Wooden</p>
