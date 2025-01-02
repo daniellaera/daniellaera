@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Get mad, then get over it.</p>
+<p>Most of the evil in this world is done by people with good intentions.</p>
 
-<p>- Colin Powell</p>
+<p>- T.S. Eliot</p>
