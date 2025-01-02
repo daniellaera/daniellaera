@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People don't care how much you know until they know how much you care.</p>
+<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Richard Bach</p>
