@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From the errors of others, a wise man corrects his own.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Tony Robbins</p>
