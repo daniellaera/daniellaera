@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
+<p>Live in the sunshine, swim the sea, drink the wild air.</p>
 
-<p>- Sun Tzu</p>
+<p>- Ralph Waldo Emerson</p>
