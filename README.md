@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fears are nothing more than a state of mind.</p>
+<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Franklin D. Roosevelt</p>
