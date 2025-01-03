@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
+<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Deepak Chopra</p>
