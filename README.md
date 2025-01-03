@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we strive to become better than we are, everything around us becomes better, too.</p>
+<p>Nothing ever goes away until it has taught us what we need to know.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Pema Chodron</p>
