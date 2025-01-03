@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing ever goes away until it has taught us what we need to know.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- Pema Chodron</p>
+<p>- Thomas Edison</p>
