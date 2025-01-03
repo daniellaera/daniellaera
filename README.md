@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
+<p>The only difference between success and failure is the ability to take action.</p>
 
-<p>- Colin Powell</p>
+<p>- Alexander Graham Bell</p>
