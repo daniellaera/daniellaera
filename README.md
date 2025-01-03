@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Judy Garland</p>
