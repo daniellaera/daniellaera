@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
 
-<p>- Thomas Edison</p>
+<p>- Walt Disney</p>
