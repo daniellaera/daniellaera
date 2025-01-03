@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-control is strength.</p>
+<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
 
-<p>- James Allen</p>
+<p>- Colin Powell</p>
