@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cleverness is not wisdom.</p>
+<p>Avoiding failure is to avoid progress.</p>
 
-<p>- Euripides</p>
+<p>- Unknown</p>
