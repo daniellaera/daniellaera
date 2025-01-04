@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>If your mind is empty, it is always ready for anything, it is open to everything.</p>
 
-<p>- Og Mandino</p>
+<p>- Shunryu Suzuki</p>
