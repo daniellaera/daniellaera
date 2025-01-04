@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
+<p>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Alan Watts</p>
