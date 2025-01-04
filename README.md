@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your life a mission - not an intermission.</p>
+<p>The Only Thing That Is Constant Is Change</p>
 
-<p>- Unknown</p>
+<p>- Heraclitus</p>
