@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>- Plato</p>
+<p>- Confucius</p>
