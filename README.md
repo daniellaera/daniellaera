@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Begin now to be what you will be hereafter.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>- St. Jerome</p>
+<p>- Bob Proctor</p>
