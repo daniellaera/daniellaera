@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>- Bob Marley</p>
+<p>- Alexander Pope</p>
