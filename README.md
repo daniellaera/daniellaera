@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</p>
+<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
 
-<p>- Alan Watts</p>
+<p>- Wayne Dyer</p>
