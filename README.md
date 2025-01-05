@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to learn late than never.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Deepak Chopra</p>
