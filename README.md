@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>No man is free who is not master of himself.</p>
 
-<p>- Henry Ford</p>
+<p>- Epictetus</p>
