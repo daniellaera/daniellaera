@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
+<p>It is better to learn late than never.</p>
 
-<p>- A.A. Milne</p>
+<p>- Publilius Syrus</p>
