@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</p>
+<p>If I can pay the bills, I'm happy.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Morgan Wootten</p>
