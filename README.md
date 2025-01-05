@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
+<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
 
-<p>- Alfred Adler</p>
+<p>- Dr. Seuss</p>
