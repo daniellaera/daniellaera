@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</p>
+<p>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Eckhart Tolle</p>
