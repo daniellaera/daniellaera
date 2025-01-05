@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The outer conditions of a person's life will always be found to reflect their inner beliefs.</p>
+<p>Embody what you teach, and teach only what you have embodied.</p>
 
-<p>- James Allen</p>
+<p>- Dan Millman</p>
