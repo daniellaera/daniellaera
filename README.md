@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never waste a minute of your precious life thinking about people you don't like.</p>
+<p>I know of only one duty, and that is to love.</p>
 
-<p>- Celestine Chua</p>
+<p>- George Bernard Shaw</p>
