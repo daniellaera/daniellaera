@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strive for excellence, not perfection, because we don't live in a perfect world.</p>
+<p>The golden opportunity you are seeking is within yourself.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Mary Engelbreit</p>
