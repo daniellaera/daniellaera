@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
 
-<p>- Jack London</p>
+<p>- Steve Harvey</p>
