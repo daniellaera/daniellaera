@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Les Brown</p>
+<p>- Leo Tolstoy</p>
