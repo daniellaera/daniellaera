@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
+<p>Health is the greatest of all possessions.</p>
 
-<p>- John Lennon</p>
+<p>- Jonathan Swift</p>
