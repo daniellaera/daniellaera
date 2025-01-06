@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way out is in.</p>
+<p>Each time we don't say what we wanna say, we're dying.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Yoko Ono</p>
