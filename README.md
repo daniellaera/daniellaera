@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to travel a long way to find what is near.</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Unknown</p>
