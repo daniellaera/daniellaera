@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is well known that those who do not trust themselves never trust others.</p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>- Alfred Adler</p>
+<p>- John Lennon</p>
