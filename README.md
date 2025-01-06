@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>It is well known that those who do not trust themselves never trust others.</p>
 
-<p>- Unknown</p>
+<p>- Alfred Adler</p>
