@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly ignorant, be content with your own knowledge.</p>
+<p>You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.</p>
 
-<p>- Zhuangzi</p>
+<p>- Alan Watts</p>
