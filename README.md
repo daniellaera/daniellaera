@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something threatens your identity, the more you will avoid it.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>- Mark Manson</p>
+<p>- Toni Morrison</p>
