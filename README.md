@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important things are the hardest to say.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>- Stephen King</p>
+<p>- Epictetus</p>
