@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in one thing too much and you have no room for new ideas.  </p>
+<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Epictetus</p>
