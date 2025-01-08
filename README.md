@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be yourself; everyone else is already taken </p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Epictetus</p>
