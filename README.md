@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</p>
+<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Wayne Gretzky</p>
