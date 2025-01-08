@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
+<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
 
-<p>- Winston Churchill</p>
+<p>- Epictetus</p>
