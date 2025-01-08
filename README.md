@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
+<p>You will succeed because most people are lazy.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Shahir Zag</p>
