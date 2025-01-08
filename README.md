@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends on your mindset and attitude.</p>
+<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Spencer Johnson</p>
