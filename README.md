@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We create the world and ourselves;</p>
+<p>Here and now...breathe and relax...in battle and in life.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Dan Millman</p>
