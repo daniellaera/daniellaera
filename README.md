@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
+<p>All our knowledge has its origins in our perceptions.</p>
 
-<p>- Dogen</p>
+<p>- Leonardo da Vinci</p>
