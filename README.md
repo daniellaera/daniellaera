@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
+<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Mark Twain</p>
