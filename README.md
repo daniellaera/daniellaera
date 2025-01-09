@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Plato</p>
+<p>- Benjamin Franklin</p>
