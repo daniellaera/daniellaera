@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe nothing you hear, and only one half that you see.</p>
+<p>Fear is your worst enemy. Risk is your best friend.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Gurbaksh Chahal</p>
