@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
+<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Josh Waitzkin</p>
