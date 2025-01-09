@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is your worst enemy. Risk is your best friend.</p>
+<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Margaret Mead</p>
