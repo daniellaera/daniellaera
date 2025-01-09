@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
+<p>Preoccupied with a single leaf you won't see the tree.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Unknown</p>
