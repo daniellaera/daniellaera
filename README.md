@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>Through discipline comes freedom.</p>
 
-<p>- Socrates</p>
+<p>- Aristotle</p>
