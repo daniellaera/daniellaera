@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love your enemies, for they tell you your faults.</p>
+<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Theodore Roosevelt</p>
