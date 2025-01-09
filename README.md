@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
+<p>If you see a get rich quick scheme, that's someone else trying to get rich off of you.</p>
 
-<p>- Ayn Rand</p>
+<p>- Naval Ravikant</p>
