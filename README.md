@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Mark Twain</p>
+<p>- Socrates</p>
