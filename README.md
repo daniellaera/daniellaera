@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Teachers open the door. You enter by yourself. </p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>- Chinese Proverb</p>
+<p>- J.R.R. Tolkien</p>
