@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Unknown</p>
