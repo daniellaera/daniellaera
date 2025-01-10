@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate with people who are likely to improve you.  </p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>- Seneca</p>
+<p>- Orison Swett Marden</p>
