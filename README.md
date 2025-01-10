@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure is what lies ahead.</p>
+<p>The only way round is through.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Robert Frost</p>
