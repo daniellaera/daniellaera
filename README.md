@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either you run the day or the day runs you.</p>
+<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
 
-<p>- Jim Rohn</p>
+<p>- Eleanor Roosevelt</p>
