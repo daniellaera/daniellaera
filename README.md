@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men who have achieved great things have been great dreamers. </p>
+<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Marcus Aurelius</p>
