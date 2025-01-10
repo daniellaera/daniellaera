@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
+<p>Associate with people who are likely to improve you.  </p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Seneca</p>
