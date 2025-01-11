@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Admire as much as you can. Most people do not admire enough.</p>
+<p>Never let the fear of striking out keep you from playing the game.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Babe Ruth</p>
