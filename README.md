@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
+<p>It is better to offer no excuse than a bad one. </p>
 
-<p>- Peter A. Cohen</p>
+<p>- George Washington</p>
