@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>- Aristophanes</p>
+<p>- Vincent van Gogh</p>
