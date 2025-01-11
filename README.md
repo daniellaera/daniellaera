@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
+<p>Believe you can and you're halfway there.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Theodore Roosevelt</p>
