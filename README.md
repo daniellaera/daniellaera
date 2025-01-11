@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiny change today brings a dramatically different tomorrow.</p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>- Richard Bach</p>
+<p>- Aristophanes</p>
