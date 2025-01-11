@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistake is a mistake only if you make it twice.</p>
+<p>Work is always an antidote to depression.</p>
 
-<p>- Robin Sharma</p>
+<p>- Eleanor Roosevelt</p>
