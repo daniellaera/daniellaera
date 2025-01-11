@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge another, you do not define them, you define yourself</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>- Wayne Dyer</p>
+<p>- John Eliot</p>
