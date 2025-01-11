@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you're halfway there.</p>
+<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Peter A. Cohen</p>
