@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the fear of striking out keep you from playing the game.</p>
+<p>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</p>
 
-<p>- Babe Ruth</p>
+<p>- Aristotle</p>
