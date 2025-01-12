@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make each day your masterpiece.</p>
+<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
 
-<p>- John Wooden</p>
+<p>- Buddha</p>
