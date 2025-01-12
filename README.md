@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time goes from present to past.</p>
+<p>What would you do if you weren't afraid?</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Spencer Johnson</p>
