@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
+<p>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Elon Musk</p>
