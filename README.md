@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real growth comes through intense, difficult, and challenging situations.</p>
+<p>Winning isn't always championships.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Michael Jordan</p>
