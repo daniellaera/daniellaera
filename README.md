@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't learn to do, but learn in doing.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>- Samuel Butler</p>
+<p>- Elon Musk</p>
