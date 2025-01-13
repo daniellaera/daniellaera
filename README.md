@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When something is important enough, you do it even if the odds are not in your favor.</p>
+<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
 
-<p>- Elon Musk</p>
+<p>- Naval Ravikant</p>
