@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something threatens your identity, the more you will avoid it.</p>
+<p>Mistakes are always forgivable, if one has the courage to admit them. </p>
 
-<p>- Mark Manson</p>
+<p>- Bruce Lee</p>
