@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength. </p>
+<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Sun Tzu</p>
