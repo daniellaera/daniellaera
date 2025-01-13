@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
+<p>You are what you believe yourself to be.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Paulo Coelho</p>
