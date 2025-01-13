@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe yourself to be.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Dale Carnegie</p>
