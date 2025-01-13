@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who you are is always right.</p>
+<p>Where there is no struggle, there is no strength. </p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Oprah Winfrey</p>
