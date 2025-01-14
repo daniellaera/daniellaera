@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man becomes rich unless he enriches others.</p>
+<p>What are we doing here, that is the question.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Samuel Beckett</p>
