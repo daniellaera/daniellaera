@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What are we doing here, that is the question.</p>
+<p>Never to suffer would never to have been blessed.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Edgar Allan Poe</p>
