@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always lived in the moment.</p>
+<p>No man becomes rich unless he enriches others.</p>
 
-<p>- Yanni</p>
+<p>- Andrew Carnegie</p>
