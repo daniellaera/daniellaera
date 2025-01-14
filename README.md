@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never to suffer would never to have been blessed.</p>
+<p>Thinking will not overcome fear but action will. </p>
 
-<p>- Edgar Allan Poe</p>
+<p>- W. Clement Stone</p>
