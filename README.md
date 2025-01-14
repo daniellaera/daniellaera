@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the fear of striking out keep you from playing the game.</p>
+<p>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</p>
 
-<p>- Babe Ruth</p>
+<p>- Denis Waitley</p>
