@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do good by stealth, and blush to find it fame.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>- Alexander Pope</p>
+<p>- Stephen King</p>
