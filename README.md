@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it is dark enough, you can see the stars.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Simon Sinek</p>
