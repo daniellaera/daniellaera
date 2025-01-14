@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
+<p>Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Steve Maraboli</p>
