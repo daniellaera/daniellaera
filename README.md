@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Josh Waitzkin</p>
