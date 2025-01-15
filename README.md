@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mountain never yields to the wind no matter how strong it is.</p>
+<p>Do one thing every day that scares you.</p>
 
-<p>- Zen Proverb</p>
+<p>- Eleanor Roosevelt</p>
