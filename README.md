@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- George Bernard Shaw</p>
