@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Andrew Carnegie</p>
