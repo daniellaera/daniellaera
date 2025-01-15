@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>Preoccupied with a single leaf you won't see the tree.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Unknown</p>
