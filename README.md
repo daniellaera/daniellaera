@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first man gets the oyster, the second man gets the shell.</p>
+<p>Find your Light; They can't love you if they can't see you.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Bette Midler</p>
