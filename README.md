@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
+<p>No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Kamal Ravikant</p>
