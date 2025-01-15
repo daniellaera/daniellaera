@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is destiny.</p>
+<p>Looking after my health today gives me a better hope for tomorrow. </p>
 
-<p>- Heraclitus</p>
+<p>- Anne Wilson Schaef</p>
