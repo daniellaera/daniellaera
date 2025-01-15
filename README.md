@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>- Anne Frank</p>
+<p>- Dalai Lama</p>
