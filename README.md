@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>Be brave enough to suck at something new.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Unknown</p>
