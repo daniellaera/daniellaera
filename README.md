@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>- Confucius</p>
+<p>- Jonathan Swift</p>
