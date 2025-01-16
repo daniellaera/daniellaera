@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who do nothing at all make no mistakes.</p>
+<p>It is our choices that show what we truly are, far more than our abilities.</p>
 
-<p>- Unknown</p>
+<p>- Albus Dumbledore</p>
