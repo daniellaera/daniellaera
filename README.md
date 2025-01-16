@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must be willing to do what others won't do, to have what others won't have.</p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>- Les Brown</p>
+<p>- Jeffrey Gitomer</p>
