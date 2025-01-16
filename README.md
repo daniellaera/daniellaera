@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Seungsahn</p>
