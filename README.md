@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you love someone, you love the person as they are, and not as you'd like them to be.</p>
+<p>What people need and what they want may be very different.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Elbert Hubbard</p>
