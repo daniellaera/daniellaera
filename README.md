@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our choices that show what we truly are, far more than our abilities.</p>
+<p>Reality is nothing but a collective hunch.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Lily Tomlin</p>
