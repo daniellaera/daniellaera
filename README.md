@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to not feel hopeless is to get up and do something.</p>
+<p>Sadness is but a wall between two gardens.</p>
 
-<p>- Barack Obama</p>
+<p>- Kahlil Gibran</p>
