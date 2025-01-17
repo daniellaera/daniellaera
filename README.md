@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</p>
+<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Napoleon Hill</p>
