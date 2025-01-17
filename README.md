@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Henry Ward Beecher</p>
