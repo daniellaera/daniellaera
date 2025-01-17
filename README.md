@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most great people have achieved their greatest success just one step beyond their greatest failure.</p>
+<p>Our stories may be singular, but our destination is shared.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Barack Obama</p>
