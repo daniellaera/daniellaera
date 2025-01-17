@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>When you want something in life, you just gotta reach out and grab it.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Christopher McCandless</p>
