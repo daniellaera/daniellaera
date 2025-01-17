@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You make your own luck if you stay at it long enough.</p>
+<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Criss Jami</p>
