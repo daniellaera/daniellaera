@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>Most people get ahead during the time that others waste.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Henry Ford</p>
