@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>You make your own luck if you stay at it long enough.</p>
 
-<p>- Henry Ford</p>
+<p>- Naval Ravikant</p>
