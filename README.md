@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want something in life, you just gotta reach out and grab it.</p>
+<p>Be happy now, without reason - or you never will be at all.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Dan Millman</p>
