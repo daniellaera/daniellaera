@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
+<p>Any game becomes important when you know and love the players.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- W.P. Kinsella</p>
