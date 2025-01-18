@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
+<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robert Kiyosaki</p>
