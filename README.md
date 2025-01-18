@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart that gives, gathers.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dr. Seuss</p>
