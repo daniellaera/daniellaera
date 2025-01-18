@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quiet people have the loudest minds.</p>
+<p>Adventure is worthwhile in itself.</p>
 
-<p>- Stephen King</p>
+<p>- Amelia Earhart</p>
