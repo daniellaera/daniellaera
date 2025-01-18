@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your stand today. On this spot. On this day.</p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Simon Sinek</p>
