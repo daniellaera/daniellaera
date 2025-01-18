@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</p>
+<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
 
-<p>- Sydney Smith</p>
+<p>- Norman Vincent Peale</p>
