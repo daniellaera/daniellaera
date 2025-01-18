@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
+<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Pema Chodron</p>
