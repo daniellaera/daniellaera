@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The cost of leadership is self-interest.</p>
+<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
 
-<p>- Simon Sinek</p>
+<p>- Thomas Jefferson</p>
