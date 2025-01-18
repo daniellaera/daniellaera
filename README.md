@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way of success is the way of continuous pursuit of knowledge.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Stephen King</p>
