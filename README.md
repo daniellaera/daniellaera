@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>Make your stand today. On this spot. On this day.</p>
 
-<p>- Pema Chodron</p>
+<p>- Ming-Dao Deng</p>
