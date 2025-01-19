@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not a skill. It is an attitude. </p>
+<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
 
-<p>- Ralph Marston</p>
+<p>- Mark Twain</p>
