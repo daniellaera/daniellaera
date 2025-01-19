@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows best knows how little he knows.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Stephen Hawking</p>
