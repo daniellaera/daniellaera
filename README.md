@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do to others what you would not like them to do to you. </p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>- Confucius</p>
+<p>- Helen Keller</p>
