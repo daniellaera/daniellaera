@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
+<p>It is useless to attempt to reason a man out of a thing he was never reasoned into.</p>
 
-<p>- Mark Twain</p>
+<p>- Jonathan Swift</p>
