@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is not a lover who does not love forever.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Euripides</p>
+<p>- Marilyn Monroe</p>
