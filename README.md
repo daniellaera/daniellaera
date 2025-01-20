@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You came empty handed, and you will leave empty handed.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Dalai Lama</p>
