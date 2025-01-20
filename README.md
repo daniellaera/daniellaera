@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</p>
+<p>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Robert Greene</p>
