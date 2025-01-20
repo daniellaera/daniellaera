@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must not sit down and wait for miracles. Up and be going!</p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>- John Eliot</p>
+<p>- Bhagavad Gita</p>
