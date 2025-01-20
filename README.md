@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is your attitude, not your aptitude, that determines your altitude.</p>
+<p>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Sathya Sai Baba</p>
