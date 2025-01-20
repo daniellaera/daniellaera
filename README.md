@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Like it or not, this moment is all we really have to work with.</p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- John Carmack</p>
