@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True life is lived when tiny changes occur.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Paulo Coelho</p>
