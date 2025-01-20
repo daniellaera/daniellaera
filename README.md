@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between treason and patriotism is only a matter of dates.</p>
+<p>Live, travel, adventure, bless, and don't be sorry.  </p>
 
-<p>- Alexandre Dumas</p>
+<p>- Jack Kerouac</p>
