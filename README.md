@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can see through others only when we can see through ourselves.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>- Bruce Lee</p>
+<p>- Dan Millman</p>
