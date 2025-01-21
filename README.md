@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Constantly think about how you could be doing things better.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- Elon Musk</p>
+<p>- Theodore Roosevelt</p>
