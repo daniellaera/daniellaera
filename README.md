@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quiet people have the loudest minds.</p>
+<p>Work is always an antidote to depression.</p>
 
-<p>- Stephen King</p>
+<p>- Eleanor Roosevelt</p>
