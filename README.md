@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is not an act, it is a habit.</p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>- Aristotle</p>
+<p>- D. H. Lawrence</p>
