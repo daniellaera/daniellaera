@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friend is the man who knows all about you, and still likes you.</p>
+<p>All men are equal before fish.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Herbert Hoover</p>
