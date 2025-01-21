@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conquer the devils with a little thing called love.</p>
+<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
 
-<p>- Bob Marley</p>
+<p>- Andrew Carnegie</p>
