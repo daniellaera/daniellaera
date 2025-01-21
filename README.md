@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men are equal before fish.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Bruce Lee</p>
