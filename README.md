@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy is a commodity, execution is an art.</p>
+<p>Everyday you can take a tiny step in the right direction.</p>
 
-<p>- Peter Drucker</p>
+<p>- Unknown</p>
