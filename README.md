@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Money poisons you when you've got it, and starves you when you haven't.</p>
+<p>Don't stop when you're tired. Stop when you're done.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Marilyn Monroe</p>
