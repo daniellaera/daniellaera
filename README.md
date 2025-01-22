@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- Criss Jami</p>
+<p>- Roy T. Bennett</p>
