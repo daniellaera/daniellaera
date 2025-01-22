@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
+<p>If you have only one smile in you give it to the people you love.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Maya Angelou</p>
