@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is often safer to be in chains than to be free. </p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>- Franz Kafka</p>
+<p>- Jack London</p>
