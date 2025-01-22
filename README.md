@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you've got; it's what you do that makes the difference.</p>
+<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
 
-<p>- Celestine Chua</p>
+<p>- Criss Jami</p>
