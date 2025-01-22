@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can see through others only when we can see through ourselves.</p>
+<p>Don't bother people for help without first trying to solve the problem yourself.</p>
 
-<p>- Bruce Lee</p>
+<p>- Colin Powell</p>
