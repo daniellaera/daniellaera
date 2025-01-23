@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't blame others. it won't make you a better person.</p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Simon Sinek</p>
