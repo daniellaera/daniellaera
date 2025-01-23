@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>- Roy T. Bennett</p>
+<p>- C. Sean McGee</p>
