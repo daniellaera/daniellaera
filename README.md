@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The cost of leadership is self-interest.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>- Simon Sinek</p>
+<p>- Honore de Balzac</p>
