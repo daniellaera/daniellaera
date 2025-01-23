@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Honore de Balzac</p>
