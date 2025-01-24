@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has the name of life, but in reality it is death.</p>
+<p>When you reach the top of the mountain, keep climbing. </p>
 
-<p>- Heraclitus</p>
+<p>- Zen Proverb</p>
