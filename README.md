@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be prepared is half the victory. </p>
+<p>One of the keys to happiness is a bad memory.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Rita Mae Brown</p>
