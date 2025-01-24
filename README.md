@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Heraclitus</p>
