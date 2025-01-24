@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
+<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Zig Ziglar</p>
