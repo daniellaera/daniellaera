@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Confucius</p>
