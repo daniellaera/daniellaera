@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work is always an antidote to depression.</p>
+<p>The less people know, the more stubbornly they know it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Osho</p>
