@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man invented language to satisfy his deep need to complain.</p>
+<p>Trusting our intuition often saves us from disaster. </p>
 
-<p>- Lily Tomlin</p>
+<p>- Anne Wilson Schaef</p>
