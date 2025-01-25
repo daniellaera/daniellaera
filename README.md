@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>- Bette Midler</p>
+<p>- Robert Kiyosaki</p>
