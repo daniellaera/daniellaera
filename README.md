@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>The idea of ourselves is our escape from the fact of what we really are.</p>
 
-<p>- Les Brown</p>
+<p>- Jiddu Krishnamurti</p>
