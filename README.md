@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Joyce Meyer</p>
