@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less people know, the more stubbornly they know it.</p>
+<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
 
-<p>- Osho</p>
+<p>- Dogen</p>
