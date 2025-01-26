@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people need and what they want may be very different.</p>
+<p>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Winston Churchill</p>
