@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Setting goals is the first step in turning the invisible into the visible.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- Tony Robbins</p>
+<p>- Johann Wolfgang von Goethe</p>
