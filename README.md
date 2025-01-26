@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>Chase your passion, not your pension. </p>
 
-<p>- Unknown</p>
+<p>- Denis Waitley</p>
