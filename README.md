@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The act of taking the first step is what separates the winners from the losers.</p>
+<p>Some people dream of success, while others wake up and work hard at it.</p>
 
-<p>- Brian Tracy</p>
+<p>- Napoleon Hill</p>
