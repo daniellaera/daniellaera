@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people dream of success, while others wake up and work hard at it.</p>
+<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Zig Ziglar</p>
