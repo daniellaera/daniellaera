@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One mistake does not have to rule a person's entire life.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Henry Ford</p>
