@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Samuel Butler</p>
