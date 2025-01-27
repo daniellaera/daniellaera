@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>One mistake does not have to rule a person's entire life.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Joyce Meyer</p>
