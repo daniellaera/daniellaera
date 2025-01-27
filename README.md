@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>- Gary Keller</p>
+<p>- John Lennon</p>
