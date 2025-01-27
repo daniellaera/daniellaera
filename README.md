@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One loyal friend is worth ten thousand relatives.</p>
+<p>Stop acting so small. You are the universe in ecstatic motion.</p>
 
-<p>- Euripides</p>
+<p>- Rumi</p>
