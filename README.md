@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>Don't wait for extraordinary opportunities. Seize common occasions and make them great.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Orison Swett Marden</p>
