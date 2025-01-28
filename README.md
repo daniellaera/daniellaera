@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
+<p>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Martin Luther</p>
