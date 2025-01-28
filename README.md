@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't blame others. it won't make you a better person.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>- Lolly Daskal</p>
+<p>- Harry S. Truman</p>
