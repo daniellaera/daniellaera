@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the expression of one's values.</p>
+<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
 
-<p>- Ayn Rand</p>
+<p>- Andrew Carnegie</p>
