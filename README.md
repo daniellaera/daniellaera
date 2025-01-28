@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
+<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
 
-<p>- Will Rogers</p>
+<p>- Theodore Roosevelt</p>
