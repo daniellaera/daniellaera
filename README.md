@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything eaten is killed. Every meal is a sacrifice.</p>
+<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Carl Jung</p>
