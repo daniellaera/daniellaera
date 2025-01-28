@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lying can never save us from another lie.</p>
+<p>Success is within the reach of just about everyone.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Lolly Daskal</p>
