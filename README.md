@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
+<p>Love is the expression of one's values.</p>
 
-<p>- George Washington</p>
+<p>- Ayn Rand</p>
