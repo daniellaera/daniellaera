@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is like money, easier made than kept.</p>
+<p>Do what is right, not what is easy, nor what is popular.</p>
 
-<p>- Samuel Butler</p>
+<p>- Roy T. Bennett</p>
