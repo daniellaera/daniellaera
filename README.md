@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A leader is one who knows the way, goes the way, and shows the way.</p>
+<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
 
-<p>- Unknown</p>
+<p>- Brian Tracy</p>
