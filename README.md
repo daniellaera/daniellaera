@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True prayer has no set form.</p>
+<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Franklin D. Roosevelt</p>
