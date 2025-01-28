@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>- Martin Luther</p>
+<p>- Adi Da Samraj</p>
