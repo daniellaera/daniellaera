@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the behavior of others destroy your inner peace.</p>
+<p>I love fools' experiments. I am always making them.</p>
 
-<p>- Dalai Lama</p>
+<p>- Charles Darwin</p>
