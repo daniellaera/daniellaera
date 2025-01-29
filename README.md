@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
 
-<p>- Seneca</p>
+<p>- Sydney Smith</p>
