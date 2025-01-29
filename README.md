@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
+<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
 
-<p>- Denis Waitley</p>
+<p>- Lao Tzu</p>
