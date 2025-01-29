@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</p>
+<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Ming-Dao Deng</p>
