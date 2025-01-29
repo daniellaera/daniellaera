@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Earl Nightingale</p>
