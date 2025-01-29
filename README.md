@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person who does not read is no better than one cannot read.</p>
+<p>No great mind has ever existed without a touch of madness.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Aristotle</p>
