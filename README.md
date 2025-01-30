@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
+<p>The older you get, the better you get. Unless you're a banana.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Betty White</p>
