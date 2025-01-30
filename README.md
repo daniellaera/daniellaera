@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>Mind is the creator of everything. You should therefore guide it to create only good.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Paramahansa Yogananda</p>
