@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Zen Proverb</p>
+<p>- Ronald Reagan</p>
