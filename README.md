@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the better you get. Unless you're a banana.</p>
+<p>You cannot find peace avoiding life.</p>
 
-<p>- Betty White</p>
+<p>- Virginia Woolf</p>
