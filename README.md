@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never fear quarrels, but seek hazardous adventures.</p>
+<p>Sorrow is how we learn to love.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Rita Mae Brown</p>
