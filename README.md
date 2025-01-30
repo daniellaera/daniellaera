@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Maya Angelou</p>
