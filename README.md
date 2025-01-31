@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most difficult times for many of us are the ones we give ourselves.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>- Pema Chodron</p>
+<p>- Peter A. Cohen</p>
