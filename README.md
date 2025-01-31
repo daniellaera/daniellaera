@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
+<p>We should not look back unless it is to derive useful lessons from past errors.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- George Washington</p>
