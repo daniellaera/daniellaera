@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
+<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Gilbert Chesterton</p>
