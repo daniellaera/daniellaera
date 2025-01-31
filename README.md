@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>- Jim Rohn</p>
+<p>- Pema Chodron</p>
