@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>- Walt Disney</p>
+<p>- Charles Dickens</p>
