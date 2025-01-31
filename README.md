@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way out is in.</p>
+<p>Life does not get better by chance, it gets better by change.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Jim Rohn</p>
