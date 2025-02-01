@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of business; treat others like they want to treat you.</p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>- Charles Dickens</p>
+<p>- Arnold Schwarzenegger</p>
