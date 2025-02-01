@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The birth of the mind is the death of the senses.</p>
+<p>If you can't feed a hundred people, then feed just one.</p>
 
-<p>- Dan Millman</p>
+<p>- Mother Teresa</p>
