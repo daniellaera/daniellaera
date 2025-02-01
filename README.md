@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership is solving problems</p>
+<p>Everything that irritates us about others.</p>
 
-<p>- Colin Powell</p>
+<p>- Carl Jung</p>
