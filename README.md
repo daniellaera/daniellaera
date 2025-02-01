@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Unknown</p>
