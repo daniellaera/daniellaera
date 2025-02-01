@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>Giving back involves a certain amount of giving up.</p>
 
-<p>- Osho</p>
+<p>- Colin Powell</p>
