@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
+<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
 
-<p>- Henry Ford</p>
+<p>- Eleanor Roosevelt</p>
