@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
+<p>Faith is taking the first step even when you don't see the whole staircase.</p>
 
-<p>- Elon Musk</p>
+<p>- Martin Luther King, Jr.</p>
