@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faith is taking the first step even when you don't see the whole staircase.</p>
+<p>The world makes way for the man who knows where he is going.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Ralph Waldo Emerson</p>
