@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
+<p>Good things aren't supposed to just fall into your lap.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Audrey Hepburn</p>
