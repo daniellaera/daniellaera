@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Elbert Hubbard</p>
