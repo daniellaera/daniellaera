@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place success comes before work is in the dictionary.</p>
+<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Elon Musk</p>
