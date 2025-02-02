@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Thomas Jefferson</p>
