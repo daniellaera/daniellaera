@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not take life too seriously. You will never get out of it alive.</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Sathya Sai Baba</p>
