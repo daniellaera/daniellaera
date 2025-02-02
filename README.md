@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>Begin now to be what you will be hereafter.</p>
 
-<p>- Robin Sharma</p>
+<p>- St. Jerome</p>
