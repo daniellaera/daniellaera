@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
+<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
 
-<p>- Joan Rivers</p>
+<p>- Arnold Schwarzenegger</p>
