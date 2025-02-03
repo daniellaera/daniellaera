@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One must be poor to know the luxury of giving.</p>
+<p>The strongest and sweetest songs yet remain to be sung.</p>
 
-<p>- George Eliot</p>
+<p>- Walt Whitman</p>
