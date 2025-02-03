@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
 
-<p>- Herodotus</p>
+<p>- Benjamin Mays</p>
