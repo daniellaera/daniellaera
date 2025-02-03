@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To earn more you must learn more.</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>- Brian Tracy</p>
+<p>- Christopher Columbus</p>
