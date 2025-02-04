@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>We can spend our whole lives escaping from the monsters of our minds.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Pema Chodron</p>
