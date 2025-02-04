@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where violence reigns, reason is weak.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Eric Hoffer</p>
