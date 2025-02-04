@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- George Eliot</p>
