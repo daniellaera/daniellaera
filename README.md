@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pursuit of mastery bears gifts. </p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>- Gary Keller</p>
+<p>- Osho</p>
