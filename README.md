@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can spend our whole lives escaping from the monsters of our minds.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>- Pema Chodron</p>
+<p>- Audrey Hepburn</p>
