@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>- Osho</p>
+<p>- Virginia Woolf</p>
