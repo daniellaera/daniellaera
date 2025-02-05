@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let your memories be greater than your dreams.</p>
+<p>He who wishes to be obeyed must know how to command.</p>
 
-<p>- Doug Ivester</p>
+<p>- Niccolo Machiavelli</p>
