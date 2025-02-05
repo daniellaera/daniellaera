@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>There is only the one reality, neither to be realized nor attained.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Huang Po</p>
