@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe yourself to be.</p>
+<p>Success is about creating value.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Candice Carpenter</p>
