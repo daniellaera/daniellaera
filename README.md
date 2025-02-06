@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you move beyond your fear, you feel free.</p>
+<p>You're always free to change your mind and choose a different future, or a different past.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Richard Bach</p>
