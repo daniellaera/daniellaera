@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All our knowledge has its origins in our perceptions.</p>
+<p>The person who never made a mistake never tried anything new.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Albert Einstein</p>
