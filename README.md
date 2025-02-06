@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
+<p>All our knowledge has its origins in our perceptions.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Leonardo da Vinci</p>
