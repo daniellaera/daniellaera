@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every limit is a beginning as well as an ending.</p>
+<p>If you want peace, you won't get it with violence.</p>
 
-<p>- George Eliot</p>
+<p>- John Lennon</p>
