@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faith means believing the unbelievable.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Henry Ford</p>
