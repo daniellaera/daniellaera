@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Muddy water is best cleared by leaving it alone.</p>
+<p>It is easier to fight for one's principles than to live up to them. </p>
 
-<p>- Alan Watts</p>
+<p>- Alfred Adler</p>
