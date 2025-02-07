@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I skate to where the puck is going to be, not where it has been.</p>
+<p>Where there is anger, there is always pain underneath.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Eckhart Tolle</p>
