@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is in your own heart.</p>
+<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Zig Ziglar</p>
