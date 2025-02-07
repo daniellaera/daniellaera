@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
+<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
 
-<p>- Dan Millman</p>
+<p>- Dr. Seuss</p>
