@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>- Unknown</p>
+<p>- Dan Millman</p>
