@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is created twice, first in the mind and then in reality.</p>
+<p>Surround yourself only with people who are going to take you higher.</p>
 
-<p>- Robin Sharma</p>
+<p>- Oprah Winfrey</p>
