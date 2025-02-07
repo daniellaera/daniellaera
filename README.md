@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Lao Tzu</p>
