@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- Lao Tzu</p>
+<p>- Unknown</p>
