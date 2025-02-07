@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A journey of a thousand miles must begin with a single step.</p>
+<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
 
-<p>- Lao Tzu</p>
+<p>- Barack Obama</p>
