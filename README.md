@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a man knows not to which port he sails, no wind is favorable.  </p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Seneca</p>
+<p>- Adi Da Samraj</p>
