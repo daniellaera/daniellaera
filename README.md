@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't always championships.</p>
+<p>No great mind has ever existed without a touch of madness.</p>
 
-<p>- Michael Jordan</p>
+<p>- Aristotle</p>
