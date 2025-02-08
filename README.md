@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>Winning isn't always championships.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Michael Jordan</p>
