@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
+<p>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Simon Sinek</p>
