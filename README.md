@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
 
-<p>- Mother Teresa</p>
+<p>- Aristotle</p>
