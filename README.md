@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No great mind has ever existed without a touch of madness.</p>
+<p>There is peace even in the storm.</p>
 
-<p>- Aristotle</p>
+<p>- Vincent van Gogh</p>
