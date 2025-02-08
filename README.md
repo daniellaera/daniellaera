@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
+<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
 
-<p>- Brian Tracy</p>
+<p>- Albus Dumbledore</p>
