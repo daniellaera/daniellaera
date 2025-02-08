@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Penny Saved is a Penny Earned</p>
+<p>You must find the place inside yourself where nothing is impossible.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Les Brown</p>
