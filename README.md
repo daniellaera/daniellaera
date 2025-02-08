@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Paulo Coelho</p>
