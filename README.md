@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freeing oneself from words is liberation. </p>
+<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
 
-<p>- Bodhidharma</p>
+<p>- Estee Lauder</p>
