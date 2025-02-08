@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is peace even in the storm.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Brian Tracy</p>
