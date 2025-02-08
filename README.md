@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
+<p>The art of being happy lies in the power of extracting happiness from common things.</p>
 
-<p>- Estee Lauder</p>
+<p>- Henry Ward Beecher</p>
