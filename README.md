@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is contagious. So is lack of confidence.</p>
+<p>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Colin Powell</p>
