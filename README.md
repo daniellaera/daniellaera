@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Honore de Balzac</p>
