@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
+<p>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Morihei Ueshiba</p>
