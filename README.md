@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage Is a Love Affair with the Unknown</p>
+<p>Confidence is contagious. So is lack of confidence.</p>
 
-<p>- Osho</p>
+<p>- Vince Lombardi</p>
