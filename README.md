@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only normal people are the ones you don't know very well.</p>
+<p>There is nothing more frightful than ignorance in action.</p>
 
-<p>- Alfred Adler</p>
+<p>- Johann Wolfgang von Goethe</p>
