@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
+<p>Courage Is a Love Affair with the Unknown</p>
 
-<p>- Confucius</p>
+<p>- Osho</p>
