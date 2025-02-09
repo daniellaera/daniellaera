@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single dream is more powerful than a thousand realities.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Naval Ravikant</p>
