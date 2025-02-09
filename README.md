@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>No one can confidently say that he will still be living tomorrow.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Euripides</p>
