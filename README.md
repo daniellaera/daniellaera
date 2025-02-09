@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment of happiness requires a great amount of Ignorance</p>
+<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
 
-<p>- Honore de Balzac</p>
+<p>- C. Sean McGee</p>
