@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Looking after my health today gives me a better hope for tomorrow. </p>
+<p>A needle is not sharp at both ends. </p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Chinese Proverb</p>
