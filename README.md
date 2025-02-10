@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the ability, now apply yourself.</p>
+<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Joan Rivers</p>
