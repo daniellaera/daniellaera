@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The primary point of this existence is to live, and all living things move and grow.</p>
+<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Criss Jami</p>
