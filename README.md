@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>If you want to keep your memories, you first have to live them.</p>
 
-<p>- Socrates</p>
+<p>- Bob Dylan</p>
