@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>Looking after my health today gives me a better hope for tomorrow. </p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Anne Wilson Schaef</p>
