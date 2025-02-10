@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
+<p>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Charles Dickens</p>
