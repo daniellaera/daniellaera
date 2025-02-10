@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A needle is not sharp at both ends. </p>
+<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Paulo Coelho</p>
