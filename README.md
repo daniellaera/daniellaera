@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>The primary point of this existence is to live, and all living things move and grow.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Ming-Dao Deng</p>
