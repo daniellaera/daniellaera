@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
 
-<p>- Lao Tzu</p>
+<p>- Robert Greene</p>
