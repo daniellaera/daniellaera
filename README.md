@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</p>
+<p>Embody what you teach, and teach only what you have embodied.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Dan Millman</p>
