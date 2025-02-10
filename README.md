@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Embody what you teach, and teach only what you have embodied.</p>
+<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
 
-<p>- Dan Millman</p>
+<p>- Benjamin Franklin</p>
