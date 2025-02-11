@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>- Ronald Reagan</p>
+<p>- Confucius</p>
