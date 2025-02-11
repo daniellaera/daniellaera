@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reality is nothing but a collective hunch.</p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Dr. Seuss</p>
