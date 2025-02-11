@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The deeper the truth in a creative work, the longer it will live.  </p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Henry Ward Beecher</p>
