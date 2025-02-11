@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is one long process of getting tired.</p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>- Samuel Butler</p>
+<p>- Henry David Thoreau</p>
