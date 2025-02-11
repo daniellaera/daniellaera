@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows best knows how little he knows.</p>
+<p>It's better to dance than to march through life.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Yoko Ono</p>
