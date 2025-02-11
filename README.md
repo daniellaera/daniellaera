@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always turn a negative situation into a positive situation.</p>
+<p>One beam, no matter how big, cannot support an entire house on its own.</p>
 
-<p>- Michael Jordan</p>
+<p>- Chinese Proverb</p>
