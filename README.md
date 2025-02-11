@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>Reality is nothing but a collective hunch.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Lily Tomlin</p>
