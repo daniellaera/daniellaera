@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
+<p>Always turn a negative situation into a positive situation.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Michael Jordan</p>
