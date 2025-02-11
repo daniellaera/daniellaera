@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
+<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
 
-<p>- Brian Tracy</p>
+<p>- Robert F. Kennedy</p>
