@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear of weakness only strengthens weakness.</p>
+<p>The smallest act of kindness is worth more than the greatest intention.  </p>
 
-<p>- Criss Jami</p>
+<p>- Kahlil Gibran</p>
