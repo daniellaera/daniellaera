@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not conquer self, you will be conquered by self.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
-<p>- Napoleon Hill</p>
+<p>- J.R.R. Tolkien</p>
