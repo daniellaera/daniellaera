@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Joan Rivers</p>
