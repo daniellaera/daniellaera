@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't learn to do, but learn in doing.</p>
+<p>The quality of your commitments will determine the course of your life.</p>
 
-<p>- Samuel Butler</p>
+<p>- Ralph Marston</p>
