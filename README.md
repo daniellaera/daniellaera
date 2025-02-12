@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
+<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- D. H. Lawrence</p>
