@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>A fear of weakness only strengthens weakness.</p>
 
-<p>- Unknown</p>
+<p>- Criss Jami</p>
