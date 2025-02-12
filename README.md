@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>There are people who have money and people who are rich.</p>
 
-<p>- Dan Millman</p>
+<p>- Coco Chanel</p>
