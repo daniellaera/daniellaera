@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think when you lose determines how long it will be until you win.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Unknown</p>
