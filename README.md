@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
+<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
 
-<p>- Joan Rivers</p>
+<p>- Anita Krizzan</p>
