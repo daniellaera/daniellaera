@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are people who have money and people who are rich.</p>
+<p>If you do not conquer self, you will be conquered by self.</p>
 
-<p>- Coco Chanel</p>
+<p>- Napoleon Hill</p>
