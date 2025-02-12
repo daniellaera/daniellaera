@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Unknown</p>
