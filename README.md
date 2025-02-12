@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope is a waking dream.</p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>- Aristotle</p>
+<p>- Dan Millman</p>
