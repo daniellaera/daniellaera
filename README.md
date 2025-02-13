@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Walt Disney</p>
