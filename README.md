@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sad thing is, you can still love someone and be wrong for them.</p>
+<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
 
-<p>- Elvis Presley</p>
+<p>- Unknown</p>
