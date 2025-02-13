@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The impossible can always be broken down into possibilities.</p>
+<p>Sometimes letting things go is an act of far greater power than defending or hanging on.</p>
 
-<p>- Unknown</p>
+<p>- Eckhart Tolle</p>
