@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Brian Tracy</p>
