@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>- Robin Sharma</p>
+<p>- Franklin D. Roosevelt</p>
