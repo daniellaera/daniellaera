@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your dream has to be bigger than your fear.</p>
+<p>I believe that one of life's greatest risks is never daring to risk.</p>
 
-<p>- Steve Harvey</p>
+<p>- Oprah Winfrey</p>
