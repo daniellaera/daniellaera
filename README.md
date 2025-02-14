@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We need a backbone, not a wishbone.</p>
+<p>It always seems impossible until it's done.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Nelson Mandela</p>
