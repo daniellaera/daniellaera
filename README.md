@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mountain never yields to the wind no matter how strong it is.</p>
+<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
 
-<p>- Zen Proverb</p>
+<p>- Charles Darwin</p>
