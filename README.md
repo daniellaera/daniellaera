@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
+<p>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</p>
 
-<p>- Charles Darwin</p>
+<p>- Robert Kiyosaki</p>
