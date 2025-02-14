@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
+<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
 
-<p>- Steve Harvey</p>
+<p>- Charles Darwin</p>
