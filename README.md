@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
+<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Sun Tzu</p>
