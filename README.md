@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best answer to anger is silence.</p>
+<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Theodore Roosevelt</p>
