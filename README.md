@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
+<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Spencer Johnson</p>
