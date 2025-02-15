@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>- Charles Darwin</p>
+<p>- Brian Tracy</p>
