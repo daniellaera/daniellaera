@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
-<p>- Steve Maraboli</p>
+<p>- J.R.R. Tolkien</p>
