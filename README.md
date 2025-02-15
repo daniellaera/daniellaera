@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest weariness comes from work not done.</p>
+<p>Faith means believing the unbelievable.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Gilbert Chesterton</p>
