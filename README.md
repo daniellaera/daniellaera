@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
 
-<p>- Bob Dylan</p>
+<p>- Theodore Roosevelt</p>
