@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faithless is he that says farewell when the road darkens.</p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Tony Robbins</p>
