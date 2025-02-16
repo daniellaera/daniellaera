@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Aristotle</p>
