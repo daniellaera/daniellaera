@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For the things we have to learn before we can do them, we learn by doing them.</p>
+<p>Each day your life grows a day shorter. Make every move count.</p>
 
-<p>- Aristotle</p>
+<p>- Ming-Dao Deng</p>
