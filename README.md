@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each day your life grows a day shorter. Make every move count.</p>
+<p>Your only obligation in any lifetime is to be true to yourself.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Richard Bach</p>
