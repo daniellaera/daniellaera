@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>- Joan Rivers</p>
+<p>- Norman Vincent Peale</p>
