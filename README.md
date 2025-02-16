@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A golden cage is still just a cage.</p>
+<p>When the time is gone, you can never get it back.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Stephen King</p>
