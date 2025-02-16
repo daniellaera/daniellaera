@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</p>
+<p>Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.</p>
 
-<p>- Ralph Marston</p>
+<p>- Deepak Chopra</p>
