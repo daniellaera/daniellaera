@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</p>
+<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
 
-<p>- Criss Jami</p>
+<p>- Hans Christian Andersen</p>
