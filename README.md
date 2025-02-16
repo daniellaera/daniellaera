@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Dr. Seuss</p>
