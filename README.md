@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the time is gone, you can never get it back.</p>
+<p>We can have more than we've got because we can become more than we are.</p>
 
-<p>- Stephen King</p>
+<p>- Jim Rohn</p>
