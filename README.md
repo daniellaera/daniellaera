@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>- Confucius</p>
+<p>- Zhuangzi</p>
