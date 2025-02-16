@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>- Jim Rohn</p>
+<p>- Chinese Proverb</p>
