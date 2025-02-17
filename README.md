@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great things are not done by impulse, but by a series of small things brought together.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Eric Hoffer</p>
