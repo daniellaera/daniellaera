@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- Sun Tzu</p>
+<p>- Celestine Chua</p>
