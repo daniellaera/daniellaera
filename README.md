@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you get up one more time than you fall, you will make it through.</p>
+<p>Nothing is easier than fault finding.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Og Mandino</p>
