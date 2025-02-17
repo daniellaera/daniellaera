@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Falling down is not failure. Failure comes when you stay where you have fallen.</p>
+<p>A fool sees himself as another, but a wise man sees others as himself.</p>
 
-<p>- Socrates</p>
+<p>- Dogen</p>
