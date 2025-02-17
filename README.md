@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants. There's no logic. </p>
+<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
 
-<p>- Woody Allen</p>
+<p>- Johann Wolfgang von Goethe</p>
