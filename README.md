@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't settle, and don't struggle.</p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Soren Kierkegaard</p>
