@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not a problem to be solved, but a reality to be experienced.</p>
+<p>Every man is guilty of all the good he did not do. </p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Voltaire</p>
