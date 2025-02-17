@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
+<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Denis Waitley</p>
