@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
+<p>By changing nothing, nothing changes.</p>
 
-<p>- Denis Waitley</p>
+<p>- Celestine Chua</p>
