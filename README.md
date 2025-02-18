@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Helen Keller</p>
