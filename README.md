@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Earl Nightingale</p>
