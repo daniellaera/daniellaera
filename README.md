@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know your gifts and share them.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>- Les Brown</p>
+<p>- Sigmund Freud</p>
