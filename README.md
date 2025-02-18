@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Wayne Dyer</p>
