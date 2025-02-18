@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your dreams, you never know when you might need them.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- T.S. Eliot</p>
