@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
 
-<p>- Robin Sharma</p>
+<p>- Kahlil Gibran</p>
