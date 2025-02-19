@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will succeed because most people are lazy.</p>
+<p>The decisions of our past are the architects of our present.</p>
 
-<p>- Shahir Zag</p>
+<p>- Dan Brown</p>
