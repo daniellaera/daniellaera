@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you've made a mistake, it's better just to laugh at it.</p>
+<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
 
-<p>- Zen Proverb</p>
+<p>- Rita Mae Brown</p>
