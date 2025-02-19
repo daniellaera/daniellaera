@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you think adventure is dangerous, try routine; it is lethal.</p>
+<p>You are your best thing.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Toni Morrison</p>
