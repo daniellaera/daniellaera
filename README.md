@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are your best thing.</p>
+<p>Better late than never.</p>
 
-<p>- Toni Morrison</p>
+<p>- Spencer Johnson</p>
