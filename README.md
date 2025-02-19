@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Henry Ward Beecher</p>
