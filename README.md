@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>- Dan Millman</p>
+<p>- Henry Ford</p>
