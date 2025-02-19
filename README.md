@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is more cheated than the selfish man.</p>
+<p>If you want peace, you won't get it with violence.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- John Lennon</p>
