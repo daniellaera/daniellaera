@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
+<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Naval Ravikant</p>
