@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
+<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
 
-<p>- Barack Obama</p>
+<p>- Naval Ravikant</p>
