@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
+<p>Success is the progressive realization of a worthy goal or ideal.</p>
 
-<p>- Osho</p>
+<p>- Earl Nightingale</p>
