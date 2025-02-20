@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A rational person can find peace by cultivating indifference to things outside of their control.</p>
+<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Paulo Coelho</p>
