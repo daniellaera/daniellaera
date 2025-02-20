@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who is his own master cannot tolerate another boss. </p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Barack Obama</p>
