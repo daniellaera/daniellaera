@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
+<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
 
-<p>- Robin Sharma</p>
+<p>- Osho</p>
