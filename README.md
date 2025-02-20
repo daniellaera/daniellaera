@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination means nothing without doing.  </p>
+<p>Nothing is easier than fault finding.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Og Mandino</p>
