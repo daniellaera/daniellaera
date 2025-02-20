@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
+<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Robin Sharma</p>
