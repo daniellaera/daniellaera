@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When asked, how do you write? I invariably answer, one word at a time.</p>
+<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
 
-<p>- Stephen King</p>
+<p>- John Carmack</p>
