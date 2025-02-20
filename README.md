@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
+<p>Preoccupied with a single leaf you won't see the tree.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Unknown</p>
