@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>I am always doing that which I can not do, in order that I may learn how to do it.</p>
 
-<p>- Unknown</p>
+<p>- Pablo Picasso</p>
