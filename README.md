@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
 
-<p>- Conrad Hilton</p>
+<p>- Brian Tracy</p>
