@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>- William Faulkner</p>
+<p>- Criss Jami</p>
