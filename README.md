@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
+<p>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</p>
 
-<p>- Brian Tracy</p>
+<p>- Socrates</p>
