@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being in a good frame of mind helps keep one in the picture of health.</p>
+<p>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</p>
 
-<p>- Unknown</p>
+<p>- Ming-Dao Deng</p>
