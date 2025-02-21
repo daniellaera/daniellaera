@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is a matter of preparation meeting opportunity.</p>
+<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Kahlil Gibran</p>
