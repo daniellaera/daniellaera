@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
+<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
 
-<p>- Simon Sinek</p>
+<p>- Kamal Ravikant</p>
