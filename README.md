@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>- Mark Manson</p>
+<p>- Simon Sinek</p>
