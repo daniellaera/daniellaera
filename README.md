@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
+<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Seungsahn</p>
