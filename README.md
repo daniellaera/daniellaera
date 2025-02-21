@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
+<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Jack Kerouac</p>
