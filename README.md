@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
+<p>No one is useless in this world who lightens the burdens of another.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Charles Dickens</p>
