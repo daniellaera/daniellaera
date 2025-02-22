@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>- Zen Proverb</p>
+<p>- Jack London</p>
