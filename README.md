@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes not from always being right but not fearing to be wrong.</p>
+<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
 
-<p>- Unknown</p>
+<p>- Bob Dylan</p>
