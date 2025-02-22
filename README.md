@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The power of man has grown in every sphere, except over himself.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>- Winston Churchill</p>
+<p>- Naval Ravikant</p>
