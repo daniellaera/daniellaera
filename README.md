@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more people you help become successful the more successful you become.</p>
+<p>Enlightenment is intimacy with all things.</p>
 
-<p>- Steve Harvey</p>
+<p>- Dogen</p>
