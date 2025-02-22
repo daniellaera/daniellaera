@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>- Colin Powell</p>
+<p>- Henry David Thoreau</p>
