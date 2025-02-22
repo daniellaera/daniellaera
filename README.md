@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't settle, and don't struggle.</p>
+<p>No matter how tall the mountain is, it cannot block the sun.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Chinese Proverb</p>
