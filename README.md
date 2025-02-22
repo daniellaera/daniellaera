@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't everything, but wanting to win is.</p>
+<p>Confidence comes not from always being right but not fearing to be wrong.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Unknown</p>
