@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enlightenment is intimacy with all things.</p>
+<p>Love is merely the name for the desire and pursuit of the whole.</p>
 
-<p>- Dogen</p>
+<p>- Aristophanes</p>
