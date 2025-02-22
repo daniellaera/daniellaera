@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</p>
+<p>Don't seek, don't search, don't ask, don't knock, don't demand - relax.</p>
 
-<p>- Denis Waitley</p>
+<p>- Osho</p>
