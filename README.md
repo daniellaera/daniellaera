@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
+<p>When you have a dream, you've got to grab it and never let go.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Carol Burnett</p>
