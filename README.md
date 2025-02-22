@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
+<p>The power of man has grown in every sphere, except over himself.</p>
 
-<p>- Bob Dylan</p>
+<p>- Winston Churchill</p>
