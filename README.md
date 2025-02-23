@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
+<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Plato</p>
