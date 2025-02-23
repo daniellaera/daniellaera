@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Until we can manage time, we can manage nothing else.</p>
+<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
 
-<p>- Peter Drucker</p>
+<p>- Alexander Graham Bell</p>
