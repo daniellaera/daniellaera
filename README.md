@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>There is no path to Peace. Peace is the path.</p>
 
-<p>- Aristotle</p>
+<p>- Dan Millman</p>
