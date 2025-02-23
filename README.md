@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all like the bright moon, we still have our darker side.  </p>
+<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Colin Powell</p>
