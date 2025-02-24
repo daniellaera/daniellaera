@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+<p>You live by what you thrill to, and there's the end of it.</p>
 
-<p>- Tony Robbins</p>
+<p>- D. H. Lawrence</p>
