@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Unknown</p>
