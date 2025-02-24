@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Woody Allen</p>
+<p>- Yanni</p>
