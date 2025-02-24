@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your gift is something that you can do innately better than anything else.</p>
+<p>The fastest way to change is to laugh at your own folly.</p>
 
-<p>- Steve Harvey</p>
+<p>- Spencer Johnson</p>
