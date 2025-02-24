@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>Your gift is something that you can do innately better than anything else.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Steve Harvey</p>
