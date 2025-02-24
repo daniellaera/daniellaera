@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
+<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Tony Robbins</p>
