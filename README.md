@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Peace. Peace is the path.</p>
+<p>Genius is patience.</p>
 
-<p>- Dan Millman</p>
+<p>- Isaac Newton</p>
