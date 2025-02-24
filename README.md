@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For the things we have to learn before we can do them, we learn by doing them.</p>
+<p>Don't let the noise of others opinions drown out your inner voice.</p>
 
-<p>- Aristotle</p>
+<p>- Steve Jobs</p>
