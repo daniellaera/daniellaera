@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Aristotle</p>
