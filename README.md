@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You do not read a book for the book's sake, but for your own.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Lao Tzu</p>
