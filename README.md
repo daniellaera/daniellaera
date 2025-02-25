@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Bob Proctor</p>
