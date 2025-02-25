@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All life is a manifestation of the spirit, the manifestation of love.</p>
+<p>Your very silence shows you agree.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Euripides</p>
