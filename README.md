@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
+<p>To love means loving the unlovable.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Gilbert Chesterton</p>
