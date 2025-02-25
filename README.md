@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Socrates</p>
