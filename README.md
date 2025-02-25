@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your past does not equal your future.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>- Tony Robbins</p>
+<p>- Chinese Proverb</p>
