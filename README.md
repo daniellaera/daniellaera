@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To love means loving the unlovable.</p>
+<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Kamal Ravikant</p>
