@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All I can do is be me, whoever that is.</p>
+<p>The only difference between success and failure is the ability to take action.</p>
 
-<p>- Bob Dylan</p>
+<p>- Alexander Graham Bell</p>
