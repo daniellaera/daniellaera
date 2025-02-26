@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most powerful warriors are patience and time.</p>
+<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Voltaire</p>
