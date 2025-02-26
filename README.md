@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>- Euripides</p>
+<p>- Leo Tolstoy</p>
