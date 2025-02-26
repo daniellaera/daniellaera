@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must be willing to do what others won't do, to have what others won't have.</p>
+<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
 
-<p>- Les Brown</p>
+<p>- Benjamin Franklin</p>
