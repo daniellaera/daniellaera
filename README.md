@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Through discipline comes freedom.</p>
+<p>All I can do is be me, whoever that is.</p>
 
-<p>- Aristotle</p>
+<p>- Bob Dylan</p>
