@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything begins with an idea.</p>
+<p>Question everything. Learn something. Answer nothing.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Euripides</p>
