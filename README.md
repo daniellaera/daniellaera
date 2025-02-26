@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
+<p>There is peace even in the storm.</p>
 
-<p>- Winston Churchill</p>
+<p>- Vincent van Gogh</p>
