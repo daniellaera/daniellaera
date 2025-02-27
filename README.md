@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give out what you most want to come back.</p>
+<p>Life is like a wheel. Sooner or later, it always comes around to where you started again.</p>
 
-<p>- Robin Sharma</p>
+<p>- Stephen King</p>
