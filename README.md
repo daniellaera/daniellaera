@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Barack Obama</p>
