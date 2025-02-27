@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who hesitates is a damned fool.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>- Mae West</p>
+<p>- Alfred Adler</p>
