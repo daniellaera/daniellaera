@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The chief danger in life is that you may take too many precautions.</p>
+<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
 
-<p>- Alfred Adler</p>
+<p>- Brian Tracy</p>
