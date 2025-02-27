@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun is new each day.</p>
+<p>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</p>
 
-<p>- Heraclitus</p>
+<p>- Deepak Chopra</p>
