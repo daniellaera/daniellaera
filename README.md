@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
 
-<p>- Barack Obama</p>
+<p>- Thomas Jefferson</p>
