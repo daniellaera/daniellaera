@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
+<p>Only those who dare to fail greatly can ever achieve greatly.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robert F. Kennedy</p>
