@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of your greatest lessons come from your darkest moments.</p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>- Roger Lee</p>
+<p>- Soren Kierkegaard</p>
