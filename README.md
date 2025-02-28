@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If everyone is moving forward together, then success takes care of itself.</p>
+<p>The only way to 'find out if it will work out' is to do it.</p>
 
-<p>- Henry Ford</p>
+<p>- Simon Sinek</p>
