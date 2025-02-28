@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Christopher Columbus</p>
