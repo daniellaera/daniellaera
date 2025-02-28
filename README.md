@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing that results in human progress is achieved with unanimous consent.</p>
+<p>The primary point of this existence is to live, and all living things move and grow.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Ming-Dao Deng</p>
