@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is difficult to free fools from the chains they revere. </p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>- Voltaire</p>
+<p>- Pablo Picasso</p>
