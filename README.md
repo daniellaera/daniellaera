@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Alexander Pope</p>
