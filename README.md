@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- Ayn Rand</p>
