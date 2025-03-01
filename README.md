@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
+<p>Do it with passion, or not at all.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Rosa Nouchette Carey</p>
