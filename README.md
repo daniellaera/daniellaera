@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>Let not your mind run on what you lack as much as on what you have already.</p>
 
-<p>- Robin Sharma</p>
+<p>- Marcus Aurelius</p>
