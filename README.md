@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
+<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
 
-<p>- Lao Tzu</p>
+<p>- Wayne Gretzky</p>
