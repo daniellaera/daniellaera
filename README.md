@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are equal; it is not birth but virtue that makes the difference.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>- Voltaire</p>
+<p>- Helen Keller</p>
