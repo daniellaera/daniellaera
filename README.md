@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let not your mind run on what you lack as much as on what you have already.</p>
+<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Ralph Waldo Emerson</p>
