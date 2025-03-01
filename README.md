@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you've never eaten while crying you don t know what life tastes like.</p>
+<p>Men are equal; it is not birth but virtue that makes the difference.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Voltaire</p>
