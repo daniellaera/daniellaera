@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>The more one judges, the less one loves.</p>
 
-<p>- Ralph Marston</p>
+<p>- Honore de Balzac</p>
