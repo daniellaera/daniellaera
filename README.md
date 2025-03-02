@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Ralph Marston</p>
+<p>- Lao Tzu</p>
