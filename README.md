@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What worries you, masters you.</p>
+<p>Success in any endeavor depends on the degree to which it is an expression of your true self. </p>
 
-<p>- John Locke</p>
+<p>- Ralph Marston</p>
