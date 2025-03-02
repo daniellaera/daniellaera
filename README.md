@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
+<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
 
-<p>- Lao Tzu</p>
+<p>- Paramahansa Yogananda</p>
