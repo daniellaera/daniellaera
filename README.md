@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Unknown</p>
