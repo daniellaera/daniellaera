@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>- Mark Twain</p>
+<p>- Dale Carnegie</p>
