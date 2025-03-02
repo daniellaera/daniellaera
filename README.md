@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something threatens your identity, the more you will avoid it.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>- Mark Manson</p>
+<p>- Gurbaksh Chahal</p>
