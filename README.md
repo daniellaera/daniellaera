@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>Life is what happens to you while you're busy making other plans.</p>
 
-<p>- Winston Churchill</p>
+<p>- John Lennon</p>
