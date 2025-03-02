@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul is neither born, and nor does it die.</p>
+<p>Better late than never.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Spencer Johnson</p>
