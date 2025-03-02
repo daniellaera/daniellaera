@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have it all. You just can't have it all at once. </p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Theodore Roosevelt</p>
