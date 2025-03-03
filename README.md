@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you talk about your shame, the more of it you have.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Mark Manson</p>
+<p>- Walt Whitman</p>
