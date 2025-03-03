@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real meditation is how you live your life.</p>
+<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Brian Tracy</p>
