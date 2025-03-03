@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you've made a mistake, it's better just to laugh at it.</p>
+<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
 
-<p>- Zen Proverb</p>
+<p>- Audrey Hepburn</p>
