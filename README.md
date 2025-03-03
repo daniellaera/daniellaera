@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
+<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Zen Proverb</p>
