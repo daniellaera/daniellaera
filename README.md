@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whether you think you can or think you can't – you are right.</p>
+<p>I think self-awareness is probably the most important thing towards being a champion. </p>
 
-<p>- Henry Ford</p>
+<p>- Billie Jean King</p>
