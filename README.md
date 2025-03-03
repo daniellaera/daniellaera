@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can tell more about a person by what he says about others than you can by what others say about him.</p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Chinese Proverb</p>
