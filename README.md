@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are as many opinions as there are experts.</p>
+<p>Honor is the foundation of courage.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Amelia Earhart</p>
