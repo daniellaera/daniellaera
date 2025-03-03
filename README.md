@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience never fears midnight knocking.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robert Kiyosaki</p>
