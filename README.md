@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
+<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
 
-<p>- Tony Robbins</p>
+<p>- Roy T. Bennett</p>
