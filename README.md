@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is simple. If it was complicated, everyone would understand it.</p>
+<p>It doesn't matter what you do, only how well you do it.</p>
 
-<p>- Walt Whitman</p>
+<p>- Dan Millman</p>
