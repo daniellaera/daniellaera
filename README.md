@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</p>
+<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
 
-<p>- Voltaire</p>
+<p>- Eckhart Tolle</p>
