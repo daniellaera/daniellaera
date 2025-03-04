@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Mark Twain</p>
