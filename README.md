@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>Everything you can imagine is real.</p>
 
-<p>- Dan Millman</p>
+<p>- Pablo Picasso</p>
