@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Dale Carnegie</p>
