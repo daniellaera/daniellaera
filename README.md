@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not about what it is, it's about what it can become.</p>
+<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Josh Waitzkin</p>
