@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</p>
+<p>Change yourself and you have done your part in changing the world.</p>
 
-<p>- Bette Midler</p>
+<p>- Paramahansa Yogananda</p>
