@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you can imagine is real.</p>
+<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Stephen Hawking</p>
