@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Dan Millman</p>
