@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Norman Vincent Peale</p>
