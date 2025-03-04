@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
+<p>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Bette Midler</p>
