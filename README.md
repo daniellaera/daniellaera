@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>I never dwell on what happened. You can't change it. Move forward.</p>
 
-<p>- Mark Twain</p>
+<p>- Joan Rivers</p>
