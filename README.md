@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only in the agony of parting do we look into the depths of love.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- George Eliot</p>
+<p>- Socrates</p>
