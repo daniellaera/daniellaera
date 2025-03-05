@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>Our joy does not have to be based on our circumstances.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Joyce Meyer</p>
