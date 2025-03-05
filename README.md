@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are clothes that thoughts wear</p>
+<p>Life has more imagination than we carry in our dreams.</p>
 
-<p>- Samuel Butler</p>
+<p>- Christopher Columbus</p>
