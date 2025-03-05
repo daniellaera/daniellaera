@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every blessing ignored becomes a curse.</p>
+<p>Don't cry because it's over. Smile because it happened.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Dr. Seuss</p>
