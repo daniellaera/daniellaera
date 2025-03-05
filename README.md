@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
+<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
 
-<p>- Bruce Lee</p>
+<p>- Seungsahn</p>
