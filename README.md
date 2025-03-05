@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Mark Manson</p>
