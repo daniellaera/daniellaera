@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>- Mark Twain</p>
+<p>- Paulo Coelho</p>
