@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>Only in the agony of parting do we look into the depths of love.</p>
 
-<p>- Wayne Dyer</p>
+<p>- George Eliot</p>
