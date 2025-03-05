@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>No man is free who is not master of himself.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Epictetus</p>
