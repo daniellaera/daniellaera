@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>- Mark Manson</p>
+<p>- Henry David Thoreau</p>
