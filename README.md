@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
+<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Sonia Ricotti</p>
