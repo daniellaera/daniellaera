@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things may come to those who wait, but only the things left by those who hustle.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- T.S. Eliot</p>
