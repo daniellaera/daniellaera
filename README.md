@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
+<p>Behind every beautiful thing, there's some kind of pain.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Bob Dylan</p>
