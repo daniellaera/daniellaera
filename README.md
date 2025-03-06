@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>- Dalai Lama</p>
+<p>- Abraham Lincoln</p>
