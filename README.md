@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For every minute you are angry you lose sixty seconds of happiness.</p>
+<p>What is planted in each person's soul will sprout.  </p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Rumi</p>
