@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real meditation is how you live your life.</p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Robert Greene</p>
