@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Roy T. Bennett</p>
