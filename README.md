@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
+<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Dalai Lama</p>
