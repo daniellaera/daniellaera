@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Facts are the enemy of truth. </p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Mahatma Gandhi</p>
