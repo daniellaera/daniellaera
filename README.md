@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Herbert Hoover</p>
