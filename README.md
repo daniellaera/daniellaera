@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing has more strength than dire necessity.</p>
+<p>There are no uninteresting things, only uninterested people.</p>
 
-<p>- Euripides</p>
+<p>- Gilbert Chesterton</p>
