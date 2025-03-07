@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</p>
+<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
 
-<p>- Gabor Mate</p>
+<p>- Arnold Schwarzenegger</p>
