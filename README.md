@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the average of the five people you spend the most time with.</p>
+<p>Words have no power to impress the mind without the exquisite horror of their reality.</p>
 
-<p>- Jim Rohn</p>
+<p>- Edgar Allan Poe</p>
