@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is limited by your ability to change your mind.</p>
+<p>You are the average of the five people you spend the most time with.</p>
 
-<p>- Jack Butcher</p>
+<p>- Jim Rohn</p>
