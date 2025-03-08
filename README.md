@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
+<p>Misfortune shows those who are not really friends.</p>
 
-<p>- St. Jerome</p>
+<p>- Aristotle</p>
