@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes good things fall apart so better things can fall together.</p>
+<p>Life is what you make it. Always has been, always will be.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Eleanor Roosevelt</p>
