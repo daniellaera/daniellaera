@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where focus goes, energy flows.</p>
+<p>Passion creates, addiction consumes.</p>
 
-<p>- Tony Robbins</p>
+<p>- Gabor Mate</p>
