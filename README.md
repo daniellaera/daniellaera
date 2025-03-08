@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what you make it. Always has been, always will be.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Harry S. Truman</p>
