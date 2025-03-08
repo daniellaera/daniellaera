@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Misfortune shows those who are not really friends.</p>
+<p>Where focus goes, energy flows.</p>
 
-<p>- Aristotle</p>
+<p>- Tony Robbins</p>
