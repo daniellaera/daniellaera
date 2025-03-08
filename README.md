@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion creates, addiction consumes.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>- Gabor Mate</p>
+<p>- Marilyn Monroe</p>
