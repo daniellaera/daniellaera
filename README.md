@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tomorrow is only found in the calendar of fools.</p>
+<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
 
-<p>- Og Mandino</p>
+<p>- St. Jerome</p>
