@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people need and what they want may be very different.</p>
+<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- A.A. Milne</p>
