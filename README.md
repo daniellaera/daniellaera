@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
+<p>Money poisons you when you've got it, and starves you when you haven't.</p>
 
-<p>- Paulo Coelho</p>
+<p>- D. H. Lawrence</p>
