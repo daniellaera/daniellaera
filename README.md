@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a question and how we live it is our answer.</p>
+<p>A man sees in the world what he carries in his heart.</p>
 
-<p>- Gary Keller</p>
+<p>- Johann Wolfgang von Goethe</p>
