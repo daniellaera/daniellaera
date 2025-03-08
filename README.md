@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is the progressive realization of a worthy goal or ideal.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Paulo Coelho</p>
