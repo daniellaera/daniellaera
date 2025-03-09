@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is far easier to start something than it is to finish it.</p>
+<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Brian Tracy</p>
