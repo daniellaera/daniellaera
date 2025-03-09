@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always lived in the moment.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- Yanni</p>
+<p>- Judy Garland</p>
