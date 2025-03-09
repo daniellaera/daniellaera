@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make each day your masterpiece.</p>
+<p>Passion creates, addiction consumes.</p>
 
-<p>- John Wooden</p>
+<p>- Gabor Mate</p>
