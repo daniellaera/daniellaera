@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Mahatma Gandhi</p>
