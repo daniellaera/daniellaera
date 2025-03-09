@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>- Ayn Rand</p>
+<p>- Oprah Winfrey</p>
