@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</p>
 
-<p>- Albert Einstein</p>
+<p>- Nicolas Chamfort</p>
