@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Albert Einstein</p>
