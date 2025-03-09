@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>- Brian Tracy</p>
+<p>- Vince Lombardi</p>
