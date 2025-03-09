@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
+<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Brian Tracy</p>
