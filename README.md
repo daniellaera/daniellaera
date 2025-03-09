@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
+<p>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</p>
 
-<p>- Bob Marley</p>
+<p>- Henry Ward Beecher</p>
