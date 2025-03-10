@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need to be better than anyone else, you just need to be better than you used to be.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Ralph Marston</p>
