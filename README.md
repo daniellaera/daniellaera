@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is best to begin at the beginning.</p>
+<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Mother Teresa</p>
