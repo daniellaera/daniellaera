@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man suffers only because he takes seriously what the gods made for fun.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>- Alan Watts</p>
+<p>- Bodhidharma</p>
