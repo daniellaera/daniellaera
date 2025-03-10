@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
+<p>The more something threatens your identity, the more you will avoid it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Mark Manson</p>
