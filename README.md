@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>The deeper the truth in a creative work, the longer it will live.  </p>
 
-<p>- Lolly Daskal</p>
+<p>- Charlie Chaplin</p>
