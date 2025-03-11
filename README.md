@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever is begun in anger, ends in shame.</p>
+<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Lolly Daskal</p>
