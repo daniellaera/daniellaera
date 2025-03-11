@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man is affected not by events but by the view he takes of them.  </p>
+<p>All wealth is the product of labor.</p>
 
-<p>- Seneca</p>
+<p>- John Locke</p>
