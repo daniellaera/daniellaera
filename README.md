@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You need to be doing fewer things for more effect instead of doing more things with side effects.</p>
+<p>The way of success is the way of continuous pursuit of knowledge.</p>
 
-<p>- Gary Keller</p>
+<p>- Napoleon Hill</p>
