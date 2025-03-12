@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>It is not enough to win a war; it is more important to organize the peace.</p>
 
-<p>- Bruce Lee</p>
+<p>- Aristotle</p>
