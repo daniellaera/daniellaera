@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
 
-<p>- Spencer Johnson</p>
+<p>- Charlie Chaplin</p>
