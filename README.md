@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Robert Kiyosaki</p>
