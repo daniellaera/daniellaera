@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never to suffer would never to have been blessed.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Roy T. Bennett</p>
