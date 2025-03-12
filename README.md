@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The few who do are the envy of the many who only watch.</p>
+<p>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</p>
 
-<p>- Jim Rohn</p>
+<p>- Morihei Ueshiba</p>
