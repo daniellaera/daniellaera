@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you trust yourself, the less you compare yourself to others.</p>
+<p>Life moves on and so should we.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Spencer Johnson</p>
