@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>The few who do are the envy of the many who only watch.</p>
 
-<p>- Aristotle</p>
+<p>- Jim Rohn</p>
