@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>To love means loving the unlovable.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Gilbert Chesterton</p>
