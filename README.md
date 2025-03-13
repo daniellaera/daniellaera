@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>You are never too old to set another goal or to dream a new dream.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Les Brown</p>
