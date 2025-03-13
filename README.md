@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
 
-<p>- Michael Jordan</p>
+<p>- Paramahansa Yogananda</p>
