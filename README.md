@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To love means loving the unlovable.</p>
+<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Charles Dickens</p>
