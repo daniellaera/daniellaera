@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>Longevity is a fleeting moment that lasts forever.</p>
 
-<p>- Charles Dickens</p>
+<p>- Vidal Sassoon</p>
