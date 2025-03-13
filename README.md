@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are, and whatever you do, be in love.</p>
+<p>Absence makes the heart grow fonder.</p>
 
-<p>- Rumi</p>
+<p>- Eleanor Roosevelt</p>
