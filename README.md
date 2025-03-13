@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absence makes the heart grow fonder.</p>
+<p>Each time we don't say what we wanna say, we're dying.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Yoko Ono</p>
