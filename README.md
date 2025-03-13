@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to learn late than never.</p>
+<p>When you judge another, you do not define them, you define yourself</p>
 
-<p>- Publilius Syrus</p>
+<p>- Wayne Dyer</p>
