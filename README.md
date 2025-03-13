@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Laurence J. Peter</p>
