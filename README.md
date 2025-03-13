@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- Dalai Lama</p>
+<p>- Theodore Roosevelt</p>
