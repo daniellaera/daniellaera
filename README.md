@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn off your mind, relax, and float downstream.</p>
+<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
 
-<p>- John Lennon</p>
+<p>- Deepak Chopra</p>
