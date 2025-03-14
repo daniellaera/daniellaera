@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>Change is never easy, but always possible.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Barack Obama</p>
