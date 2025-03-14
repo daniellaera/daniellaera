@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All I can do is be me, whoever that is.</p>
+<p>You can have the mind or you can have the moment.</p>
 
-<p>- Bob Dylan</p>
+<p>- Naval Ravikant</p>
