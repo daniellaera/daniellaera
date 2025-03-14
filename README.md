@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>- Carl Jung</p>
+<p>- Harry S. Truman</p>
