@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>- Barack Obama</p>
+<p>- Richard Bach</p>
