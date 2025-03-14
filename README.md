@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Argue for your limitations and sure enough, they're yours.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>- Richard Bach</p>
+<p>- Chinese Proverb</p>
