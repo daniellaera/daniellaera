@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have the mind or you can have the moment.</p>
+<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Barack Obama</p>
