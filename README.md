@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>- Stephen Hawking</p>
+<p>- John Carmack</p>
