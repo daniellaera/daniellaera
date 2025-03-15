@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
+<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Ming-Dao Deng</p>
