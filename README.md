@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>- Yanni</p>
+<p>- Stephen Hawking</p>
