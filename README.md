@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth comes at the point of resistance.</p>
+<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Dan Millman</p>
