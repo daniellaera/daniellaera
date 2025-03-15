@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Tony Robbins</p>
+<p>- Leo Tolstoy</p>
