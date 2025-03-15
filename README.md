@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is never easy, but always possible.</p>
+<p>A friend to all is a friend to none.</p>
 
-<p>- Barack Obama</p>
+<p>- Aristotle</p>
