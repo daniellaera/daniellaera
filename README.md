@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You get in life what you have the courage to ask for.</p>
+<p>Art, like morality, consists of drawing the line somewhere.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Gilbert Chesterton</p>
