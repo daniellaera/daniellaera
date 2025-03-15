@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art, like morality, consists of drawing the line somewhere.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Criss Jami</p>
