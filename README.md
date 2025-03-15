@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He will win who knows when to fight and when not to fight.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Sun Tzu</p>
+<p>- John Wooden</p>
