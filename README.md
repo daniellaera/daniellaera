@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek greatness is the only righteous vengeance.</p>
+<p>He will win who knows when to fight and when not to fight.</p>
 
-<p>- Criss Jami</p>
+<p>- Sun Tzu</p>
