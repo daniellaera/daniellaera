@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
+<p>Give a girl the right shoes, and she can conquer the world.</p>
 
-<p>- Tony Robbins</p>
+<p>- Bette Midler</p>
