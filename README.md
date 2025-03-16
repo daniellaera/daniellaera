@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not wait for leaders; do it alone, person to person.</p>
+<p>There are people who have money and people who are rich.</p>
 
-<p>- Mother Teresa</p>
+<p>- Coco Chanel</p>
