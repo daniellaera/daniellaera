@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
+<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
 
-<p>- Kabir</p>
+<p>- Mother Teresa</p>
