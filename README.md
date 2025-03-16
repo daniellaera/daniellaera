@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All I can do is be me, whoever that is.</p>
+<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
 
-<p>- Bob Dylan</p>
+<p>- Dogen</p>
