@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest weariness comes from work not done.</p>
+<p>Nothing will work unless you do.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Maya Angelou</p>
