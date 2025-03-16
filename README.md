@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing will work unless you do.</p>
+<p>The less you talk about your shame, the more of it you have.</p>
 
-<p>- Maya Angelou</p>
+<p>- Mark Manson</p>
