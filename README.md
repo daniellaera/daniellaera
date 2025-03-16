@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is happy unless he believes he is.</p>
+<p>If you aim at nothing, you will hit it every time.  </p>
 
-<p>- Publilius Syrus</p>
+<p>- Zig Ziglar</p>
