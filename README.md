@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you talk about your shame, the more of it you have.</p>
+<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
 
-<p>- Mark Manson</p>
+<p>- Kabir</p>
