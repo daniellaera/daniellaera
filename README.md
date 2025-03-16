@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The two most important days in your life are the day you are born and the day you find out why.</p>
+<p>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</p>
 
 <p>- Mark Twain</p>
