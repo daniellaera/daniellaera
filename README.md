@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be happy in the moment, that's enough. Each moment is all we need, not more.</p>
+<p>Do not wait for leaders; do it alone, person to person.</p>
 
 <p>- Mother Teresa</p>
