@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
+<p>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</p>
 
-<p>- Celestine Chua</p>
+<p>- Ray Bradbury</p>
