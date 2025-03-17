@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
+<p>A leader is one who knows the way, goes the way, and shows the way.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Unknown</p>
