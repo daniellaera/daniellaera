@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</p>
+<p>The meaning of life is to find your gift. The purpose of life is to give it away.</p>
 
-<p>- Les Brown</p>
+<p>- Pablo Picasso</p>
