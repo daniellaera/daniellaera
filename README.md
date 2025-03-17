@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all like the bright moon, we still have our darker side.  </p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Ronald Reagan</p>
