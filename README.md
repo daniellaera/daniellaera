@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Celestine Chua</p>
