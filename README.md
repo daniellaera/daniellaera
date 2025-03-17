@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do to others what you would not like them to do to you. </p>
+<p>We are all like the bright moon, we still have our darker side.  </p>
 
-<p>- Confucius</p>
+<p>- Kahlil Gibran</p>
