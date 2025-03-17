@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A leader is one who knows the way, goes the way, and shows the way.</p>
+<p>If you see yourself as prosperous, you will be.</p>
 
-<p>- Unknown</p>
+<p>- Robert Collier</p>
