@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can pay the bills, I'm happy.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>- Morgan Wootten</p>
+<p>- Oscar Wilde</p>
