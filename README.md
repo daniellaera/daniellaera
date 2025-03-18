@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not something ready made. It comes from your own actions.</p>
+<p>When you make a choice, you change the future.</p>
 
-<p>- Dalai Lama</p>
+<p>- Deepak Chopra</p>
