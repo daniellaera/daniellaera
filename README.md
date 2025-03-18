@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is that it stops.</p>
+<p>Happiness is not something ready made. It comes from your own actions.</p>
 
-<p>- Franz Kafka</p>
+<p>- Dalai Lama</p>
