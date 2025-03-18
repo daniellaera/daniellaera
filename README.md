@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
+<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Gary Keller</p>
