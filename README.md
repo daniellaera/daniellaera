@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
+<p>The more something threatens your identity, the more you will avoid it.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Mark Manson</p>
