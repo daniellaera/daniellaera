@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>It still holds true that man is most uniquely human when he turns obstacles into opportunities.</p>
 
-<p>- Mother Teresa</p>
+<p>- Eric Hoffer</p>
