@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>They who have conquered doubt and fear have conquered failure.</p>
+<p>The fear of death is more to be feared, than death itself.</p>
 
-<p>- James Allen</p>
+<p>- Publilius Syrus</p>
