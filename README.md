@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>- Spencer Johnson</p>
+<p>- J.R.R. Tolkien</p>
