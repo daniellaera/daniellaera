@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>See what you're doing wrong, laugh at it, change and do better.</p>
+<p>If you try to micromanage yourself all you're going to do is make yourself miserable.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Naval Ravikant</p>
