@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being wrong opens us up to the possibility of change.</p>
+<p>The most tragic thing in the world is a man of genius who is not a man of honor.</p>
 
-<p>- Mark Manson</p>
+<p>- George Bernard Shaw</p>
