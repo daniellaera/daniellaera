@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only the one reality, neither to be realized nor attained.</p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>- Huang Po</p>
+<p>- Dan Millman</p>
