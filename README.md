@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Spencer Johnson</p>
