@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To affect the quality of the day, that is the highest of arts.</p>
+<p>They who have conquered doubt and fear have conquered failure.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- James Allen</p>
