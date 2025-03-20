@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would you do if you weren't afraid?</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Naval Ravikant</p>
