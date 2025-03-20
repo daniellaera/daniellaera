@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Ronald Reagan</p>
