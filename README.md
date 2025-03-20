@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time we liberate a woman, we liberate a man. </p>
+<p>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</p>
 
-<p>- Margaret Mead</p>
+<p>- John Wooden</p>
