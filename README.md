@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
+<p>Life is either a daring adventure, or it is nothing.</p>
 
-<p>- Herodotus</p>
+<p>- Helen Keller</p>
