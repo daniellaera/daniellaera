@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Norman Vincent Peale</p>
