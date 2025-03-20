@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the things you can't do stop you from doing what you can.</p>
+<p>Because of your smile, you make life more beautiful.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Thich Nhat Hanh</p>
