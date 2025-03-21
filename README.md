@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Belief creates the actual fact.</p>
+<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </p>
 
-<p>- William James</p>
+<p>- Lao Tzu</p>
