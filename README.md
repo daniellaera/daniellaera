@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise man reads both books and life itself.</p>
+<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
 
-<p>- Lin Yutang</p>
+<p>- Socrates</p>
