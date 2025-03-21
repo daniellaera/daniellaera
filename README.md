@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>The wise man reads both books and life itself.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Lin Yutang</p>
