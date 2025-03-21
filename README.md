@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
+<p>Belief creates the actual fact.</p>
 
-<p>- Mother Teresa</p>
+<p>- William James</p>
