@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>- Simon Sinek</p>
+<p>- Ray Bradbury</p>
