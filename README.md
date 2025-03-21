@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
+<p>The cost of leadership is self-interest.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Simon Sinek</p>
