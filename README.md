@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings believe just as they breathe - in order to survive.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Norman Vincent Peale</p>
