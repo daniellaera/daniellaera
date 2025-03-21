@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Dan Millman</p>
