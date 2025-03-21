@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
 
-<p>- Lolly Daskal</p>
+<p>- Zig Ziglar</p>
