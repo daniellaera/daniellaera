@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where focus goes, energy flows.</p>
+<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
 
-<p>- Tony Robbins</p>
+<p>- Mother Teresa</p>
