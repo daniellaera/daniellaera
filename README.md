@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't look back - you're not going that way.</p>
+<p>The only reason to be alive is to enjoy it.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Rita Mae Brown</p>
