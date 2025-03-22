@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Spencer Johnson</p>
