@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have as much laughter as you have faith.</p>
+<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
 
-<p>- Martin Luther</p>
+<p>- Dan Millman</p>
