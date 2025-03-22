@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only reason to be alive is to enjoy it.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Gilbert Chesterton</p>
