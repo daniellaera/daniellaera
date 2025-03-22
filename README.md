@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Wayne Gretzky</p>
