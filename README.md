@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
+<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- D. H. Lawrence</p>
