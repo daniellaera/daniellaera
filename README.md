@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
+<p>Faith is taking the first step even when you don't see the whole staircase.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Martin Luther King, Jr.</p>
