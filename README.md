@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>You have as much laughter as you have faith.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Martin Luther</p>
