@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
+<p>Don't look back - you're not going that way.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Mary Engelbreit</p>
