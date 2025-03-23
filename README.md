@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tis not too late to seek a newer world.</p>
+<p>Life has no limitations except the ones you make.</p>
 
-<p>- Heraclitus</p>
+<p>- Les Brown</p>
