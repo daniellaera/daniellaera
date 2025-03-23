@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Robin Williams</p>
