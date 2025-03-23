@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time stays long enough for anyone who will use it.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Herbert Hoover</p>
