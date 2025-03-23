@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- Robin Williams</p>
+<p>- George Eliot</p>
