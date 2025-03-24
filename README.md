@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>People tend to complicate their own lives, as if living weren't already complicated enough.</p>
 
-<p>- Richard Bach</p>
+<p>- Carlos Ruiz Zafon</p>
