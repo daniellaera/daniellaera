@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All religions, arts and sciences are branches of the same tree. </p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>- Albert Einstein</p>
+<p>- Niccolo Machiavelli</p>
