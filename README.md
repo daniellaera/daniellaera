@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being wrong opens us up to the possibility of change.</p>
+<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
 
-<p>- Mark Manson</p>
+<p>- Les Brown</p>
