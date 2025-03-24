@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.</p>
+<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
 
-<p>- Mark Twain</p>
+<p>- Alexander Pope</p>
