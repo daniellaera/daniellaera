@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no such thing as a great talent without great willpower.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Honore de Balzac</p>
+<p>- George Bernard Shaw</p>
