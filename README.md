@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
 
-<p>- Bette Midler</p>
+<p>- Og Mandino</p>
