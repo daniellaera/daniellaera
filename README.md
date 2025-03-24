@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is only real, when shared.</p>
+<p>Integrity is the ability to stand by an idea.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Ayn Rand</p>
