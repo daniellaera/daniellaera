@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Integrity is the ability to stand by an idea.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>- Ayn Rand</p>
+<p>- Lolly Daskal</p>
