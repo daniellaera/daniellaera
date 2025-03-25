@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is possible. The impossible just takes longer.</p>
+<p>To improve is to change, so to be perfect is to change often.</p>
 
-<p>- Dan Brown</p>
+<p>- Winston Churchill</p>
