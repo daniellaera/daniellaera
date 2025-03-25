@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
+<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
 
-<p>- Aristotle</p>
+<p>- Albus Dumbledore</p>
