@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First learn the meaning of what you say, and then speak.</p>
+<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
 
-<p>- Epictetus</p>
+<p>- Bruce Lee</p>
