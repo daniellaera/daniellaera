@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you try to impress, the more peaceful you can be.</p>
+<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Robert Greene</p>
