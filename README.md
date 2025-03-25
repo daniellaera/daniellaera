@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more I want to get something done, the less I call it work.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- Richard Bach</p>
+<p>- Earl Nightingale</p>
