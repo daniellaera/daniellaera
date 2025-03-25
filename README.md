@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Maxime Lagace</p>
