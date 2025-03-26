@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing more truly artistic than to love people.</p>
+<p>If it's not broken, tinker with it till you find out how it works.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Bob Proctor</p>
