@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it's not broken, tinker with it till you find out how it works.</p>
+<p>When you want something in life, you just gotta reach out and grab it.</p>
 
-<p>- Bob Proctor</p>
+<p>- Christopher McCandless</p>
