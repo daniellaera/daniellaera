@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>Do what you can, with what you have, where you are.</p>
 
-<p>- Robert Greene</p>
+<p>- Theodore Roosevelt</p>
