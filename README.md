@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>Follow the man who seeks the truth; run from the man who has found it.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Vaclav Havel</p>
