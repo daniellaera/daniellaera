@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
 
-<p>- Albert Einstein</p>
+<p>- Seungsahn</p>
