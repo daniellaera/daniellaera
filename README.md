@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>Superstars think like superstars long before the fans or the press anoint them.</p>
 
-<p>- Dr. Seuss</p>
+<p>- John Eliot</p>
