@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>Be patient and calm; no one can catch fish in anger.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Herbert Hoover</p>
