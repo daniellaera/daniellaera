@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>- Sydney Smith</p>
+<p>- Celestine Chua</p>
