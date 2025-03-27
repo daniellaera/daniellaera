@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dan Millman</p>
