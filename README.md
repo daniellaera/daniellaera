@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</p>
+<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Sydney Smith</p>
