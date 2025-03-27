@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
+<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
 
-<p>- Yoko Ono</p>
+<p>- Nelson Mandela</p>
