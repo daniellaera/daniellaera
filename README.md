@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Sathya Sai Baba</p>
