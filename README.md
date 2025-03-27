@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
+<p>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Henry Ward Beecher</p>
