@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not fight with pigs - you will be smeared in mud but the pig will like it.</p>
+<p>Show me a hero, and I'll write you a tragedy.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- F. Scott Fitzgerald</p>
