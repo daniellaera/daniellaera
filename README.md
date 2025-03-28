@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember the entrance to the sanctuary is inside you.</p>
+<p>You must either modify your dreams or magnify your skills.</p>
 
-<p>- Rumi</p>
+<p>- Jim Rohn</p>
