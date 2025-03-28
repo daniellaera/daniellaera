@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no limitations to the mind except those we acknowledge...</p>
+<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Eckhart Tolle</p>
