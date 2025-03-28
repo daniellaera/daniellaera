@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must either modify your dreams or magnify your skills.</p>
+<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
 
-<p>- Jim Rohn</p>
+<p>- Denis Waitley</p>
