@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>Whenever you do a thing, act as if all the world were watching.</p>
 
-<p>- Ralph Marston</p>
+<p>- Thomas Jefferson</p>
