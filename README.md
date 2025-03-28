@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show me a hero, and I'll write you a tragedy.</p>
+<p>Patience is a bitter plant, but its fruit is sweet.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Chinese Proverb</p>
