@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</p>
 
-<p>- Paulo Coelho</p>
+<p>- Brian Tracy</p>
