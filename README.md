@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fashion fades, only style remains the same.</p>
+<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
 
-<p>- Coco Chanel</p>
+<p>- Dogen</p>
