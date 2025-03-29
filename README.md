@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An un-examined life is not worth living.</p>
+<p>The road to success is always under construction..</p>
 
-<p>- Socrates</p>
+<p>- Lily Tomlin</p>
