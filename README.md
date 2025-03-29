@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Judy Garland</p>
+<p>- Will Rogers</p>
