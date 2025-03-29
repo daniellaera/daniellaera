@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
+<p>Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.</p>
 
-<p>- Bruce Lee</p>
+<p>- Bhagavad Gita</p>
