@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
+<p>Many roads lead to the path, but basically there are only two: reason and practice. </p>
 
-<p>- Bruce Lee</p>
+<p>- Bodhidharma</p>
