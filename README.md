@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not proud, but I am happy; and happiness blinds, I think, more than pride.</p>
+<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Bruce Lee</p>
