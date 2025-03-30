@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
 
-<p>- Bodhidharma</p>
+<p>- Carl Jung</p>
