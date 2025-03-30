@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To affect the quality of the day, that is the highest of arts.</p>
+<p>Try all things, hold fast that which is good.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- John Locke</p>
