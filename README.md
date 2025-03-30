@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</p>
+<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Plato</p>
