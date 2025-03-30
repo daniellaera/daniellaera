@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes adversity is what you need to face in order to become successful.</p>
+<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Amelia Earhart</p>
