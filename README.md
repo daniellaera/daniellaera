@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
 
-<p>- Og Mandino</p>
+<p>- Virginia Woolf</p>
