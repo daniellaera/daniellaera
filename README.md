@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
+<p>Knowledge isn't power until it is applied.</p>
 
-<p>- Carl Jung</p>
+<p>- Dale Carnegie</p>
