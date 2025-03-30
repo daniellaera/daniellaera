@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Bodhidharma</p>
