@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
+<p>Success is a poor teacher.</p>
 
-<p>- Plato</p>
+<p>- Robert Kiyosaki</p>
