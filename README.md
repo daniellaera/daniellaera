@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</p>
+<p>Attitude, not aptitude, determines altitude.  </p>
 
-<p>- Colin Powell</p>
+<p>- Zig Ziglar</p>
