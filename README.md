@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no self-discovery without pain and loss.</p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Thomas Jefferson</p>
