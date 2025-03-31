@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>Turn off your mind, relax, and float downstream.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- John Lennon</p>
