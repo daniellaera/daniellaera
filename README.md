@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude, not aptitude, determines altitude.  </p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Aristotle</p>
