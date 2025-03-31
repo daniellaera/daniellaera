@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Oprah Winfrey</p>
