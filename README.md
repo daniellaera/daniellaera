@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn off your mind, relax, and float downstream.</p>
+<p>Intelligence is the ability to adapt to change.</p>
 
-<p>- John Lennon</p>
+<p>- Stephen Hawking</p>
