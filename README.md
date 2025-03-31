@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence is the ability to adapt to change.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Jim Rohn</p>
