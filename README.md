@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Tony Robbins</p>
