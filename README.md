@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence is the ability to adapt to change.</p>
+<p>Do not stop thinking of life as an adventure.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Eleanor Roosevelt</p>
