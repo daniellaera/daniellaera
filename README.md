@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Oprah Winfrey</p>
