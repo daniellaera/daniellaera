@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness must be grown in one's own garden.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>- Mary Engelbreit</p>
+<p>- Franz Kafka</p>
