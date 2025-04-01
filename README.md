@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without complaint, Work with fate.</p>
+<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Thomas Edison</p>
