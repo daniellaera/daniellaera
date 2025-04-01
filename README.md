@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not stop thinking of life as an adventure.</p>
+<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Spencer Johnson</p>
