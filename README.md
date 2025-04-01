@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Marcus Aurelius</p>
