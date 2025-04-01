@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are more people who wish to be loved than there are who are willing to love. </p>
+<p>Today will never happen again. Don't waste it with a false start or no start at all.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Og Mandino</p>
