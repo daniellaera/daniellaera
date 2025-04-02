@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try all things, hold fast that which is good.</p>
+<p>Loving thoughts and actions are clearly beneficial for our physical and mental health.</p>
 
-<p>- John Locke</p>
+<p>- Dalai Lama</p>
