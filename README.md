@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loving thoughts and actions are clearly beneficial for our physical and mental health.</p>
+<p>When you move beyond your fear, you feel free.</p>
 
-<p>- Dalai Lama</p>
+<p>- Spencer Johnson</p>
