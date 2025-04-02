@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
+<p>Nature does not hurry, yet everything is accomplished.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Lao Tzu</p>
