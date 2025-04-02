@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Deepak Chopra</p>
