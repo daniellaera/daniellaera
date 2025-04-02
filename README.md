@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day without laughter is a day wasted.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Dan Brown</p>
