@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nature does not hurry, yet everything is accomplished.</p>
+<p>Try all things, hold fast that which is good.</p>
 
-<p>- Lao Tzu</p>
+<p>- John Locke</p>
