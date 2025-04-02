@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy every minute of life. Never second-guess life.</p>
+<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
 
-<p>- Michael Jordan</p>
+<p>- D. H. Lawrence</p>
