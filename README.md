@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>Do the difficult things while they are easy and do the great things while they are small.</p>
 
-<p>- Bruce Lee</p>
+<p>- Lao Tzu</p>
