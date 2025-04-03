@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>- Joan Rivers</p>
+<p>- Naval Ravikant</p>
