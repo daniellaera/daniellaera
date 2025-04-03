@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows best knows how little he knows.</p>
+<p>The best teacher is experience and not through someone's distorted point of view.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Jack Kerouac</p>
