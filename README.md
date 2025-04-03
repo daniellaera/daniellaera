@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
+<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
 
-<p>- Criss Jami</p>
+<p>- Joan Rivers</p>
