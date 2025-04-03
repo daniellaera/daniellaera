@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the difficult things while they are easy and do the great things while they are small.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>- Lao Tzu</p>
+<p>- Robin Williams</p>
