@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>The trouble with the rat race is that even if you win, you're still a rat.</p>
 
-<p>- Joan Rivers</p>
+<p>- Lily Tomlin</p>
