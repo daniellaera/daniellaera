@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>Keep your dreams, you never know when you might need them.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Carlos Ruiz Zafon</p>
