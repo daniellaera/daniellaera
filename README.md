@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your dreams, you never know when you might need them.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Earl Nightingale</p>
