@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Laziness may appear attractive, but work gives satisfaction.</p>
+<p>The wise man reads both books and life itself.</p>
 
-<p>- Anne Frank</p>
+<p>- Lin Yutang</p>
