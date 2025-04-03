@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our attitude toward life determines life's attitude towards us.</p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Charles Darwin</p>
