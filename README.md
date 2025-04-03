@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Abundance of knowledge does not teach men to be wise.</p>
+<p>Empty your mind, be formless, shapeless, like water.</p>
 
-<p>- Heraclitus</p>
+<p>- Bruce Lee</p>
