@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No duty is more urgent than that of returning thanks.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>- James Allen</p>
+<p>- Kahlil Gibran</p>
