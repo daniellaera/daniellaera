@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>Make each day a new horizon.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Christopher McCandless</p>
