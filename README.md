@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The privilege of a lifetime is to become who you truly are.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Carl Jung</p>
+<p>- Eric Hoffer</p>
