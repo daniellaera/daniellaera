@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
+<p>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Albus Dumbledore</p>
