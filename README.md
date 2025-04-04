@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When people are free to do as they please, they usually imitate each other.</p>
+<p>No duty is more urgent than that of returning thanks.</p>
 
-<p>- Eric Hoffer</p>
+<p>- James Allen</p>
