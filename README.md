@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Comedy = tragedy + time.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Carol Burnett</p>
+<p>- Samuel Butler</p>
