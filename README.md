@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing will work unless you do.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>- Maya Angelou</p>
+<p>- Zhuangzi</p>
