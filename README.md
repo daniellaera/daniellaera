@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One loyal friend is worth ten thousand relatives.</p>
+<p>The privilege of a lifetime is to become who you truly are.</p>
 
-<p>- Euripides</p>
+<p>- Carl Jung</p>
