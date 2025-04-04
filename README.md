@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</p>
+<p>Without the confidence, nothing can be accomplished.</p>
 
-<p>- Dan Brown</p>
+<p>- Sathya Sai Baba</p>
