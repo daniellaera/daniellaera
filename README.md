@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving back involves a certain amount of giving up.</p>
+<p>To travel is to be alive, but to get somewhere is to be dead.</p>
 
-<p>- Colin Powell</p>
+<p>- Alan Watts</p>
