@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Argue for your limitations and sure enough, they're yours.</p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>- Richard Bach</p>
+<p>- Albert Einstein</p>
