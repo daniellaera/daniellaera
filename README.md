@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It does not matter how slowly you go so long as you do not stop.</p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>- Confucius</p>
+<p>- Mary Engelbreit</p>
