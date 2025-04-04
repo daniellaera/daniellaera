@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every cloud is another cloud.</p>
+<p>Giving back involves a certain amount of giving up.</p>
 
-<p>- Judy Garland</p>
+<p>- Colin Powell</p>
