@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the things you can't do stop you from doing what you can.</p>
+<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
 
-<p>- Ronald Reagan</p>
+<p>- Harry S. Truman</p>
