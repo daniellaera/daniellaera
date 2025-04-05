@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I love myself I love you. If I love you I love myself.</p>
+<p>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</p>
 
-<p>- Rumi</p>
+<p>- Roy T. Bennett</p>
