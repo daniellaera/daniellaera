@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Socrates</p>
