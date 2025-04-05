@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is untrue to his own cause cannot command the respect of others.</p>
+<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
 
-<p>- Albert Einstein</p>
+<p>- Eleanor Roosevelt</p>
