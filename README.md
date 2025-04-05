@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
 
-<p>- Virginia Woolf</p>
+<p>- George Washington</p>
