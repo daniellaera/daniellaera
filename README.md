@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Stephen Hawking</p>
