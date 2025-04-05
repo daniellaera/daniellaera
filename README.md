@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>A gentleman is one who puts more into the world than he takes out.</p>
 
-<p>- Bruce Lee</p>
+<p>- George Bernard Shaw</p>
