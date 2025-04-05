@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>One mistake does not have to rule a person's entire life.</p>
 
-<p>- Socrates</p>
+<p>- Joyce Meyer</p>
