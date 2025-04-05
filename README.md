@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you will be halfway there.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Toni Morrison</p>
