@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One mistake does not have to rule a person's entire life.</p>
+<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Roy T. Bennett</p>
