@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.</p>
+<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
 
-<p>- James Allen</p>
+<p>- Deepak Chopra</p>
