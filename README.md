@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Eckhart Tolle</p>
