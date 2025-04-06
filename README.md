@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're never too old for anything.</p>
+<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
 
-<p>- Betty White</p>
+<p>- Charles Swindoll</p>
