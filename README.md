@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is passion that makes man live; wisdom makes one only last.</p>
+<p>The time is always right to do what is right.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Martin Luther King, Jr.</p>
