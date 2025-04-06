@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Christopher Columbus</p>
