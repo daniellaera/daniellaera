@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
+<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
 
 <p>- Norman Vincent Peale</p>
