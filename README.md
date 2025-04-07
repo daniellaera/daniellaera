@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To a mind that is still, the entire universe surrenders.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>- Zhuangzi</p>
+<p>- Deepak Chopra</p>
