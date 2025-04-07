@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking outside the box, get rid of the box.</p>
+<p>Success is getting what you want. Happiness is wanting what you get.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Andrew Carnegie</p>
