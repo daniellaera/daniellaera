@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>20 percent of your activities will account for 80 percent of your results.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Brian Tracy</p>
+<p>- Carlos Ruiz Zafon</p>
