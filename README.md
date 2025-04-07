@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>an action committed in anger is an action doomed to failure. </p>
+<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
 
-<p>- Genghis Khan</p>
+<p>- Unknown</p>
