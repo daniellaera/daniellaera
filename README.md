@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Brian Tracy</p>
