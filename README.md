@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
+<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Kahlil Gibran</p>
