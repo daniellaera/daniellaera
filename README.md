@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less people know, the more stubbornly they know it.</p>
+<p>Identification with our mind causes thought to become compulsive.</p>
 
-<p>- Osho</p>
+<p>- Eckhart Tolle</p>
