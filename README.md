@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Stephen King</p>
