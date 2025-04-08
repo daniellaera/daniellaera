@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>You are the average of the five people you spend most time with.</p>
 
-<p>- John Eliot</p>
+<p>- Jim Rohn</p>
