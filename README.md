@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the top of the mountain, keep climbing. </p>
+<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
 
-<p>- Zen Proverb</p>
+<p>- Jim Rohn</p>
