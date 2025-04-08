@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Criss Jami</p>
