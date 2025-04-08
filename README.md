@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Identification with our mind causes thought to become compulsive.</p>
+<p>Memory is the scribe of the soul.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Aristotle</p>
