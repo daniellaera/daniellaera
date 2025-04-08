@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forgive those who have hurt you.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Les Brown</p>
+<p>- Lao Tzu</p>
