@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
+<p>You'll get more from being a peacemaker than a warrior.</p>
 
-<p>- Sun Tzu</p>
+<p>- Arnold Schwarzenegger</p>
