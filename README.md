@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Belief creates the actual fact.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- William James</p>
+<p>- Gurbaksh Chahal</p>
