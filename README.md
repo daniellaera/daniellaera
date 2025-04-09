@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing good ever comes of violence.</p>
+<p>Simplicity is the glory of expression.</p>
 
-<p>- Martin Luther</p>
+<p>- Walt Whitman</p>
