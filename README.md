@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman is one who puts more into the world than he takes out.</p>
+<p>As a man thinketh in his heart, so shall he be.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- James Allen</p>
