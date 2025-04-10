@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love doesn't need reason. It speaks from the irrational wisdom of the heart.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Jim Rohn</p>
