@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work harder on yourself than you do on your job.</p>
+<p>Work out your own salvation. Do not depend on others.</p>
 
-<p>- Jim Rohn</p>
+<p>- Buddha</p>
