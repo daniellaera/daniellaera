@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Formal education will make you a living, self-education will make you a fortune.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>- Jim Rohn</p>
+<p>- Cherie Gilderbloom</p>
