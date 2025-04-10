@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man becomes rich unless he enriches others.</p>
+<p>There will always be suffering. But we must not suffer over the suffering.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Alan Watts</p>
