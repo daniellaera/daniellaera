@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>- Buddha</p>
+<p>- Tony Robbins</p>
