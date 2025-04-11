@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of the evil in this world is done by people with good intentions.</p>
+<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Brian Tracy</p>
