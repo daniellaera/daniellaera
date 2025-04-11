@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not wait for leaders; do it alone, person to person.</p>
+<p>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</p>
 
-<p>- Mother Teresa</p>
+<p>- Roy T. Bennett</p>
