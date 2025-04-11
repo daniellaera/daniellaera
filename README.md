@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An un-examined life is not worth living.</p>
+<p>The key to immortality is first living a life worth remembering. </p>
 
-<p>- Socrates</p>
+<p>- Bruce Lee</p>
