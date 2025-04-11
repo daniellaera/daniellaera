@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important battle is one to conquer yourself.</p>
+<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
 
-<p>- Yanni</p>
+<p>- Peter A. Cohen</p>
