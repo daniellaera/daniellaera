@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
+<p>An un-examined life is not worth living.</p>
 
-<p>- Plato</p>
+<p>- Socrates</p>
