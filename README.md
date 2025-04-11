@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to immortality is first living a life worth remembering. </p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Bruce Lee</p>
+<p>- Norman Vincent Peale</p>
