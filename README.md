@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</p>
+<p>Do not wait for leaders; do it alone, person to person.</p>
 
-<p>- Bette Midler</p>
+<p>- Mother Teresa</p>
