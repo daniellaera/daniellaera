@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I must also have a dark side if I am to be whole.</p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
-<p>- Carl Jung</p>
+<p>- Morihei Ueshiba</p>
