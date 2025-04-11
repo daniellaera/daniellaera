@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart that gives, gathers.</p>
+<p>To handle yourself, use your head; to handle others, use your heart.</p>
 
-<p>- Lao Tzu</p>
+<p>- Eleanor Roosevelt</p>
