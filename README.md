@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How you think is as important as as what you think.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>- Unknown</p>
+<p>- Helen Keller</p>
