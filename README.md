@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All great truths begin as blasphemies.</p>
+<p>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Celestine Chua</p>
