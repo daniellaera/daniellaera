@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Facts are the enemy of truth. </p>
+<p>The least deviation from truth will be multiplied later.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Aristotle</p>
