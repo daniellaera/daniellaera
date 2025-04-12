@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Abraham Lincoln</p>
