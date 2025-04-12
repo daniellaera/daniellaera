@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Walking with a friend in the dark is better than walking alone in the light.</p>
+<p>All great truths begin as blasphemies.</p>
 
-<p>- Helen Keller</p>
+<p>- George Bernard Shaw</p>
