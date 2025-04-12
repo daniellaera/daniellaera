@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism, when applied to your life, develops strength and peace within you.</p>
+<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Walt Whitman</p>
