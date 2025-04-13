@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder the conflict, the greater the triumph. </p>
+<p>Realize deeply that the present moment is all you ever have. </p>
 
-<p>- George Washington</p>
+<p>- Eckhart Tolle</p>
