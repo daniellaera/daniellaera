@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is achieved and maintained by those who try and keep trying. </p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>- W. Clement Stone</p>
+<p>- Genghis Khan</p>
