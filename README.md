@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
+<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
 
-<p>- Judy Garland</p>
+<p>- Amelia Earhart</p>
