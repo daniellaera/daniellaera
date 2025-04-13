@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can have more than we've got because we can become more than we are.</p>
+<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
 
-<p>- Jim Rohn</p>
+<p>- Judy Garland</p>
