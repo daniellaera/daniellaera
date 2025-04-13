@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
+<p>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</p>
 
-<p>- Bob Proctor</p>
+<p>- Brian Tracy</p>
