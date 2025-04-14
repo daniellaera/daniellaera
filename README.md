@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is always right to do what is right.</p>
+<p>There is only the one reality, neither to be realized nor attained.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Huang Po</p>
