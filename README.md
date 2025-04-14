@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Herodotus</p>
+<p>- Leo Tolstoy</p>
