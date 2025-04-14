@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Sun Tzu</p>
+<p>- Gary Keller</p>
