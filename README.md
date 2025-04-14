@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>We have more possibilities available in each moment than we realize.</p>
 
-<p>- Unknown</p>
+<p>- Thich Nhat Hanh</p>
