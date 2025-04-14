@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're not making mistakes, then you're not doing anything.</p>
+<p>To a mind that is still, the entire universe surrenders.</p>
 
-<p>- John Wooden</p>
+<p>- Zhuangzi</p>
