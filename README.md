@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you win, say nothing, when you lose say less.</p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Mary Engelbreit</p>
