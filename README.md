@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>Freedom from desire leads to inner peace.</p>
 
-<p>- Lin Yutang</p>
+<p>- Lao Tzu</p>
