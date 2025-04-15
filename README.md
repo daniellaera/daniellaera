@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is just information and an opportunity to change your course.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Eleanor Roosevelt</p>
