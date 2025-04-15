@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Appear weak when you are strong, and strong when you are weak.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>- Sun Tzu</p>
+<p>- Sonia Ricotti</p>
