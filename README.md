@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop being tormented by everyone else's reaction to you.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Robert Kiyosaki</p>
