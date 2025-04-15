@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we know is a drop, what we don't know is an ocean. </p>
+<p>Appear weak when you are strong, and strong when you are weak.</p>
 
-<p>- Isaac Newton</p>
+<p>- Sun Tzu</p>
