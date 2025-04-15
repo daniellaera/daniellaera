@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Lin Yutang</p>
