@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By failing to prepare, you are preparing to fail.</p>
+<p>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Steve Jobs</p>
