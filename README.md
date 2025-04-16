@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to keep breaking your heart until it opens.</p>
+<p>If I persist long enough I will win.</p>
 
-<p>- Rumi</p>
+<p>- Og Mandino</p>
