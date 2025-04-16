@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better late than never.</p>
+<p>Don't worry about being successful, but work toward being significant and the success will naturally follow.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Oprah Winfrey</p>
