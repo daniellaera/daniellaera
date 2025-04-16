@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</p>
+<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
 
-<p>- Stephen King</p>
+<p>- Naval Ravikant</p>
