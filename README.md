@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- Tony Robbins</p>
