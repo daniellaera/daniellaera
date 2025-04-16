@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give. </p>
+<p>Death is not sad; the sad thing is that most people don't really live at all.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Dan Millman</p>
