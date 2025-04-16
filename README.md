@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I persist long enough I will win.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Og Mandino</p>
+<p>- Orison Swett Marden</p>
