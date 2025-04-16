@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death is not sad; the sad thing is that most people don't really live at all.</p>
+<p>You have to keep breaking your heart until it opens.</p>
 
-<p>- Dan Millman</p>
+<p>- Rumi</p>
