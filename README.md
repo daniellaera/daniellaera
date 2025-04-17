@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
+<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
 
-<p>- Lao Tzu</p>
+<p>- Simon Sinek</p>
