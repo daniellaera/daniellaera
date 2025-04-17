@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. </p>
+<p>At the center of your being you have the answer; you know who you are and you know what you want.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Lao Tzu</p>
