@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>The ability to observe without evaluating is the highest form of intelligence.</p>
 
-<p>- Elon Musk</p>
+<p>- Jiddu Krishnamurti</p>
