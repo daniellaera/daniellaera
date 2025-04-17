@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Carl Jung</p>
