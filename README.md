@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
+<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
 
-<p>- John Wooden</p>
+<p>- Robin Sharma</p>
