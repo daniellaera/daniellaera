@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no way to happiness - happiness is the way.</p>
+<p>The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. </p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Orison Swett Marden</p>
