@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
+<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
 
-<p>- Robin Sharma</p>
+<p>- Nikola Tesla</p>
