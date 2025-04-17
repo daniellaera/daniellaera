@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>- Plato</p>
+<p>- Thich Nhat Hanh</p>
