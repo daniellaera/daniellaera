@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Jim Rohn</p>
