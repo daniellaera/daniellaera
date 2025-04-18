@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus on how far you have come in life rather than looking at the accomplishments of others.</p>
+<p>You can't build a reputation on what you are going to do. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Henry Ford</p>
