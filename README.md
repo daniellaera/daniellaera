@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Alexandre Dumas</p>
