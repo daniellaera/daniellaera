@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go and do the things you can't. That is how you get to do them.</p>
+<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Henry Ford</p>
