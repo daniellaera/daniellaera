@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Repetition does not transform a lie into a truth.</p>
+<p>You are never too old to become younger.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Mae West</p>
