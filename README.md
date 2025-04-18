@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are never too old to become younger.</p>
+<p>Common sense is not so common. </p>
 
-<p>- Mae West</p>
+<p>- Voltaire</p>
