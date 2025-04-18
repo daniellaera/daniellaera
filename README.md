@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
+<p>I dream my painting and I paint my dream.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Vincent van Gogh</p>
