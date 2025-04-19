@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Carl Jung</p>
