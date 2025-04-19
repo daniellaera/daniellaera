@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Avoiding failure is to avoid progress.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Unknown</p>
+<p>- Marilyn Monroe</p>
