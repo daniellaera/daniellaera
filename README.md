@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you care about someone enough, you'll always be there for them no matter what.</p>
+<p>You become stronger with every problem you face and every obstacle you overcome.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Celestine Chua</p>
