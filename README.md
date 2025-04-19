@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Les Brown</p>
