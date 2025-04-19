@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</p>
+<p>Avoiding failure is to avoid progress.</p>
 
-<p>- Peter Drucker</p>
+<p>- Unknown</p>
