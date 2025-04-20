@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
+<p>No one ever said life was fair. Just Eventful.</p>
 
-<p>- Unknown</p>
+<p>- Carol Burnett</p>
