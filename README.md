@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>The truth is not for all men, but for those who seek it.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Ayn Rand</p>
