@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Unknown</p>
