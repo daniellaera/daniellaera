@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The salvation of the world lies in the human heart.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Theodore Roosevelt</p>
