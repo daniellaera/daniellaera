@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Jim Rohn</p>
