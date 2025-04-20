@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Theodore Roosevelt</p>
