@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You get in life what you have the courage to ask for.</p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Helen Keller</p>
