@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no limitations to the mind except those we acknowledge...</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Oprah Winfrey</p>
