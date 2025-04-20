@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing worse than being blind is having sight but no vision.</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>- Helen Keller</p>
+<p>- Henry David Thoreau</p>
