@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</p>
 
-<p>- Dan Millman</p>
+<p>- Mark Twain</p>
