@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
+<p>I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.</p>
 
-<p>- Jim Rohn</p>
+<p>- Og Mandino</p>
