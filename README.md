@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>- Rumi</p>
+<p>- Unknown</p>
