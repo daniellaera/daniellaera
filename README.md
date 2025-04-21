@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>We must create our own world or we will die from inaction.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robert Greene</p>
