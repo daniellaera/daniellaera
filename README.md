@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Napoleon Hill</p>
