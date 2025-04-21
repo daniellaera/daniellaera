@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see someone without a smile give them one of yours.</p>
+<p>The only defense against the world is a thorough knowledge of it.</p>
 
-<p>- Unknown</p>
+<p>- John Locke</p>
