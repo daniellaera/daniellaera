@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Robert Kiyosaki</p>
