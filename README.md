@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are enlightened never stop forging themselves.</p>
+<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Rumi</p>
