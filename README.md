@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Teachers open the door. You enter by yourself. </p>
+<p>He who cannot be a good follower cannot be a good leader.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Aristotle</p>
