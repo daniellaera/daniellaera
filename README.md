@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
+<p>No one can confidently say that he will still be living tomorrow.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Euripides</p>
