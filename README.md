@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
 
-<p>- Robert Browning</p>
+<p>- Eric Hoffer</p>
