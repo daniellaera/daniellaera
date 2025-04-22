@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who bite the hand that feeds them usually lick the boot that kicks them.</p>
+<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
 
-<p>- Eric Hoffer</p>
+<p>- F. Scott Fitzgerald</p>
