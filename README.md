@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>Some people feel the rain. Others just get wet. </p>
 
-<p>- Euripides</p>
+<p>- Bob Dylan</p>
