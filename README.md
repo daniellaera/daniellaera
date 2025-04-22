@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mistake is a mistake only if you make it twice.</p>
+<p>The time is now, the place is here. Stay in the present.</p>
 
-<p>- Robin Sharma</p>
+<p>- Dan Millman</p>
