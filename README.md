@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people feel the rain. Others just get wet. </p>
+<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
 
-<p>- Bob Dylan</p>
+<p>- Charles Spurgeon</p>
