@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Gary Keller</p>
