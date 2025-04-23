@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>Words are clothes that thoughts wear</p>
 
-<p>- Dalai Lama</p>
+<p>- Samuel Butler</p>
