@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it. </p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>- Bodhidharma</p>
+<p>- Norman Vincent Peale</p>
