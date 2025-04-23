@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>When you judge others, you do not define them, you define yourself.</p>
 
-<p>- Les Brown</p>
+<p>- Earl Nightingale</p>
