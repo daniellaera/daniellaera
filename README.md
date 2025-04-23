@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
 
-<p>- Earl Nightingale</p>
+<p>- Laurence J. Peter</p>
