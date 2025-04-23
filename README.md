@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
+<p>Words, once they are printed, have a life of their own.</p>
 
-<p>- Lao Tzu</p>
+<p>- Carol Burnett</p>
