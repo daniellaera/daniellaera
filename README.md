@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>- Confucius</p>
+<p>- Les Brown</p>
