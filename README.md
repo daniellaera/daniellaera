@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn the pain into power.</p>
+<p>Choose to be optimistic, it feels better.</p>
 
-<p>- Unknown</p>
+<p>- Dalai Lama</p>
