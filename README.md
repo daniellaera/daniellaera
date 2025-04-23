@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Originality is the fine art of remembering what you hear but forgetting where you heard it. </p>
+<p>The best teacher is experience and not through someone's distorted point of view.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Jack Kerouac</p>
