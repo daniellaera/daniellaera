@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even though you are on the right track - you will get run over if you just sit there.</p>
+<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
 
-<p>- Will Rogers</p>
+<p>- Hans Christian Andersen</p>
