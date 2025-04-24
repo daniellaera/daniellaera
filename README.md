@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Re-examine all that you have been told... dismiss that which insults your soul.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>- Walt Whitman</p>
+<p>- Earl Nightingale</p>
