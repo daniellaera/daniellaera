@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beauty is not in the face; beauty is a light in the heart.</p>
+<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Oprah Winfrey</p>
