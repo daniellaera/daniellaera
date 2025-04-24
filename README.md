@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>- Albert Einstein</p>
+<p>- Helen Keller</p>
