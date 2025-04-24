@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give so much away people insist on paying you.</p>
+<p>Be strong. Be confident. Be the star of your own life.</p>
 
-<p>- Jack Butcher</p>
+<p>- Estee Lauder</p>
