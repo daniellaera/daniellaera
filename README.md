@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Pablo Picasso</p>
