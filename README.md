@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot teach a crab to walk straight.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>- Aristophanes</p>
+<p>- Unknown</p>
