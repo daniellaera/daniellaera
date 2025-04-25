@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>- Colin Powell</p>
+<p>- Thomas Jefferson</p>
