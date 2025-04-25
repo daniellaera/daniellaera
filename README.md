@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the root is strong, the fruit is sweet.</p>
+<p>Don't look back - you're not going that way.</p>
 
-<p>- Bob Marley</p>
+<p>- Mary Engelbreit</p>
