@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
+<p>Sometimes you have to lose all you have to find out who you truly are.</p>
 
-<p>- Simon Sinek</p>
+<p>- Roy T. Bennett</p>
