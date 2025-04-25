@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>- Herodotus</p>
+<p>- Lao Tzu</p>
