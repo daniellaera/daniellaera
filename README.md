@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Because of your smile, you make life more beautiful.</p>
+<p>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Simon Sinek</p>
