@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
+<p>If anything is worth doing, do it with all your heart.</p>
 
-<p>- Ralph Marston</p>
+<p>- Buddha</p>
