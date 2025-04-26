@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success comes to those who become success conscious.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Meister Eckhart</p>
