@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
+<p>Success comes to those who become success conscious.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Napoleon Hill</p>
