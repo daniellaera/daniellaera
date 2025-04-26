@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always try to be a little kinder than necessary.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Heraclitus</p>
