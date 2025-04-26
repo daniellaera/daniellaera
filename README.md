@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>- Brian Tracy</p>
+<p>- Socrates</p>
