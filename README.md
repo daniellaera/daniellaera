@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For all evils there are two remedies - time and silence.</p>
+<p>Success is never final; failure is never fatal.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Conrad Hilton</p>
