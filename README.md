@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final; failure is never fatal.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Unknown</p>
