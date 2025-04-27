@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easier to fight for one's principles than to live up to them. </p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>- Alfred Adler</p>
+<p>- Ayn Rand</p>
