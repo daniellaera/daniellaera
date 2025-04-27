@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>Enjoy every minute of life. Never second-guess life.</p>
 
-<p>- Beverly Sills</p>
+<p>- Michael Jordan</p>
