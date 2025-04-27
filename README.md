@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is a puzzle; no need to make sense out of it.</p>
+<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
 
-<p>- Socrates</p>
+<p>- Samuel Butler</p>
