@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not an exception, it is a prevailing attitude.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>- Colin Powell</p>
+<p>- Robert Greene</p>
