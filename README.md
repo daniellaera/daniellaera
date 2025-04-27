@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to immortality is first living a life worth remembering. </p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 
-<p>- Bruce Lee</p>
+<p>- Aristotle</p>
