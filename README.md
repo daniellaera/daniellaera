@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Mark Twain</p>
