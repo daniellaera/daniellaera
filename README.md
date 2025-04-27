@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>When reading, only read. When eating, only eat. When thinking, only think.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Seungsahn</p>
