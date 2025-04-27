@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy every minute of life. Never second-guess life.</p>
+<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
 
-<p>- Michael Jordan</p>
+<p>- Sydney Smith</p>
