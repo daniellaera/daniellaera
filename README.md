@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
+<p>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  </p>
 
-<p>- Henry Ford</p>
+<p>- Estee Lauder</p>
