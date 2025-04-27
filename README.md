@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
 
-<p>- Aristotle</p>
+<p>- Jim Rohn</p>
