@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Lao Tzu</p>
