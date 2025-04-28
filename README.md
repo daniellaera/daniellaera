@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A journey of a thousand miles must begin with a single step.</p>
+<p>Abundance of knowledge does not teach men to be wise.</p>
 
-<p>- Lao Tzu</p>
+<p>- Heraclitus</p>
