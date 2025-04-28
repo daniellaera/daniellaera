@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</p>
+<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
 
-<p>- Thomas Edison</p>
+<p>- Vincent van Gogh</p>
