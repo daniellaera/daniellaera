@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
+<p>The best way to predict your future is to create it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Abraham Lincoln</p>
