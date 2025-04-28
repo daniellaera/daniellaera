@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The enemy is a very good teacher.</p>
+<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
 
-<p>- Dalai Lama</p>
+<p>- Eleanor Roosevelt</p>
