@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about creating value.</p>
+<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
 
-<p>- Candice Carpenter</p>
+<p>- Tony Robbins</p>
