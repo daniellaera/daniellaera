@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the fear of striking out keep you from playing the game.</p>
+<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
 
-<p>- Babe Ruth</p>
+<p>- George Eliot</p>
