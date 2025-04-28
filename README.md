@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I try more and more to be myself, caring relatively little whether people approve or disapprove.</p>
+<p>The enemy is a very good teacher.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Dalai Lama</p>
