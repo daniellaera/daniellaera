@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Norman Vincent Peale</p>
