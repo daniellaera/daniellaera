@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Lolly Daskal</p>
