@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can start changing our world for the better daily, no matter how small the action.</p>
+<p>True love stories never have endings.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Richard Bach</p>
