@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends on your mindset and attitude.</p>
+<p>No duty is more urgent than that of returning thanks.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- James Allen</p>
