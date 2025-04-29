@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>A little progress each day adds up to big results.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Unknown</p>
