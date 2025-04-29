@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise man reads both books and life itself.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>- Lin Yutang</p>
+<p>- Lao Tzu</p>
