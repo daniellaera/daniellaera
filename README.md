@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
+<p>Elegance does not consist in putting on a new dress.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Coco Chanel</p>
