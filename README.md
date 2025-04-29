@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Elegance does not consist in putting on a new dress.</p>
+<p>The only person you should try to be better than is the person you were yesterday.</p>
 
-<p>- Coco Chanel</p>
+<p>- Brian Tracy</p>
