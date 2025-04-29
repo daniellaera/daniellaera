@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
+<p>Happiness depends on your mindset and attitude.</p>
 
-<p>- Mother Teresa</p>
+<p>- Roy T. Bennett</p>
