@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No duty is more urgent than that of returning thanks.</p>
+<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
 
-<p>- James Allen</p>
+<p>- Jon Kabat-Zinn</p>
