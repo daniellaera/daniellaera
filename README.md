@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Nelson Mandela</p>
