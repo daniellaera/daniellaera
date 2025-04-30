@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future doesn't belong to the faint-hearted; it belongs to the brave.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Marilyn Monroe</p>
