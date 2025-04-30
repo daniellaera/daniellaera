@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
+<p>Our attitude toward life determines life's attitude towards us.</p>
 
-<p>- Colin Powell</p>
+<p>- Earl Nightingale</p>
