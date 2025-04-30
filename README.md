@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</p>
+<p>The most important things are the hardest to say.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Stephen King</p>
