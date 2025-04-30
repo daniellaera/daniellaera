@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important things are the hardest to say.</p>
+<p>Good things aren't supposed to just fall into your lap.</p>
 
-<p>- Stephen King</p>
+<p>- Audrey Hepburn</p>
