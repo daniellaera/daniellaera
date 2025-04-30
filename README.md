@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good things aren't supposed to just fall into your lap.</p>
+<p>The world makes way for the man who knows where he is going.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Ralph Waldo Emerson</p>
