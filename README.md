@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
+<p>Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Denis Waitley</p>
