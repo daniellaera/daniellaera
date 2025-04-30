@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
+<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Harry S. Truman</p>
