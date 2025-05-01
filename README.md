@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you done it, it ain't bragging.</p>
+<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
 
-<p>- Walt Whitman</p>
+<p>- Zig Ziglar</p>
