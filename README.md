@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing we have to fear is fear itself.</p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Walt Whitman</p>
