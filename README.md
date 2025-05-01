@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead the people, walk behind them.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>- Lao Tzu</p>
+<p>- Robert Kiyosaki</p>
