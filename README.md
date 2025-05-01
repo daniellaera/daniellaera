@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
+<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Sun Tzu</p>
