@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Bhagavad Gita</p>
