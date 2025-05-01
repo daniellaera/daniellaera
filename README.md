@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is the progressive realization of a worthy goal or ideal.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>- Earl Nightingale</p>
+<p>- Charles Swindoll</p>
