@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You came empty handed, and you will leave empty handed.</p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Robert Kiyosaki</p>
