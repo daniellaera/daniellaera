@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you repeat a mistake, it is not a mistake anymore: it is a decision.</p>
+<p>The smallest act of kindness is worth more than the greatest intention.  </p>
 
-<p>- Paulo Coelho</p>
+<p>- Kahlil Gibran</p>
