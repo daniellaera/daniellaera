@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't program yourself, life will program you.</p>
+<p>Success is like reaching an important birthday and finding you're exactly the same.</p>
 
-<p>- Les Brown</p>
+<p>- Audrey Hepburn</p>
