@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Samuel Butler</p>
