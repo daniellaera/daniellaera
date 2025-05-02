@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you can imagine is real.</p>
+<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Robert Collier</p>
