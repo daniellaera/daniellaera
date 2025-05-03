@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't, you must. If you must, you can.</p>
+<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
 
-<p>- Tony Robbins</p>
+<p>- Richard Bach</p>
