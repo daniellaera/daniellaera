@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>It is far easier to start something than it is to finish it.</p>
 
-<p>- Robert Collier</p>
+<p>- Amelia Earhart</p>
