@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is far easier to start something than it is to finish it.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Celestine Chua</p>
