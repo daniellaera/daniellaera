@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>- Wayne Dyer</p>
+<p>- John Tukey</p>
