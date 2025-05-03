@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
+<p>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Roy T. Bennett</p>
