@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day wasted on others is not wasted on one's self.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>- Charles Dickens</p>
+<p>- Johann Wolfgang von Goethe</p>
