@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Deepak Chopra</p>
