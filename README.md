@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Charles Dickens</p>
