@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want, happiness is wanting what you get.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>- W.P. Kinsella</p>
+<p>- Chinese Proverb</p>
