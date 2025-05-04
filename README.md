@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
+<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
 
-<p>- Denis Waitley</p>
+<p>- Hans Christian Andersen</p>
