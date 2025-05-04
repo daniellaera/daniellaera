@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
+<p>Freedom is the open window through which pours the sunlight of the human spirit and human dignity.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Herbert Hoover</p>
