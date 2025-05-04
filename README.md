@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Zen Proverb</p>
+<p>- Denis Waitley</p>
