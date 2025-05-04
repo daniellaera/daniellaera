@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you look for perfection, you'll never be content.</p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- John Wooden</p>
