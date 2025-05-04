@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Charles Dickens</p>
