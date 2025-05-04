@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy is a commodity, execution is an art.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Peter Drucker</p>
+<p>- Alexander Pope</p>
