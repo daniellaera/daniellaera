@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
+<p>Try not to become a man of success, but rather try to become a man of value.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Albert Einstein</p>
