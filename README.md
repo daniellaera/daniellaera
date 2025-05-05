@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Dr. Seuss</p>
