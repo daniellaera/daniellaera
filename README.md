@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
+<p>A minute's success pays the failure of years.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Robert Browning</p>
