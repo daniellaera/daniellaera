@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Elbert Hubbard</p>
