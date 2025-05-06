@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>You can have the mind or you can have the moment.</p>
 
-<p>- Alfred Adler</p>
+<p>- Naval Ravikant</p>
