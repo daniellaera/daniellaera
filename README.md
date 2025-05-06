@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
+<p>Friends ask you questions; enemies question you.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Criss Jami</p>
