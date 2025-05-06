@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Nicolas Chamfort</p>
