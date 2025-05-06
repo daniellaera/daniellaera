@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</p>
+<p>Courage is not having the strength to go on; it is going on when you don't have the strength.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Theodore Roosevelt</p>
