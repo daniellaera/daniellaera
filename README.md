@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know yourself and you will win all battles.</p>
+<p>To know your Enemy, you must become your Enemy.</p>
 
 <p>- Sun Tzu</p>
