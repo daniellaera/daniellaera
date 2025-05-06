@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not the knowing that is difficult, but the doing. </p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>- Chinese Proverb</p>
+<p>- John Lennon</p>
