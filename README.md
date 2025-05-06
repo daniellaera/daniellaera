@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To know your Enemy, you must become your Enemy.</p>
+<p>The first man gets the oyster, the second man gets the shell.</p>
 
-<p>- Sun Tzu</p>
+<p>- Andrew Carnegie</p>
