@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is the sum of small efforts, repeated day in and day out.</p>
+<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
 
-<p>- Robert Collier</p>
+<p>- Celestine Chua</p>
