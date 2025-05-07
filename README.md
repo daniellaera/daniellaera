@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</p>
+<p>There are more people who wish to be loved than there are who are willing to love. </p>
 
-<p>- Elvis Presley</p>
+<p>- Nicolas Chamfort</p>
