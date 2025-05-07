@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make each day a new horizon.</p>
+<p>Success is the sum of small efforts, repeated day in and day out.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Robert Collier</p>
