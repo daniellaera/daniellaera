@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life reflects your own thoughts back to you.</p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>- Napoleon Hill</p>
+<p>- Bodhidharma</p>
