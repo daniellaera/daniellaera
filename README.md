@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
+<p>One of the most difficult things is not to change society - but to change yourself.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Nelson Mandela</p>
