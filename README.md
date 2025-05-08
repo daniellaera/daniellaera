@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
 
-<p>- John Eliot</p>
+<p>- Barack Obama</p>
