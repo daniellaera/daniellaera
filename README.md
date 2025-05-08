@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All cruelty springs from weakness.  </p>
+<p>Be curious, not judgmental.</p>
 
-<p>- Seneca</p>
+<p>- Walt Whitman</p>
