@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the one quality more associated with success and happiness than any other.</p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ming-Dao Deng</p>
