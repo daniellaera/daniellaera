@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who hesitates is a damned fool.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- Mae West</p>
+<p>- Eckhart Tolle</p>
