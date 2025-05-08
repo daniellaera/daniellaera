@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>- William Faulkner</p>
+<p>- Mae West</p>
