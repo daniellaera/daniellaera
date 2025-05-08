@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>By changing nothing, nothing changes.</p>
 
-<p>- Aristotle</p>
+<p>- Celestine Chua</p>
