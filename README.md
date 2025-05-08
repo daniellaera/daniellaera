@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise man reads both books and life itself.</p>
+<p>The road to success is always under construction..</p>
 
-<p>- Lin Yutang</p>
+<p>- Lily Tomlin</p>
