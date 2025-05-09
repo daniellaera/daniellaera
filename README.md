@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A mountain never yields to the wind no matter how strong it is.</p>
+<p>There is a difference between giving directions and giving direction.</p>
 
-<p>- Zen Proverb</p>
+<p>- Simon Sinek</p>
