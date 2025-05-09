@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
+<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
 
-<p>- James Cameron</p>
+<p>- Roy T. Bennett</p>
