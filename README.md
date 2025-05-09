@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death is not sad; the sad thing is that most people don't really live at all.</p>
+<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
 
-<p>- Dan Millman</p>
+<p>- James Cameron</p>
