@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>A mountain never yields to the wind no matter how strong it is.</p>
 
-<p>- Seungsahn</p>
+<p>- Zen Proverb</p>
