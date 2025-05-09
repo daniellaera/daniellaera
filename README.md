@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</p>
+<p>Everything has beauty but not everyone sees it.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Confucius</p>
