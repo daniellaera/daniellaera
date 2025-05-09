@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you see yourself as prosperous, you will be.</p>
+<p>Imagination is everything. It is the preview of life's coming attractions.</p>
 
-<p>- Robert Collier</p>
+<p>- Albert Einstein</p>
