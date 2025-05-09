@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is the greatest friend.</p>
+<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
 
-<p>- Lao Tzu</p>
+<p>- Steve Maraboli</p>
