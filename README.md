@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>If you see yourself as prosperous, you will be.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Robert Collier</p>
