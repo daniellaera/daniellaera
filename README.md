@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Heraclitus</p>
