@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
+<p>Do not be so open-minded that your brains fall out.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Gilbert Chesterton</p>
