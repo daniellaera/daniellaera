@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about creating value.</p>
+<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
 
-<p>- Candice Carpenter</p>
+<p>- Lao Tzu</p>
