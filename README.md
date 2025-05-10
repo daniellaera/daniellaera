@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be happy now, without reason - or you never will be at all.</p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>- Dan Millman</p>
+<p>- Robert Kiyosaki</p>
