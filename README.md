@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>Be happy now, without reason - or you never will be at all.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dan Millman</p>
