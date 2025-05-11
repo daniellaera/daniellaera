@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>If ever you feel like an animal among men, be a lion.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Criss Jami</p>
