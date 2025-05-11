@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Science can flourish only in an atmosphere of free speech. </p>
+<p>The enemy is a very good teacher.</p>
 
-<p>- Albert Einstein</p>
+<p>- Dalai Lama</p>
