@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
+<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
 
-<p>- Celestine Chua</p>
+<p>- Mary Engelbreit</p>
