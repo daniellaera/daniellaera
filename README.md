@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The enemy is a very good teacher.</p>
+<p>Know the rules well, so you can break them effectively.</p>
 
 <p>- Dalai Lama</p>
