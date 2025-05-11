@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Deepak Chopra</p>
