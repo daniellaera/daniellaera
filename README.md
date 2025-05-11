@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Public opinion is the worst of all opinions.</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Naval Ravikant</p>
