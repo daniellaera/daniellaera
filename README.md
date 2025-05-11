@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>- Napoleon Hill</p>
+<p>- Henry Ford</p>
