@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is only depth of character that determines the profundity with which we face life.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Morihei Ueshiba</p>
