@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An investment in knowledge pays the best interest.</p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- John Carmack</p>
