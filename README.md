@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatness comes from living with purpose and passion.</p>
+<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
 
-<p>- Ralph Marston</p>
+<p>- Kamal Ravikant</p>
