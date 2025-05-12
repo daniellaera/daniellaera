@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first principle of success is desire.</p>
+<p>Success is an iceberg.</p>
 
-<p>- Robert Collier</p>
+<p>- Unknown</p>
