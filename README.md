@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Thomas Jefferson</p>
