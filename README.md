@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best dreams happen when you're awake.</p>
+<p>Failure is not fatal, but failure to change might be.</p>
 
-<p>- Cherie Gilderbloom</p>
+<p>- John Wooden</p>
