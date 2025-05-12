@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
 
-<p>- Unknown</p>
+<p>- Leo Tolstoy</p>
