@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</p>
+<p>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Deepak Chopra</p>
