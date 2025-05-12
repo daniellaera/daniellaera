@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</p>
+<p>It is only depth of character that determines the profundity with which we face life.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Ming-Dao Deng</p>
