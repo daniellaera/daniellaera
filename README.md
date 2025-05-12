@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Like it or not, this moment is all we really have to work with.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Carlos Ruiz Zafon</p>
