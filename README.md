@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is an iceberg.</p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>- Unknown</p>
+<p>- Benjamin Franklin</p>
