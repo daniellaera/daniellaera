@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>If ever you feel like an animal among men, be a lion.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Criss Jami</p>
