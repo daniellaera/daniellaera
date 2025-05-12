@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Unknown</p>
