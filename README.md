@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>It is up to each of us to sing as we feel moved by the overall song of life.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Ming-Dao Deng</p>
