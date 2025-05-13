@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Nelson Mandela</p>
