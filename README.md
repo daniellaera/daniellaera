@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
+<p>Whether you think you can or think you can't – you are right.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Henry Ford</p>
