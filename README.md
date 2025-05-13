@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The clock indicates the moment...but what does eternity indicate?</p>
+<p>We meet ourselves time and again in a thousand disguises on the path of life.</p>
 
-<p>- Walt Whitman</p>
+<p>- Carl Jung</p>
