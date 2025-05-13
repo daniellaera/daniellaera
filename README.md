@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The guest will judge better of a feast than the cook.</p>
+<p>Your spirit is the true shield.</p>
 
-<p>- Aristotle</p>
+<p>- Morihei Ueshiba</p>
