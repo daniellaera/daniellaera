@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
+<p>Elegance does not consist in putting on a new dress.</p>
 
-<p>- Woody Allen</p>
+<p>- Coco Chanel</p>
