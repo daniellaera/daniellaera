@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whether you think you can or think you can't – you are right.</p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>- Henry Ford</p>
+<p>- Robert Greene</p>
