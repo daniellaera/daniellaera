@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your spirit is the true shield.</p>
+<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Mark Manson</p>
