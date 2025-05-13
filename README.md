@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What one does is what counts. Not what one had the intention of doing.</p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Chinese Proverb</p>
