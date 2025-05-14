@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Judy Garland</p>
