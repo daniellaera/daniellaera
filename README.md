@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence breeds beauty.  </p>
+<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
 
-<p>- Estee Lauder</p>
+<p>- Elbert Hubbard</p>
