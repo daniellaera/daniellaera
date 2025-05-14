@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man can get rich himself unless he enriches others.</p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Niccolo Machiavelli</p>
