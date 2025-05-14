@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True prayer has no set form.</p>
+<p>Empty yourself of everything - let the mind become still.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Lao Tzu</p>
