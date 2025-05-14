@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't think money does everything or you are going to end up doing everything for money.</p>
+<p>Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today.</p>
 
-<p>- Voltaire</p>
+<p>- Steve Maraboli</p>
