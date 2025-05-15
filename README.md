@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little progress each day adds up to big results.</p>
+<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
 
-<p>- Unknown</p>
+<p>- Charlie Chaplin</p>
