@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Sydney Smith</p>
