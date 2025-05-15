@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is created twice, first in the mind and then in reality.</p>
+<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
 
-<p>- Robin Sharma</p>
+<p>- Eckhart Tolle</p>
