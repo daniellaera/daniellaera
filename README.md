@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People tend to complicate their own lives, as if living weren't already complicated enough.</p>
+<p>If a man knows not to which port he sails, no wind is favorable.  </p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Seneca</p>
