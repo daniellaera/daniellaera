@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Eric Hoffer</p>
