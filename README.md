@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We run to win, not just to be in the race.  </p>
+<p>He is richest who is content with the least, for content is the wealth of nature.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Socrates</p>
