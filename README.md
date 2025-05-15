@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
+<p>We run to win, not just to be in the race.  </p>
 
-<p>- Charlie Chaplin</p>
+<p>- Vince Lombardi</p>
