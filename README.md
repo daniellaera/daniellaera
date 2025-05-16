@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
+<p>A man's worth is no greater than his ambitions.</p>
 
-<p>- Colin Powell</p>
+<p>- Marcus Aurelius</p>
