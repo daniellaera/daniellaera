@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>- Steve Harvey</p>
+<p>- Bhagavad Gita</p>
