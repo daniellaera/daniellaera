@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are born from a quiet sleep, and we die to a calm awakening</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>- Zhuangzi</p>
+<p>- Robin Williams</p>
