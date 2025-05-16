@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of questions you ask.</p>
+<p>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</p>
 
-<p>- Tony Robbins</p>
+<p>- Og Mandino</p>
