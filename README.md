@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what happens to you while you're busy making other plans.</p>
+<p>Correct what you can. Learn from what you can't.</p>
 
-<p>- John Lennon</p>
+<p>- Toni Morrison</p>
