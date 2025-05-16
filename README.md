@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never close your lips to those whom you have already opened your heart.</p>
+<p>All human wisdom is contained in these two words - Wait and Hope</p>
 
-<p>- Charles Dickens</p>
+<p>- Alexandre Dumas</p>
