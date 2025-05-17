@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>The best teacher is experience and not through someone's distorted point of view.</p>
 
-<p>- Isaac Newton</p>
+<p>- Jack Kerouac</p>
