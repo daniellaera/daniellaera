@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
+<p>If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.</p>
 
-<p>- Brian Tracy</p>
+<p>- Mark Manson</p>
