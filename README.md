@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best teacher is experience and not through someone's distorted point of view.</p>
+<p>To be totally at leisure for one day is to be immortal for one day. </p>
 
-<p>- Jack Kerouac</p>
+<p>- Chinese Proverb</p>
