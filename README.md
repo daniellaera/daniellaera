@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
+<p>Never let the fear of striking out keep you from playing the game.</p>
 
-<p>- Confucius</p>
+<p>- Babe Ruth</p>
