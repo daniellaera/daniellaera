@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Confucius</p>
