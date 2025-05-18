@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </p>
 
-<p>- Martin Luther</p>
+<p>- Nikola Tesla</p>
