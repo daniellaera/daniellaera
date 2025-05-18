@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>- Alexander Pope</p>
+<p>- Mary Engelbreit</p>
