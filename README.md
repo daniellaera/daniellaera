@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing in communication is to hear what isn't being said.</p>
+<p>Treat every moment as your last. It is not preparation for something else.</p>
 
-<p>- Peter Drucker</p>
+<p>- Shunryu Suzuki</p>
