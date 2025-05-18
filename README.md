@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Audrey Hepburn</p>
