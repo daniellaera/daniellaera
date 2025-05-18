@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time flies whether you are having fun or not.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- John Eliot</p>
