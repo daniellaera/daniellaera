@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
+<p>Inspiration exists, but it has to find you working.</p>
 
-<p>- John Eliot</p>
+<p>- Pablo Picasso</p>
