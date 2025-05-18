@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>They say love is the best investment; the more you give, the more you get in return.</p>
+<p>Sometimes success isn't about making the right decision, it's more about making some decision.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Robin Sharma</p>
