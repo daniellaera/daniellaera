@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fewer the words, the better the prayer.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>- Martin Luther</p>
+<p>- Lao Tzu</p>
