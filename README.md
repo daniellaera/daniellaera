@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
+<p>The fewer the words, the better the prayer.</p>
 
-<p>- Isaac Newton</p>
+<p>- Martin Luther</p>
