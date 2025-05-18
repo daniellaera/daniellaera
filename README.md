@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>If I have seen further than others, it is by standing upon the shoulders of giants.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Isaac Newton</p>
