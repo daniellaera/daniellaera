@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>You'll never find rainbows if you're looking down.  </p>
 
-<p>- Mother Teresa</p>
+<p>- Charlie Chaplin</p>
