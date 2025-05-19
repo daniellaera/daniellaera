@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tradition is the illusion of permanence. </p>
+<p>If you want things to be different, perhaps the answer is to become different yourself.</p>
 
-<p>- Woody Allen</p>
+<p>- Norman Vincent Peale</p>
