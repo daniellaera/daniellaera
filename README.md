@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Avoiding failure is to avoid progress.</p>
+<p>Never fear quarrels, but seek hazardous adventures.</p>
 
-<p>- Unknown</p>
+<p>- Alexandre Dumas</p>
