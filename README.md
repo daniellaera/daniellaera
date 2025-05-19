@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest weariness comes from work not done.</p>
+<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Mother Teresa</p>
