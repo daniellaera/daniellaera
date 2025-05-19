@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never fear quarrels, but seek hazardous adventures.</p>
+<p>Nothing is particularly hard if you divide it into small jobs. </p>
 
-<p>- Alexandre Dumas</p>
+<p>- Henry Ford</p>
