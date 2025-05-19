@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest doer must also be a great dreamer.</p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Alexander Pope</p>
