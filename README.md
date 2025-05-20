@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
+<p>No man is happy who does not think himself so.</p>
 
-<p>- Lao Tzu</p>
+<p>- Norman Vincent Peale</p>
