@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
+<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Kahlil Gibran</p>
