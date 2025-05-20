@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
+<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Eckhart Tolle</p>
