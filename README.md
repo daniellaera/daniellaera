@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>Manifest plainness, embrace simplicity, reduce selfishness, have few desires.</p>
 
-<p>- Helen Keller</p>
+<p>- Lao Tzu</p>
