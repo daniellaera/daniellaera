@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll never find rainbows if you're looking down.  </p>
+<p>Thinking is difficult, that's why most people judge.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Carl Jung</p>
