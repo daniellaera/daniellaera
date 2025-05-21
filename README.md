@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is not for all men, but for those who seek it.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>- Ayn Rand</p>
+<p>- Wayne Dyer</p>
