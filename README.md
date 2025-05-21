@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
+<p>Man is made by his belief. As he believes, so he is.</p>
 
-<p>- Steve Harvey</p>
+<p>- Bhagavad Gita</p>
