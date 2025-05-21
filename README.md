@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>- Isaac Newton</p>
+<p>- Toni Morrison</p>
