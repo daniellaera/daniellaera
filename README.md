@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all like the bright moon, we still have our darker side.  </p>
+<p>The truth is not for all men, but for those who seek it.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Ayn Rand</p>
