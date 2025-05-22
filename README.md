@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- William Faulkner</p>
+<p>- T.S. Eliot</p>
