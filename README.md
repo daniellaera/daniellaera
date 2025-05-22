@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
+<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
 
-<p>- Christopher Columbus</p>
+<p>- George Eliot</p>
