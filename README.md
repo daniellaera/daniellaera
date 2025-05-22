@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
+<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
 
-<p>- Spencer Johnson</p>
+<p>- William Faulkner</p>
