@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
+<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Robin Williams</p>
