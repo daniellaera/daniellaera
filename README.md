@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of your thoughts.</p>
+<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
 
-<p>- Unknown</p>
+<p>- Zen Proverb</p>
