@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you are, be a good one.</p>
+<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Thomas Jefferson</p>
