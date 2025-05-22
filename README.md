@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not push the boundaries, you will never know where they are.</p>
+<p>Live simply, expect little, give much.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Norman Vincent Peale</p>
