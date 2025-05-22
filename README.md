@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Benjamin Mays</p>
