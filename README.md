@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let each man exercise the art he knows.</p>
+<p>For fast-acting relief try slowing down.</p>
 
-<p>- Aristophanes</p>
+<p>- Lily Tomlin</p>
