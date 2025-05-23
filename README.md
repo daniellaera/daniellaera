@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>Never feel shame for trying and failing, for he who has never failed is he who has never tried.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Og Mandino</p>
