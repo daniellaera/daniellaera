@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't just sit there. Do something. The answers will follow.</p>
+<p>Your spirit is the true shield.</p>
 
-<p>- Mark Manson</p>
+<p>- Morihei Ueshiba</p>
