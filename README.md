@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your spirit is the true shield.</p>
+<p>Let each man exercise the art he knows.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Aristophanes</p>
