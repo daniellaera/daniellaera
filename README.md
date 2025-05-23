@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Martin Luther</p>
