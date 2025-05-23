@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
+<p>Admire as much as you can. Most people do not admire enough.</p>
 
-<p>- John Eliot</p>
+<p>- Vincent van Gogh</p>
