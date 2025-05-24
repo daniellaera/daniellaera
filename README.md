@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
+<p>No snowflake ever falls in the wrong place.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Zen Proverb</p>
