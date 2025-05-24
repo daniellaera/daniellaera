@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>Learning is a weightless treasure you can always carry easily.</p>
 
-<p>- Brian Tracy</p>
+<p>- Chinese Proverb</p>
