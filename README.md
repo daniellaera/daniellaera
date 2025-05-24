@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>All power is from within and therefore under our control.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Robert Collier</p>
