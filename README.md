@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All religions, arts and sciences are branches of the same tree. </p>
+<p>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. </p>
 
-<p>- Albert Einstein</p>
+<p>- Charles Swindoll</p>
