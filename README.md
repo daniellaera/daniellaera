@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faults are yours to fix, not to curse.</p>
+<p>So long as we are being remembered, we remain alive.</p>
 
-<p>- Colin Powell</p>
+<p>- Carlos Ruiz Zafon</p>
