@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>So long as we are being remembered, we remain alive.</p>
+<p>Those who know, do. Those that understand, teach.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Aristotle</p>
