@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- Pema Chodron</p>
+<p>- Tony Robbins</p>
