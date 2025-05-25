@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always seek out the seed of triumph in every adversity.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>- Og Mandino</p>
+<p>- John Lennon</p>
