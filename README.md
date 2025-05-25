@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom itself demands discomfort.</p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>- Mark Manson</p>
+<p>- Og Mandino</p>
