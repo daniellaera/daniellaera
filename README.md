@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less people know, the more stubbornly they know it.</p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>- Osho</p>
+<p>- Steve Maraboli</p>
