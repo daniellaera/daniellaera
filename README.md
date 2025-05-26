@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time is a game played beautifully by children.</p>
+<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
 
-<p>- Heraclitus</p>
+<p>- Eckhart Tolle</p>
