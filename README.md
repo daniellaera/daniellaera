@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you correct your mind, the rest of your life will fall into place.</p>
+<p>Life is a balance of holding on and letting go.</p>
 
-<p>- Lao Tzu</p>
+<p>- Rumi</p>
