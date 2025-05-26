@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just do the best you can. No one can do more than that.</p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>- John Wooden</p>
+<p>- Robert Kiyosaki</p>
