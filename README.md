@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The right thing to do and the hard thing to do are usually the same.</p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Soren Kierkegaard</p>
