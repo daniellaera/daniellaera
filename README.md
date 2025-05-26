@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Voltaire</p>
