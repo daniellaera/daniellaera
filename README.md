@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a balance of holding on and letting go.</p>
+<p>Think and wonder, wonder and think.</p>
 
-<p>- Rumi</p>
+<p>- Dr. Seuss</p>
