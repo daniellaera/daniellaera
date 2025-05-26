@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
+<p>The only normal people are the ones you don't know very well.</p>
 
-<p>- Voltaire</p>
+<p>- Alfred Adler</p>
