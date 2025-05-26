@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- John Wooden</p>
