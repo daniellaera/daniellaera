@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</p>
+<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
 
-<p>- Brian Tracy</p>
+<p>- Rumi</p>
