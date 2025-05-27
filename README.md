@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</p>
+<p>You will face many defeats in life, but never let yourself be defeated.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Maya Angelou</p>
