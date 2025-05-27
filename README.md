@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with stupid people, they will drag you down to their level and then beat you with experience.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>- Mark Twain</p>
+<p>- Robin Sharma</p>
