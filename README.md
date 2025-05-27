@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you open your heart to others, the more your heart suffers.</p>
+<p>My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Charles Darwin</p>
