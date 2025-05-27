@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Peter A. Cohen</p>
