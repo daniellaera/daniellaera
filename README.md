@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Create with the heart; build with the mind.</p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>- Criss Jami</p>
+<p>- Miguel de Cervantes</p>
