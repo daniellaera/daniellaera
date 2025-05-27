@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>If you're afraid to die, you're afraid to live. You can't have one without the other.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Rita Mae Brown</p>
