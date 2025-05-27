@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Earl Nightingale</p>
