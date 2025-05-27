@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ponder and deliberate before you make a move.</p>
+<p>Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.</p>
 
-<p>- Sun Tzu</p>
+<p>- Robert Kiyosaki</p>
