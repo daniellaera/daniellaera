@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is not having the strength to go on; it is going on when you don't have the strength.</p>
+<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Shahir Zag</p>
