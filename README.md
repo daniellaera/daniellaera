@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
 
-<p>- Lao Tzu</p>
+<p>- Bob Marley</p>
