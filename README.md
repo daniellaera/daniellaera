@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. </p>
+<p>If you love life, don't waste time, for time is what life is made up of. </p>
 
-<p>- Nikola Tesla</p>
+<p>- Bruce Lee</p>
