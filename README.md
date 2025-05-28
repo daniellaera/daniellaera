@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
+<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
 
-<p>- Shahir Zag</p>
+<p>- Confucius</p>
