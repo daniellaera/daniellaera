@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Lao Tzu</p>
