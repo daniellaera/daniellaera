@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
+<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
 
-<p>- Bob Marley</p>
+<p>- Norman Vincent Peale</p>
