@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
+<p>The less you respond to negative people, the more positive your life will become.</p>
 
-<p>- Confucius</p>
+<p>- Paulo Coelho</p>
