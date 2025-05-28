@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has no limitations except the ones you make.</p>
+<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
 
-<p>- Les Brown</p>
+<p>- Robert Kiyosaki</p>
