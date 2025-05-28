@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>Intense love does not measure, it just gives.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Mother Teresa</p>
