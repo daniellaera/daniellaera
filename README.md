@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Weeds are flowers too, once you get to know them.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>- A.A. Milne</p>
+<p>- Christopher Columbus</p>
