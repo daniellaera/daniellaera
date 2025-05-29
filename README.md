@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is about creating value.</p>
+<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
 
-<p>- Candice Carpenter</p>
+<p>- Kahlil Gibran</p>
