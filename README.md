@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not the absence of conflict, but the ability to cope with it.</p>
+<p>When you're curious, you find lots of interesting things to do.</p>
 
-<p>- Unknown</p>
+<p>- Walt Disney</p>
