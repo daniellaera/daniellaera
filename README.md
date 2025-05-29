@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Worry is a waste of emotional reserve.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Ayn Rand</p>
