@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
+<p>Guilt is perhaps the most painful companion of death.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Coco Chanel</p>
