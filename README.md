@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Guilt is perhaps the most painful companion of death.</p>
+<p>Success is about creating value.</p>
 
-<p>- Coco Chanel</p>
+<p>- Candice Carpenter</p>
