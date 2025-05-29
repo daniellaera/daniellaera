@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
+<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Tony Robbins</p>
