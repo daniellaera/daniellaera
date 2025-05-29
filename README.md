@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
 
-<p>- Henry Ford</p>
+<p>- Mother Teresa</p>
