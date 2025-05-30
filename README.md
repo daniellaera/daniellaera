@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With the new day comes new strength and new thoughts.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Nicolas Chamfort</p>
