@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is planted in each person's soul will sprout.  </p>
+<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
 
-<p>- Rumi</p>
+<p>- Unknown</p>
