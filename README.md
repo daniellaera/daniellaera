@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is an essence of when you are fearless, you become more creative.</p>
+<p>Curiosity is the most powerful thing you own.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- James Cameron</p>
