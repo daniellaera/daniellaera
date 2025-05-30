@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody has talent, but ability takes hard work.</p>
+<p>Don't stop when you're tired. Stop when you're done.</p>
 
-<p>- Michael Jordan</p>
+<p>- Marilyn Monroe</p>
