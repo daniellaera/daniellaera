@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>Ideas do not reach perfection in a day, no matter how much study is put upon them.</p>
 
-<p>- Kabir</p>
+<p>- Alexander Graham Bell</p>
