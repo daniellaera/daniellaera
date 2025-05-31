@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Kabir</p>
