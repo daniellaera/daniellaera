@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
+<p>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Robin Williams</p>
