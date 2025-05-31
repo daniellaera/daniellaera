@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>- Aristotle</p>
+<p>- John Eliot</p>
