@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life as an exclamation rather than an explanation.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>- Isaac Newton</p>
+<p>- Maya Angelou</p>
