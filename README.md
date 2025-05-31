@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people find fault like there is a reward for it.  </p>
+<p>Only those who dare to fail greatly can ever achieve greatly.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Robert F. Kennedy</p>
