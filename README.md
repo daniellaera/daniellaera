@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who removes a mountain begins by carrying away small stones.</p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 
-<p>- William Faulkner</p>
+<p>- Aristotle</p>
