@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Norman Vincent Peale</p>
