@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all self-made, but only the successful will admit it.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Peter Drucker</p>
