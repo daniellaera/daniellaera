@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing in communication is to hear what isn't being said.</p>
+<p>We think too much and feel too little.</p>
 
-<p>- Peter Drucker</p>
+<p>- Charlie Chaplin</p>
