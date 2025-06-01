@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Facts are the enemy of truth. </p>
+<p>An intelligent person hires people who are more intelligent than he is.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Robert Kiyosaki</p>
