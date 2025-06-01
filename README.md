@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The guest will judge better of a feast than the cook.</p>
+<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
 
-<p>- Aristotle</p>
+<p>- Robert Greene</p>
