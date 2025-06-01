@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Elbert Hubbard</p>
