@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
+<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Steve Maraboli</p>
