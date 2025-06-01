@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
+<p>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</p>
 
-<p>- Barack Obama</p>
+<p>- Carl Bard</p>
