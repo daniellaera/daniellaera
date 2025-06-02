@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always be a first rate version of yourself and not a second rate version of someone else.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>- Judy Garland</p>
+<p>- Sathya Sai Baba</p>
