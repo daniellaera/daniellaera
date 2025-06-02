@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
+<p>Human beings can alter their lives by altering their attitudes of mind.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- William James</p>
