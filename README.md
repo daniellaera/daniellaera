@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
+<p>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</p>
 
-<p>- Charles Darwin</p>
+<p>- Ronald Reagan</p>
