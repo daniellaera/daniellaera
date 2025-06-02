@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Elbert Hubbard</p>
