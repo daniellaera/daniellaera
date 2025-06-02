@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter what happens, always be yourself.</p>
+<p>The businessman's tool is value.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Ayn Rand</p>
