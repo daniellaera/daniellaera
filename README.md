@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</p>
+<p>If you can handle rejection, you'll learn to get everything you want.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Tony Robbins</p>
