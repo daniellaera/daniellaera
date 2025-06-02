@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is fear that has said its prayers and decided to go forward anyway.</p>
+<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Bhagavad Gita</p>
