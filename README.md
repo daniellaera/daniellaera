@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>No matter what happens, always be yourself.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Dale Carnegie</p>
