@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Selfishness and greed, individual or national, cause most of our troubles.</p>
+<p>One never does wrong by doing right.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Norman Vincent Peale</p>
