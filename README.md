@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day without laughter is a day wasted.</p>
+<p>Empty yourself of everything - let the mind become still.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Lao Tzu</p>
