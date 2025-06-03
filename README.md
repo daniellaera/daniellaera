@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Charlie Chaplin</p>
