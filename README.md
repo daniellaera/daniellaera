@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it. </p>
+<p>If you do what you've always done, you'll get what you've always gotten.</p>
 
-<p>- Bodhidharma</p>
+<p>- Tony Robbins</p>
