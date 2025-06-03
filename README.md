@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Pema Chodron</p>
+<p>- William Faulkner</p>
