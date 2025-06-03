@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do what you've always done, you'll get what you've always gotten.</p>
+<p>We must have strong minds, ready to accept facts as they are.</p>
 
-<p>- Tony Robbins</p>
+<p>- Harry S. Truman</p>
