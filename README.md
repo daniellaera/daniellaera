@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show up even when you don't want to show up.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>- Steve Harvey</p>
+<p>- Brian Tracy</p>
