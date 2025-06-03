@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is really work unless you would rather be doing something else. </p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Lao Tzu</p>
