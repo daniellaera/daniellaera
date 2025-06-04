@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the root is strong, the fruit is sweet.</p>
+<p>Investing in yourself is the best investment you will ever make.</p>
 
-<p>- Bob Marley</p>
+<p>- Robin Sharma</p>
