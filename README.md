@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each path to knowledge involves different rules and these rules are not interchangeable.</p>
+<p>It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.</p>
 
-<p>- Barack Obama</p>
+<p>- Albus Dumbledore</p>
