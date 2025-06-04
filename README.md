@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is like most opinions - best unexpressed.</p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Charlie Chaplin</p>
