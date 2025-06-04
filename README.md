@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day without laughter is a day wasted.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Richard Bach</p>
