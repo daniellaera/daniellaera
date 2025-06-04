@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>Truth is like most opinions - best unexpressed.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Kenneth Branagh</p>
