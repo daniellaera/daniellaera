@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is planted in each person's soul will sprout.  </p>
+<p>Anything becomes interesting if you look at it long enough..</p>
 
-<p>- Rumi</p>
+<p>- Gustave Flaubert</p>
