@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Thomas Edison</p>
