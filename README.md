@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most difficult times for many of us are the ones we give ourselves.</p>
+<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
 
-<p>- Pema Chodron</p>
+<p>- Ralph Waldo Emerson</p>
