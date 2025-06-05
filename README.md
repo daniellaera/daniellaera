@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Much learning does not teach understanding.</p>
+<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
 
-<p>- Heraclitus</p>
+<p>- Albus Dumbledore</p>
