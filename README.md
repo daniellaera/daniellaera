@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>The friend is the man who knows all about you, and still likes you.</p>
 
-<p>- Lao Tzu</p>
+<p>- Elbert Hubbard</p>
