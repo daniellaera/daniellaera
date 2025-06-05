@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Lao Tzu</p>
