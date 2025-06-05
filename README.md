@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness is a language which the deaf can hear and the blind can see.</p>
+<p>Nothing can dim the light which shines from within.</p>
 
-<p>- Mark Twain</p>
+<p>- Maya Angelou</p>
