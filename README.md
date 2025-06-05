@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>- Buddha</p>
+<p>- Pema Chodron</p>
