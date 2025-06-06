@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We lie the loudest when we lie to ourselves.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Eleanor Roosevelt</p>
