@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Heraclitus</p>
