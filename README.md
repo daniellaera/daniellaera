@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Storms don't last forever.</p>
+<p>Wherever you are is the entry point.</p>
 
-<p>- Unknown</p>
+<p>- Kabir</p>
