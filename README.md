@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Management is doing things right; leadership is doing the right things.</p>
+<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
 
-<p>- Peter Drucker</p>
+<p>- Johann Wolfgang von Goethe</p>
