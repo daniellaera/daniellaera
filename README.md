@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All things come into being by conflict of opposites.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>- Heraclitus</p>
+<p>- Sun Tzu</p>
