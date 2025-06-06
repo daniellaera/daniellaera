@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Supreme excellence consists of breaking the enemy's resistance without fighting.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>- Sun Tzu</p>
+<p>- Carl Jung</p>
