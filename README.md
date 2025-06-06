@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be calm is the highest achievement of the self.</p>
+<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
 
-<p>- Zen Proverb</p>
+<p>- F. Scott Fitzgerald</p>
