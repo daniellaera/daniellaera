@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not fair to ask of others what you are not willing to do yourself.</p>
+<p>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- D. H. Lawrence</p>
