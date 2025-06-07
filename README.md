@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
+<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Estee Lauder</p>
