@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>- Lao Tzu</p>
+<p>- Margaret Mead</p>
