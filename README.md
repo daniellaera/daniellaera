@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger exceeding limits causes fear and excessive kindness eliminates respect.</p>
+<p>Our view of the world is truly shaped by what we decide to hear.</p>
 
-<p>- Euripides</p>
+<p>- William James</p>
