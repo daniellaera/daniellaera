@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
+<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Roy T. Bennett</p>
