@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
+<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Lao Tzu</p>
