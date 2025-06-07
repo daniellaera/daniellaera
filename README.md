@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who wants to achieve a dream must stay strong, focused and steady.</p>
+<p>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</p>
 
-<p>- Estee Lauder</p>
+<p>- Christopher Reeve</p>
