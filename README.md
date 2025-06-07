@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead an orchestra, you must turn your back on the crowd.</p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>- Aristotle</p>
+<p>- Henry Ward Beecher</p>
