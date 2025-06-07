@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victory is always possible for the person who refuses to stop fighting.</p>
+<p>Anger exceeding limits causes fear and excessive kindness eliminates respect.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Euripides</p>
