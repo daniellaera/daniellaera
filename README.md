@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give. </p>
+<p>Victory is always possible for the person who refuses to stop fighting.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Napoleon Hill</p>
