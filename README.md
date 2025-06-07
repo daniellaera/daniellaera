@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>It's not the love you make. It's the love you give. </p>
 
-<p>- Socrates</p>
+<p>- Nikola Tesla</p>
