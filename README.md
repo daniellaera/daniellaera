@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have a vision. Be demanding.</p>
+<p>Don't settle, and don't struggle.</p>
 
-<p>- Colin Powell</p>
+<p>- Naval Ravikant</p>
