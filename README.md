@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Lao Tzu</p>
+<p>- Eleanor Roosevelt</p>
