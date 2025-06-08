@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</p>
+<p>We are all like the bright moon, we still have our darker side.  </p>
 
-<p>- Celestine Chua</p>
+<p>- Kahlil Gibran</p>
