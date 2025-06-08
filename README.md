@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faithless is he that says farewell when the road darkens.</p>
+<p>Life would be tragic if it weren't funny.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Stephen Hawking</p>
