@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't settle, and don't struggle.</p>
+<p>Faithless is he that says farewell when the road darkens.</p>
 
-<p>- Naval Ravikant</p>
+<p>- J.R.R. Tolkien</p>
