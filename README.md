@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No great mind has ever existed without a touch of madness.</p>
+<p>The purpose of life is the life of purpose.</p>
 
-<p>- Aristotle</p>
+<p>- Robin Sharma</p>
