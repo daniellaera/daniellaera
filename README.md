@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let anyone define you. You define yourself.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>- Billie Jean King</p>
+<p>- Pablo Picasso</p>
