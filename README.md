@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
+<p>Convinced myself, I seek not to convince.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Edgar Allan Poe</p>
