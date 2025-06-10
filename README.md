@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
+<p>To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Criss Jami</p>
