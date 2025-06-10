@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fastest way to change is to laugh at your own folly.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Ronald Reagan</p>
