@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is just information and an opportunity to change your course.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Mark Twain</p>
