@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the world pushes you to your knees, you're in the perfect position to pray.</p>
+<p>Failure is just information and an opportunity to change your course.</p>
 
-<p>- Rumi</p>
+<p>- Oprah Winfrey</p>
