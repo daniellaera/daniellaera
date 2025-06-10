@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quiet people have the loudest minds.</p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Gilbert Chesterton</p>
