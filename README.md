@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your heart is full of fertile seeds, waiting to sprout.</p>
+<p>Be - don't try to become </p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Osho</p>
