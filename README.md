@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Convinced myself, I seek not to convince.</p>
+<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Franklin D. Roosevelt</p>
