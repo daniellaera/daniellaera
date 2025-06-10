@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Spencer Johnson</p>
