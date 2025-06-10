@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no mistakes in life, only lessons.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Robin Sharma</p>
+<p>- John Wooden</p>
