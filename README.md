@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>There are no mistakes in life, only lessons.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Robin Sharma</p>
