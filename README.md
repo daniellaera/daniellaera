@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are possessed by nothing possess everything.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Deepak Chopra</p>
