@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is a difficult thing to achieve.  </p>
+<p>Words, once they are printed, have a life of their own.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Carol Burnett</p>
