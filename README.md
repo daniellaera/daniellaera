@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead the people, walk behind them.</p>
+<p>Elegance does not consist in putting on a new dress.</p>
 
-<p>- Lao Tzu</p>
+<p>- Coco Chanel</p>
