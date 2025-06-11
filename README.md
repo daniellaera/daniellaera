@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Animals don't hate, and we're supposed to be better than them.</p>
+<p>Those who are possessed by nothing possess everything.</p>
 
-<p>- Elvis Presley</p>
+<p>- Morihei Ueshiba</p>
