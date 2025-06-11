@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the midst of movement and chaos, keep stillness inside of you.</p>
+<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Elon Musk</p>
