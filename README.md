@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
+<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Maxime Lagace</p>
