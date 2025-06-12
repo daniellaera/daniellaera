@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.  </p>
+<p>There is always risk, so learn to manage risk instead of avoiding it.</p>
 
-<p>- Bruce Lee</p>
+<p>- Robert Kiyosaki</p>
