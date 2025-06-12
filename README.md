@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
+<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Epictetus</p>
