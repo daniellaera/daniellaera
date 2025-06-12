@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wisest men follow their own direction.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- Euripides</p>
+<p>- Amelia Earhart</p>
