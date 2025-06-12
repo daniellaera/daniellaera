@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best dreams happen when you're awake.</p>
+<p>Judge a man by his questions rather than his answers.</p>
 
-<p>- Cherie Gilderbloom</p>
+<p>- Voltaire</p>
