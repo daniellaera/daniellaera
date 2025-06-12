@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little impatience will spoil great plans.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Cherie Gilderbloom</p>
