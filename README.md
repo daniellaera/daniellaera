@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
+<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
 
-<p>- Samuel Butler</p>
+<p>- Nikola Tesla</p>
