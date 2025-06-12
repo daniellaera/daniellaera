@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.</p>
+<p>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</p>
 
-<p>- Epictetus</p>
+<p>- Samuel Butler</p>
