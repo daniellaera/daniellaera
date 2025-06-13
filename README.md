@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your dream has to be bigger than your fear.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>- Steve Harvey</p>
+<p>- Ming-Dao Deng</p>
