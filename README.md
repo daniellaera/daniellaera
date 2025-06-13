@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your face to the sun, as flowers know how to do.</p>
+<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Brian Tracy</p>
