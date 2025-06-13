@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work is always an antidote to depression.</p>
+<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Henry Ford</p>
