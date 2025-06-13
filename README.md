@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Coming together is a beginning, staying together is progress, and working together is success. </p>
+<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
 
-<p>- Henry Ford</p>
+<p>- Yanni</p>
