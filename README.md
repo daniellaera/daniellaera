@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work harder on yourself than you do on your job.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>- Jim Rohn</p>
+<p>- Steve Harvey</p>
