@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
+<p>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</p>
 
-<p>- Yanni</p>
+<p>- Roy T. Bennett</p>
