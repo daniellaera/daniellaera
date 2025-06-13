@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who laughs at himself never runs out of things to laugh at.</p>
+<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
 
-<p>- Epictetus</p>
+<p>- Osho</p>
