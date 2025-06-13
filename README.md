@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Dr. Seuss</p>
