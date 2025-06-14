@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>Don't let the fear of losing be greater than the excitement of winning.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Robert Kiyosaki</p>
