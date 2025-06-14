@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in changing that we find purpose.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- Heraclitus</p>
+<p>- Beverly Sills</p>
