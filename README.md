@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
+<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Alexandre Dumas</p>
