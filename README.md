@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
+<p>Find the game where you can win, and then commit your life to playing it; and play to win.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Robert Kiyosaki</p>
