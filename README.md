@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
+<p>You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Robin Williams</p>
