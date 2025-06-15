@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cease striving. Then there will be transformation.</p>
+<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
 
-<p>- Zhuangzi</p>
+<p>- Kamal Ravikant</p>
