@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>- Bruce Lee</p>
+<p>- Genghis Khan</p>
