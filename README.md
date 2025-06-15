@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>It's always to soon to quit!</p>
 
-<p>- Paulo Coelho</p>
+<p>- Norman Vincent Peale</p>
