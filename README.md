@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Herbert Hoover</p>
