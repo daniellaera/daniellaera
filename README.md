@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>It is startling to realize how much unbelief is necessary to make belief possible.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Eric Hoffer</p>
