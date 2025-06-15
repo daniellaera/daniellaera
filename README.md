@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
 
-<p>- Herbert Hoover</p>
+<p>- George Bernard Shaw</p>
