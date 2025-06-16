@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Helen Keller</p>
