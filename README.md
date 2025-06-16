@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
+<p>Life's too mysterious to take too serious.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Mary Engelbreit</p>
