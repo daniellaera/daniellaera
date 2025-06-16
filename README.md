@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Leo Tolstoy</p>
