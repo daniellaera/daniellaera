@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</p>
 
-<p>- Unknown</p>
+<p>- Eleanor Roosevelt</p>
