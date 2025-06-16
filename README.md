@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I defeat my enemies when I make them my friends.</p>
+<p>Excellence is not a skill. It is an attitude. </p>
 
-<p>- Dalai Lama</p>
+<p>- Ralph Marston</p>
