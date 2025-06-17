@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction.</p>
+<p>Courage is the price that life exacts for granting peace.</p>
 
-<p>- Steve Harvey</p>
+<p>- Amelia Earhart</p>
