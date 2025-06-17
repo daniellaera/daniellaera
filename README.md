@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your vision will become clear only when you can look into your own heart.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Judy Garland</p>
