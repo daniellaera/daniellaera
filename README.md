@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is found in unlikely places.</p>
+<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Chinese Proverb</p>
