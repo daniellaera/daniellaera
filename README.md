@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life's too mysterious to take too serious.</p>
+<p>Your vision will become clear only when you can look into your own heart.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Lolly Daskal</p>
