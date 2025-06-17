@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>Believe that life is worth living and your belief will help create the fact.</p>
 
-<p>- David Brinkley</p>
+<p>- William James</p>
