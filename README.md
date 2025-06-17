@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Criss Jami</p>
+<p>- Wayne Dyer</p>
