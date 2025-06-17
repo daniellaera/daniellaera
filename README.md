@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe that life is worth living and your belief will help create the fact.</p>
+<p>A golden cage is still just a cage.</p>
 
-<p>- William James</p>
+<p>- Anita Krizzan</p>
