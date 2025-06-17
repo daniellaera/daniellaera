@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
+<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Criss Jami</p>
