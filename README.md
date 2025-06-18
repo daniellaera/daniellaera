@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want something in life, you just gotta reach out and grab it.</p>
+<p>Happiness is when what you think, what you say, and what you do are in harmony.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Mahatma Gandhi</p>
