@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only when you can be extremely pliable and soft can you be extremely hard and strong.</p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
 <p>- Zen Proverb</p>
