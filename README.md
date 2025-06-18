@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hut full of laughter is richer than a palace full of sadness.</p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>- Zen Proverb</p>
+<p>- Franz Kafka</p>
