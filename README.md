@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>Never be bored, and you will never be boring.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Eleanor Roosevelt</p>
