@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can laugh, I can live.</p>
+<p>When you want something in life, you just gotta reach out and grab it.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Christopher McCandless</p>
