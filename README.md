@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Bhagavad Gita</p>
