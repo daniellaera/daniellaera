@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human happiness and moral duty are inseparably connected. </p>
+<p>The best of us sometimes eat our words.  </p>
 
-<p>- George Washington</p>
+<p>- Albus Dumbledore</p>
