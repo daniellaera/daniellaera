@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just get out and do it. You will be very, very glad that you did.</p>
+<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Deepak Chopra</p>
