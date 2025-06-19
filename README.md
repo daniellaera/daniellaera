@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
+<p>Every act of creation is first an act of destruction.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Pablo Picasso</p>
