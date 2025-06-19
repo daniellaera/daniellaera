@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can bring you peace but yourself.</p>
+<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Naval Ravikant</p>
