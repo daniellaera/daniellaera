@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best of us sometimes eat our words.  </p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Bruce Lee</p>
