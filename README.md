@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
+<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
 
-<p>- Bhagavad Gita</p>
+<p>- Zig Ziglar</p>
