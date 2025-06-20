@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust is the foundation of great leadership.</p>
+<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Wayne Dyer</p>
