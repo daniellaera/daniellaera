@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not as important how we start, but how we finish.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Joyce Meyer</p>
+<p>- James Allen</p>
