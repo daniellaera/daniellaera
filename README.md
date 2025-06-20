@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>- Epictetus</p>
+<p>- Roy T. Bennett</p>
