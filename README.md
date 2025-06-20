@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is inevitable but personal growth is a choice.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Bob Proctor</p>
+<p>- Dogen</p>
