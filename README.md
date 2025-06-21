@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One loses many laughs by not laughing at oneself.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Amelia Earhart</p>
