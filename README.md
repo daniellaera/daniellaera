@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.</p>
 
 <p>- Mark Manson</p>
