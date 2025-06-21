@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
+<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
 
-<p>- Sun Tzu</p>
+<p>- Bob Marley</p>
