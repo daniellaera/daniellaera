@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The temptation to give up is strongest just before victory.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- Zen Proverb</p>
+<p>- Charles Dickens</p>
