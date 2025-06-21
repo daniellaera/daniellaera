@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give so much away people insist on paying you.</p>
+<p>Respect is earned by effort not age, all things age without effort.</p>
 
-<p>- Jack Butcher</p>
+<p>- C. Sean McGee</p>
