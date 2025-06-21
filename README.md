@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A minute's success pays the failure of years.</p>
+<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
 
-<p>- Robert Browning</p>
+<p>- Henry Ward Beecher</p>
