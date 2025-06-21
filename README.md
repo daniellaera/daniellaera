@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
 
-<p>- Bob Marley</p>
+<p>- Pablo Picasso</p>
