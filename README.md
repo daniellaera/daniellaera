@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>- Zig Ziglar</p>
+<p>- Chinese Proverb</p>
