@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Celestine Chua</p>
