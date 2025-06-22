@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The salvation of the world lies in the human heart.</p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Dogen</p>
