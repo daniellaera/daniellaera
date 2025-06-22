@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>- Dogen</p>
+<p>- Albert Einstein</p>
