@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Unknown</p>
