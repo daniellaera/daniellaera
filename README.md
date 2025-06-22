@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can live without money, but I cannot live without love.</p>
+<p>Always focus on the front windshield and not the rear view mirror.</p>
 
-<p>- Judy Garland</p>
+<p>- Colin Powell</p>
