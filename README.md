@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I pay attention to every minute of the day.</p>
+<p>Definiteness of purpose is the starting point of all achievement. </p>
 
-<p>- Steve Harvey</p>
+<p>- W. Clement Stone</p>
