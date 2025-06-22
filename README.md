@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man will make a great leader who wants to do it all himself or to get all the credit for doing it.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Stephen Hawking</p>
