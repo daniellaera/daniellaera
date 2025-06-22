@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Judy Garland</p>
