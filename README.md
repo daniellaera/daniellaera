@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</p>
+<p>As you love yourself, life loves you back.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Kamal Ravikant</p>
