@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is more important than knowledge.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>- Albert Einstein</p>
+<p>- Hans Christian Andersen</p>
