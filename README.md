@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give. </p>
+<p>We live only now. Everything else is either passed or is unknown.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Marcus Aurelius</p>
