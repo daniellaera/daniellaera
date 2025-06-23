@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The trouble with the rat race is that even if you win, you're still a rat.</p>
+<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Charles Spurgeon</p>
