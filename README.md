@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>Realistic people do not accomplish extraordinary things.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- John Eliot</p>
