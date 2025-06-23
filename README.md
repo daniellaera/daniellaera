@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give out what you most want to come back.</p>
+<p>Failure is the highway to success.</p>
 
-<p>- Robin Sharma</p>
+<p>- Og Mandino</p>
