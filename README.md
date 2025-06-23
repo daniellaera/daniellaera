@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are easily shocked should be shocked more often.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>- Mae West</p>
+<p>- Theodore Roosevelt</p>
