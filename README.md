@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faith is taking the first step even when you don't see the whole staircase.</p>
+<p>Those who are easily shocked should be shocked more often.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Mae West</p>
