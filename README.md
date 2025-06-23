@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the highway to success.</p>
+<p>The trouble with the rat race is that even if you win, you're still a rat.</p>
 
-<p>- Og Mandino</p>
+<p>- Lily Tomlin</p>
