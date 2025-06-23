@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is a bitter plant, but its fruit is sweet.</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Norman Vincent Peale</p>
