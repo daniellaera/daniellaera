@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not believe that you will reach your destination without leaving the shore. </p>
+<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
 
-<p>- Chinese Proverb</p>
+<p>- D. H. Lawrence</p>
