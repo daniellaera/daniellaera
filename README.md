@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each day provides it's own gifts.</p>
+<p>The world is changed by your example, not by your opinion.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Paulo Coelho</p>
