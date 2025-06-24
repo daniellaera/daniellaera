@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
+<p>Do not believe that you will reach your destination without leaving the shore. </p>
 
-<p>- Charles Dickens</p>
+<p>- Chinese Proverb</p>
