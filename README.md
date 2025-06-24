@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let each man exercise the art he knows.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Aristophanes</p>
+<p>- John Wooden</p>
