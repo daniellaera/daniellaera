@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Charles Dickens</p>
