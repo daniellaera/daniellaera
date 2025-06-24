@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
+<p>Peace begins with a smile.</p>
 
-<p>- Walt Whitman</p>
+<p>- Mother Teresa</p>
