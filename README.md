@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>- Confucius</p>
+<p>- Samuel Butler</p>
