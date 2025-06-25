@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Confucius</p>
