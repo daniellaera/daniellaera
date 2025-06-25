@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Your world is a living expression of how you are using and have used your mind.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Earl Nightingale</p>
