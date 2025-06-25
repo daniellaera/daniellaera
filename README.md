@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reality is the leading cause of stress among those in touch with it.</p>
+<p>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Kamal Ravikant</p>
