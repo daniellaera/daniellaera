@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Animals don't hate, and we're supposed to be better than them.</p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>- Elvis Presley</p>
+<p>- Robert Kiyosaki</p>
