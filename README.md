@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.</p>
 
-<p>- Criss Jami</p>
+<p>- Kabir</p>
