@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time heals what reason cannot.  </p>
+<p>Being wrong brings the opportunity for growth.</p>
 
-<p>- Seneca</p>
+<p>- Mark Manson</p>
