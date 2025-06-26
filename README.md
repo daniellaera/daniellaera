@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Samuel Butler</p>
