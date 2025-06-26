@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot teach a crab to walk straight.</p>
+<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
 
-<p>- Aristophanes</p>
+<p>- James Allen</p>
