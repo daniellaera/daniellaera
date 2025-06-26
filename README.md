@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being wrong brings the opportunity for growth.</p>
+<p>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</p>
 
-<p>- Mark Manson</p>
+<p>- Peter Drucker</p>
