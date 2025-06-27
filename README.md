@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest room in the world is the room for improvement.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>- Unknown</p>
+<p>- Barack Obama</p>
