@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>If you change the way you look at things, the things you look at change. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Wayne Dyer</p>
