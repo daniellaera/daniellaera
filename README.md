@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
 
-<p>- Barack Obama</p>
+<p>- Oprah Winfrey</p>
