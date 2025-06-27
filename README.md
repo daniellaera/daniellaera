@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is the glory of expression.</p>
+<p>Who you are is always right.</p>
 
-<p>- Walt Whitman</p>
+<p>- Ming-Dao Deng</p>
