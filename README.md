@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends on your mindset and attitude.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Euripides</p>
