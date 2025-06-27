@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life's too mysterious to take too serious.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Zhuangzi</p>
