@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who you are is always right.</p>
+<p>The biggest room in the world is the room for improvement.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Unknown</p>
