@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
+<p>In life you need either inspiration or desperation.</p>
 
-<p>- Yanni</p>
+<p>- Tony Robbins</p>
