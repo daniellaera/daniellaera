@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</p>
+<p>Simple words, repeated daily, can change your life.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Maxime Lagace</p>
