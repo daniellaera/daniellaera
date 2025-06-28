@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not until we are lost do we begin to understand ourselves.</p>
+<p>Many of life's failures are people who did not realize how close they were to success when they gave up.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Thomas Edison</p>
