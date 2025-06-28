@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</p>
+<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Barack Obama</p>
