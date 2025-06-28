@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What gets measured gets improved.</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>- Robin Sharma</p>
+<p>- Oprah Winfrey</p>
