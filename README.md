@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Estee Lauder</p>
