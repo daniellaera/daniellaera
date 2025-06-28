@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>Learn to use your emotions to think, not think with your emotions.</p>
 
-<p>- Estee Lauder</p>
+<p>- Robert Kiyosaki</p>
