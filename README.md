@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
+<p>Not until we are lost do we begin to understand ourselves.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Henry David Thoreau</p>
