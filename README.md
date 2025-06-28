@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First say to yourself what you would be; and then do what you have to do.</p>
+<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
 
-<p>- Epictetus</p>
+<p>- Christopher Reeve</p>
