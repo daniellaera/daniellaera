@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True knowledge exists in knowing that you know nothing.</p>
+<p>What have you done today to make someone else happy?</p>
 
-<p>- Socrates</p>
+<p>- Deepam Chaterjee</p>
