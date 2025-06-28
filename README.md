@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How many times do you have to get hit over the head until you figure out who's hitting you?</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Socrates</p>
