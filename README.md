@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Conrad Hilton</p>
