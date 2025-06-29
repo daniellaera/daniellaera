@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are far from the enemy, make him believe you are near.</p>
+<p>Never stand begging for that which you have the power to earn.</p>
 
-<p>- Sun Tzu</p>
+<p>- Miguel de Cervantes</p>
