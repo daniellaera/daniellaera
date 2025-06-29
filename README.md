@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- W. Clement Stone</p>
+<p>- George Eliot</p>
