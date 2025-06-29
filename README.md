@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men do not attract which they want but that which they are.</p>
+<p>Sometimes it is more important to discover what one cannot do, than what one can do.</p>
 
-<p>- James Allen</p>
+<p>- Lin Yutang</p>
