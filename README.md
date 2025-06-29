@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
+<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
 
-<p>- Robin Sharma</p>
+<p>- Bhagavad Gita</p>
