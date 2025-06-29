@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- James Allen</p>
