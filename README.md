@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>- William Faulkner</p>
+<p>- John Lennon</p>
