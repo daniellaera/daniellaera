@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder the conflict, the greater the triumph. </p>
+<p>If you are far from the enemy, make him believe you are near.</p>
 
-<p>- George Washington</p>
+<p>- Sun Tzu</p>
