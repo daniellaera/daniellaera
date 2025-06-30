@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Definiteness of purpose is the starting point of all achievement. </p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Aristotle</p>
