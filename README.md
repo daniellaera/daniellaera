@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>- Aristotle</p>
+<p>- George Bernard Shaw</p>
