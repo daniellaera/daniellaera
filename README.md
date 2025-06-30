@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
+<p>Trust, like the soul, never returns once it is gone.</p>
 
-<p>- Criss Jami</p>
+<p>- Publilius Syrus</p>
