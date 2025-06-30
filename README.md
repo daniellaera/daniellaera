@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of empires, is the empire over one's self.</p>
+<p>Definiteness of purpose is the starting point of all achievement. </p>
 
-<p>- Publilius Syrus</p>
+<p>- W. Clement Stone</p>
