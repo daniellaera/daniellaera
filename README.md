@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of your greatest lessons come from your darkest moments.</p>
+<p>Your problem isn't the problem. Your reaction is the problem.</p>
 
-<p>- Roger Lee</p>
+<p>- Unknown</p>
