@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
 
-<p>- Steve Jobs</p>
+<p>- F. Scott Fitzgerald</p>
