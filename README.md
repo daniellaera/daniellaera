@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you open your heart to others, the more your heart suffers.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Steve Jobs</p>
