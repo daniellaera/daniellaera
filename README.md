@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyday is a second chance.</p>
+<p>We must embrace pain and burn it as fuel for our journey.</p>
 
-<p>- Unknown</p>
+<p>- Kenji Miyazawa</p>
