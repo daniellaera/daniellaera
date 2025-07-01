@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always seek out the seed of triumph in every adversity.</p>
+<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
 
-<p>- Og Mandino</p>
+<p>- Steve Maraboli</p>
