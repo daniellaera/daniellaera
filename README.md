@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each problem has a positive side.</p>
+<p>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</p>
 
-<p>- Og Mandino</p>
+<p>- Alexander Graham Bell</p>
