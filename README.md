@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>Wealth consists not in having great possessions, but in having few wants.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Epictetus</p>
