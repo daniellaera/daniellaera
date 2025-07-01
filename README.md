@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody needs a passion. That's what keeps life interesting.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Betty White</p>
+<p>- Dan Millman</p>
