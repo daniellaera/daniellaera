@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>Each problem has a positive side.</p>
 
-<p>- Dan Millman</p>
+<p>- Og Mandino</p>
