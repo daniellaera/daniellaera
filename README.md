@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life doesn't get easier or more forgiving, we get stronger and more resilient.</p>
+<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Henry Ford</p>
