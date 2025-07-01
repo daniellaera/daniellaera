@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>- Aristotle</p>
+<p>- George Bernard Shaw</p>
