@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
+<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
 
-<p>- Og Mandino</p>
+<p>- Morihei Ueshiba</p>
