@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your setback is just a setup for a comeback.</p>
+<p>Your imagination is your preview of life's coming attractions.</p>
 
-<p>- Steve Harvey</p>
+<p>- Albert Einstein</p>
