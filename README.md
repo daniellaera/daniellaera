@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
 
-<p>- Albert Einstein</p>
+<p>- Roy T. Bennett</p>
