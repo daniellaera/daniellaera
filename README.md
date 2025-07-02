@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>The strength of a wall is neither greater nor less than the courage of the men who defend it. </p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Genghis Khan</p>
