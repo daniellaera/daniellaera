@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
+<p>However difficult life may seem, there is always something you can do and succeed at.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Stephen Hawking</p>
