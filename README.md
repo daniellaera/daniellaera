@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>Successful people tend to become more successful because they are always thinking about their successes.</p>
 
-<p>- Lao Tzu</p>
+<p>- Brian Tracy</p>
