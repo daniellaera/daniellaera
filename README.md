@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>- Napoleon Hill</p>
+<p>- William James</p>
