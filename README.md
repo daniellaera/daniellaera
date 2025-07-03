@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>Those who are enlightened never stop forging themselves.</p>
 
-<p>- Socrates</p>
+<p>- Morihei Ueshiba</p>
