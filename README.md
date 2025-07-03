@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
+<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Rumi</p>
