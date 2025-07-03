@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are enlightened never stop forging themselves.</p>
+<p>Short cuts make long delays.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- J.R.R. Tolkien</p>
