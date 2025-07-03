@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
+<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Eckhart Tolle</p>
