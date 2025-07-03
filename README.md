@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Napoleon Hill</p>
