@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
 
-<p>- Mae West</p>
+<p>- Criss Jami</p>
