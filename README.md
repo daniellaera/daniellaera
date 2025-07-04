@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easier to fight for one's principles than to live up to them. </p>
+<p>You don't need a weatherman to know which way the wind blows.</p>
 
-<p>- Alfred Adler</p>
+<p>- Bob Dylan</p>
