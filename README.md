@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>The great use of life is to spend it for something that will outlast it.</p>
 
-<p>- Lolly Daskal</p>
+<p>- William James</p>
