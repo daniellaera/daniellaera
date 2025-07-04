@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A crisis is an opportunity riding the dangerous wind.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Joyce Meyer</p>
