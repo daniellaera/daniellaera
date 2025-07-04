@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in your life are those that you set yourself.</p>
+<p>We make a living by what we get, but we make a life by what we give.</p>
 
-<p>- Celestine Chua</p>
+<p>- Unknown</p>
