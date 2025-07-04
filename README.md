@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Meister Eckhart</p>
