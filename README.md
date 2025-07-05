@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
+<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Colin Powell</p>
