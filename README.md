@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It ain't where you start in life, it's where you end up, and what you did along the way.</p>
+<p>It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.</p>
 
-<p>- Colin Powell</p>
+<p>- Jiddu Krishnamurti</p>
