@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever satisfies the soul is truth.</p>
+<p>Love never keeps a man from pursuing his destiny.</p>
 
-<p>- Walt Whitman</p>
+<p>- Paulo Coelho</p>
