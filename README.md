@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-control is strength.</p>
+<p>Your problem isn't the problem. Your reaction is the problem.</p>
 
-<p>- James Allen</p>
+<p>- Unknown</p>
