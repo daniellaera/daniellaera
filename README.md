@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>- Bhagavad Gita</p>
+<p>- Albert Einstein</p>
