@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
+<p>Let us rather run the risk of wearing out than rusting out.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Theodore Roosevelt</p>
