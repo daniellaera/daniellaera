@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us rather run the risk of wearing out than rusting out.</p>
+<p>If you care about someone enough, you'll always be there for them no matter what.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Roy T. Bennett</p>
