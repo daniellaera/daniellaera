@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- Unknown</p>
+<p>- Tony Robbins</p>
