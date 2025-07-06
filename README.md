@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Elon Musk</p>
