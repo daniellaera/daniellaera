@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Elbert Hubbard</p>
