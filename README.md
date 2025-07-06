@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of questions you ask.</p>
+<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
 
-<p>- Tony Robbins</p>
+<p>- Stephen Hawking</p>
