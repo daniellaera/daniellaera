@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you care about someone enough, you'll always be there for them no matter what.</p>
+<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Bhagavad Gita</p>
