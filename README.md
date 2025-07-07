@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real mistake is the one from which we learn nothing. </p>
+<p>Doing what you love is the cornerstone of having abundance in your life. </p>
 
-<p>- Henry Ford</p>
+<p>- Wayne Dyer</p>
