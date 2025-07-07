@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe and you're halfway there.</p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Robert Kiyosaki</p>
