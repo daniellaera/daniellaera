@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take away love and our earth is a tomb.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>- Robert Browning</p>
+<p>- Honore de Balzac</p>
