@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing what you love is the cornerstone of having abundance in your life. </p>
+<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Tony Robbins</p>
