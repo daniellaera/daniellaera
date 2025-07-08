@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
+<p>The person who says something is impossible should not interrupt the person who is doing it.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Chinese Proverb</p>
