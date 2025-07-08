@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>- Robin Williams</p>
+<p>- Maxime Lagace</p>
