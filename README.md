@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>What is a friend? A single soul dwelling in two bodies.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Aristotle</p>
