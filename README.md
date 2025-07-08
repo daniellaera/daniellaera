@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
+<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
 
-<p>- Dan Brown</p>
+<p>- Robert Kiyosaki</p>
