@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>- Aristotle</p>
+<p>- Niccolo Machiavelli</p>
