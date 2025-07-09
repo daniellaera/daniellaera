@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Like it or not, this moment is all we really have to work with.</p>
+<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Johann Wolfgang von Goethe</p>
