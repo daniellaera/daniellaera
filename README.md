@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only lose something that you have, but you cannot lose something that you are.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Steve Maraboli</p>
