@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We've got to live, no matter how many skies have fallen.</p>
+<p>The strongest and sweetest songs yet remain to be sung.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Walt Whitman</p>
