@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who will risk going too far can possibly find out how far one can go.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Eckhart Tolle</p>
