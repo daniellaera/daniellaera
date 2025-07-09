@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>- Spencer Johnson</p>
+<p>- D. H. Lawrence</p>
