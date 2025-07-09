@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>Everything eaten is killed. Every meal is a sacrifice.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Adi Da Samraj</p>
