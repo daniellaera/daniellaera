@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
 
-<p>- Brian Tracy</p>
+<p>- Deepak Chopra</p>
