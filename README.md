@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- John Tukey</p>
