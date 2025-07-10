@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be approximately right rather than exactly wrong.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- John Tukey</p>
+<p>- Og Mandino</p>
