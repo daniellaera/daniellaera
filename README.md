@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The one who boasts does so only out of a feeling of inferiority.</p>
+<p>Life is a constant series of opportunities.</p>
 
-<p>- Alfred Adler</p>
+<p>- Ming-Dao Deng</p>
