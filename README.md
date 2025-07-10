@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>- Robert Greene</p>
+<p>- Henry David Thoreau</p>
