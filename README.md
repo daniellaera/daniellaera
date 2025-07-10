@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>- Bob Dylan</p>
+<p>- Betty White</p>
