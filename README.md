@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your outlook on life that counts.</p>
+<p>I've always tried to go a step past wherever people expected me to end up.</p>
 
-<p>- Betty White</p>
+<p>- Beverly Sills</p>
