@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being a good example is the best form of service.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Robert Greene</p>
