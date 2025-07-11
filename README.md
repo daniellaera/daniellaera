@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is 10% what happens to you and 90% how you react to it. </p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Naval Ravikant</p>
