@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Dudley Field Malone</p>
