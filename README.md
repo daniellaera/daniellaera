@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>- Franz Kafka</p>
+<p>- Charles Swindoll</p>
