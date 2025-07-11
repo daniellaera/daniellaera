@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave enough to suck at something new.</p>
+<p>Lost Time is never found again.</p>
 
-<p>- Unknown</p>
+<p>- Benjamin Franklin</p>
