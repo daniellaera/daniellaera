@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never in my life learned anything from any man who agreed with me.</p>
+<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
 
-<p>- Dudley Field Malone</p>
+<p>- Alfred Adler</p>
