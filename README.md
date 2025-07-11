@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just because something isn't a lie does not mean that it isn't deceptive.</p>
+<p>You cannot change your destination overnight but you can change your direction overnight.</p>
 
-<p>- Criss Jami</p>
+<p>- Jim Rohn</p>
