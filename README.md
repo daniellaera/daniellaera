@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot change your destination overnight but you can change your direction overnight.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>- Jim Rohn</p>
+<p>- Tony Robbins</p>
