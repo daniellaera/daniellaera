@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat every moment as your last. It is not preparation for something else.</p>
+<p>Nourish the mind like you would your body. The mind cannot survive on junk food.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Brian Tracy</p>
