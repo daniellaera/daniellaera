@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lost Time is never found again.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Osho</p>
