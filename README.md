@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is sometimes the best answer.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Dalai Lama</p>
+<p>- John Wooden</p>
