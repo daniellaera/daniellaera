@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Unknown</p>
