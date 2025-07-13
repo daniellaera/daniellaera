@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pursuit of mastery bears gifts. </p>
+<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
 
-<p>- Gary Keller</p>
+<p>- Martin Luther King, Jr.</p>
