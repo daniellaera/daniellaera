@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-knowledge is the beginning of self-correction.</p>
+<p>The opportunity of defeating the enemy is provided by the enemy himself.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Sun Tzu</p>
