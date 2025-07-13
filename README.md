@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>- Voltaire</p>
+<p>- Woody Allen</p>
