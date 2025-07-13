@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where words fail, music speaks.</p>
+<p>The pursuit of mastery bears gifts. </p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Gary Keller</p>
