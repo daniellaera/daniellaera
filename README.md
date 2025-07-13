@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</p>
+<p>If you don't have time to do it right, when will you have time to do it over?</p>
 
-<p>- Colin Powell</p>
+<p>- John Wooden</p>
