@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
+<p>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</p>
 
-<p>- Ralph Marston</p>
+<p>- Sathya Sai Baba</p>
