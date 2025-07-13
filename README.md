@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. </p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>- Henry Ford</p>
+<p>- Norman Vincent Peale</p>
