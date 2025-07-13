@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</p>
 
-<p>- Anne Frank</p>
+<p>- F. Scott Fitzgerald</p>
