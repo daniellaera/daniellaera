@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</p>
 
-<p>- Albert Einstein</p>
+<p>- Eleanor Roosevelt</p>
