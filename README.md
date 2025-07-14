@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Brian Tracy</p>
+<p>- John Wooden</p>
