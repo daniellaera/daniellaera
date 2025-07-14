@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
+<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
 
-<p>- Henry Ford</p>
+<p>- Nikola Tesla</p>
