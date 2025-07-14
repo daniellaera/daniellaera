@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go for it now. The future is promised to no one.</p>
+<p>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </p>
 
-<p>- Wayne Dyer</p>
+<p>- Henry Ford</p>
