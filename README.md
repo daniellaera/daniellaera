@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Brian Tracy</p>
