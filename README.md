@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between treason and patriotism is only a matter of dates.</p>
+<p>There are no shortcuts to any place worth going.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Beverly Sills</p>
