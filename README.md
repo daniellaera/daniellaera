@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more one judges, the less one loves.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Unknown</p>
