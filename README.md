@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</p>
+<p>Go for it now. The future is promised to no one.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Wayne Dyer</p>
