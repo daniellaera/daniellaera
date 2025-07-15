@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
+<p>Would you rather learn to deal with the truth now than be forced to do so later on?</p>
 
-<p>- Dogen</p>
+<p>- Celestine Chua</p>
