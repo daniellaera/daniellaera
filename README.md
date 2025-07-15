@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody's life is either rewarding or an example.</p>
+<p>As a matter of fact is an expression that precedes many an expression that isn't.</p>
 
-<p>- Tony Robbins</p>
+<p>- Laurence J. Peter</p>
