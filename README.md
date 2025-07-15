@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be patient and calm; no one can catch fish in anger.</p>
+<p>Act as if what you do makes a difference. It does.</p>
 
-<p>- Herbert Hoover</p>
+<p>- William James</p>
