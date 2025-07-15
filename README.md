@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop wasting time defending your problems and work on addressing them instead.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>- Celestine Chua</p>
+<p>- Tony Robbins</p>
