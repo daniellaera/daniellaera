@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>- Kabir</p>
+<p>- Les Brown</p>
