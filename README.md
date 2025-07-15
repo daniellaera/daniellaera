@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>The measure of who we are is what we do with what we have.</p>
 
-<p>- Les Brown</p>
+<p>- Vince Lombardi</p>
