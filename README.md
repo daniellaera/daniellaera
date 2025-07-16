@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is the life of purpose.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>- Robin Sharma</p>
+<p>- Steve Harvey</p>
