@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
+<p>You have the potential for greatness.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Steve Harvey</p>
