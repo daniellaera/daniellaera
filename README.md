@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>Enjoy every minute of life. Never second-guess life.</p>
 
-<p>- Aristotle</p>
+<p>- Michael Jordan</p>
