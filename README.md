@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- John Carmack</p>
+<p>- Steve Maraboli</p>
