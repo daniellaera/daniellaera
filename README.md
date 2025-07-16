@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He will win who knows when to fight and when not to fight.</p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Sun Tzu</p>
+<p>- Isaac Newton</p>
