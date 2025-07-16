@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't bother people for help without first trying to solve the problem yourself.</p>
+<p>A friend to all is a friend to none.</p>
 
-<p>- Colin Powell</p>
+<p>- Aristotle</p>
