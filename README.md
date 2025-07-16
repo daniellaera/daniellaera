@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Although the world is full of suffering, it is also full of the overcoming of it.</p>
+<p>Your work is to discover your work and then, with all your heart, to give yourself to it.</p>
 
-<p>- Helen Keller</p>
+<p>- Buddha</p>
