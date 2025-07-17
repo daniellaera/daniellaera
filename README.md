@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
+<p>Like it or not, this moment is all we really have to work with.</p>
 
-<p>- Albert Einstein</p>
+<p>- Jon Kabat-Zinn</p>
