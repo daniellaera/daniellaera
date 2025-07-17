@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something worth remembering.</p>
+<p>Love is the energy of life.</p>
 
-<p>- Elvis Presley</p>
+<p>- Robert Browning</p>
