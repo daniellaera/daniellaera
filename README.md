@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
+<p>The first step is to establish that something is possible; then probability will occur.</p>
 
-<p>- Criss Jami</p>
+<p>- Elon Musk</p>
