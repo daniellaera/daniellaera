@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
+<p>If you don't like something change it; if you can't change it, change the way you think about it.</p>
 
-<p>- Dan Millman</p>
+<p>- Mary Engelbreit</p>
