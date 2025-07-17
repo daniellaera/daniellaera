@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Albert Einstein</p>
