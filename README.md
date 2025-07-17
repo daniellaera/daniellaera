@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>Poverty and hardship are created by false thinking.</p>
 
-<p>- Elon Musk</p>
+<p>- Bodhidharma</p>
