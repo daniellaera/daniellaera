@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You know the more one does the more one can do.</p>
+<p>It's not the men in your life that matters, it's the life in your men.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Mae West</p>
