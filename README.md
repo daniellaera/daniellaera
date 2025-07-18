@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
+<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
 
-<p>- Albert Einstein</p>
+<p>- Robert Kiyosaki</p>
