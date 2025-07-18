@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are enlightened never stop forging themselves.</p>
+<p>The biggest challenge after success is shutting up about it.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Criss Jami</p>
