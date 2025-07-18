@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- Criss Jami</p>
+<p>- Amelia Earhart</p>
