@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be - don't try to become </p>
+<p>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</p>
 
-<p>- Osho</p>
+<p>- Zig Ziglar</p>
