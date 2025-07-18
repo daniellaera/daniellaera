@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
+<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Bob Proctor</p>
