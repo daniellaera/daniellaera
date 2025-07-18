@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one has ever become poor by giving.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>- Anne Frank</p>
+<p>- Mark Twain</p>
