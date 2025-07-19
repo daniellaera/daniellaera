@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
+<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Elon Musk</p>
