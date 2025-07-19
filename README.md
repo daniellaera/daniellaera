@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>This is such a short and precious life that it's really important that you don't spend it being unhappy.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Naval Ravikant</p>
