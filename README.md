@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>It is better to offer no excuse than a bad one. </p>
 
-<p>- Elon Musk</p>
+<p>- George Washington</p>
