@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Gilbert Chesterton</p>
