@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>- Elvis Presley</p>
+<p>- Woody Allen</p>
