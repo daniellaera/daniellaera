@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fear of death is more to be feared, than death itself.</p>
+<p>As you think, so shall you become. </p>
 
-<p>- Publilius Syrus</p>
+<p>- Bruce Lee</p>
