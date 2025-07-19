@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes success isn't about making the right decision, it's more about making some decision.</p>
+<p>What's the point in being smart enough to read, if everything you read makes you dumb?</p>
 
-<p>- Robin Sharma</p>
+<p>- C. Sean McGee</p>
