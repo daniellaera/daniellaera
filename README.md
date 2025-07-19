@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Evil is whatever distracts. </p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>- Franz Kafka</p>
+<p>- Mahatma Gandhi</p>
