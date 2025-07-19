@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants. There's no logic. </p>
+<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
 
-<p>- Woody Allen</p>
+<p>- Eckhart Tolle</p>
