@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the men in your life that matters, it's the life in your men.</p>
+<p>The fear of death is more to be feared, than death itself.</p>
 
-<p>- Mae West</p>
+<p>- Publilius Syrus</p>
