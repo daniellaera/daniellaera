@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing ever goes away until it has taught us what we need to know.</p>
+<p>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</p>
 
-<p>- Pema Chodron</p>
+<p>- Bhagavad Gita</p>
