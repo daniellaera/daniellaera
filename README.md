@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.</p>
+<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Ayn Rand</p>
