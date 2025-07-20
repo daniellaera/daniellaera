@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
+<p>The enemy is a very good teacher.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Dalai Lama</p>
