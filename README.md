@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you will never know the value of something, until it becomes a memory.</p>
+<p>You will not do incredible things without an incredible dream.</p>
 
-<p>- Dr. Seuss</p>
+<p>- John Eliot</p>
