@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.</p>
+<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Simon Sinek</p>
