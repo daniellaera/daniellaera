@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
+<p>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</p>
 
-<p>- Simon Sinek</p>
+<p>- Sigmund Freud</p>
