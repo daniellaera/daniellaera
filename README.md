@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The enemy is a very good teacher.</p>
+<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
 
-<p>- Dalai Lama</p>
+<p>- Oprah Winfrey</p>
