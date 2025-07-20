@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
+<p>Everybody has talent, but ability takes hard work.</p>
 
-<p>- Ayn Rand</p>
+<p>- Michael Jordan</p>
