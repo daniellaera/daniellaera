@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will not do incredible things without an incredible dream.</p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
-<p>- John Eliot</p>
+<p>- Morihei Ueshiba</p>
