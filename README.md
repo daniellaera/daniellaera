@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's much better to do good in a way that no one knows anything about it.</p>
+<p>Some people are old at 18 and some are young at 90. Time is a concept that humans created.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Yoko Ono</p>
