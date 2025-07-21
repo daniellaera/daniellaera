@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't go forward and backwards at the same time.</p>
+<p>It's much better to do good in a way that no one knows anything about it.</p>
 
-<p>- Steve Harvey</p>
+<p>- Leo Tolstoy</p>
