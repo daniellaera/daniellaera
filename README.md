@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.</p>
+<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
 
-<p>- Criss Jami</p>
+<p>- Napoleon Hill</p>
