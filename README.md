@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are, and whatever you do, be in love.</p>
+<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
 
-<p>- Rumi</p>
+<p>- Charles Darwin</p>
