@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We run to win, not just to be in the race.  </p>
+<p>Those who look for the bad in people will surely find it.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Abraham Lincoln</p>
