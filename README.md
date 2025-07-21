@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best thing to hold onto in life is each other.</p>
+<p>Tomorrow is only found in the calendar of fools.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Og Mandino</p>
