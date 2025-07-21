@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows best knows how little he knows.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Albert Einstein</p>
