@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most creative act you will ever undertake is the act of creating yourself.</p>
+<p>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Voltaire</p>
