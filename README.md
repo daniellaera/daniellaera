@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Action may not always bring happiness, but there is no happiness without action.</p>
+<p>Change yourself and you have done your part in changing the world.</p>
 
-<p>- William James</p>
+<p>- Paramahansa Yogananda</p>
