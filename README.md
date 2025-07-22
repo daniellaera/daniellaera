@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to attain the impossible, one must attempt the absurd.</p>
+<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Tony Robbins</p>
