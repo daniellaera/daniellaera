@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners are not people who never fail, but people who never quit.</p>
+<p>The most creative act you will ever undertake is the act of creating yourself.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Deepak Chopra</p>
