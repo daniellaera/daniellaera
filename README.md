@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
+<p>There is peace even in the storm.</p>
 
-<p>- Tony Robbins</p>
+<p>- Vincent van Gogh</p>
