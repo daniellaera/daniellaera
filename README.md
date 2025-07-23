@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
+<p>Realize deeply that the present moment is all you ever have. </p>
 
-<p>- Elon Musk</p>
+<p>- Eckhart Tolle</p>
