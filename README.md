@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sad thing is, you can still love someone and be wrong for them.</p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>- Elvis Presley</p>
+<p>- Roy T. Bennett</p>
