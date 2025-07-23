@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Kamal Ravikant</p>
