@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
+<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Albert Einstein</p>
