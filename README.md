@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the unknown we fear when we look upon death and darkness, nothing more.</p>
+<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Elbert Hubbard</p>
