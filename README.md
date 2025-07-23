@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Norman Vincent Peale</p>
