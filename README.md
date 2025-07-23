@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Brian Tracy</p>
