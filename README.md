@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The energy of the mind is the essence of life.</p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>- Aristotle</p>
+<p>- Naval Ravikant</p>
