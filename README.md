@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
+<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Jonathan Swift</p>
