@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Unknown</p>
