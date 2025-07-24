@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>Real learning comes about when the competitive spirit has ceased.</p>
 
-<p>- Franz Kafka</p>
+<p>- Jiddu Krishnamurti</p>
