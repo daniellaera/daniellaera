@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
+<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Spencer Johnson</p>
