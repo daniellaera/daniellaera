@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We lie the loudest when we lie to ourselves.</p>
+<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Zig Ziglar</p>
