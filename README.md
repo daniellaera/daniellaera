@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know of only one duty, and that is to love.</p>
+<p>The only thing we have to fear is fear itself.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Franklin D. Roosevelt</p>
