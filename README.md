@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about not knowing and then doing something anyway.</p>
+<p>Trust thyself: every heart vibrates to that iron string.</p>
 
-<p>- Mark Manson</p>
+<p>- Ralph Waldo Emerson</p>
