@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing is not enough, we must apply. Willing is not enough, we must do.</p>
+<p>You may delay, but time will not.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Benjamin Franklin</p>
