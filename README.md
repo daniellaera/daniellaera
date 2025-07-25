@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may delay, but time will not.</p>
+<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Criss Jami</p>
