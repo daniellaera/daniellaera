@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
+<p>The most wasted day of all is that on which we have not laughed.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Nicolas Chamfort</p>
