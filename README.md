@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never take your position for granted and never let any favors you receive go to your head.</p>
+<p>Receive without complaint, Work with fate.</p>
 
-<p>- Robert Greene</p>
+<p>- Ming-Dao Deng</p>
