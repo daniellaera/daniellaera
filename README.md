@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>- Criss Jami</p>
+<p>- Miguel de Cervantes</p>
