@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where does a thought go when it's forgotten?</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Ronald Reagan</p>
