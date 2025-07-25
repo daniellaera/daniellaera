@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without complaint, Work with fate.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Huang Po</p>
