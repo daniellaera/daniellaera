@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
+<p>When you consider things like the stars, our affairs don't seem to matter very much, do they?</p>
 
-<p>- Will Rogers</p>
+<p>- Virginia Woolf</p>
