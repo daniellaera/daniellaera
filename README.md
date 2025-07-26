@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heaven is right where you are standing.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Lao Tzu</p>
