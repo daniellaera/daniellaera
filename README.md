@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>- Dan Millman</p>
+<p>- Huang Po</p>
