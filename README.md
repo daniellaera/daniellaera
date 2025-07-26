@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growth comes at the point of resistance.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Charles Dickens</p>
