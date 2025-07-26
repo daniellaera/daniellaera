@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>- Unknown</p>
+<p>- Yanni</p>
