@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important battle is one to conquer yourself.</p>
+<p>Change begets change. Nothing propagates so fast.</p>
 
-<p>- Yanni</p>
+<p>- Charles Dickens</p>
