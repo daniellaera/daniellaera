@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People tend to complicate their own lives, as if living weren't already complicated enough.</p>
+<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Colin Powell</p>
