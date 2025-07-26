@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Gustave Flaubert</p>
