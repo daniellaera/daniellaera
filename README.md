@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Dan Millman</p>
