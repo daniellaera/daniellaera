@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the fish is caught we pay no more attention to the trap.</p>
+<p>Every man desires to live long, but no man wishes to be old.</p>
 
-<p>- Huang Po</p>
+<p>- Jonathan Swift</p>
