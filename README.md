@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who attain the middle Dominate the whole.</p>
+<p>The way to change others' minds is with affection, and not anger.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Dalai Lama</p>
