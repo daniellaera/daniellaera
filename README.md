@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people spend more time looking at their failures than focusing on their successes.</p>
+<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Paulo Coelho</p>
