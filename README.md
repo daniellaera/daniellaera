@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything has beauty but not everyone sees it.</p>
+<p>Little by little, one travels far.</p>
 
-<p>- Confucius</p>
+<p>- J.R.R. Tolkien</p>
