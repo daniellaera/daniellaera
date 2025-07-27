@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>- Lao Tzu</p>
+<p>- Christopher Reeve</p>
