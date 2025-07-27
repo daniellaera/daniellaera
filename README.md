@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Peter A. Cohen</p>
