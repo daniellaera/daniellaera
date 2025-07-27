@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you try, you might get exactly what you want. If you don't, you don't.</p>
+<p>Learn from the rejection and turn it into an opportunity!</p>
 
-<p>- Unknown</p>
+<p>- Mary Engelbreit</p>
