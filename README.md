@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn from the rejection and turn it into an opportunity!</p>
+<p>From error to error one discovers the entire truth.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Sigmund Freud</p>
