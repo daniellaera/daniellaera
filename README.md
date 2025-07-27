@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Criss Jami</p>
