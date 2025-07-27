@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn off your mind, relax, and float downstream.</p>
+<p>Everything has beauty but not everyone sees it.</p>
 
-<p>- John Lennon</p>
+<p>- Confucius</p>
