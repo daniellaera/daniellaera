@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Og Mandino</p>
