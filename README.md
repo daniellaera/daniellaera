@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your spirit is the true shield.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Bruce Lee</p>
