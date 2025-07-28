@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>As you love yourself, life loves you back.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Kamal Ravikant</p>
