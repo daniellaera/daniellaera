@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Albus Dumbledore</p>
