@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>If you truly expect something to be difficult, it will be.</p>
 
-<p>- Bruce Lee</p>
+<p>- Peter A. Cohen</p>
