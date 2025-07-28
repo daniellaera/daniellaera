@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>Only those who will risk going too far can possibly find out how far one can go.</p>
 
-<p>- Tony Robbins</p>
+<p>- T.S. Eliot</p>
