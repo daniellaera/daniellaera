@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Celestine Chua</p>
