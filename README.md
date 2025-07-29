@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
+<p>The opposite of courage in our society is not cowardice... it is conformity.</p>
 
-<p>- Dogen</p>
+<p>- Earl Nightingale</p>
