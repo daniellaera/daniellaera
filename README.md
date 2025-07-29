@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>All I can do is be me, whoever that is.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Bob Dylan</p>
