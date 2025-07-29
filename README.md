@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
+<p>It is our choices that show what we truly are, far more than our abilities.</p>
 
-<p>- Brian Tracy</p>
+<p>- Albus Dumbledore</p>
