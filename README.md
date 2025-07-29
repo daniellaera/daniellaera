@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dogen</p>
