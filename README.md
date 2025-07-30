@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</p>
+<p>The most important thing in communication is to hear what isn't being said.</p>
 
-<p>- Carl Jung</p>
+<p>- Peter Drucker</p>
