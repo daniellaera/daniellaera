@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are willing to believe anything other than the truth.</p>
+<p>I learned the value of hard work by working hard. </p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Margaret Mead</p>
