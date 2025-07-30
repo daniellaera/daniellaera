@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Rumi</p>
