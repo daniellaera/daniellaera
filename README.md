@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothing of our thoughts.</p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>- Jonathan Swift</p>
+<p>- Henry Ford</p>
