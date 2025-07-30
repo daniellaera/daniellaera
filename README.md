@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Bloom where you are planted!</p>
+<p>All cruelty springs from weakness.  </p>
 
-<p>- Mary Engelbreit</p>
+<p>- Seneca</p>
