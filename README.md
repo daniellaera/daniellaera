@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poverty and hardship are created by false thinking.</p>
+<p>Failure is just information and an opportunity to change your course.</p>
 
-<p>- Bodhidharma</p>
+<p>- Oprah Winfrey</p>
