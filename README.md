@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing in communication is to hear what isn't being said.</p>
+<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
 
-<p>- Peter Drucker</p>
+<p>- Jiddu Krishnamurti</p>
