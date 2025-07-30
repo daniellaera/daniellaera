@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is a difficult thing to achieve.  </p>
+<p>Goodness is the only investment that never fails.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Henry David Thoreau</p>
