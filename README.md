@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A heart is not judged by how much you love, but by how much you are loved by others.</p>
+<p>It is what we make out of what we have, not what we are given, that separates one person from another.</p>
 
-<p>- Judy Garland</p>
+<p>- Nelson Mandela</p>
