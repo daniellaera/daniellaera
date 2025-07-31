@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or nothing.</p>
+<p>To be totally at leisure for one day is to be immortal for one day. </p>
 
-<p>- Helen Keller</p>
+<p>- Chinese Proverb</p>
