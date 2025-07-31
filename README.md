@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>- Seneca</p>
+<p>- Virginia Woolf</p>
