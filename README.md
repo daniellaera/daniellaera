@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Behind every cloud is another cloud.</p>
+<p>Life is either a daring adventure, or nothing.</p>
 
-<p>- Judy Garland</p>
+<p>- Helen Keller</p>
