@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Ming-Dao Deng</p>
