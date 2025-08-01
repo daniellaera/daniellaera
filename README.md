@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love never keeps a man from pursuing his destiny.</p>
+<p>We forge the chains we wear in life.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Charles Dickens</p>
