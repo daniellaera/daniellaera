@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction.</p>
+<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>
 
-<p>- Steve Harvey</p>
+<p>- Eleanor Roosevelt</p>
