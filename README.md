@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>- Deepak Chopra</p>
+<p>- Charles Swindoll</p>
