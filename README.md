@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>The road to success is always under construction.</p>
 
-<p>- Euripides</p>
+<p>- Steve Harvey</p>
