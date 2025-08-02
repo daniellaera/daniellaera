@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your imagination is your preview of life's coming attractions.</p>
+<p>A golden cage is still just a cage.</p>
 
-<p>- Albert Einstein</p>
+<p>- Anita Krizzan</p>
