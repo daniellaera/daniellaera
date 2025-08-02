@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The one who boasts does so only out of a feeling of inferiority.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Alfred Adler</p>
+<p>- Dale Carnegie</p>
