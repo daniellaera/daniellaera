@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
+<p>The one who boasts does so only out of a feeling of inferiority.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Alfred Adler</p>
