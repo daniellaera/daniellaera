@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Barack Obama</p>
