@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not fear failure but rather fear not trying.</p>
+<p>When you are totally at peace with yourself, nothing can shake you.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Deepam Chaterjee</p>
