@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people find fault like there is a reward for it.  </p>
+<p>We cannot expect to be happy always... by experiencing evil as well as good we become wise.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Hans Christian Andersen</p>
