@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>Human beings believe just as they breathe - in order to survive.</p>
 
-<p>- Unknown</p>
+<p>- Carlos Ruiz Zafon</p>
