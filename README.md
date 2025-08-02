@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are totally at peace with yourself, nothing can shake you.</p>
+<p>Your imagination is your preview of life's coming attractions.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Albert Einstein</p>
