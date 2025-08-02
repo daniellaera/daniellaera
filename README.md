@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human beings believe just as they breathe - in order to survive.</p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Chinese Proverb</p>
