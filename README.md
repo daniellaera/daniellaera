@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
+<p>Things turn out best for the people who make the best of the way things turn out.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- John Wooden</p>
