@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only reason to be alive is to enjoy it.</p>
+<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Theodore Roosevelt</p>
