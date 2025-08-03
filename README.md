@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances rule men; men do not rule circumstances. </p>
+<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
 
-<p>- Herodotus</p>
+<p>- Jim Rohn</p>
