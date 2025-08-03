@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I believe that one of life's greatest risks is never daring to risk.</p>
+<p>Have a vision. Be demanding.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Colin Powell</p>
