@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe in. You become that which you believe you can become.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Virginia Woolf</p>
