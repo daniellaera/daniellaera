@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
+<p>You are what you believe in. You become that which you believe you can become.</p>
 
-<p>- Jim Rohn</p>
+<p>- Bhagavad Gita</p>
