@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that is done in the world is done by hope.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>- Martin Luther</p>
+<p>- Margaret Mead</p>
