@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Zen Proverb</p>
+<p>- Gary Keller</p>
