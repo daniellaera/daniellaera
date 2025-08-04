@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe yourself to be.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Eleanor Roosevelt</p>
