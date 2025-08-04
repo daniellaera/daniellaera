@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Falling down is not failure. Failure comes when you stay where you have fallen.</p>
+<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
 
-<p>- Socrates</p>
+<p>- Morihei Ueshiba</p>
