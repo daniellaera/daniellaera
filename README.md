@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Arise, slay thy enemies, enjoy a prosperous kingdom.</p>
+<p>If I love myself I love you. If I love you I love myself.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Rumi</p>
