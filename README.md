@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Maya Angelou</p>
