@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't program yourself, life will program you.</p>
+<p>The time is always right to do what is right.</p>
 
-<p>- Les Brown</p>
+<p>- Martin Luther King, Jr.</p>
