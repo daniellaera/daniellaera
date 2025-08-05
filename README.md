@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>- Zig Ziglar</p>
+<p>- John Lennon</p>
