@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The primary cause of unhappiness is never the situation but your thoughts about it.</p>
+<p>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Ayn Rand</p>
