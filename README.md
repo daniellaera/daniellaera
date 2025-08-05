@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>- Confucius</p>
+<p>- Gurbaksh Chahal</p>
