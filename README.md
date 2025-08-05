@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy is a commodity, execution is an art.</p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>- Peter Drucker</p>
+<p>- Tony Robbins</p>
