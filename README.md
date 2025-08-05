@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If everyone is moving forward together, then success takes care of itself.</p>
+<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
 
-<p>- Henry Ford</p>
+<p>- Confucius</p>
