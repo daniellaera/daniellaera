@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a journey, not a destination.</p>
+<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
 
-<p>- Dan Millman</p>
+<p>- Morihei Ueshiba</p>
