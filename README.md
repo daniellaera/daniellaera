@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no fear for one whose mind is not filled with desires.</p>
+<p>Either get busy living or get busy dying.</p>
 
-<p>- Buddha</p>
+<p>- Stephen King</p>
