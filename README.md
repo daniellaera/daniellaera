@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>Winners don't Quit. That's why they Win.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Unknown</p>
