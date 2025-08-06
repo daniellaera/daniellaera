@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is our choices that show what we truly are, far more than our abilities.</p>
+<p>Nothing is more real than nothing.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Samuel Beckett</p>
