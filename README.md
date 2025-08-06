@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life is to fall seven times and to get up eight times.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Martin Luther King, Jr.</p>
