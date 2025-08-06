@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not as important how we start, but how we finish.</p>
+<p>The secret of life is to fall seven times and to get up eight times.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Paulo Coelho</p>
