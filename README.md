@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True it is, we only hate those whom we do not know.</p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>- Andrew Carnegie</p>
+<p>- Confucius</p>
