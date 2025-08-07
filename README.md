@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>Imagination is more important than knowledge.</p>
 
-<p>- Isaac Newton</p>
+<p>- Albert Einstein</p>
