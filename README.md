@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work out your own salvation. Do not depend on others.</p>
+<p>True it is, we only hate those whom we do not know.</p>
 
-<p>- Buddha</p>
+<p>- Andrew Carnegie</p>
