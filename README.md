@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your gift is something that you can do innately better than anything else.</p>
+<p>If I can stop one heart from breaking, I shall not live in vain.</p>
 
-<p>- Steve Harvey</p>
+<p>- Emily Dickinson</p>
