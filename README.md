@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A thing must be loved before it is lovable.</p>
+<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Kamal Ravikant</p>
