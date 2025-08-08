@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise man reads both books and life itself.</p>
+<p>A thing must be loved before it is lovable.</p>
 
-<p>- Lin Yutang</p>
+<p>- Gilbert Chesterton</p>
