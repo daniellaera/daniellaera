@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can hurt you without your consent.</p>
+<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- D. H. Lawrence</p>
