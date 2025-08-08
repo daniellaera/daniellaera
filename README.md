@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
+<p>Our happiness depends on the habit of mind we cultivate.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Norman Vincent Peale</p>
