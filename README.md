@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>But better die than live mechanically a life that is a repetition of repetitions.</p>
+<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Zen Proverb</p>
