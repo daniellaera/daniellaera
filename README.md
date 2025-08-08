@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
+<p>Your gift is something that you can do innately better than anything else.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Steve Harvey</p>
