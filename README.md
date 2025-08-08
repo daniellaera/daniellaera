@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no second chances in life, except to feel remorse.</p>
+<p>Don't want anything. Then you get everything.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Seungsahn</p>
