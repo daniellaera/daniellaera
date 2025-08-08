@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People inspire you, or they drain you. Pick them wisely.</p>
+<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
 
-<p>- Les Brown</p>
+<p>- Josh Waitzkin</p>
