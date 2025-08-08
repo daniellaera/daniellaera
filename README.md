@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
+<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Steve Maraboli</p>
