@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>To arrive at the simplest truth requires years of contemplation.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Isaac Newton</p>
