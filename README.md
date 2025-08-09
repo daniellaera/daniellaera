@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give more than you think you can, trusting that you are richer than you think.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Marilyn Monroe</p>
