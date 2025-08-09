@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My powers are ordinary. Only my application brings me success.</p>
+<p>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</p>
 
-<p>- Isaac Newton</p>
+<p>- Socrates</p>
