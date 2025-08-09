@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Misfortune shows those who are not really friends.</p>
+<p>Give more than you think you can, trusting that you are richer than you think.</p>
 
-<p>- Aristotle</p>
+<p>- Jon Kabat-Zinn</p>
