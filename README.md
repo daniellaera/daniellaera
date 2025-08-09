@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To arrive at the simplest truth requires years of contemplation.</p>
+<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
 
-<p>- Isaac Newton</p>
+<p>- Paulo Coelho</p>
