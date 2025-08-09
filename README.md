@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>My powers are ordinary. Only my application brings me success.</p>
 
-<p>- John Eliot</p>
+<p>- Isaac Newton</p>
