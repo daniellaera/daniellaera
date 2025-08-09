@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes good things fall apart so better things can fall together.</p>
+<p>You do not read a book for the book's sake, but for your own.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Earl Nightingale</p>
