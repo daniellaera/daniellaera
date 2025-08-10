@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stress happens when the mind resists what is.</p>
+<p>Successful people do what unsuccessful people are not willing to do.</p>
 
-<p>- Dan Millman</p>
+<p>- Jim Rohn</p>
