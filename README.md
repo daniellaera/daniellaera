@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your dream has to be bigger than your fear.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>- Steve Harvey</p>
+<p>- George Bernard Shaw</p>
