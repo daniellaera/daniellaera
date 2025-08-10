@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>- Dan Millman</p>
+<p>- Steve Harvey</p>
