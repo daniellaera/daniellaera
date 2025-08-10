@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Pema Chodron</p>
