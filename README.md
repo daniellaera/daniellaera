@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want something in life, you just gotta reach out and grab it.</p>
+<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Dalai Lama</p>
