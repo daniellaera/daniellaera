@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
+<p>When you want something in life, you just gotta reach out and grab it.</p>
 
-<p>- George Washington</p>
+<p>- Christopher McCandless</p>
