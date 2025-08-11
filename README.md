@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Amelia Earhart</p>
