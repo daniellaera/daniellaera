@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Henry David Thoreau</p>
