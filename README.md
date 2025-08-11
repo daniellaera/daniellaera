@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you know, the more you know you don't know.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>- Aristotle</p>
+<p>- Steve Jobs</p>
