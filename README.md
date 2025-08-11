@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose a job you love, and you will never have to work a day in your life. </p>
+<p>It does not do to dwell on dreams and forget to live, remember that.</p>
 
-<p>- Confucius</p>
+<p>- Albus Dumbledore</p>
