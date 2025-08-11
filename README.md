@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>The wise speak only of what they know.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- J.R.R. Tolkien</p>
