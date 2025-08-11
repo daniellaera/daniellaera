@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
+<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Ming-Dao Deng</p>
