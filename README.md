@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
+<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Theodore Roosevelt</p>
