@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
+<p>A hero is an ordinary person doing things in an extra ordinary way.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Christopher Reeve</p>
