@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
+<p>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Gilbert Chesterton</p>
