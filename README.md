@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Art of Peace begins with you.</p>
+<p>Being wrong brings the opportunity for growth.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Mark Manson</p>
