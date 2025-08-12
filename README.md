@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being wrong brings the opportunity for growth.</p>
+<p>The only time you run out of chances is when you stop taking them.</p>
 
-<p>- Mark Manson</p>
+<p>- Unknown</p>
