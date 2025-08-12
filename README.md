@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
+<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
 
-<p>- Ayn Rand</p>
+<p>- Bruce Lee</p>
