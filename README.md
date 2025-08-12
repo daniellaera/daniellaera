@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Unknown</p>
+<p>- Celestine Chua</p>
