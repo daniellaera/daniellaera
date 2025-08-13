@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
+<p>Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus.</p>
 
-<p>- Yanni</p>
+<p>- Alexander Graham Bell</p>
