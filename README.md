@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just living is not enough... one must have sunshine, freedom, and a little flower. </p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Gary Keller</p>
