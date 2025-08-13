@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>Change your thoughts and you change your world.</p>
 
-<p>- Dan Millman</p>
+<p>- Norman Vincent Peale</p>
