@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
+<p>Everything great that has ever happened to humanity has begun as a single thought in someone's mind.</p>
 
-<p>- Tony Robbins</p>
+<p>- Yanni</p>
