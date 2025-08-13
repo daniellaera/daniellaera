@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.</p>
+<p>If you try to micromanage yourself all you're going to do is make yourself miserable.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Naval Ravikant</p>
