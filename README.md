@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is the offspring of silence and meditation.</p>
+<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
 
-<p>- Isaac Newton</p>
+<p>- Plato</p>
