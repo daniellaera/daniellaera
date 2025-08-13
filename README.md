@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.</p>
 
-<p>- Plato</p>
+<p>- Sonia Ricotti</p>
