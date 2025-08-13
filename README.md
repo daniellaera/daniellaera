@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poverty and hardship are created by false thinking.</p>
+<p>Do something to move yourself toward your major goal every day.</p>
 
-<p>- Bodhidharma</p>
+<p>- Brian Tracy</p>
