@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the expression of one's values.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>- Ayn Rand</p>
+<p>- Ming-Dao Deng</p>
