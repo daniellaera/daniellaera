@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to be great to start, but you have to start to be great.  </p>
+<p>What you become is far more important than what you get.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Jim Rohn</p>
