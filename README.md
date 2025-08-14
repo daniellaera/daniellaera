@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change your thoughts and you change your world.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Paulo Coelho</p>
