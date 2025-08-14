@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't set your own goals by what other people make important.</p>
+<p>Misfortune shows those who are not really friends.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Aristotle</p>
