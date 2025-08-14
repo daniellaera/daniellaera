@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your face to the sun, as flowers know how to do.</p>
+<p>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Unknown</p>
