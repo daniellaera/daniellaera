@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the possibility of having a dream come true that makes life interesting.</p>
+<p>Don't set your own goals by what other people make important.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Lolly Daskal</p>
