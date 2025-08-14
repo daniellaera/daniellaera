@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What one does is what counts. Not what one had the intention of doing.</p>
+<p>Common sense is not so common. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Voltaire</p>
