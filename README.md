@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The weak can never forgive. Forgiveness is the attribute of the strong.</p>
+<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- A.A. Milne</p>
