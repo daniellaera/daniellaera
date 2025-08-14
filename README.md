@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're braver than you believe, and stronger than you seem, and smarter than you think.</p>
+<p>Nothing brings down walls as surely as acceptance.</p>
 
-<p>- A.A. Milne</p>
+<p>- Deepak Chopra</p>
