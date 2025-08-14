@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never waste a minute of your precious life thinking about people you don't like.</p>
+<p>Wisdom is doing now what you are going to be happy with later on.</p>
 
-<p>- Celestine Chua</p>
+<p>- Joyce Meyer</p>
