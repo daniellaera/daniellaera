@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>Never waste a minute of your precious life thinking about people you don't like.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Celestine Chua</p>
