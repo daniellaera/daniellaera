@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</p>
+<p>All we have to decide is what to do with the time that is given to us.</p>
 
-<p>- Mark Twain</p>
+<p>- J.R.R. Tolkien</p>
