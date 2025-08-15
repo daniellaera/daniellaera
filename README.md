@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nature loves to hide.</p>
+<p>Listen to the secret sound, the real sound, which is inside you.</p>
 
-<p>- Heraclitus</p>
+<p>- Kabir</p>
