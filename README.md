@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We're responsible for everything that happens to us.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else. </p>
 
-<p>- Yanni</p>
+<p>- Margaret Mead</p>
