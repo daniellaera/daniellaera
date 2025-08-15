@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</p>
+<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Og Mandino</p>
