@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe yourself to be.</p>
+<p>Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </p>
 
-<p>- Paulo Coelho</p>
+<p>- Wayne Dyer</p>
