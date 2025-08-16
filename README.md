@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Seungsahn</p>
