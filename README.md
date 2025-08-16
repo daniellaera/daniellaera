@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't settle, and don't struggle.</p>
+<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
 
-<p>- Naval Ravikant</p>
+<p>- Bruce Lee</p>
