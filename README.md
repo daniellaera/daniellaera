@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>Humans and prosperity never endure side by side for long.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Herodotus</p>
