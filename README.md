@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>The single most powerful asset we all have is our mind.</p>
 
-<p>- Bruce Lee</p>
+<p>- Robert Kiyosaki</p>
