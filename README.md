@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My sun sets to rise again.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>- Robert Browning</p>
+<p>- Naval Ravikant</p>
