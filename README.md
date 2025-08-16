@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All leaders are readers.</p>
+<p>Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.</p>
 
-<p>- Jim Rohn</p>
+<p>- Thich Nhat Hanh</p>
