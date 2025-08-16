@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one ever said life was fair. Just Eventful.</p>
+<p>If you let your head get too big, it'll break your neck.</p>
 
-<p>- Carol Burnett</p>
+<p>- Elvis Presley</p>
