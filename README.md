@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>- Confucius</p>
+<p>- Martin Luther</p>
