@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Carlos Ruiz Zafon</p>
