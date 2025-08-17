@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>- Paulo Coelho</p>
+<p>- George Bernard Shaw</p>
