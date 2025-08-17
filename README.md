@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody has talent, but ability takes hard work.</p>
+<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
 
-<p>- Michael Jordan</p>
+<p>- Arnold Schwarzenegger</p>
