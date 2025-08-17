@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He suffers more than necessary, who suffers before it is necessary.  </p>
+<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
 
-<p>- Seneca</p>
+<p>- Chinese Proverb</p>
