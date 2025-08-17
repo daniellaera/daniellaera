@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without the rain there would be no rainbow.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Pema Chodron</p>
