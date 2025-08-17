@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My definition of success is control.</p>
+<p>Beauty is not in the face; beauty is a light in the heart.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Kahlil Gibran</p>
