@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>The best answer to anger is silence.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Marcus Aurelius</p>
