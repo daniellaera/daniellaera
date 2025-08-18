@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>Showing off is the fool's idea of glory. </p>
 
-<p>- Aristotle</p>
+<p>- Bruce Lee</p>
