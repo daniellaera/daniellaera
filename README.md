@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing quite so tragic as a young cynic.</p>
+<p>From error to error one discovers the entire truth.</p>
 
-<p>- Maya Angelou</p>
+<p>- Sigmund Freud</p>
