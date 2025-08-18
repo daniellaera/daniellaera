@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Plato</p>
+<p>- Morihei Ueshiba</p>
