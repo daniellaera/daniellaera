@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Og Mandino</p>
