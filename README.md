@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is not a gift. It is an achievement.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Henry Ward Beecher</p>
