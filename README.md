@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From error to error one discovers the entire truth.</p>
+<p>Don't let the noise of others opinions drown out your inner voice.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Steve Jobs</p>
