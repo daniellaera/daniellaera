@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have more possibilities available in each moment than we realize.</p>
+<p>The only limits in our life are those we impose on ourselves.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Bob Proctor</p>
