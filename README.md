@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is really work unless you would rather be doing something else. </p>
+<p>What is a friend? A single soul dwelling in two bodies.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Aristotle</p>
