@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>- Kabir</p>
+<p>- Abraham Lincoln</p>
