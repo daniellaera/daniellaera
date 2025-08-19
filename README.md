@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is acceptable. Not trying is a whole different ball park.</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth. </p>
 
-<p>- Michael Jordan</p>
+<p>- Chinese Proverb</p>
