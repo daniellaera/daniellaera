@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles don't block the path, they are the path.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>- Zen Proverb</p>
+<p>- Thomas Jefferson</p>
