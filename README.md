@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
+<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
 
-<p>- Betty White</p>
+<p>- Jeffrey Gitomer</p>
