@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
+<p>Obstacles don't block the path, they are the path.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Zen Proverb</p>
