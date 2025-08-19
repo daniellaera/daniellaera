@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>Too many of us are not living our dreams because we are living our fears.</p>
 
-<p>- Samuel Butler</p>
+<p>- Les Brown</p>
