@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best of us sometimes eat our words.  </p>
+<p>Success is getting what you want. Happiness is wanting what you get.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Andrew Carnegie</p>
