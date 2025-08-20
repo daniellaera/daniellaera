@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An investment in knowledge pays the best interest.</p>
+<p>Forget safety. Live where you fear to live.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Rumi</p>
