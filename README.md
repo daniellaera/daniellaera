@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>Be yourself; everyone else is already taken.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Oscar Wilde</p>
