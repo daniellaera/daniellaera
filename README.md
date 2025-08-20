@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a journey, not a destination.</p>
+<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
 
-<p>- Dan Millman</p>
+<p>- Heraclitus</p>
