@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a gift, even when pain is your teacher.</p>
+<p>Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine.</p>
 
-<p>- Michael Jordan</p>
+<p>- Zen Proverb</p>
