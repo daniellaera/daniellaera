@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act as if what you do makes a difference. It does.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>- William James</p>
+<p>- Earl Nightingale</p>
