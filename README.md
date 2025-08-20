@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want. Happiness is wanting what you get.</p>
+<p>The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Sathya Sai Baba</p>
