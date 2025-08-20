@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Happiness. Happiness is the path.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>- Dan Millman</p>
+<p>- Deepak Chopra</p>
