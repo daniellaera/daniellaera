@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest deception men suffer is from their own opinions.</p>
+<p>The best of us sometimes eat our words.  </p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Albus Dumbledore</p>
