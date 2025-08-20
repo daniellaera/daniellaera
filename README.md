@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forget safety. Live where you fear to live.</p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>- Rumi</p>
+<p>- Alexander Pope</p>
