@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honor is the foundation of courage.</p>
+<p>Inspiration exists, but it has to find you working.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Pablo Picasso</p>
