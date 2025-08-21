@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>The most difficult times for many of us are the ones we give ourselves.</p>
 
-<p>- Robert Greene</p>
+<p>- Pema Chodron</p>
