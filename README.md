@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Steve Harvey</p>
