@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The danger of an adventure is worth a thousand days of ease and comfort.</p>
+<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
 
-<p>- Paulo Coelho</p>
+<p>- Charles Swindoll</p>
