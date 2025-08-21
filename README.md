@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Zhuangzi</p>
