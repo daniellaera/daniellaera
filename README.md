@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your body. It's the only place you have to live.</p>
+<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
 
-<p>- Jim Rohn</p>
+<p>- Ming-Dao Deng</p>
