@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never trust he who trusts everyone.</p>
+<p>Honor is the foundation of courage.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Amelia Earhart</p>
