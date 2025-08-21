@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The golden opportunity you are seeking is within yourself.</p>
+<p>Take care of your body. It's the only place you have to live.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Jim Rohn</p>
