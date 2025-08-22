@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a journey, not a destination.</p>
+<p>Good judgment comes from experience, and experience comes from bad judgment.</p>
 
-<p>- Dan Millman</p>
+<p>- Rita Mae Brown</p>
