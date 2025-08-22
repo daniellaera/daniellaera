@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>Magic is believing in yourself, if you can do that, you can make anything happen.</p>
 
-<p>- Bob Marley</p>
+<p>- Johann Wolfgang von Goethe</p>
