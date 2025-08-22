@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>Do one thing every day that scares you.</p>
 
-<p>- Herodotus</p>
+<p>- Eleanor Roosevelt</p>
