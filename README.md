@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not be so open-minded that your brains fall out.</p>
+<p>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Peter Drucker</p>
