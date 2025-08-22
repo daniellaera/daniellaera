@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
+<p>When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.</p>
 
-<p>- Grace Coddington</p>
+<p>- Peter A. Cohen</p>
