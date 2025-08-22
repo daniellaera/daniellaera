@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All leaders are readers.</p>
+<p>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</p>
 
-<p>- Jim Rohn</p>
+<p>- Grace Coddington</p>
