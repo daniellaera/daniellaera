@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more I want to get something done, the less I call it work.</p>
+<p>The harder you work, the harder it is to surrender.</p>
 
-<p>- Richard Bach</p>
+<p>- Vince Lombardi</p>
