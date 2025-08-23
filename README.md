@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has no limitations except the ones you make.</p>
+<p>No one has ever become poor by giving.</p>
 
-<p>- Les Brown</p>
+<p>- Anne Frank</p>
