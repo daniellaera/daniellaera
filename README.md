@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
+<p>Silence is sometimes the best answer.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Dalai Lama</p>
