@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>Success is getting what you want. Happiness is wanting what you get.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Andrew Carnegie</p>
