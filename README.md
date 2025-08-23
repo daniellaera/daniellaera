@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is sometimes the best answer.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>- Dalai Lama</p>
+<p>- Leonardo da Vinci</p>
