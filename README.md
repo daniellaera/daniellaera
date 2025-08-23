@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>True life is lived when tiny changes occur.</p>
 
-<p>- Herodotus</p>
+<p>- Leo Tolstoy</p>
