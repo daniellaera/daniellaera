@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
+<p>The wisdom of life consists in the elimination of the nonessentials.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Lin Yutang</p>
