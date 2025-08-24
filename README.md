@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tall oaks grow from little acorns.</p>
+<p>The universe doesn't allow perfection.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Stephen Hawking</p>
