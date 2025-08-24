@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>It is easy to discover what another has discovered before.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Christopher Columbus</p>
