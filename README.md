@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to discover what another has discovered before.</p>
+<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Dogen</p>
