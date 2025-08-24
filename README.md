@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>- Tony Robbins</p>
+<p>- Earl Nightingale</p>
