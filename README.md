@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
+<p>The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.</p>
 
-<p>- Dogen</p>
+<p>- Kamal Ravikant</p>
