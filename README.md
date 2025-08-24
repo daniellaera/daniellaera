@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who have goals succeed because they know where they're going. It's that simple.</p>
+<p>Troubles are often the tools by which God fashions us for better things.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Henry Ward Beecher</p>
