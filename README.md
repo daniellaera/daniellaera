@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
+<p>Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Theodore Roosevelt</p>
