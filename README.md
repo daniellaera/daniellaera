@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</p>
+<p>The best time to plant a tree was 20 years ago. The second best time is now.</p>
 
-<p>- Sun Tzu</p>
+<p>- Zen Proverb</p>
