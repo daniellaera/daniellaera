@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is like most opinions - best unexpressed.</p>
+<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Bhagavad Gita</p>
