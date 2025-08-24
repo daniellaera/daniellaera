@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
+<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
 
-<p>- Celestine Chua</p>
+<p>- Richard Bach</p>
