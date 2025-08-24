@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The universe doesn't allow perfection.</p>
+<p>Learn to sit back and observe, not everything needs a reaction.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Unknown</p>
