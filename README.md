@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead the people, walk behind them.</p>
+<p>The road to success is always under construction.</p>
 
-<p>- Lao Tzu</p>
+<p>- Steve Harvey</p>
