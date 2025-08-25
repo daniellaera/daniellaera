@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot teach a crab to walk straight.</p>
+<p>Life should be touched, not strangled.  </p>
 
-<p>- Aristophanes</p>
+<p>- Ray Bradbury</p>
