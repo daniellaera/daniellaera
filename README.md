@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
+<p>You cannot teach a crab to walk straight.</p>
 
-<p>- A.A. Milne</p>
+<p>- Aristophanes</p>
