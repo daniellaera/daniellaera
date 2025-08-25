@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great things are not done by impulse, but by a series of small things brought together.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- J.R.R. Tolkien</p>
