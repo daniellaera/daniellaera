@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</p>
+<p>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</p>
 
-<p>- Peter Drucker</p>
+<p>- Andrew Carnegie</p>
