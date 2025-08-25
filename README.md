@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is never too late to be what you might have been.</p>
+<p>Success does not consist in never making mistakes but in never making the same one a second time.</p>
 
-<p>- George Eliot</p>
+<p>- George Bernard Shaw</p>
