@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is the price that life exacts for granting peace.</p>
+<p>We become what we believe.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Lolly Daskal</p>
