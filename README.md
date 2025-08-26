@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Lao Tzu</p>
