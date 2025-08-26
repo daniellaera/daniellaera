@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An un-examined life is not worth living.</p>
+<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
 
-<p>- Socrates</p>
+<p>- Jim Rohn</p>
