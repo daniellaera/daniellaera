@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do all things with love.</p>
+<p>The quicker you let go of old cheese, the sooner you find new cheese.</p>
 
-<p>- Og Mandino</p>
+<p>- Spencer Johnson</p>
