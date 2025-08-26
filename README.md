@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>Be approximately right rather than exactly wrong.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- John Tukey</p>
