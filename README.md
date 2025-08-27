@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
+<p>For all evils there are two remedies - time and silence.</p>
 
-<p>- James Cameron</p>
+<p>- Alexandre Dumas</p>
