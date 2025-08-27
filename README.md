@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day may not be good, but there's something good in every day.</p>
+<p>Be thankful for everything that happens in your life; it's all an experience.</p>
 
-<p>- Unknown</p>
+<p>- Roy T. Bennett</p>
