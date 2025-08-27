@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>One must be poor to know the luxury of giving.</p>
 
-<p>- Maxime Lagace</p>
+<p>- George Eliot</p>
