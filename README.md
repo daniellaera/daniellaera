@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
+<p>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Simon Sinek</p>
