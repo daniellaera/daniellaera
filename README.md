@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.</p>
+<p>Fear can hold you prisoner. Hope can set you free.</p>
 
-<p>- Simon Sinek</p>
+<p>- Stephen King</p>
