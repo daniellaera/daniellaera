@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
+<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
 
-<p>- Osho</p>
+<p>- James Cameron</p>
