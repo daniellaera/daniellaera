@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>- Criss Jami</p>
+<p>- Unknown</p>
