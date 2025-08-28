@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Buddha</p>
+<p>- Henry Ford</p>
