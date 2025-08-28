@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To know your Enemy, you must become your Enemy.</p>
+<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
 
-<p>- Sun Tzu</p>
+<p>- Elon Musk</p>
