@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no excuse for not trying.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Barack Obama</p>
+<p>- Maxime Lagace</p>
