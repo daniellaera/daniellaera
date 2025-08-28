@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The score never interested me, only the game.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>- Mae West</p>
+<p>- Dr. Seuss</p>
