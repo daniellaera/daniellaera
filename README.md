@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Aristotle</p>
