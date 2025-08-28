@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the touchstones of our characters.</p>
+<p>Only he who has no use for the empire is fit to be entrusted with it.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Zhuangzi</p>
