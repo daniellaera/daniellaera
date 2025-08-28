@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little impatience will spoil great plans.</p>
+<p>I learned the value of hard work by working hard. </p>
 
-<p>- Chinese Proverb</p>
+<p>- Margaret Mead</p>
