@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>The ego wants to go fast. The soul needs to go slow.</p>
 
-<p>- Aristotle</p>
+<p>- Maxime Lagace</p>
