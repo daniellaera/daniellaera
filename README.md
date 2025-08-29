@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Seek not the good in external things;seek it in yourselves.</p>
+<p>Be not glad at the misfortune of another, though he may be your enemy. </p>
 
-<p>- Epictetus</p>
+<p>- George Washington</p>
