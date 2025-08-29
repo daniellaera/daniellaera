@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</p>
+<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
 
-<p>- Rumi</p>
+<p>- Henry David Thoreau</p>
