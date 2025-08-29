@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>Turn off your mind, relax, and float downstream.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- John Lennon</p>
