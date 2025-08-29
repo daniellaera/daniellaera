@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your gift is something that you can do innately better than anything else.</p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Steve Harvey</p>
+<p>- Lao Tzu</p>
