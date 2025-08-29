@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
 
-<p>- Unknown</p>
+<p>- Eleanor Roosevelt</p>
