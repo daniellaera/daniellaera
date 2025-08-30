@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
+<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
 
-<p>- Voltaire</p>
+<p>- Plato</p>
