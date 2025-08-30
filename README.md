@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the true magic carpet.</p>
+<p>Always render more and better service than is expected of you, no matter what your task may be.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Og Mandino</p>
