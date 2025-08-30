@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is the sum of small efforts, repeated day in and day out.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Robert Collier</p>
+<p>- Samuel Butler</p>
