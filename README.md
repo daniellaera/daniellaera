@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only man who never makes mistakes is the man who never does anything.</p>
+<p>Success is the sum of small efforts, repeated day in and day out.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Robert Collier</p>
