@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future belongs to those who believe in the beauty of their dreams.</p>
+<p>From the errors of others, a wise man corrects his own.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Publilius Syrus</p>
