@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Plato</p>
+<p>- Benjamin Franklin</p>
