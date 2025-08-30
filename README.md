@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>- George Eliot</p>
+<p>- Joyce Meyer</p>
