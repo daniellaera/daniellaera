@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>Fear is what stops you. Courage is what keeps you going.</p>
 
-<p>- Epictetus</p>
+<p>- Unknown</p>
