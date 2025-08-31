@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Naval Ravikant</p>
