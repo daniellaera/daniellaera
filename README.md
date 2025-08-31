@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rest and be kind, you don't have to prove anything.</p>
+<p>It always seems impossible until it's done.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Nelson Mandela</p>
