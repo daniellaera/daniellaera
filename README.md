@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From the errors of others, a wise man corrects his own.</p>
+<p>Where there's life, there's hope.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Stephen Hawking</p>
