@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Emily Dickinson</p>
