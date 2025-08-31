@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Tony Robbins</p>
