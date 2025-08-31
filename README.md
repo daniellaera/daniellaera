@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there's life, there's hope.</p>
+<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Roy T. Bennett</p>
