@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
+<p>A bird does not sing because it has an answer. It sings because it has a song.</p>
 
-<p>- Tony Robbins</p>
+<p>- Chinese Proverb</p>
