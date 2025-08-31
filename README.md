@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Follow your heart, listen to your inner voice, stop caring about what others think.</p>
+<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Carl Jung</p>
