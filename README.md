@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</p>
+<p>Being in a good frame of mind helps keep one in the picture of health.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Unknown</p>
