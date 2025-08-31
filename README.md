@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People spend too much time doing and not enough time thinking about what they should be doing.</p>
+<p>Rest and be kind, you don't have to prove anything.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Jack Kerouac</p>
