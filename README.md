@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>- Dalai Lama</p>
+<p>- Peter Drucker</p>
