@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>Failure is acceptable. Not trying is a whole different ball park.</p>
 
-<p>- Pema Chodron</p>
+<p>- Michael Jordan</p>
