@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>We must be free not because we claim freedom, but because we practice it.</p>
 
-<p>- Unknown</p>
+<p>- William Faulkner</p>
