@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect was invented to cover the empty place where love should be.</p>
+<p>Common sense is not so common. </p>
 
-<p>- Leo Tolstoy</p>
+<p>- Voltaire</p>
