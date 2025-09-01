@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Henry Ward Beecher</p>
