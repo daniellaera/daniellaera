@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is well known that those who do not trust themselves never trust others.</p>
+<p>For your life to be great, your faith must be bigger than your fear.</p>
 
-<p>- Alfred Adler</p>
+<p>- Robin Sharma</p>
