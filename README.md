@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be successful, you have to jump, there's no way around it.</p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>- Steve Harvey</p>
+<p>- Zen Proverb</p>
