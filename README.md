@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop being tormented by everyone else's reaction to you.</p>
+<p>Discipline is the mark of intelligent living.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Sathya Sai Baba</p>
