@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For things to change, you have to change.</p>
+<p>The four P's to success are pressure, persistence, perseverance, and prayer.</p>
 
-<p>- Jim Rohn</p>
+<p>- Steve Harvey</p>
