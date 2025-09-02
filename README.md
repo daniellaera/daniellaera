@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I love fools' experiments. I am always making them.</p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>- Charles Darwin</p>
+<p>- Ayn Rand</p>
