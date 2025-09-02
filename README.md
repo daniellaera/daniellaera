@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good system shortens the road to the goal. </p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Dan Brown</p>
