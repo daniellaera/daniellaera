@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The guest will judge better of a feast than the cook.</p>
+<p>People rarely succeed unless they have fun in what they are doing.</p>
 
-<p>- Aristotle</p>
+<p>- Dale Carnegie</p>
