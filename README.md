@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who does not value himself, cannot value anything or anyone.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Ayn Rand</p>
+<p>- Orison Swett Marden</p>
