@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>May you live all the days of your life.</p>
+<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Vincent van Gogh</p>
