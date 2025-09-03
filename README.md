@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
+<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
 
-<p>- Kabir</p>
+<p>- Epictetus</p>
