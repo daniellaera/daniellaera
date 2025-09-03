@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you pray for rain, be prepared to deal with some mud.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Thich Nhat Hanh</p>
