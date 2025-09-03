@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Normality is a paved road: It's comfortable to walk, but no flowers grow on it.</p>
+<p>The soul without imagination is what an observatory would be without a telescope.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Henry Ward Beecher</p>
