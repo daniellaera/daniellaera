@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>- Samuel Butler</p>
+<p>- Aristotle</p>
