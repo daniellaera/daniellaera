@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
+<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
 
-<p>- Epictetus</p>
+<p>- Colin Powell</p>
