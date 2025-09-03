@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is peace even in the storm.</p>
+<p>May you live all the days of your life.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Jonathan Swift</p>
