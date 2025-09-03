@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a process. We are a process. The universe is a process.</p>
+<p>There is no way to happiness - happiness is the way.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Thich Nhat Hanh</p>
