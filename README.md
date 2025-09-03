@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul without imagination is what an observatory would be without a telescope.</p>
+<p>Life is a process. We are a process. The universe is a process.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Anne Wilson Schaef</p>
