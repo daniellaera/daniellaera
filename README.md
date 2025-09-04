@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Robert Kiyosaki</p>
