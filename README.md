@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
+<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Paramahansa Yogananda</p>
