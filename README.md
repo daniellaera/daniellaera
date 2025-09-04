@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
+<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Pema Chodron</p>
