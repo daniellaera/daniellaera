@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how tall the mountain is, it cannot block the sun.</p>
+<p>The soul is neither born, and nor does it die.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Bhagavad Gita</p>
