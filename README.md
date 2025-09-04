@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All has not been said and never will be.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Zen Proverb</p>
