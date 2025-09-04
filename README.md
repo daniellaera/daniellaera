@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find something you love and do it better than everyone else.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Peter Drucker</p>
