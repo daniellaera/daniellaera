@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
+<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Naval Ravikant</p>
