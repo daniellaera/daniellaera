@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Ming-Dao Deng</p>
