@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. </p>
+<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Bhagavad Gita</p>
