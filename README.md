@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
+<p>I must also have a dark side if I am to be whole.</p>
 
-<p>- Pema Chodron</p>
+<p>- Carl Jung</p>
