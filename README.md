@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we know how to adapt, we end up being superior.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Gurbaksh Chahal</p>
