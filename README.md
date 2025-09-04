@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trying to define yourself is like trying to bite your own teeth.</p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>- Zen Proverb</p>
+<p>- George Washington</p>
