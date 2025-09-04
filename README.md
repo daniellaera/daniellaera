@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</p>
+<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Deepak Chopra</p>
