@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul is neither born, and nor does it die.</p>
+<p>Great things are not done by impulse, but by a series of small things brought together.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Vincent van Gogh</p>
