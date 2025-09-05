@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Og Mandino</p>
