@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
 
-<p>- Franz Kafka</p>
+<p>- Nelson Mandela</p>
