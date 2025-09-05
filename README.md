@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The cost of leadership is self-interest.</p>
+<p>If you want to achieve greatness stop asking for permission.</p>
 
-<p>- Simon Sinek</p>
+<p>- Unknown</p>
