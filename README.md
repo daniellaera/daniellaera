@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
+<p>What you resist, persists.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Carl Jung</p>
