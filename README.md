@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</p>
+<p>You know you are on the road to success if you would do your job and not be paid for it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Oprah Winfrey</p>
