@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
+<p>Don't bother people for help without first trying to solve the problem yourself.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Colin Powell</p>
