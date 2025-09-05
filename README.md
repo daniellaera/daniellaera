@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If no one ever broke the rules, then we'd never advance.</p>
+<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
 
-<p>- Simon Sinek</p>
+<p>- Franz Kafka</p>
