@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
 
-<p>- Socrates</p>
+<p>- Oprah Winfrey</p>
