@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are grateful for what you have the more you will have to be grateful for.  </p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Socrates</p>
