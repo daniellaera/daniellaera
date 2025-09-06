@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As soon as you truly commit to making something happen, the 'how' will reveal itself.</p>
+<p>For your life to be great, your faith must be bigger than your fear.</p>
 
-<p>- Tony Robbins</p>
+<p>- Robin Sharma</p>
