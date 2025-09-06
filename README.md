@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
 
-<p>- Robin Sharma</p>
+<p>- Plato</p>
