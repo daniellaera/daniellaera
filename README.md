@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I do not seek. I find.</p>
+<p>Where there is no struggle, there is no strength. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Oprah Winfrey</p>
