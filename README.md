@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>- James Allen</p>
+<p>- Dan Brown</p>
