@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength. </p>
+<p>The energy of the mind is the essence of life.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Aristotle</p>
