@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
+<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Estee Lauder</p>
