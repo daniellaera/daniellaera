@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who removes a mountain begins by carrying away small stones.</p>
+<p>It's very strange that the people you love are often the people you're most cruel to.</p>
 
-<p>- William Faulkner</p>
+<p>- Kenneth Branagh</p>
