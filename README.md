@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?</p>
+<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Aristotle</p>
