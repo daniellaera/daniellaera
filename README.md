@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time goes from present to past.</p>
+<p>Lost Time is never found again.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Benjamin Franklin</p>
