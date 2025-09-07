@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have it all. You just can't have it all at once. </p>
+<p>The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Charles Dickens</p>
