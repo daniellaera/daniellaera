@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never confuse a single defeat with a final defeat.</p>
+<p>Nothing ever goes away until it has taught us what we need to know.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Pema Chodron</p>
