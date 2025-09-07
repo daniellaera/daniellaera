@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is to console those who are broken by life.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- F. Scott Fitzgerald</p>
