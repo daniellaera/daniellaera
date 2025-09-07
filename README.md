@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>- Estee Lauder</p>
+<p>- Oprah Winfrey</p>
