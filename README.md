@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better the cottage where one is merry than the palace where one weeps.</p>
+<p>Courage is not having the strength to go on; it is going on when you don't have the strength.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Theodore Roosevelt</p>
