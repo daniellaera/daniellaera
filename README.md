@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
+<p>Art is to console those who are broken by life.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Vincent van Gogh</p>
