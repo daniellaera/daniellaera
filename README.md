@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
+<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Elon Musk</p>
