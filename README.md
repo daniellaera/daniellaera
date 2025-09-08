@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Less is more.</p>
+<p>Change will not come if we wait for some other person, or if we wait for some other time.</p>
 
-<p>- Robert Browning</p>
+<p>- Barack Obama</p>
