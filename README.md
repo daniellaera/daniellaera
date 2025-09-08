@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything has beauty but not everyone sees it.</p>
+<p>A needle is not sharp at both ends. </p>
 
-<p>- Confucius</p>
+<p>- Chinese Proverb</p>
