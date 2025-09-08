@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>- Elon Musk</p>
+<p>- Lolly Daskal</p>
