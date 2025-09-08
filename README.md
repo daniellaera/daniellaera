@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
+<p>The road to success is always under construction..</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Lily Tomlin</p>
