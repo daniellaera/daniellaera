@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Boldness makes even the smallest animal dangerous.</p>
+<p>In spite of everything, I shall rise again.</p>
 
-<p>- Robert Greene</p>
+<p>- Vincent van Gogh</p>
