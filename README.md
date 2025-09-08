@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True love stories never have endings.</p>
+<p>Less is more.</p>
 
-<p>- Richard Bach</p>
+<p>- Robert Browning</p>
