@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who leaves the game wins it.</p>
+<p>The more something threatens your identity, the more you will avoid it.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Mark Manson</p>
