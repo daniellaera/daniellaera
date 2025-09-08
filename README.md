@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something threatens your identity, the more you will avoid it.</p>
+<p>The world doesn't owe you anything. It was here first.</p>
 
-<p>- Mark Manson</p>
+<p>- Mark Twain</p>
