@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction..</p>
+<p>Everything has beauty but not everyone sees it.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Confucius</p>
