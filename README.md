@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Evil is whatever distracts. </p>
+<p>Not how long, but how well you have lived is the main thing.</p>
 
-<p>- Franz Kafka</p>
+<p>- Seneca</p>
