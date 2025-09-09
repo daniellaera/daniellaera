@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Gurbaksh Chahal</p>
