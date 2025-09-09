@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality, not the longevity, of one's life is what is important.</p>
+<p>Man suffers only because he takes seriously what the gods made for fun.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Alan Watts</p>
