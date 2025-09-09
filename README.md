@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have as much laughter as you have faith.</p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>- Martin Luther</p>
+<p>- Kabir</p>
