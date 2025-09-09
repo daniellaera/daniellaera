@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes, the only way to evolve is to open ourselves fully.</p>
+<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Osho</p>
