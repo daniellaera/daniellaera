@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Dr. Seuss</p>
