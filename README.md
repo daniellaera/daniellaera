@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is not something outside to be discovered, it is something inside to be realized.</p>
+<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
 
-<p>- Osho</p>
+<p>- Eric Hoffer</p>
