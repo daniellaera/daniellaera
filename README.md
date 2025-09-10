@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind, for everyone you meet is fighting a harder battle.</p>
+<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
 
-<p>- Plato</p>
+<p>- A.A. Milne</p>
