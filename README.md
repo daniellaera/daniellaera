@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend major time on minor things.</p>
+<p>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</p>
 
-<p>- Jim Rohn</p>
+<p>- Morihei Ueshiba</p>
