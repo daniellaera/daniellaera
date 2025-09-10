@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big and dare to fail.</p>
+<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
 
-<p>- Norman Vaughan</p>
+<p>- Albert Einstein</p>
