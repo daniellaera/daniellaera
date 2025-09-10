@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A minute's success pays the failure of years.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- Robert Browning</p>
+<p>- Sigmund Freud</p>
