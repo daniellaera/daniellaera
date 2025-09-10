@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.</p>
+<p>Desire is suffering.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Naval Ravikant</p>
