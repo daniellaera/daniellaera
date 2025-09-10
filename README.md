@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easy to discover what another has discovered before.</p>
+<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Paramahansa Yogananda</p>
