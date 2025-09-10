@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
+<p>Doing the best at this moment puts you in the best place for the next moment.</p>
 
-<p>- Kabir</p>
+<p>- Oprah Winfrey</p>
