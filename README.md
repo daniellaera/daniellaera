@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time flies whether you are having fun or not.</p>
+<p>Nature loves to hide.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Heraclitus</p>
