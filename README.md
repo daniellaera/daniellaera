@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing the best at this moment puts you in the best place for the next moment.</p>
+<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Miguel de Cervantes</p>
