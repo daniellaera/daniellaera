@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.</p>
+<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Stephen King</p>
