@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
+<p>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Shunryu Suzuki</p>
