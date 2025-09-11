@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</p>
+<p>A creative man is motivated by the desire to achieve, not by the desire to beat others.</p>
 
-<p>- Stephen King</p>
+<p>- Ayn Rand</p>
