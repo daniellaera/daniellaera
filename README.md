@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>Freedom itself demands discomfort.</p>
 
-<p>- Tony Robbins</p>
+<p>- Mark Manson</p>
