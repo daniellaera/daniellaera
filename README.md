@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>The way we feel is the direct result of what we think.</p>
 
-<p>- Yoko Ono</p>
+<p>- Peter A. Cohen</p>
