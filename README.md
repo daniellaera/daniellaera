@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We suffer more often in imagination than in reality.</p>
+<p>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</p>
 
-<p>- Seneca</p>
+<p>- Spencer Johnson</p>
