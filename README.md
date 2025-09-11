@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way we feel is the direct result of what we think.</p>
+<p>We suffer more often in imagination than in reality.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Seneca</p>
