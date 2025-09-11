@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>Nothing can dim the light which shines from within.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Maya Angelou</p>
