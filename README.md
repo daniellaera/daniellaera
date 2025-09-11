@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>- St. Jerome</p>
+<p>- Tony Robbins</p>
