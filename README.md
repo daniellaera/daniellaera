@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure can be supported by an illusion; but happiness rests upon truth. </p>
+<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Bhagavad Gita</p>
