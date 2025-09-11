@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</p>
+<p>All has not been said and never will be.</p>
 
-<p>- Richard Bach</p>
+<p>- Samuel Beckett</p>
