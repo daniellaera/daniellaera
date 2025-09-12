@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>One of the most difficult things is not to change society - but to change yourself.</p>
 
-<p>- Beverly Sills</p>
+<p>- Nelson Mandela</p>
