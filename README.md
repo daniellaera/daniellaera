@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the most difficult things is not to change society - but to change yourself.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Nelson Mandela</p>
+<p>- George Bernard Shaw</p>
