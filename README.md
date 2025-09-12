@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not regret the past. Look to the future.</p>
+<p>The way to change others' minds is with affection, and not anger.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Dalai Lama</p>
