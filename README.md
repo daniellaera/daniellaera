@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>Do not regret the past. Look to the future.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Soyen Shaku</p>
