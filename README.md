@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are willing to believe anything other than the truth.</p>
+<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Estee Lauder</p>
