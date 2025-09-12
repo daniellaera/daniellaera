@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Dan Brown</p>
