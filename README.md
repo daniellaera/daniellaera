@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What have you done today to make someone else happy?</p>
+<p>What worries you, masters you.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- John Locke</p>
