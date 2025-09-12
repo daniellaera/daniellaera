@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
+<p>What have you done today to make someone else happy?</p>
 
-<p>- Dan Brown</p>
+<p>- Deepam Chaterjee</p>
