@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final; failure is never fatal.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Carlos Ruiz Zafon</p>
