@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>- Mark Twain</p>
+<p>- Arnold Schwarzenegger</p>
