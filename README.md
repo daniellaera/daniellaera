@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter what you do, only how well you do it.</p>
+<p>There is no self-discovery without pain and loss.</p>
 
-<p>- Dan Millman</p>
+<p>- Anita Krizzan</p>
