@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The finish line is just the beginning of a whole new race.</p>
+<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
 
-<p>- Unknown</p>
+<p>- Mark Twain</p>
