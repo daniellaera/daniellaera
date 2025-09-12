@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
+<p>I have never in my life learned anything from any man who agreed with me.</p>
 
-<p>- Estee Lauder</p>
+<p>- Dudley Field Malone</p>
