@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
+<p>Either you run the day or the day runs you.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Jim Rohn</p>
