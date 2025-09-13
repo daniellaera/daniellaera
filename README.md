@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>Distant water does not put out a nearby fire.</p>
 
-<p>- Robert Frost</p>
+<p>- Chinese Proverb</p>
