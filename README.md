@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Chinese Proverb</p>
