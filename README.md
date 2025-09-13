@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is rarely pure and never simple. </p>
+<p>You can only be afraid of what you think you know.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Jiddu Krishnamurti</p>
