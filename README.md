@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always remember that you are absolutely unique. Just like everyone else. </p>
+<p>Make your mind your own business.</p>
 
-<p>- Margaret Mead</p>
+<p>- Jack Butcher</p>
