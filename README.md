@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The right thing to do and the hard thing to do are usually the same.</p>
+<p>You will face many defeats in life, but never let yourself be defeated.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Maya Angelou</p>
