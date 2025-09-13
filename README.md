@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can live a whole life time never being awake.</p>
+<p>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </p>
 
-<p>- Dan Millman</p>
+<p>- Paramahansa Yogananda</p>
