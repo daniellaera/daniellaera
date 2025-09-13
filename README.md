@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who cheats the earth will be cheated by the earth.</p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>- Chinese Proverb</p>
+<p>- George Bernard Shaw</p>
