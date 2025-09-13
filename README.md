@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, accept. If you want suffering, expect.</p>
+<p>The truth is rarely pure and never simple. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Oscar Wilde</p>
