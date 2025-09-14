@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better late than never.</p>
+<p>If you genuinely want something, don't wait for it - teach yourself.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Gurbaksh Chahal</p>
