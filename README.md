@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
+<p>The people who are crazy enough to think they can change the world are the ones who do.</p>
 
-<p>- Mother Teresa</p>
+<p>- Steve Jobs</p>
