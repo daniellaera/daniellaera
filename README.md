@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
+<p>No man is happy unless he believes he is.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Publilius Syrus</p>
