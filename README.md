@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To the mind that is still, the whole universe surrenders.</p>
+<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
 
-<p>- Lao Tzu</p>
+<p>- Dale Carnegie</p>
