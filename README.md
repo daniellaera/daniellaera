@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is happy unless he believes he is.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Jack London</p>
