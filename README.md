@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not whether you get knocked down, its whether you get back up.</p>
+<p>To lead the people, walk behind them.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Lao Tzu</p>
