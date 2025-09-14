@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No tree, it is said, can grow to heaven unless its roots reach down to hell.</p>
+<p>Life is not meant to be easy my child, but take courage: it can be delightful.</p>
 
-<p>- Carl Jung</p>
+<p>- George Bernard Shaw</p>
