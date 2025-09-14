@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Mother Teresa</p>
