@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Information changes your mind. Action changes your circumstances.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- Jack Butcher</p>
+<p>- Beverly Sills</p>
