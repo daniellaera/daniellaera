@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two things a person should never be angry at, what they can help, and what they cannot.</p>
+<p>It's not whether you get knocked down, its whether you get back up.</p>
 
-<p>- Plato</p>
+<p>- Vince Lombardi</p>
