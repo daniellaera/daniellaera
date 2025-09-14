@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
+<p>The eye with which I see God is the same eye with which God sees me.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Meister Eckhart</p>
