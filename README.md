@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
+<p>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Nicolas Chamfort</p>
