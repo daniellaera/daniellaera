@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is stupid. So are regrets.</p>
+<p>The temptation to give up is strongest just before victory.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Zen Proverb</p>
