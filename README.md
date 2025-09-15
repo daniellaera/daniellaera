@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.</p>
+<p>If you've never eaten while crying you don t know what life tastes like.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Johann Wolfgang von Goethe</p>
