@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Christopher Columbus</p>
