@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ego wants comfort and certainty. The soul wants to live fully.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>- Maxime Lagace</p>
+<p>- George Bernard Shaw</p>
