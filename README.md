@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of all mistakes is to do nothing because you think you can only do a little.  </p>
+<p>Never let your memories be greater than your dreams.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Doug Ivester</p>
