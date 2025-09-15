@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Is it really possible to tell someone else what one feels?</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Marilyn Monroe</p>
