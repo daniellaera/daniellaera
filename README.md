@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let your memories be greater than your dreams.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Doug Ivester</p>
+<p>- Pablo Picasso</p>
