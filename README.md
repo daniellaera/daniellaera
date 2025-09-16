@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has no limitations except the ones you make.</p>
+<p>If you can see it in your mind, you can hold it in your mind.</p>
 
-<p>- Les Brown</p>
+<p>- Steve Harvey</p>
