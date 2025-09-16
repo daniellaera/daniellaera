@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An ounce of performance is worth pounds of promises.</p>
+<p>There is no absolute success in the world, only constant progress.</p>
 
-<p>- Mae West</p>
+<p>- Jonathan Swift</p>
