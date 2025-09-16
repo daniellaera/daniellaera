@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfection is not attainable, but if we chase perfection we can catch excellence.</p>
+<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
 
-<p>- Vince Lombardi</p>
+<p>- Estee Lauder</p>
