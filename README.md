@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is found in unlikely places.</p>
+<p>If you're really truthful with yourself, it's a wonderful guidance.  </p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Charlie Chaplin</p>
