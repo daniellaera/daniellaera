@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
+<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
 
-<p>- Charles Dickens</p>
+<p>- Buddha</p>
