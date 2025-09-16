@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let making a living prevent you from making a life.</p>
+<p>I believe that potential is unlimited - success depends on daring to act on dreams.   </p>
 
-<p>- John Wooden</p>
+<p>- Estee Lauder</p>
