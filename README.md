@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no absolute success in the world, only constant progress.</p>
+<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Dalai Lama</p>
