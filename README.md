@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Gilbert Chesterton</p>
