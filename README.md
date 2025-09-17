@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is during our darkest moments that we must focus to see the light.</p>
+<p>Try not to become a man of success, but rather try to become a man of value.</p>
 
-<p>- Aristotle</p>
+<p>- Albert Einstein</p>
