@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Aristotle</p>
