@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you lose your desire for things that do not matter, you will be free.</p>
+<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Steve Jobs</p>
