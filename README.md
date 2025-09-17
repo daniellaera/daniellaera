@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Small men think they are small; great men never know they are great. </p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Morihei Ueshiba</p>
