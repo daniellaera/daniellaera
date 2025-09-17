@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let your memories be greater than your dreams.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Doug Ivester</p>
+<p>- Peter A. Cohen</p>
