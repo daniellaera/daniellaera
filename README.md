@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop wasting time looking at someone else's reality while doing nothing about yours.</p>
+<p>Never let your memories be greater than your dreams.</p>
 
-<p>- Steve Harvey</p>
+<p>- Doug Ivester</p>
