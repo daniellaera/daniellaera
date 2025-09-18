@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</p>
+<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Celestine Chua</p>
