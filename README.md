@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no fear for one whose mind is not filled with desires.</p>
+<p>I never dwell on what happened. You can't change it. Move forward.</p>
 
-<p>- Buddha</p>
+<p>- Joan Rivers</p>
