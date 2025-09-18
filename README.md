@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
+<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Eleanor Roosevelt</p>
