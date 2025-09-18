@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
+<p>If you don't find the time, if you don't do the work, you don't get the results.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Arnold Schwarzenegger</p>
