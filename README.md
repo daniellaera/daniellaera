@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something scares you, the more you should do it.</p>
+<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
 
-<p>- Mark Manson</p>
+<p>- Winston Churchill</p>
