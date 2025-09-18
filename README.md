@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
+<p>He suffers more than necessary, who suffers before it is necessary.  </p>
 
-<p>- Mark Twain</p>
+<p>- Seneca</p>
