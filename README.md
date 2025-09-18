@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
+<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
 
-<p>- Brian Tracy</p>
+<p>- Deepak Chopra</p>
