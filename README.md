@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By failing to prepare, you are preparing to fail.</p>
+<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Eleanor Roosevelt</p>
