@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not final, failure is not fatal: it is the courage to continue that counts.</p>
+<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
 
-<p>- Winston Churchill</p>
+<p>- Og Mandino</p>
