@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody's life is either rewarding or an example.</p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>- Tony Robbins</p>
+<p>- Heraclitus</p>
