@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Brian Tracy</p>
