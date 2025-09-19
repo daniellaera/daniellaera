@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has the name of life, but in reality it is death.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>- Heraclitus</p>
+<p>- Les Brown</p>
