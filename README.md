@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
+<p>By failing to prepare, you are preparing to fail.</p>
 
-<p>- Winston Churchill</p>
+<p>- Benjamin Franklin</p>
