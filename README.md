@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Art of Peace begins with you.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Tony Robbins</p>
