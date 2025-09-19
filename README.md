@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be royal in your own fashion: act like a king to be treated like one.</p>
+<p>You win more from losing than winning.</p>
 
-<p>- Robert Greene</p>
+<p>- Morgan Wootten</p>
