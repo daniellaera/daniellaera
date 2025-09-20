@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A loving heart is the truest wisdom.</p>
+<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
 
-<p>- Charles Dickens</p>
+<p>- Henry Ward Beecher</p>
