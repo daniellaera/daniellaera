@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
+<p>One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Elon Musk</p>
