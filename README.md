@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Charles Dickens</p>
