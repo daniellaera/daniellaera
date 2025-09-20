@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
+<p>Life is a long lesson in humility. </p>
 
-<p>- Lin Yutang</p>
+<p>- James Matthew Barrie</p>
