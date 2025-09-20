@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Rumi</p>
