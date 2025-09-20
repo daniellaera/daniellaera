@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
+<p>The only thing more frustrating than slanderers is those foolish enough to listen to them.</p>
 
-<p>- John Locke</p>
+<p>- Criss Jami</p>
