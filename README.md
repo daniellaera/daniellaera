@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lead the people, walk behind them.</p>
+<p>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</p>
 
-<p>- Lao Tzu</p>
+<p>- Brian Tracy</p>
