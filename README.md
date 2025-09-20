@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>Everyone is a moon, and has a dark side which he never shows to anybody.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Mark Twain</p>
