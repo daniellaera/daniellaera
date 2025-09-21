@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't hate the player. Change the game.</p>
+<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
 
-<p>- Steve Harvey</p>
+<p>- Virginia Woolf</p>
