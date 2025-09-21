@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
+<p>To lose your temper is only useful once a year.</p>
 
-<p>- Anne Frank</p>
+<p>- Colin R. Davis</p>
