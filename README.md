@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Jonathan Swift</p>
