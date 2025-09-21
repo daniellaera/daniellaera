@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The journey, not the destination matters.</p>
+<p>Adventure is worthwhile in itself.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Amelia Earhart</p>
