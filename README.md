@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the expression of one's values.</p>
+<p>You drown not by falling into a river, but by staying submerged in it.</p>
 
-<p>- Ayn Rand</p>
+<p>- Paulo Coelho</p>
