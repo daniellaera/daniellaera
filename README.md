@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter what you do, only how well you do it.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>- Dan Millman</p>
+<p>- Chinese Proverb</p>
