@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I will not walk backward in life.</p>
+<p>There is no greater agony than bearing an untold story inside you.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Maya Angelou</p>
