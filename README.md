@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
+<p>I will not walk backward in life.</p>
 
-<p>- Denis Waitley</p>
+<p>- J.R.R. Tolkien</p>
