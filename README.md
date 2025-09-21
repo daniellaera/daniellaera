@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
+<p>In the long run, the sharpest weapon of all is a kind and gentle spirit.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Anne Frank</p>
