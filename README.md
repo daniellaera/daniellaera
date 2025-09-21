@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enlightenment is intimacy with all things.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>- Dogen</p>
+<p>- Carlos Ruiz Zafon</p>
