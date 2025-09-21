@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are willing to believe anything other than the truth.</p>
+<p>We have more possibilities available in each moment than we realize.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Thich Nhat Hanh</p>
