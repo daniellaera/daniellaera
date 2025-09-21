@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</p>
+<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Aristophanes</p>
