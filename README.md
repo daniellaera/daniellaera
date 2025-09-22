@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Deepak Chopra</p>
