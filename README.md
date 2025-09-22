@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Celestine Chua</p>
