@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only limits in your life are those that you set yourself.</p>
+<p>When you want to be honored by others, you learn to honor them first.</p>
 
-<p>- Celestine Chua</p>
+<p>- Sathya Sai Baba</p>
