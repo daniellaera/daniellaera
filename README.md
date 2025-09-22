@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All that we see or seem is but a dream within a dream.</p>
+<p>Winning isn't everything, but wanting to win is.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Vince Lombardi</p>
