@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not a problem to be solved, but a reality to be experienced.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Unknown</p>
