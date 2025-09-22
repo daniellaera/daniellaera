@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Og Mandino</p>
