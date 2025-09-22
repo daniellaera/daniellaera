@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's more to life than being a passenger.</p>
+<p>Work for something because it is good, not just because it stands a chance to succeed.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Vaclav Havel</p>
