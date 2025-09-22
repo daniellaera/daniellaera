@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real meditation is how you live your life.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Beverly Sills</p>
