@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True wealth is of the heart, not of the purse.</p>
+<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
 
-<p>- Og Mandino</p>
+<p>- Robert Greene</p>
