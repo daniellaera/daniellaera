@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Leonardo da Vinci</p>
