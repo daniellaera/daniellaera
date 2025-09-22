@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants. There's no logic. </p>
+<p>Life is not a problem to be solved, but a reality to be experienced.</p>
 
-<p>- Woody Allen</p>
+<p>- Soren Kierkegaard</p>
