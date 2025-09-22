@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't everything, but wanting to win is.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>- Vince Lombardi</p>
+<p>- Woody Allen</p>
