@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you care about someone enough, you'll always be there for them no matter what.</p>
+<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Naval Ravikant</p>
