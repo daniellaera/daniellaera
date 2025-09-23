@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't make someone feel good about themselves until you feel good about yourself.</p>
+<p>Stop comparing yourself to others and focus on your own improvement.</p>
 
-<p>- Robin Sharma</p>
+<p>- Lolly Daskal</p>
