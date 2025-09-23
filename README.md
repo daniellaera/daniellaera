@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is rarely pure and never simple. </p>
+<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Alexander Pope</p>
