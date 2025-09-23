@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</p>
+<p>The purpose of life is the expansion of happiness.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Deepak Chopra</p>
