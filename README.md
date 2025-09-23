@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't climb the ladder of success with your hands in your pockets.</p>
+<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Jiddu Krishnamurti</p>
