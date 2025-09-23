@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is the expansion of happiness.</p>
+<p>Don't blame others. it won't make you a better person.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Lolly Daskal</p>
