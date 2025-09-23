@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Arnold Schwarzenegger</p>
