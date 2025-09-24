@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave enough to suck at something new.</p>
+<p>Act the way you want to be and soon you'll be the way you act.</p>
 
-<p>- Unknown</p>
+<p>- Les Brown</p>
