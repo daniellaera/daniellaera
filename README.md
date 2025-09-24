@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For the things we have to learn before we can do them, we learn by doing them.</p>
+<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
 
-<p>- Aristotle</p>
+<p>- Josh Waitzkin</p>
