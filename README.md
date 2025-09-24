@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can discover what your enemy fears most by observing the means he uses to frighten you.</p>
+<p>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Carlos Ruiz Zafon</p>
