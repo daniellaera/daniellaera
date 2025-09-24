@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The glow of one warm thought is to me worth more than money.</p>
+<p>For the things we have to learn before we can do them, we learn by doing them.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Aristotle</p>
