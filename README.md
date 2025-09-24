@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Thomas Jefferson</p>
