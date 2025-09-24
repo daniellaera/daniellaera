@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners are not people who never fail, but people who never quit.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Woody Allen</p>
