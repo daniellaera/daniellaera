@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the only real obstacle in your path to a fulfilling life.</p>
+<p>You cannot teach a crab to walk straight.</p>
 
-<p>- Les Brown</p>
+<p>- Aristophanes</p>
