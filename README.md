@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
+<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Criss Jami</p>
