@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>Realistic people do not accomplish extraordinary things.</p>
 
-<p>- Sun Tzu</p>
+<p>- John Eliot</p>
