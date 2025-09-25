@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Charles Dickens</p>
