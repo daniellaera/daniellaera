@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you praise and celebrate your life, the more there is in life to celebrate. </p>
+<p>In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Eric Hoffer</p>
