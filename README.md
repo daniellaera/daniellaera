@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</p>
+<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
 
-<p>- Pema Chodron</p>
+<p>- Huang Po</p>
