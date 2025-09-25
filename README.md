@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dream big. Start small. But most of all, start.</p>
+<p>Too many of us are not living our dreams because we are living our fears.</p>
 
-<p>- Simon Sinek</p>
+<p>- Les Brown</p>
