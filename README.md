@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must create our own world or we will die from inaction.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>- Robert Greene</p>
+<p>- Steve Jobs</p>
