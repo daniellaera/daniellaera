@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
+<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Sun Tzu</p>
