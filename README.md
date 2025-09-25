@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stumble over something that's behind you.</p>
+<p>To avoid criticism, do nothing, say nothing, and be nothing.</p>
 
-<p>- Steve Harvey</p>
+<p>- Elbert Hubbard</p>
