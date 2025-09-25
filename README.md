@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Too many of us are not living our dreams because we are living our fears.</p>
+<p>A fool sees himself as another, but a wise man sees others as himself.</p>
 
-<p>- Les Brown</p>
+<p>- Dogen</p>
