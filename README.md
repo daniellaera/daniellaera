@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>- Unknown</p>
+<p>- Maya Angelou</p>
