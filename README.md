@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Waste no more time arguing about what a good man should be. Be one.</p>
+<p>It does not matter how slowly you go so long as you do not stop.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Confucius</p>
