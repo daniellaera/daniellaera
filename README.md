@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
 
-<p>- Aristotle</p>
+<p>- Andrew Carnegie</p>
