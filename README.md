@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is bitter, but its fruit is sweet.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>- Aristotle</p>
+<p>- Winston Churchill</p>
