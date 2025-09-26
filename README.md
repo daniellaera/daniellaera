@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The farther backward you can look, the farther forward you are likely to see.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Winston Churchill</p>
+<p>- Unknown</p>
