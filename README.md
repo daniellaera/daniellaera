@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
+<p>Nothing important is learned; it is simply remembered.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Carlos Ruiz Zafon</p>
