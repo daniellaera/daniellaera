@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faults are yours to fix, not to curse.</p>
+<p>Life isn't about finding yourself. Life is about creating yourself.</p>
 
-<p>- Colin Powell</p>
+<p>- George Bernard Shaw</p>
