@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never close your lips to those whom you have already opened your heart.</p>
+<p>If you're not making mistakes, then you're not doing anything.</p>
 
-<p>- Charles Dickens</p>
+<p>- John Wooden</p>
