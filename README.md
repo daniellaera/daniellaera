@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to stand for what you believe in, even if that means standing alone.</p>
+<p>Your home is where your thoughts find peace.</p>
 
-<p>- Unknown</p>
+<p>- Zen Proverb</p>
