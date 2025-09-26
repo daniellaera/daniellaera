@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
+<p>Don't talk about what you have done or what you are going to do.</p>
 
-<p>- Maya Angelou</p>
+<p>- Thomas Jefferson</p>
