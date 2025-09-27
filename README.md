@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The score never interested me, only the game.</p>
+<p>None but ourselves can free our minds.</p>
 
-<p>- Mae West</p>
+<p>- Bob Marley</p>
