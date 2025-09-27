@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let your learning lead to knowledge. Let your learning lead to action.</p>
+<p>Turn your face to the sun, as flowers know how to do.</p>
 
-<p>- Jim Rohn</p>
+<p>- Ming-Dao Deng</p>
