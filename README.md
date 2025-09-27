@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be yourself; everyone else is already taken </p>
+<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Ralph Waldo Emerson</p>
