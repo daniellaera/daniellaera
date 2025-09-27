@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others have seen what is and asked why. I have seen what could be and asked why not</p>
+<p>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Lao Tzu</p>
