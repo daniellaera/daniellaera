@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The river that flows in you also flows in me.</p>
+<p>So we beat on, boats against the current, borne back ceaselessly into the past.</p>
 
-<p>- Kabir</p>
+<p>- F. Scott Fitzgerald</p>
