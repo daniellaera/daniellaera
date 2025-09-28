@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A crisis is an opportunity riding the dangerous wind.</p>
+<p>Success is often achieved by those who don't know that failure is inevitable.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Coco Chanel</p>
