@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heaven is right where you are standing.</p>
+<p>Desire for the fruits of work must never be your motive in working.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Bhagavad Gita</p>
