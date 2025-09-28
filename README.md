@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to carry a positive action, we must develop here a positive vision.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>- Dalai Lama</p>
+<p>- Eckhart Tolle</p>
