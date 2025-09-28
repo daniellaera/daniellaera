@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Desire for the fruits of work must never be your motive in working.</p>
+<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Plato</p>
