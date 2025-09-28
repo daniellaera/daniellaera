@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>Be fascinated instead of frustrated.</p>
 
-<p>- Woody Allen</p>
+<p>- Jim Rohn</p>
