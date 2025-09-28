@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be fascinated instead of frustrated.</p>
+<p>A crisis is an opportunity riding the dangerous wind.</p>
 
-<p>- Jim Rohn</p>
+<p>- Chinese Proverb</p>
