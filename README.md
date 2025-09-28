@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Nothing makes a man broad-minded like adversity.</p>
 
-<p>- Plato</p>
+<p>- Will Rogers</p>
