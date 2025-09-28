@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing makes a man broad-minded like adversity.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>- Will Rogers</p>
+<p>- Robert Kiyosaki</p>
