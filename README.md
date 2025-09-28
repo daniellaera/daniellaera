@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you give, the more comes back to you.</p>
+<p>Talent is luck. The important thing in life is courage.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Woody Allen</p>
