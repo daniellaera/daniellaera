@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is failure.</p>
+<p>Make improvements, not excuses. Seek respect, not attention.</p>
 
-<p>- Michael Jordan</p>
+<p>- Roy T. Bennett</p>
