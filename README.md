@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If fear is too strong, the genius is suppressed.</p>
+<p>One loses many laughs by not laughing at oneself.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Mary Engelbreit</p>
