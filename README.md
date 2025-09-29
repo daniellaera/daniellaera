@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Reality is the leading cause of stress among those in touch with it.</p>
+<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Richard Bach</p>
