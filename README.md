@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only when I fall do I get up again.</p>
+<p>Reality is the leading cause of stress among those in touch with it.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Lily Tomlin</p>
