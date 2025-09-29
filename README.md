@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
 
-<p>- Confucius</p>
+<p>- William Faulkner</p>
