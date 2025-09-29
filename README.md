@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A minute's success pays the failure of years.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>- Robert Browning</p>
+<p>- Pablo Picasso</p>
