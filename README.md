@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't go forward and backwards at the same time.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>- Steve Harvey</p>
+<p>- Confucius</p>
