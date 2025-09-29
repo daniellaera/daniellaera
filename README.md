@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>A Penny Saved is a Penny Earned</p>
 
-<p>- James Allen</p>
+<p>- Benjamin Franklin</p>
