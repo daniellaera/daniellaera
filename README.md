@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the caterpillar calls the end of the world, the master calls a butterfly.</p>
+<p>There are only encounters in history. There are no accidents.</p>
 
-<p>- Richard Bach</p>
+<p>- Pablo Picasso</p>
