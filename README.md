@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no such thing as a great talent without great willpower.</p>
+<p>You can't go forward and backwards at the same time.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Steve Harvey</p>
