@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wisdom of life consists in the elimination of the nonessentials.</p>
+<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
 
-<p>- Lin Yutang</p>
+<p>- James Matthew Barrie</p>
