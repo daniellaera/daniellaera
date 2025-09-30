@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The difference between impossible and possible is a willing heart.</p>
+<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Maya Angelou</p>
