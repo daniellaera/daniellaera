@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We should not look back unless it is to derive useful lessons from past errors.</p>
+<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
 
-<p>- George Washington</p>
+<p>- Bob Proctor</p>
