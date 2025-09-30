@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who bring sunshine into the lives of others cannot keep it from themselves.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Jim Rohn</p>
