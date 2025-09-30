@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every great change is preceded by chaos.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Arnold Schwarzenegger</p>
