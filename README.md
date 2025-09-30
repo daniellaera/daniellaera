@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to achieve greatness stop asking for permission.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Unknown</p>
+<p>- Morihei Ueshiba</p>
