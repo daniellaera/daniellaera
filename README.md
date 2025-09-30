@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Hans Christian Andersen</p>
