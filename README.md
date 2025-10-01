@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to fail in originality than to succeed in imitation.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Herman Melville</p>
+<p>- Yanni</p>
