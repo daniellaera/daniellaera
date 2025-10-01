@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is too important to be taken seriously.</p>
+<p>If what you're doing is not your passion, you have nothing to lose.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Celestine Chua</p>
