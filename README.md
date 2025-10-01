@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your purpose will be clear only when you listen to your heart.</p>
+<p>The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Stephen Hawking</p>
