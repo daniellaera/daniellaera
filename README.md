@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If what you're doing is not your passion, you have nothing to lose.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Celestine Chua</p>
+<p>- Leo Tolstoy</p>
