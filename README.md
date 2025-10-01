@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>- Bodhidharma</p>
+<p>- Samuel Butler</p>
