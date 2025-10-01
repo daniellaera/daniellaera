@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>Empty yourself of everything - let the mind become still.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Lao Tzu</p>
