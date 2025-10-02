@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</p>
+<p>Don't learn to do, but learn in doing.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Samuel Butler</p>
