@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's just a bad day, not a bad life.</p>
+<p>Do something to move yourself toward your major goal every day.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Brian Tracy</p>
