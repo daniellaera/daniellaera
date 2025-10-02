@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
+<p>Better the cottage where one is merry than the palace where one weeps.</p>
 
-<p>- Denis Waitley</p>
+<p>- Chinese Proverb</p>
