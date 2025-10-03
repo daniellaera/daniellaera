@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Against the assault of laughter nothing can stand.</p>
+<p>The most courageous act is still to think for yourself. Aloud.</p>
 
-<p>- Mark Twain</p>
+<p>- Coco Chanel</p>
