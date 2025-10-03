@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world makes way for the man who knows where he is going.</p>
+<p>Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Jeffrey Gitomer</p>
