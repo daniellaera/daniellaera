@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do the work you get rewarded. There are no shortcuts in life.</p>
+<p>One always begins to forgive a place as soon as it's left behind.</p>
 
-<p>- Michael Jordan</p>
+<p>- Charles Dickens</p>
