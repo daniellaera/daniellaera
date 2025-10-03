@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is not fatal, but failure to change might be.</p>
+<p>You may be one person in this world, but to one person you may mean the world.</p>
 
-<p>- John Wooden</p>
+<p>- Unknown</p>
