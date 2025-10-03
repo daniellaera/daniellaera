@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are far from the enemy, make him believe you are near.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>- Sun Tzu</p>
+<p>- Henry Ford</p>
