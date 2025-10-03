@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
+<p>If you are far from the enemy, make him believe you are near.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Sun Tzu</p>
