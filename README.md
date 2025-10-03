@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One always begins to forgive a place as soon as it's left behind.</p>
+<p>To live is to be willing to die over and over again.</p>
 
-<p>- Charles Dickens</p>
+<p>- Pema Chodron</p>
