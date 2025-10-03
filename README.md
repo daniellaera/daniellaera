@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a constant series of opportunities.</p>
+<p>A clear conscience never fears midnight knocking.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Chinese Proverb</p>
