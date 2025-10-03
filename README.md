@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be one person in this world, but to one person you may mean the world.</p>
+<p>You just can't beat the person who never gives up. </p>
 
-<p>- Unknown</p>
+<p>- Babe Ruth</p>
