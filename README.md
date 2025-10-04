@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intense love does not measure, it just gives.</p>
+<p>Don't allow your mind to tell your heart what to do. The mind gives up easily.</p>
 
-<p>- Mother Teresa</p>
+<p>- Paulo Coelho</p>
