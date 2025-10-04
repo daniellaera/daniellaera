@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.</p>
+<p>The future is no more uncertain than the present.</p>
 
-<p>- William Faulkner</p>
+<p>- Walt Whitman</p>
