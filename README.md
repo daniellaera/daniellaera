@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
+<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
 
-<p>- Estee Lauder</p>
+<p>- Bob Marley</p>
