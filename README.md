@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is no more uncertain than the present.</p>
+<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
 
-<p>- Walt Whitman</p>
+<p>- Eleanor Roosevelt</p>
