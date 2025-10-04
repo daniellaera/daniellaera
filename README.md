@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</p>
 
-<p>- David Brinkley</p>
+<p>- Bob Marley</p>
