@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather die on my feet than live on my knees.</p>
+<p>The most effective way to do it, is to do it.</p>
 
-<p>- Euripides</p>
+<p>- Amelia Earhart</p>
