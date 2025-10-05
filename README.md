@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
 
-<p>- Henry Ford</p>
+<p>- Earl Nightingale</p>
