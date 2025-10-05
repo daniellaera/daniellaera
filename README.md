@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</p>
+<p>Either you choose to stay in the shallow end of the pool or you go out into the ocean.</p>
 
-<p>- Kabir</p>
+<p>- Christopher Reeve</p>
