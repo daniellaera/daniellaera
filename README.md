@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>When it is dark enough, you can see the stars.</p>
 
-<p>- Sun Tzu</p>
+<p>- Ralph Waldo Emerson</p>
