@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
+<p>One of the advantages of being disorganized is that one is always having surprising discoveries.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- A.A. Milne</p>
