@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Lying can never save us from another lie.</p>
+<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Franklin D. Roosevelt</p>
