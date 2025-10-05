@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A memory is a beautiful thing, it's almost a desire that you miss.</p>
+<p>Sadness is but a wall between two gardens.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Kahlil Gibran</p>
