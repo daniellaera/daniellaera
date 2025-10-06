@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are more people who wish to be loved than there are who are willing to love. </p>
+<p>To every action there is always opposed an equal reaction.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Isaac Newton</p>
