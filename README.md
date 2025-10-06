@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>Never put off to tomorrow what you can do to-day.</p>
 
-<p>- Jim Rohn</p>
+<p>- Thomas Jefferson</p>
