@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Creative endeavors are by their nature uncertain.</p>
+<p>The less you try to impress, the more peaceful you can be.</p>
 
-<p>- Robert Greene</p>
+<p>- Maxime Lagace</p>
