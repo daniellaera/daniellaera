@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enlightenment is intimacy with all things.</p>
+<p>Creative endeavors are by their nature uncertain.</p>
 
-<p>- Dogen</p>
+<p>- Robert Greene</p>
