@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
+<p>There are more people who wish to be loved than there are who are willing to love. </p>
 
-<p>- D. H. Lawrence</p>
+<p>- Nicolas Chamfort</p>
