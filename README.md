@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wheresoever you go, go with all your heart.</p>
+<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
 
-<p>- Confucius</p>
+<p>- Gustave Flaubert</p>
