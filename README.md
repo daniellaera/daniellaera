@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.</p>
+<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
 
-<p>- Conrad Hilton</p>
+<p>- Audrey Hepburn</p>
