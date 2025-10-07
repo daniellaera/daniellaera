@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where does a thought go when it's forgotten?</p>
+<p>Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Earl Nightingale</p>
