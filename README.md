@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>- Gustave Flaubert</p>
+<p>- Estee Lauder</p>
