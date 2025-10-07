@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let not your mind run on what you lack as much as on what you have already.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Sigmund Freud</p>
