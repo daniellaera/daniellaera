@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only he who has no use for the empire is fit to be entrusted with it.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>- Zhuangzi</p>
+<p>- Euripides</p>
