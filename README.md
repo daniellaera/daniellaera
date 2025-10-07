@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The worst part of success is trying to find someone who is happy for you.</p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>- Bette Midler</p>
+<p>- Jack London</p>
