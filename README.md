@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realize deeply that the present moment is all you ever have. </p>
+<p>Only he who has no use for the empire is fit to be entrusted with it.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Zhuangzi</p>
