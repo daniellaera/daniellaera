@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The purpose of life is the life of purpose.</p>
+<p>Life must be a constant education; one must learn everything, from speaking to dying.</p>
 
-<p>- Robin Sharma</p>
+<p>- Gustave Flaubert</p>
