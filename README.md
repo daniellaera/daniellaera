@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>The purpose of life is the life of purpose.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Robin Sharma</p>
