@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>In order to attain the impossible, one must attempt the absurd.</p>
 
-<p>- Estee Lauder</p>
+<p>- Miguel de Cervantes</p>
