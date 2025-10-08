@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- John Eliot</p>
