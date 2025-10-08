@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The final mystery is oneself.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Unknown</p>
