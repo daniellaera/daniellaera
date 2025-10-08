@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>- Winston Churchill</p>
+<p>- D. H. Lawrence</p>
