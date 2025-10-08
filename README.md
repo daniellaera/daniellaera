@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to be walked over, you have to be lying down.</p>
+<p>The final mystery is oneself.</p>
 
-<p>- Celestine Chua</p>
+<p>- Oscar Wilde</p>
