@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Aristotle</p>
+<p>- Celestine Chua</p>
