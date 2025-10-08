@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Kahlil Gibran</p>
