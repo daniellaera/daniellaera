@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, accept. If you want suffering, expect.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Elon Musk</p>
