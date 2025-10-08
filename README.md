@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot have a positive life and a negative mind.</p>
+<p>From the errors of others, a wise man corrects his own.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Publilius Syrus</p>
