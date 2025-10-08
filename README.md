@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aim at nothing, you will hit it every time.  </p>
+<p>We become brave by doing brave acts.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Aristotle</p>
