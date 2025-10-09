@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a big difference between being centered and being self-centered.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Albert Einstein</p>
