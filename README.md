@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must be free not because we claim freedom, but because we practice it.</p>
+<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
 
-<p>- William Faulkner</p>
+<p>- Dan Millman</p>
