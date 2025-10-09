@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
+<p>When one door closes another door opens. </p>
 
-<p>- Kahlil Gibran</p>
+<p>- Alexander Graham Bell</p>
