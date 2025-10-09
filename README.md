@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
+<p>Growing up is losing some illusions, in order to acquire others.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Virginia Woolf</p>
