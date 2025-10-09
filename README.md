@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let your mind stop you.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>- Steve Harvey</p>
+<p>- Sathya Sai Baba</p>
