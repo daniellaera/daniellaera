@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
+<p>Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</p>
 
-<p>- Dan Millman</p>
+<p>- Steve Harvey</p>
