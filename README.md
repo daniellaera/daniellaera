@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When one door closes another door opens. </p>
+<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Sathya Sai Baba</p>
