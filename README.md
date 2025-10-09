@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>In spite of everything, I shall rise again.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Vincent van Gogh</p>
