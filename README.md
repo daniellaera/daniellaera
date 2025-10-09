@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.</p>
+<p>There is a big difference between being centered and being self-centered.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Lolly Daskal</p>
