@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Growing up is losing some illusions, in order to acquire others.</p>
+<p>Don't let your mind stop you.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Steve Harvey</p>
