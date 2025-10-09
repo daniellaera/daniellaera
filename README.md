@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>Yesterday is but today's memory, tomorrow is today's dream.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Kahlil Gibran</p>
