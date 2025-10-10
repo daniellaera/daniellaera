@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
+<p>It's always to soon to quit!</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Norman Vincent Peale</p>
