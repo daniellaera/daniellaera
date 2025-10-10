@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be confident, not certain.</p>
+<p>The significance of life is living.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Jiddu Krishnamurti</p>
