@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
+<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Elbert Hubbard</p>
