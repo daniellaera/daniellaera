@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
+<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Leo Tolstoy</p>
