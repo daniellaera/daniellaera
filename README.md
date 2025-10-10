@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Ronald Reagan</p>
+<p>- J.R.R. Tolkien</p>
