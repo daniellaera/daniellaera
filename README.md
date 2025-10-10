@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress lies not in enhancing what is, but in advancing toward what will be.</p>
+<p>We are all here for some special reason.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Robin Sharma</p>
