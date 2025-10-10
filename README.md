@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only lose something that you have, but you cannot lose something that you are.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Ronald Reagan</p>
