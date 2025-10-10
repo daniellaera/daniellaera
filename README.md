@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all here for some special reason.</p>
+<p>It is often safer to be in chains than to be free. </p>
 
-<p>- Robin Sharma</p>
+<p>- Franz Kafka</p>
