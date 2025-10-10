@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is often safer to be in chains than to be free. </p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>- Franz Kafka</p>
+<p>- Kamal Ravikant</p>
