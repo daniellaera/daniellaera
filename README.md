@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in the darkness that one finds the light.</p>
+<p>Opportunity comes when you continually push forward.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Sonia Ricotti</p>
