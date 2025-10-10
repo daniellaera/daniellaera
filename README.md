@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>None but ourselves can free our minds.</p>
+<p>Be confident, not certain.</p>
 
-<p>- Bob Marley</p>
+<p>- Eleanor Roosevelt</p>
