@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>The best thing to hold onto in life is each other.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Audrey Hepburn</p>
