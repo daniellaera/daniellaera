@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunity comes when you continually push forward.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Steve Maraboli</p>
