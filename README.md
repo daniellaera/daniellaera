@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The significance of life is living.</p>
+<p>There are no limitations to the mind except those we acknowledge...</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Napoleon Hill</p>
