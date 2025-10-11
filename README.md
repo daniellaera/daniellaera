@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>Knowing yourself is the beginning of all wisdom.</p>
 
-<p>- Kabir</p>
+<p>- Aristotle</p>
