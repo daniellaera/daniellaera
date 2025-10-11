@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing yourself is the beginning of all wisdom.</p>
+<p>I know of only one duty, and that is to love.</p>
 
-<p>- Aristotle</p>
+<p>- George Bernard Shaw</p>
