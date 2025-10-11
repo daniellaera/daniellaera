@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is born deaf and dumb.</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Stephen King</p>
