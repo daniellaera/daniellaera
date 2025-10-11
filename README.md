@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Mark Twain</p>
