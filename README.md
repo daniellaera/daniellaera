@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the touchstones of our characters.</p>
+<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
 
 <p>- Henry David Thoreau</p>
