@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Rumi</p>
