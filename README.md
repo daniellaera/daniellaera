@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life does not get better by chance, it gets better by change.</p>
+<p>Do what is right, not what is easy, nor what is popular.</p>
 
-<p>- Jim Rohn</p>
+<p>- Roy T. Bennett</p>
