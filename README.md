@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder the conflict, the greater the triumph. </p>
+<p>Dreams are the touchstones of our characters.</p>
 
-<p>- George Washington</p>
+<p>- Henry David Thoreau</p>
