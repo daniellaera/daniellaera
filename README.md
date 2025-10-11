@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know of only one duty, and that is to love.</p>
+<p>Life does not get better by chance, it gets better by change.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Jim Rohn</p>
