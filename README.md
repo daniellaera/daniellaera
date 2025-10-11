@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judge a man by his questions rather than his answers.</p>
+<p>Always forgive your enemies - nothing annoys them so much. </p>
 
-<p>- Voltaire</p>
+<p>- Oscar Wilde</p>
