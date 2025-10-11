@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>For changes to be of any true value, they've got to be lasting and consistent.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Tony Robbins</p>
