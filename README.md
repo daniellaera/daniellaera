@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Alexander Pope</p>
