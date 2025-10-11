@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Og Mandino</p>
+<p>- Oscar Wilde</p>
