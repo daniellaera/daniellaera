@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- Bob Proctor</p>
+<p>- Honore de Balzac</p>
