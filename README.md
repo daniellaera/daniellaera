@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All cruelty springs from weakness.  </p>
+<p>In order to be irreplaceable one must always be different.</p>
 
-<p>- Seneca</p>
+<p>- Coco Chanel</p>
