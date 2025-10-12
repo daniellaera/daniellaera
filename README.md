@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Seungsahn</p>
