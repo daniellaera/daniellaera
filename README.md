@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rewards and punishment is the lowest form of education.</p>
+<p>All cruelty springs from weakness.  </p>
 
-<p>- Zhuangzi</p>
+<p>- Seneca</p>
