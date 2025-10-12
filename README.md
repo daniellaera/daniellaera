@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.</p>
 
-<p>- Lao Tzu</p>
+<p>- Ming-Dao Deng</p>
