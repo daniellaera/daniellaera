@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Kabir</p>
+<p>- Elon Musk</p>
