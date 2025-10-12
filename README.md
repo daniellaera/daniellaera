@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Lao Tzu</p>
