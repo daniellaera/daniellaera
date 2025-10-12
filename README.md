@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to be looked over than overlooked.</p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>- Mae West</p>
+<p>- Henry David Thoreau</p>
