@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thought is so cunning, so clever, that it distorts everything for its own convenience.</p>
+<p>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Jon Kabat-Zinn</p>
