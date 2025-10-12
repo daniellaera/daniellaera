@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>Never buy a thing you do not want, because it is cheap, it will be dear to you.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Thomas Jefferson</p>
