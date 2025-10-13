@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By changing nothing, nothing changes.</p>
+<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
 
-<p>- Celestine Chua</p>
+<p>- Mother Teresa</p>
