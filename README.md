@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe yourself to be.</p>
+<p>Success on the outside means nothing unless you also have success within.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Robin Sharma</p>
