@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>Don't worry about being successful, but work toward being significant and the success will naturally follow.</p>
 
-<p>- Walt Whitman</p>
+<p>- Oprah Winfrey</p>
