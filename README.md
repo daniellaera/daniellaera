@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Chinese Proverb</p>
