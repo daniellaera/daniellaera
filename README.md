@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success on the outside means nothing unless you also have success within.</p>
+<p>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</p>
 
-<p>- Robin Sharma</p>
+<p>- Brian Tracy</p>
