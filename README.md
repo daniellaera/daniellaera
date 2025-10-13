@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you get up one more time than you fall, you will make it through.</p>
+<p>The longer we dwell on our misfortunes, the greater is their power to harm us.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Voltaire</p>
