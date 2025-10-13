@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools resist. The wise embrace.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Benjamin Franklin</p>
