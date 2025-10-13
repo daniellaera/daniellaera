@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever is begun in anger, ends in shame.</p>
+<p>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </p>
 
-<p>- Benjamin Franklin</p>
+<p>- Jack Kerouac</p>
