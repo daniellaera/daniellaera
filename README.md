@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If everyone is moving forward together, then success takes care of itself.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Henry Ford</p>
+<p>- Orison Swett Marden</p>
