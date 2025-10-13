@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kind words can be short and easy to speak, but their echoes are truly endless.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </p>
 
-<p>- Mother Teresa</p>
+<p>- Paramahansa Yogananda</p>
