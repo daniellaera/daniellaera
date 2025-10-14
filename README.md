@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>- Bob Dylan</p>
+<p>- Huang Po</p>
