@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Virginia Woolf</p>
