@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is bitter, but its fruit is sweet.</p>
+<p>The art of being happy lies in the power of extracting happiness from common things.</p>
 
-<p>- Aristotle</p>
+<p>- Henry Ward Beecher</p>
