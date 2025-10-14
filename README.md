@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goals are the fuel in the furnace of achievement.</p>
+<p>All great truths begin as blasphemies.</p>
 
-<p>- Brian Tracy</p>
+<p>- George Bernard Shaw</p>
