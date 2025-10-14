@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The giving of love is an education in itself.</p>
+<p>Goals are the fuel in the furnace of achievement.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Brian Tracy</p>
