@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
 
-<p>- Samuel Butler</p>
+<p>- Zig Ziglar</p>
