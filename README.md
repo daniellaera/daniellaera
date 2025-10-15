@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself with only people who are going to lift you higher. </p>
+<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
 
-<p>- Oprah Winfrey</p>
+<p>- Albert Einstein</p>
