@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything becomes interesting if you look at it long enough..</p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Mae West</p>
