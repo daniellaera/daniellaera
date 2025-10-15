@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>- Albert Einstein</p>
+<p>- Vincent van Gogh</p>
