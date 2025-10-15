@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>The best dreams happen when you're awake.</p>
 
-<p>- Albert Einstein</p>
+<p>- Cherie Gilderbloom</p>
