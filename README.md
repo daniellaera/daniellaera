@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>May you find grace as you surrender to life. May you find happiness, as you stop seeking it.</p>
+<p>Nothing will work unless you do.</p>
 
-<p>- Dan Millman</p>
+<p>- Maya Angelou</p>
