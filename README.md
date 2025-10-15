@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A golden cage is still just a cage.</p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Charles Dickens</p>
