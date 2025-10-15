@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>A golden cage is still just a cage.</p>
 
-<p>- James Allen</p>
+<p>- Anita Krizzan</p>
