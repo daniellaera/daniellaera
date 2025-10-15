@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of business; treat others like they want to treat you.</p>
+<p>The biggest room in the world is the room for improvement.</p>
 
-<p>- Charles Dickens</p>
+<p>- Unknown</p>
