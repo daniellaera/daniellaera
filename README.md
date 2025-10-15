@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing will work unless you do.</p>
+<p>Surround yourself with only people who are going to lift you higher. </p>
 
-<p>- Maya Angelou</p>
+<p>- Oprah Winfrey</p>
