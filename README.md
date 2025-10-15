@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we have the less we own.</p>
+<p>He who can, does.</p>
 
-<p>- Meister Eckhart</p>
+<p>- George Bernard Shaw</p>
