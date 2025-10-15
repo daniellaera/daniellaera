@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who are possessed by nothing possess everything.</p>
+<p>Time stays long enough for anyone who will use it.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Leonardo da Vinci</p>
