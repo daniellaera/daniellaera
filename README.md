@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no greater agony than bearing an untold story inside you.</p>
+<p>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </p>
 
-<p>- Maya Angelou</p>
+<p>- Buddha</p>
