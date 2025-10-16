@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Dan Brown</p>
