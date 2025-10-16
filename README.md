@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
 
-<p>- Henry Ford</p>
+<p>- Samuel Beckett</p>
