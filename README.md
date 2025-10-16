@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who never made a mistake never tried anything new.</p>
+<p>Dream big. Start small. But most of all, start.</p>
 
-<p>- Albert Einstein</p>
+<p>- Simon Sinek</p>
