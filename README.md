@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </p>
+<p>The first rule of business; treat others like they want to treat you.</p>
 
-<p>- Buddha</p>
+<p>- Charles Dickens</p>
