@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life and the simple beauty of it is too good to pass up.</p>
+<p>Nothing is hopeless; we must hope for everything.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Euripides</p>
