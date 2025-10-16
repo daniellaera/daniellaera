@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>Life and the simple beauty of it is too good to pass up.</p>
 
-<p>- Pema Chodron</p>
+<p>- Christopher McCandless</p>
