@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Judy Garland</p>
