@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</p>
+<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Morihei Ueshiba</p>
