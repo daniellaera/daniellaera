@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
+<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
 
-<p>- Samuel Beckett</p>
+<p>- John Locke</p>
