@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your wounds into wisdom. </p>
+<p>The person who never made a mistake never tried anything new.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Albert Einstein</p>
