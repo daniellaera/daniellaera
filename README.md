@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Judy Garland</p>
