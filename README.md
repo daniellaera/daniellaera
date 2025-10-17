@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to dance than to march through life.</p>
+<p>To forget the whole world is easy; to make the whole world forget you is hard.</p>
 
-<p>- Yoko Ono</p>
+<p>- Zhuangzi</p>
