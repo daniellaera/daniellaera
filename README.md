@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not believe that you will reach your destination without leaving the shore. </p>
+<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
 
-<p>- Chinese Proverb</p>
+<p>- Estee Lauder</p>
