@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not just the passing of time. Life is the collection of experiences and their intensity.</p>
+<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
 
-<p>- Jim Rohn</p>
+<p>- Anita Krizzan</p>
