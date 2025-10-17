@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Tony Robbins</p>
+<p>- Henry Ward Beecher</p>
