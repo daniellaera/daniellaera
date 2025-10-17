@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</p>
+<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Ayn Rand</p>
