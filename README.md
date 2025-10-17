@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
+<p>He who can, does.</p>
 
-<p>- Judy Garland</p>
+<p>- George Bernard Shaw</p>
