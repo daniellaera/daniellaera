@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>A wise man can learn more from a foolish question than a fool can learn from a wise answer.  </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Bruce Lee</p>
