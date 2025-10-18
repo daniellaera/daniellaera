@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
+<p>It's better to dance than to march through life.</p>
 
-<p>- Estee Lauder</p>
+<p>- Yoko Ono</p>
