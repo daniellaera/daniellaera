@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
+<p>Never allow a person to tell you no who doesn't have the power to say yes.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Eleanor Roosevelt</p>
