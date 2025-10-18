@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is a source of great strength.</p>
+<p>One of the first signs of the beginning of understanding is the wish to die. </p>
 
-<p>- Lao Tzu</p>
+<p>- Franz Kafka</p>
