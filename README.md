@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't let your failures define you. You have to let your failures teach you.</p>
+<p>Peaceful is the one who expects nothing.</p>
 
-<p>- Barack Obama</p>
+<p>- Maxime Lagace</p>
