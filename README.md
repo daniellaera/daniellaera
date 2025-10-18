@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Chase your passion, not your pension. </p>
+<p>Success on the outside means nothing unless you also have success within.</p>
 
-<p>- Denis Waitley</p>
+<p>- Robin Sharma</p>
