@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
+<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
 
-<p>- Jim Rohn</p>
+<p>- George Bernard Shaw</p>
