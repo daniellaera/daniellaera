@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk does not cook rice.</p>
+<p>Where violence reigns, reason is weak.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Nicolas Chamfort</p>
