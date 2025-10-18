@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
+<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
 
-<p>- James Cameron</p>
+<p>- Jim Rohn</p>
