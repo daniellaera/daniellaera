@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
+<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Franklin D. Roosevelt</p>
