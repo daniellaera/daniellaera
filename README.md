@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to achieve greatness stop asking for permission.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>- Unknown</p>
+<p>- Carl Jung</p>
