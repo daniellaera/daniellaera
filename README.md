@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without complaint, Work with fate.</p>
+<p>There are people who have money and people who are rich.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Coco Chanel</p>
