@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are people who have money and people who are rich.</p>
+<p>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</p>
 
-<p>- Coco Chanel</p>
+<p>- Nicolas Chamfort</p>
