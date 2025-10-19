@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</p>
+<p>Courage is the price that life exacts for granting peace.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Amelia Earhart</p>
