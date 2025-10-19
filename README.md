@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To some degree, you control your life by controlling your time.</p>
+<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Ralph Waldo Emerson</p>
