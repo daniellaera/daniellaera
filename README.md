@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
 
-<p>- Og Mandino</p>
+<p>- Sydney Smith</p>
