@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is the price that life exacts for granting peace.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Robert Kiyosaki</p>
