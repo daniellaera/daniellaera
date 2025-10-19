@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men are equal before fish.</p>
+<p>The secret of change is to focus all your energy not on fighting the old, but on building the new.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Dan Millman</p>
