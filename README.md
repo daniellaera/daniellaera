@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He that can have patience can have what he will.</p>
+<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- C. Sean McGee</p>
