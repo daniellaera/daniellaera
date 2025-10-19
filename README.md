@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Abraham Lincoln</p>
