@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man can get rich himself unless he enriches others.</p>
+<p>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Henry Ward Beecher</p>
