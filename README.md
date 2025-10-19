@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
+<p>Today I begin a new life. I will greet this day with love in my heart.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Og Mandino</p>
