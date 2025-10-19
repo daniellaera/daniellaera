@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</p>
+<p>To some degree, you control your life by controlling your time.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Conrad Hilton</p>
