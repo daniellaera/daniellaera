@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to be looked over than overlooked.</p>
+<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
 
-<p>- Mae West</p>
+<p>- Carlos Ruiz Zafon</p>
