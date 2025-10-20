@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Things turn out best for the people who make the best of the way things turn out.</p>
+<p>Not engaging in ignorance is wisdom. </p>
 
-<p>- John Wooden</p>
+<p>- Bodhidharma</p>
