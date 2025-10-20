@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
+<p>Begin at once to live, and count each separate day as a separate life.  </p>
 
-<p>- John Wooden</p>
+<p>- Seneca</p>
