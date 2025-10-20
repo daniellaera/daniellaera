@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>- Rumi</p>
+<p>- Virginia Woolf</p>
