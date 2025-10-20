@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not engaging in ignorance is wisdom. </p>
+<p>Peace begins with a smile.</p>
 
-<p>- Bodhidharma</p>
+<p>- Mother Teresa</p>
