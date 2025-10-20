@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One is never afraid of the unknown; one is afraid of the known coming to an end.</p>
+<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Dr. Seuss</p>
