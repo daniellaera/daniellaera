@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace begins with a smile.</p>
+<p>The worst part of success is trying to find someone who is happy for you.</p>
 
-<p>- Mother Teresa</p>
+<p>- Bette Midler</p>
