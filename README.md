@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- G.I. Gurdjieff</p>
