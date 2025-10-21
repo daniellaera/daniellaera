@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There's no coming to consciousness without pain</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Carl Jung</p>
+<p>- Denis Waitley</p>
