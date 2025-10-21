@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we dwell on is who we become.</p>
+<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Roy T. Bennett</p>
