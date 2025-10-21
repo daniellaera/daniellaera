@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</p>
+<p>He who has overcome his fears will truly be free.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Aristotle</p>
