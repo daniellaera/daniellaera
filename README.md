@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honor is the foundation of courage.</p>
+<p>What we dwell on is who we become.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Oprah Winfrey</p>
