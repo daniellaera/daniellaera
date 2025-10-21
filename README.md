@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>- Denis Waitley</p>
+<p>- Unknown</p>
