@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who has overcome his fears will truly be free.</p>
+<p>There's no coming to consciousness without pain</p>
 
-<p>- Aristotle</p>
+<p>- Carl Jung</p>
