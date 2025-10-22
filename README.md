@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
+<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
 
-<p>- Walt Whitman</p>
+<p>- Steve Maraboli</p>
