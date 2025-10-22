@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>If you don't program yourself, life will program you.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Les Brown</p>
