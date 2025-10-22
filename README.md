@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't program yourself, life will program you.</p>
+<p>To do two things at once is to do neither.</p>
 
-<p>- Les Brown</p>
+<p>- Publilius Syrus</p>
