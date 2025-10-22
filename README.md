@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</p>
 
-<p>- Albert Einstein</p>
+<p>- Marcus Aurelius</p>
