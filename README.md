@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
+<p>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Eckhart Tolle</p>
