@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Dalai Lama</p>
