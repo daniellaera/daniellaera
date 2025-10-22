@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are motivated by Love, The more Fearless & Free your action will be.</p>
+<p>Have a vision. Be demanding.</p>
 
-<p>- Dalai Lama</p>
+<p>- Colin Powell</p>
