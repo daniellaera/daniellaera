@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.</p>
 
-<p>- Aristotle</p>
+<p>- Charles Dickens</p>
