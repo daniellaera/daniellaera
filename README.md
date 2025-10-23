@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more something scares you, the more you should do it.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>- Mark Manson</p>
+<p>- Anne Frank</p>
