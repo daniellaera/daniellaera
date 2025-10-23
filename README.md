@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The act of taking the first step is what separates the winners from the losers.</p>
+<p>To accomplish big things, I am convinced you must first dream big dreams.</p>
 
-<p>- Brian Tracy</p>
+<p>- Conrad Hilton</p>
