@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything has beauty but not everyone sees it.</p>
+<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
 
-<p>- Confucius</p>
+<p>- Aristotle</p>
