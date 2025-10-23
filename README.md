@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
+<p>There are more people who wish to be loved than there are who are willing to love. </p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Nicolas Chamfort</p>
