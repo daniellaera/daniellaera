@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Zhuangzi</p>
