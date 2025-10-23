@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where your talents and the needs of the world cross, there lies your vocation.</p>
+<p>A crisis is an opportunity riding the dangerous wind.</p>
 
-<p>- Aristotle</p>
+<p>- Chinese Proverb</p>
