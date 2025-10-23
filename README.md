@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't waste time on excuses. Just get it done.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Ralph Marston</p>
+<p>- Gary Keller</p>
