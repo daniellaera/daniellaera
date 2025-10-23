@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Heraclitus</p>
+<p>- Eckhart Tolle</p>
