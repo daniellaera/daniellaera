@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's your outlook on life that counts.</p>
+<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
 
-<p>- Betty White</p>
+<p>- Confucius</p>
