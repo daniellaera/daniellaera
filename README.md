@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>It's your outlook on life that counts.</p>
 
-<p>- Zen Proverb</p>
+<p>- Betty White</p>
