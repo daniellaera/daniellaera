@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get, the better you get. Unless you're a banana.</p>
+<p>It is never too late to be what you might have been.</p>
 
-<p>- Betty White</p>
+<p>- George Eliot</p>
