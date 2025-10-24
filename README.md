@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Laziness may appear attractive, but work gives satisfaction.</p>
+<p>Always turn a negative situation into a positive situation.</p>
 
-<p>- Anne Frank</p>
+<p>- Michael Jordan</p>
