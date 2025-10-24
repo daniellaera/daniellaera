@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either get busy living or get busy dying.</p>
+<p>Laziness may appear attractive, but work gives satisfaction.</p>
 
-<p>- Stephen King</p>
+<p>- Anne Frank</p>
