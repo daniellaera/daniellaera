@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>High thoughts must have high language.</p>
+<p>Attitude, not aptitude, determines altitude.  </p>
 
-<p>- Aristophanes</p>
+<p>- Zig Ziglar</p>
