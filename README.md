@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always turn a negative situation into a positive situation.</p>
+<p>There are no second chances in life, except to feel remorse.</p>
 
-<p>- Michael Jordan</p>
+<p>- Carlos Ruiz Zafon</p>
