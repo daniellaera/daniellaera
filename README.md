@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
 
-<p>- Dalai Lama</p>
+<p>- Celestine Chua</p>
