@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is never too late to be what you might have been.</p>
+<p>Stop being tormented by everyone else's reaction to you.</p>
 
-<p>- George Eliot</p>
+<p>- Joyce Meyer</p>
