@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Lin Yutang</p>
