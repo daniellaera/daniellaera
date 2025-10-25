@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Socrates</p>
