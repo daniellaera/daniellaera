@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world doesn't always give you want, but it often gives you what you need.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Andrew Carnegie</p>
