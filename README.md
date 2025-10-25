@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There can be no deep disappointment where there is not deep love.</p>
+<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Napoleon Hill</p>
