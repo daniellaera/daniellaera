@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
+<p>Who wishes to fight must first count the cost.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Sun Tzu</p>
