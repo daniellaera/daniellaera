@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't climb the ladder of success with your hands in your pockets.</p>
+<p>There is no value in anything until it is finished. </p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Genghis Khan</p>
