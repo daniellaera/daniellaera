@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
+<p>The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.</p>
 
-<p>- Carl Jung</p>
+<p>- George Bernard Shaw</p>
