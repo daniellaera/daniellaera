@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A very little key will open a very heavy door.</p>
+<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
 
-<p>- Charles Dickens</p>
+<p>- Carl Jung</p>
