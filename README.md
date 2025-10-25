@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who wishes to fight must first count the cost.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Sun Tzu</p>
+<p>- Charles Dickens</p>
