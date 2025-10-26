@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Well done is better than well said.</p>
+<p>Live simply, expect little, give much.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Norman Vincent Peale</p>
