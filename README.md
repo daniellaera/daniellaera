@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>- Rumi</p>
+<p>- Herodotus</p>
