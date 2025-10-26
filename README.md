@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people feel the rain. Others just get wet. </p>
+<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
 
-<p>- Bob Dylan</p>
+<p>- Soyen Shaku</p>
