@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
 
-<p>- Tony Robbins</p>
+<p>- Henry David Thoreau</p>
