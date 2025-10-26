@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have the fearless attitude of a hero and the loving heart of a child.</p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>- Soyen Shaku</p>
+<p>- Tony Robbins</p>
