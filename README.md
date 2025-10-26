@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will not do incredible things without an incredible dream.</p>
+<p>The key to success is failure.</p>
 
-<p>- John Eliot</p>
+<p>- Michael Jordan</p>
