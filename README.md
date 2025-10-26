@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no value in anything until it is finished. </p>
+<p>If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.</p>
 
-<p>- Genghis Khan</p>
+<p>- Maxime Lagace</p>
