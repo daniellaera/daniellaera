@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live simply, expect little, give much.</p>
+<p>What you resist, persists.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Carl Jung</p>
