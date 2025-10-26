@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>Well done is better than well said.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Benjamin Franklin</p>
