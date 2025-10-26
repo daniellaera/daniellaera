@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.</p>
+<p>If you truly love Nature, you will find beauty everywhere. </p>
 
-<p>- Kamal Ravikant</p>
+<p>- Vincent van Gogh</p>
