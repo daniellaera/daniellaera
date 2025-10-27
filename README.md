@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is what you make it. Always has been, always will be.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Henry Ward Beecher</p>
