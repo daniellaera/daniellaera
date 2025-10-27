@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
+<p>What do we live for if not to make life less difficult for each other?</p>
 
-<p>- Brian Tracy</p>
+<p>- T.S. Eliot</p>
