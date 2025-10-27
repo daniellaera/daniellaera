@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
+<p>Do Something. If it works, do more of it. If it doesn't, do something else.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Franklin D. Roosevelt</p>
