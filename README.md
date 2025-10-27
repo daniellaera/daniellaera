@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
+<p>When you are able to employ your will always for constructive purposes, you become the controller of your destiny.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Paramahansa Yogananda</p>
