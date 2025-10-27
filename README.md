@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
 
-<p>- Amelia Earhart</p>
+<p>- D. H. Lawrence</p>
