@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, so shall you become. </p>
+<p>Every man desires to live long, but no man wishes to be old.</p>
 
-<p>- Bruce Lee</p>
+<p>- Jonathan Swift</p>
