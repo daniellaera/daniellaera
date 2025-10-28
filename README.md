@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Brian Tracy</p>
