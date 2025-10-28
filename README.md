@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the sky. Everything else - it's just the weather.</p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>- Pema Chodron</p>
+<p>- Steve Maraboli</p>
