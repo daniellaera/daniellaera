@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>If you don't know where you're going, you will probably end up somewhere else.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Laurence J. Peter</p>
