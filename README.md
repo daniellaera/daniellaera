@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling but in rising every time we fall.</p>
+<p>The businessman's tool is value.</p>
 
-<p>- Confucius</p>
+<p>- Ayn Rand</p>
