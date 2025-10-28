@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust, like the soul, never returns once it is gone.</p>
+<p>It is those who concentrate on but one thing at a time who advance in this world.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Gary Keller</p>
