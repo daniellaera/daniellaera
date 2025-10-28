@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</p>
+<p>Pursue what catches your heart, not what catches your eyes.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Roy T. Bennett</p>
