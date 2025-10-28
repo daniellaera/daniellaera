@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
+<p>Trust, like the soul, never returns once it is gone.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Publilius Syrus</p>
