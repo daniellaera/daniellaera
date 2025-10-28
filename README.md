@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Action is the foundational key to all success.</p>
+<p>Throw me to the wolves and I will return leading the pack.  </p>
 
-<p>- Pablo Picasso</p>
+<p>- Seneca</p>
