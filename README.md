@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know where you're going, you will probably end up somewhere else.</p>
+<p>Action is the foundational key to all success.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Pablo Picasso</p>
