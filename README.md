@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is simply the name we give our mistakes. </p>
+<p>An investment in knowledge pays the best interest.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Benjamin Franklin</p>
