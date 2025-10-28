@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pursue what catches your heart, not what catches your eyes.</p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Wayne Dyer</p>
