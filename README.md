@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever satisfies the soul is truth.</p>
+<p>You are the sky. Everything else - it's just the weather.</p>
 
-<p>- Walt Whitman</p>
+<p>- Pema Chodron</p>
