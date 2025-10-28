@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is those who concentrate on but one thing at a time who advance in this world.</p>
+<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
 
-<p>- Gary Keller</p>
+<p>- Kabir</p>
