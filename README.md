@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Albert Einstein</p>
