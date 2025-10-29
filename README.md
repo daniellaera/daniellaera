@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise learn many things from their enemies.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>- Aristophanes</p>
+<p>- Christopher Reeve</p>
