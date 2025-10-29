@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The businessman's tool is value.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>- Ayn Rand</p>
+<p>- Eric Hoffer</p>
