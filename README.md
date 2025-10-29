@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunity comes when you continually push forward.</p>
+<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- A.A. Milne</p>
