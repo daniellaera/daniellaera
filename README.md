@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man's character is his fate.</p>
+<p>The wise learn many things from their enemies.</p>
 
-<p>- Heraclitus</p>
+<p>- Aristophanes</p>
