@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all self-made, but only the successful will admit it.</p>
+<p>We must embrace pain and burn it as fuel for our journey.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Kenji Miyazawa</p>
