@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the average of the five people you spend most time with.</p>
+<p>To belittle, you have to be little.</p>
 
-<p>- Jim Rohn</p>
+<p>- Kahlil Gibran</p>
