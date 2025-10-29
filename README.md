@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To belittle, you have to be little.</p>
+<p>The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Eckhart Tolle</p>
