@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Robin Sharma</p>
+<p>- Lao Tzu</p>
