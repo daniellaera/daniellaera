@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must embrace pain and burn it as fuel for our journey.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Robert Kiyosaki</p>
