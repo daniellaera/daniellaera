@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Embody what you teach, and teach only what you have embodied.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>- Dan Millman</p>
+<p>- Harry S. Truman</p>
