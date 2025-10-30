@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot change anything unless we accept it.</p>
+<p>We cannot always do great things in life, but we can do small things with great love.</p>
 
-<p>- Carl Jung</p>
+<p>- Dan Millman</p>
