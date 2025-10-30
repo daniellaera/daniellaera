@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even the smallest person can change the course of the future.</p>
+<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Jim Rohn</p>
