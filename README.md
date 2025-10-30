@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Public opinion is the worst of all opinions.</p>
+<p>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Zig Ziglar</p>
