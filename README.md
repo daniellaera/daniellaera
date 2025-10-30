@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
+<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
 
-<p>- Estee Lauder</p>
+<p>- Norman Vincent Peale</p>
