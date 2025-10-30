@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
+<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
 
-<p>- Mother Teresa</p>
+<p>- Zen Proverb</p>
