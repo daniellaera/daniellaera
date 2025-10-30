@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When I let go of what I am, I become what I might be.</p>
+<p>Let us always meet each other with smile, for the smile is the beginning of love.</p>
 
-<p>- Lao Tzu</p>
+<p>- Mother Teresa</p>
