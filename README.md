@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life happens in the river, not the shore.</p>
+<p>Our life isn't how much we can take out, but how much we can put in.  </p>
 
-<p>- Maxime Lagace</p>
+<p>- Estee Lauder</p>
