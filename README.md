@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our life isn't how much we can take out, but how much we can put in.  </p>
+<p>I never said it would be easy, I only said it would be worth it.</p>
 
-<p>- Estee Lauder</p>
+<p>- Mae West</p>
