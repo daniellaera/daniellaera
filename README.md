@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the fear of losing be greater than the excitement of winning.</p>
+<p>A path is made by walking on it.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Zhuangzi</p>
