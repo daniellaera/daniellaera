@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men do not attract which they want but that which they are.</p>
+<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
 
-<p>- James Allen</p>
+<p>- Sonia Ricotti</p>
