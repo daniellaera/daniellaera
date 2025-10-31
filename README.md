@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time we liberate a woman, we liberate a man. </p>
+<p>Don't let the fear of losing be greater than the excitement of winning.</p>
 
-<p>- Margaret Mead</p>
+<p>- Robert Kiyosaki</p>
