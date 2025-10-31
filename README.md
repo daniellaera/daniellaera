@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All cruelty springs from weakness.  </p>
+<p>Men do not attract which they want but that which they are.</p>
 
-<p>- Seneca</p>
+<p>- James Allen</p>
