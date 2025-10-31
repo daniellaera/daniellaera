@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
+<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Dale Carnegie</p>
