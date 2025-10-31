@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person is only by the thoughts that he chooses.</p>
+<p>Most people fail in life because they major in minor things.</p>
 
-<p>- James Allen</p>
+<p>- Tony Robbins</p>
