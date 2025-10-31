@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>Every time we liberate a woman, we liberate a man. </p>
 
-<p>- Brian Tracy</p>
+<p>- Margaret Mead</p>
