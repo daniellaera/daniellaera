@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Bob Proctor</p>
