@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>You are free, and that is why you are lost.</p>
 
-<p>- Steve Harvey</p>
+<p>- Franz Kafka</p>
