@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</p>
+<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
 
-<p>- Jack Butcher</p>
+<p>- Alfred Adler</p>
