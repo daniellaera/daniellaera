@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not get the chills when you set your goal you're not setting big enough goals.</p>
+<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
 
-<p>- Bob Proctor</p>
+<p>- Albert Einstein</p>
