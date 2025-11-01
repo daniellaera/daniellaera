@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only be afraid of what you think you know.</p>
+<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Gilbert Chesterton</p>
