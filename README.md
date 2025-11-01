@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A path is made by walking on it.</p>
+<p>Don't worry about being successful, but work toward being significant and the success will naturally follow.</p>
 
-<p>- Zhuangzi</p>
+<p>- Oprah Winfrey</p>
