@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man sees in the world what he carries in his heart.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- G.I. Gurdjieff</p>
