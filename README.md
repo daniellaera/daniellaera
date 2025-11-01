@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A wise person should have money in their head, but not in their heart.</p>
+<p>Life is but one dream flowing into another.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Ming-Dao Deng</p>
