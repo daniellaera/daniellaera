@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</p>
+<p>Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Eckhart Tolle</p>
