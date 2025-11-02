@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>The season of failure is the best time for sowing the seeds of success. </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Paramahansa Yogananda</p>
