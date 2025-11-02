@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy every minute of life. Never second-guess life.</p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>- Michael Jordan</p>
+<p>- Hans Christian Andersen</p>
