@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one returns from a long journey the same person they were before.</p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
 <p>- Zen Proverb</p>
