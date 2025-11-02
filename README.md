@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom from desire leads to inner peace.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>- Lao Tzu</p>
+<p>- Vincent van Gogh</p>
