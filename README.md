@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>Every poem should remind the reader that they are going to die.</p>
 
-<p>- Franz Kafka</p>
+<p>- Edgar Allan Poe</p>
