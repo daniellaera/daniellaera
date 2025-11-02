@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no limitations except those we create for ourselves.</p>
+<p>Be confident, not certain.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Eleanor Roosevelt</p>
