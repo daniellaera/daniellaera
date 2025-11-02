@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>- Lao Tzu</p>
+<p>- Franz Kafka</p>
