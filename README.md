@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The decisions of our past are the architects of our present.</p>
+<p>When you stop questioning, you stop learning.</p>
 
-<p>- Dan Brown</p>
+<p>- Lolly Daskal</p>
