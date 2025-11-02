@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>There is no limitations except those we create for ourselves.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Lolly Daskal</p>
