@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Gurbaksh Chahal</p>
