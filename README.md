@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
+<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Martin Luther King, Jr.</p>
