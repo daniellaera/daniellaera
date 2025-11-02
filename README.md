@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no sadder sight than a young pessimist.</p>
+<p>A man with outward courage dares to die: a man with inner courage dares to live.</p>
 
-<p>- Mark Twain</p>
+<p>- Lao Tzu</p>
