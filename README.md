@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be confident, not certain.</p>
+<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Abraham Lincoln</p>
