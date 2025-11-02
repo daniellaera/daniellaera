@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find something you love and do it better than everyone else.</p>
+<p>No one returns from a long journey the same person they were before.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Zen Proverb</p>
