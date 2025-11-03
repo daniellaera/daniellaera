@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A friend to all is a friend to none.</p>
+<p>Life is either a daring adventure, or nothing.</p>
 
-<p>- Aristotle</p>
+<p>- Helen Keller</p>
