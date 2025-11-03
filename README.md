@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We build too many walls and not enough bridges.</p>
+<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
 
-<p>- Isaac Newton</p>
+<p>- Christopher Reeve</p>
