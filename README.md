@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of success lies not in doing your own work, but in recognizing the right man to do it.</p>
+<p>The educated differ from the uneducated as much as the living differ from the dead.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Aristotle</p>
