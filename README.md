@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has the right to make his own decisions, but none has the right to force his decision on others.</p>
+<p>There are more people who wish to be loved than there are who are willing to love. </p>
 
-<p>- Ayn Rand</p>
+<p>- Nicolas Chamfort</p>
