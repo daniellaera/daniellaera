@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every poem should remind the reader that they are going to die.</p>
+<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Alexander Graham Bell</p>
