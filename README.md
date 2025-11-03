@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is but one dream flowing into another.</p>
+<p>I love fools' experiments. I am always making them.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Charles Darwin</p>
