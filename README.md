@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>Life is but one dream flowing into another.</p>
 
-<p>- Elon Musk</p>
+<p>- Ming-Dao Deng</p>
