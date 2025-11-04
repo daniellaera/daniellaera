@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>One of the first signs of the beginning of understanding is the wish to die. </p>
 
-<p>- Brian Tracy</p>
+<p>- Franz Kafka</p>
