@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Too many of us are not living our dreams because we are living our fears.</p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>- Les Brown</p>
+<p>- Zhuangzi</p>
