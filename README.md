@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the first signs of the beginning of understanding is the wish to die. </p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Franz Kafka</p>
+<p>- Robert Kiyosaki</p>
