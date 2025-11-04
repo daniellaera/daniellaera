@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</p>
+<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
 
-<p>- Celestine Chua</p>
+<p>- Alan Watts</p>
