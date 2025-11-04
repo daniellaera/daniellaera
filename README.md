@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>- Alan Watts</p>
+<p>- Harry S. Truman</p>
