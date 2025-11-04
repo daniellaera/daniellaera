@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We all give up great expectations along the way.</p>
+<p>Remember to look up at the stars and not down at your feet.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Stephen Hawking</p>
