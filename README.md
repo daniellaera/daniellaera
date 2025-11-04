@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have more possibilities available in each moment than we realize.</p>
+<p>Those who are possessed by nothing possess everything.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Morihei Ueshiba</p>
