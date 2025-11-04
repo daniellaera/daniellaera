@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>- Brian Tracy</p>
+<p>- T.S. Eliot</p>
