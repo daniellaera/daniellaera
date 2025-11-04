@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember to look up at the stars and not down at your feet.</p>
+<p>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Naval Ravikant</p>
