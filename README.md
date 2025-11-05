@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
+<p>I admire those who do good and expect nothing in return.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Roy T. Bennett</p>
