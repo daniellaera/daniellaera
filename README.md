@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winning isn't always championships.</p>
+<p>Everyone sees what you appear to be, few experience what you really are.</p>
 
-<p>- Michael Jordan</p>
+<p>- Niccolo Machiavelli</p>
