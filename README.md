@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Steve Maraboli</p>
+<p>- Oscar Wilde</p>
