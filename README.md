@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little progress each day adds up to big results.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them. </p>
 
-<p>- Unknown</p>
+<p>- Henry Ford</p>
