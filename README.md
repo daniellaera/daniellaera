@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>- St. Jerome</p>
+<p>- Earl Nightingale</p>
