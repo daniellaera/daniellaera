@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>You must be willing to do what others won't do, to have what others won't have.</p>
 
-<p>- Albert Einstein</p>
+<p>- Les Brown</p>
