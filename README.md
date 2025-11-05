@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
 
-<p>- Oscar Wilde</p>
+<p>- Beverly Sills</p>
