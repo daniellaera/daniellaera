@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step is to establish that something is possible; then probability will occur.</p>
+<p>I like the dreams of the future better than the history of the past.</p>
 
-<p>- Elon Musk</p>
+<p>- Thomas Jefferson</p>
