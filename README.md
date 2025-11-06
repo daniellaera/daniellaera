@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What loneliness is more lonely than distrust?</p>
+<p>Every great change is preceded by chaos.</p>
 
-<p>- George Eliot</p>
+<p>- Deepak Chopra</p>
