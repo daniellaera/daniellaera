@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to predict your future is to create it.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Kabir</p>
