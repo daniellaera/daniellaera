@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our stories may be singular, but our destination is shared.</p>
+<p>My definition of success is control.</p>
 
-<p>- Barack Obama</p>
+<p>- Kenneth Branagh</p>
