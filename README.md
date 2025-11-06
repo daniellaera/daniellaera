@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm is a vital element toward the individual success of every man or woman.</p>
+<p>Our stories may be singular, but our destination is shared.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Barack Obama</p>
