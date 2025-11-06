@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every great change is preceded by chaos.</p>
+<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Steve Maraboli</p>
