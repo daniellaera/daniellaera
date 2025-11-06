@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunities multiply as they are seized.</p>
+<p>Talk sense to a fool and he calls you foolish.</p>
 
-<p>- Sun Tzu</p>
+<p>- Euripides</p>
