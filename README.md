@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each time we don't say what we wanna say, we're dying.</p>
+<p>Adults are just children who earn money.</p>
 
-<p>- Yoko Ono</p>
+<p>- Kenneth Branagh</p>
