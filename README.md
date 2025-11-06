@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At the end of the day, let there be no excuses, no explanations, no regrets.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Henry David Thoreau</p>
