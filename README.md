@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Those who realize their folly are not true fools.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Zhuangzi</p>
