@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
+<p>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Paulo Coelho</p>
