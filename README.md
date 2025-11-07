@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Identify your problems, but give your power and energy to solutions.</p>
+<p>Success is not how high you have climbed, but how you make a positive difference to the world.</p>
 
-<p>- Tony Robbins</p>
+<p>- Roy T. Bennett</p>
