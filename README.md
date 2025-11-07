@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is never too late to be what you might have been.</p>
+<p>A life without a cause is a life without effect.</p>
 
-<p>- George Eliot</p>
+<p>- Paulo Coelho</p>
