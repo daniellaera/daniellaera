@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always forgive your enemies - nothing annoys them so much. </p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Zen Proverb</p>
