@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
+<p>Always forgive your enemies - nothing annoys them so much. </p>
 
-<p>- Benjamin Franklin</p>
+<p>- Oscar Wilde</p>
