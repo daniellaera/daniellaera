@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every blessing ignored becomes a curse.</p>
+<p>I'm not afraid of death, but I'm in no hurry to die.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Stephen Hawking</p>
