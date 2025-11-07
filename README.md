@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'm not afraid of death, but I'm in no hurry to die.</p>
+<p>Your imagination is your preview of life's coming attractions.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Albert Einstein</p>
