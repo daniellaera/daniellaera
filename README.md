@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul without imagination is what an observatory would be without a telescope.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- George Addair</p>
