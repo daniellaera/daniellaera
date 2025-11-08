@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like underwear, should be changed twice a day.  </p>
+<p>Before you embark on a journey of revenge, dig two graves. </p>
 
-<p>- Ray Bradbury</p>
+<p>- Confucius</p>
