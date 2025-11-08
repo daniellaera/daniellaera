@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
+<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
 
-<p>- Charles Dickens</p>
+<p>- Carlos Ruiz Zafon</p>
