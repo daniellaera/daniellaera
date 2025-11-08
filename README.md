@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you embark on a journey of revenge, dig two graves. </p>
+<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
 
-<p>- Confucius</p>
+<p>- Kenji Miyazawa</p>
