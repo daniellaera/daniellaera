@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is feedback. Learn from it and move on.</p>
+<p>Life is like underwear, should be changed twice a day.  </p>
 
-<p>- Jack Butcher</p>
+<p>- Ray Bradbury</p>
