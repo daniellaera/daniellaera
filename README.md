@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
 
-<p>- Genghis Khan</p>
+<p>- Seungsahn</p>
