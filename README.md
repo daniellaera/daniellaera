@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>The only reason to be alive is to enjoy it.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Rita Mae Brown</p>
