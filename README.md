@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nature does not hurry, yet everything is accomplished.</p>
+<p>The glow of one warm thought is to me worth more than money.</p>
 
-<p>- Lao Tzu</p>
+<p>- Thomas Jefferson</p>
