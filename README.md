@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>- Zhuangzi</p>
+<p>- Gary Keller</p>
