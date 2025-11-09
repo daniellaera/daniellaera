@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.</p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>- Richard Bach</p>
+<p>- Jeffrey Gitomer</p>
