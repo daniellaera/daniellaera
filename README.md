@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It always seems impossible until it's done.</p>
+<p>Always turn a negative situation into a positive situation.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Michael Jordan</p>
