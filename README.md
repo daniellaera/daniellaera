@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.</p>
+<p>The only way out is through.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Robert Frost</p>
