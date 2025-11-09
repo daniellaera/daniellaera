@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever satisfies the soul is truth.</p>
+<p>Everybody's life is either rewarding or an example.</p>
 
-<p>- Walt Whitman</p>
+<p>- Tony Robbins</p>
