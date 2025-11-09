@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live your life as an exclamation rather than an explanation.</p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>- Isaac Newton</p>
+<p>- Unknown</p>
