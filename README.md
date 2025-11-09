@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It all depends on what you choose to believe.</p>
+<p>There is nothing more truly artistic than to love people.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Vincent van Gogh</p>
