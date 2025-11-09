@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
+<p>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</p>
 
-<p>- Richard Bach</p>
+<p>- Earl Nightingale</p>
