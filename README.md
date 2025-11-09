@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
+<p>Happiness is the absence of the striving for happiness.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Zhuangzi</p>
