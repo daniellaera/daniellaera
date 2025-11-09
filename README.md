@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody's life is either rewarding or an example.</p>
+<p>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</p>
 
-<p>- Tony Robbins</p>
+<p>- Sydney Smith</p>
