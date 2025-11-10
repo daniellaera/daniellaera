@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dreamers are the saviors of the worlds.</p>
+<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
 
-<p>- James Allen</p>
+<p>- Mark Twain</p>
