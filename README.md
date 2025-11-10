@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't imagine it, you can't have it.</p>
+<p>In all chaos there is a cosmos, in all disorder a secret order.</p>
 
-<p>- Toni Morrison</p>
+<p>- Carl Jung</p>
