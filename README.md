@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The businessman's tool is value.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>- Ayn Rand</p>
+<p>- Thomas Jefferson</p>
