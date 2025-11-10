@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is easier than fault finding.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>- Og Mandino</p>
+<p>- Jon Kabat-Zinn</p>
