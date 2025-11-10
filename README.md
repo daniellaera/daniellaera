@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is not a goal...it's a by-product of a life well lived.</p>
+<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Walt Whitman</p>
