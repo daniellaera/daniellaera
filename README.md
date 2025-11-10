@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Living life in style also means living a life of balance.</p>
+<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
 
-<p>- Jim Rohn</p>
+<p>- James Allen</p>
