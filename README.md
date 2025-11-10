@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>- Barack Obama</p>
+<p>- Jim Rohn</p>
