@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>- Maya Angelou</p>
+<p>- Earl Nightingale</p>
