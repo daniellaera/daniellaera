@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the change that you want to see in the world.</p>
+<p>Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Adi Da Samraj</p>
