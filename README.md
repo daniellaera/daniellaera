@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any fool can turn a blind eye but who knows what the ostrich sees in the sand.</p>
+<p>All men who have achieved great things have been great dreamers. </p>
 
-<p>- Samuel Beckett</p>
+<p>- Orison Swett Marden</p>
