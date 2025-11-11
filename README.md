@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the hard jobs first. The easy jobs will take care of themselves.</p>
+<p>The highest level of wisdom is when you not only accept but love adversity.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Maxime Lagace</p>
