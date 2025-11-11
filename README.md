@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let anyone define you. You define yourself.</p>
+<p>A hut full of laughter is richer than a palace full of sadness.</p>
 
-<p>- Billie Jean King</p>
+<p>- Zen Proverb</p>
