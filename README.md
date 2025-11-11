@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>To the world you may be one person; but to one person you may be the world.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Dr. Seuss</p>
