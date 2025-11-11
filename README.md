@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never trust he who trusts everyone.</p>
+<p>Be willing to be a beginner every single morning.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Meister Eckhart</p>
