@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is that it stops.</p>
+<p>If you want to make God laugh, tell him about your plans. </p>
 
-<p>- Franz Kafka</p>
+<p>- Woody Allen</p>
