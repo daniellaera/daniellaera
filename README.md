@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest value of a picture is when it forces us to notice what we never expected to see.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>- John Tukey</p>
+<p>- Jim Rohn</p>
