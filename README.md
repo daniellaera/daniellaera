@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
+<p>The goal of an artist is to create the definitive work that cannot be surpassed.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- George Bernard Shaw</p>
