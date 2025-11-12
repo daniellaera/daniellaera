@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a man knows not to which port he sails, no wind is favorable.  </p>
+<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
 
-<p>- Seneca</p>
+<p>- Tony Robbins</p>
