@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
+<p>If a man knows not to which port he sails, no wind is favorable.  </p>
 
-<p>- John Eliot</p>
+<p>- Seneca</p>
