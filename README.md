@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
+<p>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</p>
 
-<p>- Tony Robbins</p>
+<p>- T.S. Eliot</p>
