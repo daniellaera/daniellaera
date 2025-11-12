@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</p>
+<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Kabir</p>
