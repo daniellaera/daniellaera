@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfectionism is simply putting a limit on your future.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>- John Eliot</p>
+<p>- Genghis Khan</p>
