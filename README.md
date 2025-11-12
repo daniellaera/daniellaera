@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take interest and even delight in doing the small things well.</p>
+<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
 
-<p>- Jim Rohn</p>
+<p>- Colin Powell</p>
