@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>In order to be irreplaceable one must always be different.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Coco Chanel</p>
