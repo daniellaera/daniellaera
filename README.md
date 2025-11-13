@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. </p>
+<p>Whatever you are, be a good one.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Abraham Lincoln</p>
