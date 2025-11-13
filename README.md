@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Darkness is the absence of light.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Hans Christian Andersen</p>
