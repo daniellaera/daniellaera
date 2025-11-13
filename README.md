@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human happiness and moral duty are inseparably connected. </p>
+<p>Just get out and do it. You will be very, very glad that you did.</p>
 
-<p>- George Washington</p>
+<p>- Christopher McCandless</p>
