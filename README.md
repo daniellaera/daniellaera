@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>- Ayn Rand</p>
+<p>- Gurbaksh Chahal</p>
