@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is an essence of when you are fearless, you become more creative.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Yanni</p>
