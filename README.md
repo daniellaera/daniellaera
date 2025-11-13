@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even when a friend does something you do not like, he continues to be your friend. </p>
+<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
 
-<p>- Genghis Khan</p>
+<p>- Carlos Ruiz Zafon</p>
