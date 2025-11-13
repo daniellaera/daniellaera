@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter where you are, you are nowhere compared to where you can go.</p>
+<p>Who you are is always right.</p>
 
-<p>- Bob Proctor</p>
+<p>- Ming-Dao Deng</p>
