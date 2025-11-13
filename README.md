@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you are, be a good one.</p>
+<p>Receive without pride, let go without attachment.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Marcus Aurelius</p>
