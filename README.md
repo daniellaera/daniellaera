@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you extend kindness to yourself, the more it will become your automatic response to others.</p>
+<p>Change your thoughts and you change your world.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Norman Vincent Peale</p>
