@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
 
-<p>- Isaac Newton</p>
+<p>- Alan Watts</p>
