@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is one long process of getting tired.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>- Samuel Butler</p>
+<p>- Honore de Balzac</p>
