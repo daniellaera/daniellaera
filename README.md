@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change your thoughts and you change your world.</p>
+<p>You're on earth. There's no cure for that.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Samuel Beckett</p>
