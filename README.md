@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing endures but change.</p>
+<p>No one ever said life was fair. Just Eventful.</p>
 
-<p>- Heraclitus</p>
+<p>- Carol Burnett</p>
