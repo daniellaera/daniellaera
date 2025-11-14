@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.</p>
+<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- William Faulkner</p>
