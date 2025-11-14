@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
+<p>Nothing endures but change.</p>
 
-<p>- Elon Musk</p>
+<p>- Heraclitus</p>
