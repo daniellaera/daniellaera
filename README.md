@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>The greatest work that kindness does to others is that it makes them kind themselves.</p>
 
-<p>- William Faulkner</p>
+<p>- Amelia Earhart</p>
