@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Eleanor Roosevelt</p>
