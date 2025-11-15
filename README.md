@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.  </p>
 
-<p>- Mark Manson</p>
+<p>- Zig Ziglar</p>
