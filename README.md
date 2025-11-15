@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>She who loves roses must be patient and not cry out when she is pierced by thorns.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- George Eliot</p>
