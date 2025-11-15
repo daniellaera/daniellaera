@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
+<p>The majority of what you want will come from the minority of what you do.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Gary Keller</p>
