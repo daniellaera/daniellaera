@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a man's compass. </p>
+<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Thomas Jefferson</p>
