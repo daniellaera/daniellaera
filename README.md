@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</p>
 
-<p>- Martin Luther</p>
+<p>- Paramahansa Yogananda</p>
