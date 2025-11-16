@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Joan Rivers</p>
