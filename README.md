@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>- Joan Rivers</p>
+<p>- Alfred Adler</p>
