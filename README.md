@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</p>
+<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Thomas Jefferson</p>
