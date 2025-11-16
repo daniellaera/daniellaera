@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Mother Teresa</p>
