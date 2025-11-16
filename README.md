@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>You'll never find rainbows if you're looking down.  </p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Charlie Chaplin</p>
