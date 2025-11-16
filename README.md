@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.</p>
+<p>Rivers know this: there is no hurry. We shall get there some day.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- A.A. Milne</p>
