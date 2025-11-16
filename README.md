@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
+<p>A leader leads by example, not by force.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Sun Tzu</p>
