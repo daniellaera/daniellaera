@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</p>
+<p>Argue for your limitations and sure enough, they're yours.</p>
 
-<p>- Dalai Lama</p>
+<p>- Richard Bach</p>
