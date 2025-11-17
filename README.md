@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stay away from people who makes you feel like you are wasting their time.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- Paulo Coelho</p>
+<p>- T.S. Eliot</p>
