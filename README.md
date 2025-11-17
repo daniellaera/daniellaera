@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</p>
+<p>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</p>
 
-<p>- Tony Robbins</p>
+<p>- Ming-Dao Deng</p>
