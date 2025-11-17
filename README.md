@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
+<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Christopher Reeve</p>
