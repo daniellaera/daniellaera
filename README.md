@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rivers know this: there is no hurry. We shall get there some day.</p>
+<p>From error to error one discovers the entire truth.</p>
 
-<p>- A.A. Milne</p>
+<p>- Sigmund Freud</p>
