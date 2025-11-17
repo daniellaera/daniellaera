@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True it is, we only hate those whom we do not know.</p>
+<p>Anything worth doing is worth doing slowly.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Mae West</p>
