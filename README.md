@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
 
-<p>- St. Jerome</p>
+<p>- Denis Waitley</p>
