@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words can only have a positive effect on others if and when they are ready to listen.</p>
+<p>Rivers know this: there is no hurry. We shall get there some day.</p>
 
-<p>- Christopher Reeve</p>
+<p>- A.A. Milne</p>
