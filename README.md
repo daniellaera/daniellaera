@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
 
-<p>- Robin Williams</p>
+<p>- Charles Dickens</p>
