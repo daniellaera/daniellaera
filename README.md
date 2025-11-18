@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anything worth doing is worth doing slowly.</p>
+<p>What's right is what's left if you do everything else wrong.</p>
 
-<p>- Mae West</p>
+<p>- Robin Williams</p>
