@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your dream has to be bigger than your fear.</p>
+<p>The impossible can always be broken down into possibilities.</p>
 
-<p>- Steve Harvey</p>
+<p>- Unknown</p>
