@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Dalai Lama</p>
