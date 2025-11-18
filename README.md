@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
+<p>Motivation gets you going and habit gets you there.  </p>
 
-<p>- Celestine Chua</p>
+<p>- Zig Ziglar</p>
