@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your mind is infinite, it's your doubts that are limiting.</p>
+<p>What one does is what counts. Not what one had the intention of doing.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Pablo Picasso</p>
