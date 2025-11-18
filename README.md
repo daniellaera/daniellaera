@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
+<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
 
-<p>- Celestine Chua</p>
+<p>- Norman Vincent Peale</p>
