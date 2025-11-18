@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who do nothing at all make no mistakes.</p>
+<p>Your mind is infinite, it's your doubts that are limiting.</p>
 
-<p>- Unknown</p>
+<p>- Robert Kiyosaki</p>
