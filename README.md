@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
+<p>Older men declare war. But it is youth that must fight and die.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Herbert Hoover</p>
