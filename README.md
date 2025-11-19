@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The salvation of the world lies in the human heart.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Elon Musk</p>
