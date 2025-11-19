@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
+<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Napoleon Hill</p>
