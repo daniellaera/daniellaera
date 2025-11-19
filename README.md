@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The destiny of man is in his own soul. </p>
+<p>The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.</p>
 
-<p>- Herodotus</p>
+<p>- Sathya Sai Baba</p>
