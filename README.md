@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise speak only of what they know.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Mahatma Gandhi</p>
