@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants. There's no logic. </p>
+<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
 
-<p>- Woody Allen</p>
+<p>- Og Mandino</p>
