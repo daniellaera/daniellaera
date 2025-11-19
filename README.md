@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>You are now, and you do become, what you think about.</p>
 
-<p>- Robin Sharma</p>
+<p>- Earl Nightingale</p>
