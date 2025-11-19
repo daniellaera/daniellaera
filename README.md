@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Motivation gets you going and habit gets you there.  </p>
+<p>All things come into being by conflict of opposites.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Heraclitus</p>
