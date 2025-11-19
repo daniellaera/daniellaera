@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>- Elon Musk</p>
+<p>- Woody Allen</p>
