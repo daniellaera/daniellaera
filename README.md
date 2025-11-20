@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try not to become a man of success, but rather try to become a man of value.</p>
+<p>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</p>
 
-<p>- Albert Einstein</p>
+<p>- Steve Jobs</p>
