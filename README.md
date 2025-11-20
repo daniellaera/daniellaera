@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop being a prisoner of your past. Become the architect of your future.</p>
+<p>Decide upon your major definite purpose in life and then organize all your activities around it.</p>
 
-<p>- Robin Sharma</p>
+<p>- Brian Tracy</p>
