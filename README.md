@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think you're crazy if you talk about things they don't understand.</p>
+<p>Fallacies do not cease to be fallacies because they become fashions.</p>
 
-<p>- Elvis Presley</p>
+<p>- Gilbert Chesterton</p>
