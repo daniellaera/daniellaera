@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no fear for one whose mind is not filled with desires.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Buddha</p>
+<p>- Dan Millman</p>
