@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your business is not to 'get somewhere' - it is to be here.</p>
+<p>True wealth is of the heart, not of the purse.</p>
 
-<p>- Dan Millman</p>
+<p>- Og Mandino</p>
