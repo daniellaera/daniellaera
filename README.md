@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>The two most powerful warriors are patience and time.</p>
 
-<p>- William Faulkner</p>
+<p>- Leo Tolstoy</p>
