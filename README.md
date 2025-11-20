@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We're responsible for everything that happens to us.</p>
+<p>People think you're crazy if you talk about things they don't understand.</p>
 
-<p>- Yanni</p>
+<p>- Elvis Presley</p>
