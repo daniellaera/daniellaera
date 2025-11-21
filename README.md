@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends on your mindset and attitude.</p>
+<p>Teachers open the door. You enter by yourself. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Chinese Proverb</p>
