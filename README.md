@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
+<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
 
-<p>- Dan Brown</p>
+<p>- Sonia Ricotti</p>
