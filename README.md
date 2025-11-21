@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Robert Browning</p>
+<p>- Barack Obama</p>
