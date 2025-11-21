@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>Hope is a waking dream.</p>
 
-<p>- Mark Twain</p>
+<p>- Aristotle</p>
