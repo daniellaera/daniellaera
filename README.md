@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope is a waking dream.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>- Aristotle</p>
+<p>- Euripides</p>
