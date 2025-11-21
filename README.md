@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking outside the box, get rid of the box.</p>
+<p>See what you're doing wrong, laugh at it, change and do better.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Spencer Johnson</p>
