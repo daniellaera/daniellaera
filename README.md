@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
+<p>Instead of thinking outside the box, get rid of the box.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Deepak Chopra</p>
