@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Problems remain as problems because people are busy defending them rather than finding solutions.</p>
+<p>Don't live the same year 75 times and call it a life.</p>
 
-<p>- Celestine Chua</p>
+<p>- Robin Sharma</p>
