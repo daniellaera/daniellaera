@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to not feel hopeless is to get up and do something.</p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>- Barack Obama</p>
+<p>- Harry S. Truman</p>
