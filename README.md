@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't live the same year 75 times and call it a life.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Robin Sharma</p>
+<p>- Barack Obama</p>
