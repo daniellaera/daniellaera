@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Teachers open the door. You enter by yourself. </p>
+<p>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Dan Brown</p>
