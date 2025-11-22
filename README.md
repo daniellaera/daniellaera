@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>- Henry Ford</p>
+<p>- Chinese Proverb</p>
