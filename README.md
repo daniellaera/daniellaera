@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to achieve greatness stop asking for permission.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Unknown</p>
+<p>- J.R.R. Tolkien</p>
