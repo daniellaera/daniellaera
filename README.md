@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ability to observe without evaluating is the highest form of intelligence.</p>
+<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Sydney Smith</p>
