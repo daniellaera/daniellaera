@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
+<p>A wise person should have money in their head, but not in their heart.</p>
 
-<p>- Criss Jami</p>
+<p>- Jonathan Swift</p>
