@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Maxime Lagace</p>
