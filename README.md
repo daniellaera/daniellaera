@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>None are more hopelessly enslaved than those who falsely believe they are free.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Johann Wolfgang von Goethe</p>
