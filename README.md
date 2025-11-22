@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wisest men follow their own direction.</p>
+<p>If you want to achieve greatness stop asking for permission.</p>
 
-<p>- Euripides</p>
+<p>- Unknown</p>
