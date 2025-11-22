@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>- Bruce Lee</p>
+<p>- Jim Rohn</p>
