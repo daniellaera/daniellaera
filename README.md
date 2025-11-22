@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
+<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
 
-<p>- Sydney Smith</p>
+<p>- Criss Jami</p>
