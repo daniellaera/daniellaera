@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work harder on yourself than you do on your job.</p>
+<p>Given the choice between the experience of pain and nothing, I would choose pain.</p>
 
-<p>- Jim Rohn</p>
+<p>- William Faulkner</p>
