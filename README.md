@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
+<p>The more often a stupidity is repeated, the more it gets the appearance of wisdom.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Voltaire</p>
