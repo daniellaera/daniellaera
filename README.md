@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do your best. What you plant now, you will harvest later.</p>
+<p>People who have goals succeed because they know where they're going. It's that simple.</p>
 
-<p>- Og Mandino</p>
+<p>- Earl Nightingale</p>
