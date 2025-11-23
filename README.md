@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do what you feel in your heart to be right - for you'll be criticized anyway.</p>
+<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Ayn Rand</p>
