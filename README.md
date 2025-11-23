@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.</p>
+<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Martin Luther King, Jr.</p>
