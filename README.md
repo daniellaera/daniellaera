@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
+<p>Always do your best. What you plant now, you will harvest later.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Og Mandino</p>
