@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
+<p>What do we live for, if it is not to make life less difficult for each other?</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- George Eliot</p>
