@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion creates, addiction consumes.</p>
+<p>It is difficult to free fools from the chains they revere. </p>
 
-<p>- Gabor Mate</p>
+<p>- Voltaire</p>
