@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To every action there is always opposed an equal reaction.</p>
+<p>Success is getting what you want, happiness is wanting what you get.</p>
 
-<p>- Isaac Newton</p>
+<p>- W.P. Kinsella</p>
