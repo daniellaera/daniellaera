@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>- Martin Luther</p>
+<p>- Toni Morrison</p>
