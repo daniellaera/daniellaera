@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
+<p>We have more possibilities available in each moment than we realize.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Thich Nhat Hanh</p>
