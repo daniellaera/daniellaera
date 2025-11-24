@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Steve Jobs</p>
