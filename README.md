@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
+<p>Only I can change my life. No one can do it for me.</p>
 
-<p>- Richard Bach</p>
+<p>- Carol Burnett</p>
