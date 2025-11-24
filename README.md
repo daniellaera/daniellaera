@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is too high for a man to reach, but he must climb with care and confidence</p>
+<p>In three words I can sum up everything I've learned about life: it goes on.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Robert Frost</p>
