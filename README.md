@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
+<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
 
-<p>- Bruce Lee</p>
+<p>- Brian Tracy</p>
