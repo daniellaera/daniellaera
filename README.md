@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only I can change my life. No one can do it for me.</p>
+<p>Do not pray for an easy life, pray for the strength to endure a difficult one.  </p>
 
-<p>- Carol Burnett</p>
+<p>- Bruce Lee</p>
