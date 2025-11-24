@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We have more possibilities available in each moment than we realize.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Alexander Graham Bell</p>
