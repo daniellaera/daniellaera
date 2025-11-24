@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- Dalai Lama</p>
+<p>- Judy Garland</p>
