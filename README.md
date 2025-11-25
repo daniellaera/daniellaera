@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fashion fades, only style remains the same.</p>
+<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
 
-<p>- Coco Chanel</p>
+<p>- George Bernard Shaw</p>
