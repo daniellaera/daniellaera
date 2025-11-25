@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment is a fresh beginning.</p>
+<p>Man is made by his belief. As he believes, so he is.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Bhagavad Gita</p>
