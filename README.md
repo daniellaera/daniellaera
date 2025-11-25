@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quiet people have the loudest minds.</p>
+<p>Give out what you most want to come back.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Robin Sharma</p>
