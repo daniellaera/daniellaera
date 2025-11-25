@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is difficult to free fools from the chains they revere. </p>
+<p>Thinking is difficult, that's why most people judge.</p>
 
-<p>- Voltaire</p>
+<p>- Carl Jung</p>
