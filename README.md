@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act the way you want to be and soon you'll be the way you act.</p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>- Les Brown</p>
+<p>- Gilbert Chesterton</p>
