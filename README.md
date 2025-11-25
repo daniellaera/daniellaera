@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is difficult, that's why most people judge.</p>
+<p>Quiet people have the loudest minds.</p>
 
-<p>- Carl Jung</p>
+<p>- Stephen Hawking</p>
