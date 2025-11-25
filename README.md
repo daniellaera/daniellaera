@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>It is better to offer no excuse than a bad one. </p>
 
-<p>- George Bernard Shaw</p>
+<p>- George Washington</p>
