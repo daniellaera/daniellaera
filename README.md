@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Gary Keller</p>
+<p>- John Eliot</p>
