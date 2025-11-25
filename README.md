@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you've got; it's what you do that makes the difference.</p>
+<p>To do great work one must be very idle as well as very industrious.</p>
 
-<p>- Celestine Chua</p>
+<p>- Samuel Butler</p>
