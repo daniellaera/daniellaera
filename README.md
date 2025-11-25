@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are the touchstones of our characters.</p>
+<p>Act the way you want to be and soon you'll be the way you act.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Les Brown</p>
