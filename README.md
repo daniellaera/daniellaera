@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
+<p>There are as many opinions as there are experts.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Franklin D. Roosevelt</p>
