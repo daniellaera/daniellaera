@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be like a postage stamp. Stick to it until you get there.</p>
+<p>The destiny of man is in his own soul. </p>
 
-<p>- Bob Proctor</p>
+<p>- Herodotus</p>
