@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can calculate the worth of a man by the number of his enemies.</p>
+<p>Be like a postage stamp. Stick to it until you get there.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Bob Proctor</p>
