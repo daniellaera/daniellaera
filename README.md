@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
+<p>Why do you stay in prison when the door is so wide open?</p>
 
-<p>- Sigmund Freud</p>
+<p>- Rumi</p>
