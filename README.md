@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>You can calculate the worth of a man by the number of his enemies.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Gustave Flaubert</p>
