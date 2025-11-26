@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes a change of perspective is all it takes to see the light.</p>
+<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
 
-<p>- Dan Brown</p>
+<p>- Roy T. Bennett</p>
