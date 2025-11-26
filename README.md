@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make failure your teacher, not your undertaker.  </p>
+<p>Sometimes a change of perspective is all it takes to see the light.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Dan Brown</p>
