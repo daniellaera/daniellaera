@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are today where your thoughts have brought you.</p>
+<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
 
-<p>- James Allen</p>
+<p>- Robin Sharma</p>
