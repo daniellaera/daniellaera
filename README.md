@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All we have to decide is what to do with the time that is given to us.</p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Sigmund Freud</p>
