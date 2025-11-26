@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>The man who does not value himself, cannot value anything or anyone.</p>
 
-<p>- Confucius</p>
+<p>- Ayn Rand</p>
