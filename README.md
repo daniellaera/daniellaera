@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The destiny of man is in his own soul. </p>
+<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
 
-<p>- Herodotus</p>
+<p>- Zen Proverb</p>
