@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
+<p>If you see someone without a smile give them one of yours.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Unknown</p>
