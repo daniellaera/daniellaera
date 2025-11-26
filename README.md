@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who does not value himself, cannot value anything or anyone.</p>
+<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
 
-<p>- Ayn Rand</p>
+<p>- Herman Melville</p>
