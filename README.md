@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>- Herman Melville</p>
+<p>- Marcus Aurelius</p>
