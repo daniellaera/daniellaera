@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Create each day anew.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Andrew Carnegie</p>
