@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First learn the meaning of what you say, and then speak.</p>
+<p>It is in the darkness that one finds the light.</p>
 
-<p>- Epictetus</p>
+<p>- Meister Eckhart</p>
