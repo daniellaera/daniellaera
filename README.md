@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect was invented to cover the empty place where love should be.</p>
+<p>The best way to not feel hopeless is to get up and do something.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Barack Obama</p>
