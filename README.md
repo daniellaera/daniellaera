@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to not feel hopeless is to get up and do something.</p>
+<p>Man invented language to satisfy his deep need to complain.</p>
 
-<p>- Barack Obama</p>
+<p>- Lily Tomlin</p>
