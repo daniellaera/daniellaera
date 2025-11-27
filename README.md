@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the practice of tolerance, one's enemy is the best teacher.</p>
+<p>The only place success comes before work is in the dictionary.</p>
 
-<p>- Dalai Lama</p>
+<p>- Vince Lombardi</p>
