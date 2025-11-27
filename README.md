@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
+<p>Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Gilbert Chesterton</p>
