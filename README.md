@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
+<p>The only way round is through.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Robert Frost</p>
