@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>- Winston Churchill</p>
+<p>- Roy T. Bennett</p>
