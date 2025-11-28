@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I pay attention to every minute of the day.</p>
+<p>People do not decide their futures, they decide their habits and their habits decide their futures.</p>
 
-<p>- Steve Harvey</p>
+<p>- Gary Keller</p>
