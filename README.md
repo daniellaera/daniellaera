@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way round is through.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>- Robert Frost</p>
+<p>- Jim Rohn</p>
