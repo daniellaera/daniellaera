@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
+<p>The right thing to do and the hard thing to do are usually the same.</p>
 
-<p>- Shahir Zag</p>
+<p>- Steve Maraboli</p>
