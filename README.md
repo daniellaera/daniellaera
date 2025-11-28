@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Maxime Lagace</p>
