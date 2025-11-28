@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear of weakness only strengthens weakness.</p>
+<p>Never give way to laziness.</p>
 
-<p>- Criss Jami</p>
+<p>- Bhagavad Gita</p>
