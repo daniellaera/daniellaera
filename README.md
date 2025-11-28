@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give way to laziness.</p>
+<p>The man who moved the mountain was the one who began carrying away the smallest stones.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Zen Proverb</p>
