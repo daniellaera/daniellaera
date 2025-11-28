@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 
-<p>- Maxime Lagace</p>
+<p>- George Bernard Shaw</p>
