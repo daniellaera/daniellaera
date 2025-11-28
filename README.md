@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The right thing to do and the hard thing to do are usually the same.</p>
+<p>Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Deepak Chopra</p>
