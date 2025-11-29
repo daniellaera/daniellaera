@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Setting goals is the first step in turning the invisible into the visible.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
 <p>- Tony Robbins</p>
