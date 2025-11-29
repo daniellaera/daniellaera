@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man should fear never beginning to live.</p>
+<p>Nothing makes a man broad-minded like adversity.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Will Rogers</p>
