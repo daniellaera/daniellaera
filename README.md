@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't explain your philosophy. Embody it.</p>
+<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
 
-<p>- Epictetus</p>
+<p>- Robin Sharma</p>
