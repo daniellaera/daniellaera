@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing good ever comes of violence.</p>
+<p>Love is the absence of judgment.</p>
 
-<p>- Martin Luther</p>
+<p>- Dalai Lama</p>
