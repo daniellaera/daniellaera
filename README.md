@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
+<p>Don't explain your philosophy. Embody it.</p>
 
-<p>- Dan Millman</p>
+<p>- Epictetus</p>
