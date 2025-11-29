@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is the absence of judgment.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>- Dalai Lama</p>
+<p>- Marcus Aurelius</p>
