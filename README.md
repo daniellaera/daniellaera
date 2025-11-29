@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For things to change, you have to change.</p>
+<p>Setting goals is the first step in turning the invisible into the visible.</p>
 
-<p>- Jim Rohn</p>
+<p>- Tony Robbins</p>
