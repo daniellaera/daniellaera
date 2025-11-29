@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up on your dreams, or your dreams will give up on you.</p>
+<p>Nothing good ever comes of violence.</p>
 
-<p>- John Wooden</p>
+<p>- Martin Luther</p>
