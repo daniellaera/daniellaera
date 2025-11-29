@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the past steal your present.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>- Cherralea Morgen</p>
+<p>- Kahlil Gibran</p>
