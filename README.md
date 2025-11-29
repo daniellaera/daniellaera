@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>Don't give up on your dreams, or your dreams will give up on you.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- John Wooden</p>
