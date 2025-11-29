@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only be afraid of what you think you know.</p>
+<p>Deliberately seek the company of people who influence you to think and act on building the life you desire.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Napoleon Hill</p>
