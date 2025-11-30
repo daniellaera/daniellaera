@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfectionism is simply putting a limit on your future.</p>
+<p>Definiteness of purpose is the starting point of all achievement. </p>
 
-<p>- John Eliot</p>
+<p>- W. Clement Stone</p>
