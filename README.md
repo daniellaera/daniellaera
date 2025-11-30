@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become brave by doing brave acts.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>- Aristotle</p>
+<p>- Andrew Carnegie</p>
