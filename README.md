@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Definiteness of purpose is the starting point of all achievement. </p>
+<p>We are born from a quiet sleep, and we die to a calm awakening</p>
 
-<p>- W. Clement Stone</p>
+<p>- Zhuangzi</p>
