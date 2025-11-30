@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I begin with an idea and then it becomes something else.</p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Maya Angelou</p>
