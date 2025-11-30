@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
+<p>Perfectionism is simply putting a limit on your future.</p>
 
-<p>- Yoko Ono</p>
+<p>- John Eliot</p>
