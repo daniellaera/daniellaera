@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the most difficult things is not to change society - but to change yourself.</p>
+<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Zen Proverb</p>
