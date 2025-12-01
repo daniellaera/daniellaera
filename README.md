@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
+<p>One of the most difficult things is not to change society - but to change yourself.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Nelson Mandela</p>
