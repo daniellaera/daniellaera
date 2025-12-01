@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>- Ralph Marston</p>
+<p>- Charles Dickens</p>
