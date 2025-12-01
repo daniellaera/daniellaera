@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People should pursue what they're passionate about. That will make them happier than pretty much anything else.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Elon Musk</p>
+<p>- Celestine Chua</p>
