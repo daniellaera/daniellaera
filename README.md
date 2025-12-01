@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
+<p>The final mystery is oneself.</p>
 
-<p>- Criss Jami</p>
+<p>- Oscar Wilde</p>
