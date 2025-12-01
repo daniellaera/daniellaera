@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
+<p>When the fish is caught we pay no more attention to the trap.</p>
 
-<p>- Tony Robbins</p>
+<p>- Huang Po</p>
