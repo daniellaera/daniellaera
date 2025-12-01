@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good teacher opens the door for you, but you must enter the room by yourself.</p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>- Zen Proverb</p>
+<p>- Les Brown</p>
