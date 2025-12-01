@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your happiness is what truly matters most. Do what you have to do in order to be happy.</p>
+<p>Make your life a mission - not an intermission.</p>
 
-<p>- Brian Tracy</p>
+<p>- Unknown</p>
