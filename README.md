@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smell the cheese often so you know when it is getting old.</p>
+<p>Integrity is telling myself the truth. And honesty is telling the truth to other people.</p>
 
 <p>- Spencer Johnson</p>
