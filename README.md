@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.</p>
+<p>Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Criss Jami</p>
