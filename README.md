@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who dare to fail greatly can ever achieve greatly.</p>
+<p>Never waste a minute of your precious life thinking about people you don't like.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Celestine Chua</p>
