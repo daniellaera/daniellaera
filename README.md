@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
 
-<p>- Criss Jami</p>
+<p>- Spencer Johnson</p>
