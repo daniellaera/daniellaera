@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't try to steer the river.</p>
+<p>The highest level of wisdom is when you not only accept but love adversity.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Maxime Lagace</p>
