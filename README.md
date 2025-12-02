@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Zhuangzi</p>
