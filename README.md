@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.</p>
 
-<p>- Joan Rivers</p>
+<p>- Nikola Tesla</p>
