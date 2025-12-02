@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>No one returns from a long journey the same person they were before.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Zen Proverb</p>
