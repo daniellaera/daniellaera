@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think about what they don't want and attract more of the same.</p>
+<p>I learned the value of hard work by working hard. </p>
 
-<p>- Unknown</p>
+<p>- Margaret Mead</p>
