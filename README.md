@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What most people need to learn in life is how to love people and use things instead of using people and loving things.</p>
+<p>If light is in your heart, you will find your way home.  </p>
 
-<p>- Unknown</p>
+<p>- Rumi</p>
