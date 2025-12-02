@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
+<p>People think about what they don't want and attract more of the same.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Unknown</p>
