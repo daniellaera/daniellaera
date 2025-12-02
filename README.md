@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Criss Jami</p>
