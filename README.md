@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Understanding that rests in what it does not understand is the finest.</p>
+<p>The only real mistake is the one from which we learn nothing. </p>
 
-<p>- Zhuangzi</p>
+<p>- Henry Ford</p>
