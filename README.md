@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to find yourself is to lose yourself in the service of others.</p>
+<p>He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. </p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Albert Einstein</p>
