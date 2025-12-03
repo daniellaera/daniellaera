@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't give up the fight, Stand up for your rights.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>- Bob Marley</p>
+<p>- Mother Teresa</p>
