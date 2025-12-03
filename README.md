@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we did all the things we are capable of, we would literally astound ourselves.</p>
+<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
 
-<p>- Thomas Edison</p>
+<p>- Ming-Dao Deng</p>
