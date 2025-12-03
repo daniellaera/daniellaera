@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</p>
+<p>Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.</p>
 
-<p>- Robin Sharma</p>
+<p>- D. H. Lawrence</p>
