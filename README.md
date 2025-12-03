@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A hopeless man is a very desperate and dangerous man, almost a dead man.</p>
+<p>The power of man has grown in every sphere, except over himself.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Winston Churchill</p>
