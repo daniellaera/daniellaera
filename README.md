@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are more people who wish to be loved than there are who are willing to love. </p>
+<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Jack Kerouac</p>
