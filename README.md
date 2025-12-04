@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most important thing is to enjoy your life, to be happy, it's all that matters.</p>
+<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Robin Sharma</p>
