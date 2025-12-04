@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one returns from a long journey the same person they were before.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>- Zen Proverb</p>
+<p>- Hans Christian Andersen</p>
