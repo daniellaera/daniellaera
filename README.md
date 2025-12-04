@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</p>
+<p>If you don't program yourself, life will program you.</p>
 
-<p>- Richard Bach</p>
+<p>- Les Brown</p>
