@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To forgive means pardoning the unpardonable.</p>
+<p>In the midst of movement and chaos, keep stillness inside of you.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Deepak Chopra</p>
