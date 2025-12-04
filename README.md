@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are going to achieve excellence in big things, you develop the habit in little matters.</p>
+<p>No one returns from a long journey the same person they were before.</p>
 
-<p>- Colin Powell</p>
+<p>- Zen Proverb</p>
