@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the midst of movement and chaos, keep stillness inside of you.</p>
+<p>There is no path to Peace. Peace is the path.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Dan Millman</p>
