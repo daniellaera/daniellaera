@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+<p>There is a wisdom of the head, and there is a wisdom of the heart.</p>
 
-<p>- Albert Einstein</p>
+<p>- Charles Dickens</p>
