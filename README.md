@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Getting lost along your path is a part of finding the path you are meant to be on.</p>
+<p>Opportunities multiply as they are seized.</p>
 
-<p>- Robin Sharma</p>
+<p>- Sun Tzu</p>
