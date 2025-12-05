@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
+<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
 
-<p>- Tony Robbins</p>
+<p>- Robert Collier</p>
