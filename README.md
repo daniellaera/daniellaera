@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Who looks outside, dreams; who looks inside, awakes.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Gary Keller</p>
