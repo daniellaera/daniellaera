@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
+<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
 
-<p>- Robert Collier</p>
+<p>- Denis Waitley</p>
