@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
+<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
 
-<p>- Seneca</p>
+<p>- Seungsahn</p>
