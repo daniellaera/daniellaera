@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be bored, and you will never be boring.</p>
+<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Albus Dumbledore</p>
