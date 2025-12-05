@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The Truth is realized in an instant; the Act is practiced step by step.</p>
+<p>Never be bored, and you will never be boring.</p>
 
-<p>- Seungsahn</p>
+<p>- Eleanor Roosevelt</p>
