@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person is only by the thoughts that he chooses.</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>- James Allen</p>
+<p>- Bruce Lee</p>
