@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a balance of holding on and letting go.</p>
+<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
 
-<p>- Rumi</p>
+<p>- Christopher Columbus</p>
