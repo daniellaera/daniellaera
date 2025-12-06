@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who can, does.</p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Gilbert Chesterton</p>
