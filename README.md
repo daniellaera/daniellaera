@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is no more uncertain than the present.</p>
+<p>Life is a balance of holding on and letting go.</p>
 
-<p>- Walt Whitman</p>
+<p>- Rumi</p>
