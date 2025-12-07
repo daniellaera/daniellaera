@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time is a game played beautifully by children.</p>
+<p>Get mad, then get over it.</p>
 
-<p>- Heraclitus</p>
+<p>- Colin Powell</p>
