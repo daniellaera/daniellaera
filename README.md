@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
+<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- William James</p>
