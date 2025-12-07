@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be kind whenever possible. It is always possible.</p>
+<p>When your intuition is strong, follow it.</p>
 
-<p>- Dalai Lama</p>
+<p>- Lolly Daskal</p>
