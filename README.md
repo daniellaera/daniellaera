@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</p>
+<p>Nothing good ever comes of violence.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Martin Luther</p>
