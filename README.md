@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can see through others only when we can see through ourselves.</p>
+<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
 
-<p>- Bruce Lee</p>
+<p>- Robin Williams</p>
