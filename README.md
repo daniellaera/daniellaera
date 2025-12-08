@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners never quit and quitters never win.</p>
+<p>Do it with passion, or not at all.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Rosa Nouchette Carey</p>
