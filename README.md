@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
+<p>Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.</p>
 
-<p>- Denis Waitley</p>
+<p>- Norman Vincent Peale</p>
