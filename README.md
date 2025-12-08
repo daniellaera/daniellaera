@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</p>
 
-<p>- William Faulkner</p>
+<p>- Zig Ziglar</p>
