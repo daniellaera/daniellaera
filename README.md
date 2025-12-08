@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always focus on the front windshield and not the rear view mirror.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised. </p>
 
-<p>- Colin Powell</p>
+<p>- Denis Waitley</p>
