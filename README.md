@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your very silence shows you agree.</p>
+<p>Take away love and our earth is a tomb.</p>
 
-<p>- Euripides</p>
+<p>- Robert Browning</p>
