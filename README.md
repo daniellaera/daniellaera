@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
 
-<p>- Euripides</p>
+<p>- Kamal Ravikant</p>
