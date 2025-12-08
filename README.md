@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take away love and our earth is a tomb.</p>
+<p>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</p>
 
-<p>- Robert Browning</p>
+<p>- Woody Allen</p>
