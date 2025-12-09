@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
+<p>For your life to be great, your faith must be bigger than your fear.</p>
 
-<p>- Tony Robbins</p>
+<p>- Robin Sharma</p>
