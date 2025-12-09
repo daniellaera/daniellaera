@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never waste a minute of your precious life thinking about people you don't like.</p>
+<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
 
-<p>- Celestine Chua</p>
+<p>- Bob Marley</p>
