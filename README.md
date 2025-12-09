@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The salvation of the world lies in the human heart.</p>
+<p>You become stronger with every problem you face and every obstacle you overcome.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Celestine Chua</p>
