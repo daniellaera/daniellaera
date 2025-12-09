@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are, and whatever you do, be in love.</p>
+<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
 
-<p>- Rumi</p>
+<p>- Mark Twain</p>
