@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You become stronger with every problem you face and every obstacle you overcome.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>- Celestine Chua</p>
+<p>- Christopher Reeve</p>
