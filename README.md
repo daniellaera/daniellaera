@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At first dreams seem impossible, then improbable, then inevitable.</p>
+<p>Those who seek the easy way do not seek the true way.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Dogen</p>
