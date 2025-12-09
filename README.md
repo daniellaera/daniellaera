@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </p>
+<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Tony Robbins</p>
