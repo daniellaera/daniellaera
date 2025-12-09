@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who seek the easy way do not seek the true way.</p>
+<p>To earn more you must learn more.</p>
 
-<p>- Dogen</p>
+<p>- Brian Tracy</p>
