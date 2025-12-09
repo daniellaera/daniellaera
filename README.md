@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</p>
+<p>Wherever you are, and whatever you do, be in love.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Rumi</p>
