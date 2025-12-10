@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try all things, hold fast that which is good.</p>
+<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
 
-<p>- John Locke</p>
+<p>- Jeffrey Gitomer</p>
