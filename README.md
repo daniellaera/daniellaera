@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
+<p>For fast-acting relief try slowing down.</p>
 
-<p>- Confucius</p>
+<p>- Lily Tomlin</p>
