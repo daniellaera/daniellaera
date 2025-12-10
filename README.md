@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no self-discovery without pain and loss.</p>
+<p>Death and life have their determined appointments; riches and honors depend upon heaven. </p>
 
-<p>- Anita Krizzan</p>
+<p>- Confucius</p>
