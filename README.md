@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
+<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
 
-<p>- Pema Chodron</p>
+<p>- Richard Bach</p>
