@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Paulo Coelho</p>
