@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best mind-altering drug is the truth.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Marilyn Monroe</p>
