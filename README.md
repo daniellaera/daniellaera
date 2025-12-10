@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you truly love Nature, you will find beauty everywhere. </p>
+<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Kahlil Gibran</p>
