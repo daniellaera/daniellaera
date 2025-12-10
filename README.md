@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
+<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Pema Chodron</p>
