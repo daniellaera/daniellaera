@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't earn loyalty in a day. You earn loyalty day-by-day.</p>
+<p>Seek not the good in external things;seek it in yourselves.</p>
 
-<p>- Jeffrey Gitomer</p>
+<p>- Epictetus</p>
