@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Persistence is very important. You should not give up unless you are forced to give up.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>- Elon Musk</p>
+<p>- Soren Kierkegaard</p>
