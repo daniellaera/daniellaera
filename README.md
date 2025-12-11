@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Goodness is the only investment that never fails.</p>
+<p>Better a diamond with a flaw than a pebble without one.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Chinese Proverb</p>
