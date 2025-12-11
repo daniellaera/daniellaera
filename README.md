@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no self-discovery without pain and loss.</p>
+<p>There are no mistakes in life, only lessons.</p>
 
-<p>- Anita Krizzan</p>
+<p>- Robin Sharma</p>
