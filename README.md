@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>Success is liking yourself, liking what you do, and liking how you do it.</p>
 
-<p>- Robin Sharma</p>
+<p>- Maya Angelou</p>
