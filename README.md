@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
+<p>Play your part in life, but never forget that it is only a role.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Paramahansa Yogananda</p>
