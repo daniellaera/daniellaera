@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never stand begging for that which you have the power to earn.</p>
+<p>Champions keep playing until they get it right.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Billie Jean King</p>
