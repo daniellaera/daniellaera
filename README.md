@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honor is the foundation of courage.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Zen Proverb</p>
