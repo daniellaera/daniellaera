@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better a diamond with a flaw than a pebble without one.</p>
+<p>Never trust he who trusts everyone.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Carlos Ruiz Zafon</p>
