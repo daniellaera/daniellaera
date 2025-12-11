@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no mistakes in life, only lessons.</p>
+<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
 
-<p>- Robin Sharma</p>
+<p>- Wayne Gretzky</p>
