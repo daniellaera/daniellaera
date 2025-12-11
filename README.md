@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.</p>
 
-<p>- George Eliot</p>
+<p>- Thich Nhat Hanh</p>
