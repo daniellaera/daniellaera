@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you aren't sure which way to do something, do it both ways and see which works better.</p>
+<p>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</p>
 
-<p>- John Carmack</p>
+<p>- Maya Angelou</p>
