@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is one long process of getting tired.</p>
+<p>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</p>
 
-<p>- Samuel Butler</p>
+<p>- T.S. Eliot</p>
