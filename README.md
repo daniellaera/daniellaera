@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whoever is happy will make others happy too.</p>
+<p>Discipline is the bridge between goals and accomplishment.</p>
 
-<p>- Anne Frank</p>
+<p>- Jim Rohn</p>
