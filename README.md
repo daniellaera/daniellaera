@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- Jim Rohn</p>
+<p>- Beverly Sills</p>
