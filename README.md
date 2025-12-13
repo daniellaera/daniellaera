@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest deception men suffer is from their own opinions.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Mark Manson</p>
