@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man must use what he has, not hope for what is not.</p>
+<p>Misfortune shows those who are not really friends.</p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Aristotle</p>
