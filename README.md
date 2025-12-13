@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Dr. Seuss</p>
