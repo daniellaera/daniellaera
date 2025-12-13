@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life itself is the most wonderful fairy tale.</p>
+<p>The only thing new in the world is the history you do not know.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Harry S. Truman</p>
