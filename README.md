@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Leonardo da Vinci</p>
