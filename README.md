@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are willing to believe anything other than the truth.</p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Henry David Thoreau</p>
