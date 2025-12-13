@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>Freeing oneself from words is liberation. </p>
 
-<p>- Samuel Beckett</p>
+<p>- Bodhidharma</p>
