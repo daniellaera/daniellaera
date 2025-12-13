@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.</p>
+<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Alan Watts</p>
