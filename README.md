@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great deeds are usually wrought at great risks.</p>
+<p>Life itself is the most wonderful fairy tale.</p>
 
-<p>- Herodotus</p>
+<p>- Hans Christian Andersen</p>
