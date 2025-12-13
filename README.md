@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
+<p>Man must use what he has, not hope for what is not.</p>
 
-<p>- Dr. Seuss</p>
+<p>- G.I. Gurdjieff</p>
