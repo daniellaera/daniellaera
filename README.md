@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatness comes from living with purpose and passion.</p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>- Ralph Marston</p>
+<p>- Herodotus</p>
