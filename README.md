@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing in the world worse than being talked about, and that is not being talked about. </p>
+<p>Actions are the seeds of fate. Deeds grow into destiny.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Harry S. Truman</p>
