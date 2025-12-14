@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools resist. The wise embrace.</p>
+<p>Don't talk about what you have done or what you are going to do.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Thomas Jefferson</p>
