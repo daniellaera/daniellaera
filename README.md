@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To some degree, you control your life by controlling your time.</p>
+<p>Winning isn't everything, but wanting to win is.</p>
 
-<p>- Conrad Hilton</p>
+<p>- Vince Lombardi</p>
