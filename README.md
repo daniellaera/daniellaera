@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
+<p>Don't listen to the person who has the answers; listen to the person who has the questions.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Albert Einstein</p>
