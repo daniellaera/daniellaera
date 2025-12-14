@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a succession of lessons, which must be lived to be understood.</p>
+<p>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Lao Tzu</p>
