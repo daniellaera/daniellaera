@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
+<p>The more perfect a person is on the outside, the more demons they have on the inside.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Sigmund Freud</p>
