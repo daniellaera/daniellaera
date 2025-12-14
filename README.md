@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is particularly hard if you divide it into small jobs. </p>
+<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
 
-<p>- Henry Ford</p>
+<p>- Ayn Rand</p>
