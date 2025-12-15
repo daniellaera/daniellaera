@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
+<p>Believe and you're halfway there.</p>
 
-<p>- Shahir Zag</p>
+<p>- Harry S. Truman</p>
