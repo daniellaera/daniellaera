@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
+<p>Keep your eyes on the stars, but remember to keep your feet on the ground.</p>
 
 <p>- Theodore Roosevelt</p>
