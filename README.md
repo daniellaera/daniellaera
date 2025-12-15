@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
+<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Shahir Zag</p>
