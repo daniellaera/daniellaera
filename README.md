@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- D. H. Lawrence</p>
