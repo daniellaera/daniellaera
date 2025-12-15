@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you stop questioning, you stop learning.</p>
+<p>You cannot have a positive life and a negative mind.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Joyce Meyer</p>
