@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.</p>
+<p>It is the power of thought that gives man power over nature.</p>
 
-<p>- Colin Powell</p>
+<p>- Hans Christian Andersen</p>
