@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to go slowly. Be afraid of stopping.</p>
+<p>Everyone wants to go to Heaven, but no one wants to die.</p>
 
-<p>- Zen Proverb</p>
+<p>- Robert Kiyosaki</p>
