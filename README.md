@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
+<p>People are not disturbed by things, but by the views they take of them.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Epictetus</p>
