@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus is a matter of deciding what things you're not going to do.</p>
+<p>You are not only responsible for what you say, but also for what you do not say. </p>
 
-<p>- John Carmack</p>
+<p>- Martin Luther</p>
