@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are not disturbed by things, but by the views they take of them.</p>
+<p>The degree of responsibility you take for your life determines how much change you can create in it.</p>
 
-<p>- Epictetus</p>
+<p>- Celestine Chua</p>
