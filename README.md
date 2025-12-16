@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I defeat my enemies when I make them my friends.</p>
+<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
 
-<p>- Dalai Lama</p>
+<p>- Ralph Marston</p>
