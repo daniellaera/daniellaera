@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not only responsible for what you say, but also for what you do not say. </p>
+<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
 
-<p>- Martin Luther</p>
+<p>- Ray Bradbury</p>
