@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Samuel Butler</p>
+<p>- Stephen King</p>
