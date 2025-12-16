@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What is a friend? A single soul dwelling in two bodies.</p>
+<p>Instead of being intimidated by the limitations, be inspired to find new ways around them.</p>
 
-<p>- Aristotle</p>
+<p>- Ralph Marston</p>
