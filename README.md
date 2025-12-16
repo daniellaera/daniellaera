@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Soren Kierkegaard</p>
