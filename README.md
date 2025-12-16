@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fashion fades, only style remains the same.</p>
+<p>The secret of happiness is not in doing what you like but in liking what you have to do.</p>
 
-<p>- Coco Chanel</p>
+<p>- Sathya Sai Baba</p>
