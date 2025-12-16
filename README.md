@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can only be understood backwards; but it must be lived forwards.</p>
+<p>Not everything that weighs you down is yours to carry.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Unknown</p>
