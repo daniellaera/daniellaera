@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
 
-<p>- Lin Yutang</p>
+<p>- F. Scott Fitzgerald</p>
