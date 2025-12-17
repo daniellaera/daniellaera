@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Within every desire is the mechanics of its fulfillment.</p>
+<p>No man becomes rich unless he enriches others.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Andrew Carnegie</p>
