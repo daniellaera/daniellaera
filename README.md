@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Self-knowledge is the beginning of self-correction.</p>
+<p>Work is always an antidote to depression.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Eleanor Roosevelt</p>
