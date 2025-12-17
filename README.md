@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest room in the world is the room for improvement.</p>
+<p>The more I want to get something done, the less I call it work.</p>
 
-<p>- Unknown</p>
+<p>- Richard Bach</p>
