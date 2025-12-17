@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enthusiasm makes up for a host of deficiencies.</p>
+<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
 
-<p>- Barack Obama</p>
+<p>- Theodore Roosevelt</p>
