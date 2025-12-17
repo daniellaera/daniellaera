@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the practice of tolerance, one's enemy is the best teacher.</p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>- Dalai Lama</p>
+<p>- Norman Vincent Peale</p>
