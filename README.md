@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.</p>
+<p>The more you take responsibility for your past and present, the more you are able to create the future you seek.</p>
 
-<p>- Robert Collier</p>
+<p>- Celestine Chua</p>
