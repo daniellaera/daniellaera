@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more I want to get something done, the less I call it work.</p>
+<p>Circumstances do not make the man, they reveal him.</p>
 
-<p>- Richard Bach</p>
+<p>- James Allen</p>
