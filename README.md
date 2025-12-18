@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your spirit is the true shield.</p>
+<p>Courage is not having the strength to go on; it is going on when you don't have the strength.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Theodore Roosevelt</p>
