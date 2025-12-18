@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you can imagine is real.</p>
+<p>Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Orison Swett Marden</p>
