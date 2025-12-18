@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The salvation of the world lies in the human heart.</p>
+<p>The essence of the Way is detachment.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Bodhidharma</p>
