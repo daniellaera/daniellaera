@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Dan Millman</p>
