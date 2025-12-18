@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Naval Ravikant</p>
