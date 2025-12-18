@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is useless to attempt to reason a man out of a thing he was never reasoned into.</p>
+<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Roy T. Bennett</p>
