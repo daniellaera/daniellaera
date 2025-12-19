@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
+<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Nicolas Chamfort</p>
