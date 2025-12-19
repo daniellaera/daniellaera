@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just do what must be done. This may not be happiness but it is greatness.</p>
+<p>We have a choice everyday regarding the attitude we will embrace for that day.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Charles Swindoll</p>
