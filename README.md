@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</p>
+<p>The strongest and sweetest songs yet remain to be sung.</p>
 
-<p>- Charles Dickens</p>
+<p>- Walt Whitman</p>
