@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
+<p>I succeeded by saying what everyone else is thinking.</p>
 
-<p>- Unknown</p>
+<p>- Joan Rivers</p>
