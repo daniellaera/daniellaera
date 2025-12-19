@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Theodore Roosevelt</p>
