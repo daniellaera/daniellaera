@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your spirit is the true shield.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Naval Ravikant</p>
