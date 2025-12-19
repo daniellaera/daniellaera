@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only man who never makes mistakes is the man who never does anything.</p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Eric Hoffer</p>
