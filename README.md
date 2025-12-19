@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</p>
+<p>Just do what must be done. This may not be happiness but it is greatness.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- George Bernard Shaw</p>
