@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One's best success comes after their greatest disappointments.</p>
+<p>A lie can travel half way around the world while the truth is putting on its shoes.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Mark Twain</p>
