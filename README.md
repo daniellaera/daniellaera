@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beauty is not in the face; beauty is a light in the heart.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Unknown</p>
