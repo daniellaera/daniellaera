@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man becomes rich unless he enriches others.</p>
+<p>It does not matter how slowly you go so long as you do not stop.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Confucius</p>
