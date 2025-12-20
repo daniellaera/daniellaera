@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you lose yourself in something bigger than yourself, the more energy you will have.</p>
+<p>Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Pema Chodron</p>
