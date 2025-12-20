@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
+<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
 
-<p>- Robert Greene</p>
+<p>- Eleanor Roosevelt</p>
