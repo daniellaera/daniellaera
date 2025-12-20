@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</p>
+<p>One's best success comes after their greatest disappointments.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Henry Ward Beecher</p>
