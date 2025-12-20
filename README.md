@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
+<p>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Robert Greene</p>
