@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It does not matter how slowly you go so long as you do not stop.</p>
+<p>It is amazing what you can accomplish if you do not care who gets the credit.</p>
 
-<p>- Confucius</p>
+<p>- Harry S. Truman</p>
