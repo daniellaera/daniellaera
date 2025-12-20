@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be pushed by your problems; be led by your dreams.</p>
+<p>When people are free to do as they please, they usually imitate each other.</p>
 
-<p>- Unknown</p>
+<p>- Eric Hoffer</p>
