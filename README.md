@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all like the bright moon, we still have our darker side.  </p>
+<p>While we may not be able to control all that happens to us, we can control what happens inside us.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Benjamin Franklin</p>
