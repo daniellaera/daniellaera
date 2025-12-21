@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What would life be if we had no courage to attempt anything? </p>
+<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Thomas Jefferson</p>
