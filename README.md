@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When angry count to ten before you speak. If very angry, count to one hundred.</p>
+<p>You can live a whole life time never being awake.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Dan Millman</p>
