@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fool me once, shame on you; fool me twice, shame on me. </p>
+<p>We are all like the bright moon, we still have our darker side.  </p>
 
-<p>- Chinese Proverb</p>
+<p>- Kahlil Gibran</p>
