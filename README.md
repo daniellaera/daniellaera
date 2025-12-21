@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
 
-<p>- Rumi</p>
+<p>- Carl Jung</p>
