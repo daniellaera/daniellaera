@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man is happy who does not think himself so.</p>
+<p>When you stop questioning, you stop learning.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Lolly Daskal</p>
