@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want more luck, take more chances.</p>
+<p>Concentrated power has always been the enemy of liberty.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ronald Reagan</p>
