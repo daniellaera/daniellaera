@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>If you want more luck, take more chances.</p>
 
-<p>- Betty White</p>
+<p>- Brian Tracy</p>
