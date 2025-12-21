@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All power is from within and therefore under our control.</p>
+<p>Happiness depends upon ourselves.</p>
 
-<p>- Robert Collier</p>
+<p>- Aristotle</p>
