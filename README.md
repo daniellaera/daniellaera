@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Concentrated power has always been the enemy of liberty.</p>
+<p>What would life be if we had no courage to attempt anything? </p>
 
-<p>- Ronald Reagan</p>
+<p>- Vincent van Gogh</p>
