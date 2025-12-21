@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends upon ourselves.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>- Aristotle</p>
+<p>- Betty White</p>
