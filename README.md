@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
+<p>Let not your mind run on what you lack as much as on what you have already.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Marcus Aurelius</p>
