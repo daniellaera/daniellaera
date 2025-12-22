@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better late than never.</p>
+<p>What is a friend? A single soul dwelling in two bodies.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Aristotle</p>
