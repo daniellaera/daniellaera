@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let not your mind run on what you lack as much as on what you have already.</p>
+<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Unknown</p>
