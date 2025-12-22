@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not what you think you are, You are not what others think you are, You are what you think others think you are.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>- Unknown</p>
+<p>- Leonardo da Vinci</p>
