@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A little progress each day adds up to big results.</p>
+<p>You can have it all. You just can't have it all at once. </p>
 
-<p>- Unknown</p>
+<p>- Oprah Winfrey</p>
