@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who possesses most must be most afraid of loss.</p>
+<p>A little progress each day adds up to big results.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Unknown</p>
