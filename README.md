@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>The best way out is always through.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Robert Frost</p>
