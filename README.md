@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Stephen King</p>
