@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
+<p>Those who dream by day are cognizant of many things which escape those who dream only by night.</p>
 
-<p>- Sydney Smith</p>
+<p>- Vincent van Gogh</p>
