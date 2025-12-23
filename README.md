@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The idea of ourselves is our escape from the fact of what we really are.</p>
+<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Unknown</p>
