@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>Trust, like the soul, never returns once it is gone.</p>
 
-<p>- Jim Rohn</p>
+<p>- Publilius Syrus</p>
