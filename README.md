@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
+<p>Remember that the best relationship is one in which your love for each other exceeds your need for each other.</p>
 
-<p>- John Eliot</p>
+<p>- Dalai Lama</p>
