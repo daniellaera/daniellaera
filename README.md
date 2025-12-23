@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember the entrance to the sanctuary is inside you.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>- Rumi</p>
+<p>- D. H. Lawrence</p>
