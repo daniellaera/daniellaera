@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul is neither born, and nor does it die.</p>
+<p>Sometimes things become possible if we want them bad enough.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- T.S. Eliot</p>
