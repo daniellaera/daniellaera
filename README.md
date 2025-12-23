@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
+<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
 
-<p>- Unknown</p>
+<p>- Chinese Proverb</p>
