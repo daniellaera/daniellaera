@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
+<p>The difference between winning and losing is most often not quitting.</p>
 
-<p>- Socrates</p>
+<p>- Walt Disney</p>
