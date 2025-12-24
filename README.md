@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>The only place where success comes before work is in the dictionary.</p>
 
-<p>- Unknown</p>
+<p>- Vidal Sassoon</p>
