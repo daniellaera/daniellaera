@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dream is free, but the hustle is sold separately.</p>
+<p>Preoccupied with a single leaf you won't see the tree.</p>
 
-<p>- Steve Harvey</p>
+<p>- Unknown</p>
