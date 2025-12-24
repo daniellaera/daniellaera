@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be hated for who I am than loved for who I'm not.  </p>
+<p>Never let the fear of striking out keep you from playing the game.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Babe Ruth</p>
