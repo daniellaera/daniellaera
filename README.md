@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</p>
+<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
 
-<p>- Og Mandino</p>
+<p>- Napoleon Hill</p>
