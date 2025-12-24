@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trusting our intuition often saves us from disaster. </p>
+<p>A wise man will be master of his mind, a fool will be its slave.</p>
 
-<p>- Anne Wilson Schaef</p>
+<p>- Publilius Syrus</p>
