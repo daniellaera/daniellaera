@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
+<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Roy T. Bennett</p>
