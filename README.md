@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only place where success comes before work is in the dictionary.</p>
+<p>No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Richard Bach</p>
