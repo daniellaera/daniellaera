@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>The dream is free, but the hustle is sold separately.</p>
 
-<p>- Beverly Sills</p>
+<p>- Steve Harvey</p>
