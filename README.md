@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your commitments will determine the course of your life.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>- Ralph Marston</p>
+<p>- Earl Nightingale</p>
