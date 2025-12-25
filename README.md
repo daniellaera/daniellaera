@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Carl Jung</p>
