@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judge a man by his questions rather than his answers.</p>
+<p>The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.</p>
 
-<p>- Voltaire</p>
+<p>- Marcus Aurelius</p>
