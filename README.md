@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
+<p>Judge a man by his questions rather than his answers.</p>
 
-<p>- William James</p>
+<p>- Voltaire</p>
