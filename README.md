@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The majority of what you want will come from the minority of what you do.</p>
+<p>Work harder on yourself than you do on your job.</p>
 
-<p>- Gary Keller</p>
+<p>- Jim Rohn</p>
