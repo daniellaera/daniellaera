@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Until you make the unconscious conscious, it will direct your life and you will call it fate.</p>
+<p>All has not been said and never will be.</p>
 
-<p>- Carl Jung</p>
+<p>- Samuel Beckett</p>
