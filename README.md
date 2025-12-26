@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Euripides</p>
+<p>- Marilyn Monroe</p>
