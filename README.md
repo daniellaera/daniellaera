@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you can imagine is real.</p>
+<p>You have to make time, even for something as universal as staring at the stars.</p>
 
-<p>- Pablo Picasso</p>
+<p>- W.P. Kinsella</p>
