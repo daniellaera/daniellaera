@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
+<p>Question everything. Learn something. Answer nothing.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Euripides</p>
