@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to make time, even for something as universal as staring at the stars.</p>
+<p>Thinking is the hardest work there is. That is why so few people engage in it.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Robert Kiyosaki</p>
