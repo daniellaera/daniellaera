@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's just a bad day, not a bad life.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Socrates</p>
