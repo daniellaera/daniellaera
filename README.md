@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be true to yourself, help others, make each day your masterpiece</p>
+<p>It's just a bad day, not a bad life.</p>
 
-<p>- John Wooden</p>
+<p>- Mary Engelbreit</p>
