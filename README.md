@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men are equal before fish.</p>
+<p>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Epictetus</p>
