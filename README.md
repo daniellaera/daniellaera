@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your home is where your thoughts find peace.</p>
+<p>Darkness is the absence of light.</p>
 
-<p>- Zen Proverb</p>
+<p>- Kamal Ravikant</p>
