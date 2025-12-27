@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Show me a hero, and I'll write you a tragedy.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Dan Millman</p>
