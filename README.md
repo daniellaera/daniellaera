@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
+<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
 
-<p>- Napoleon Hill</p>
+<p>- John Lennon</p>
