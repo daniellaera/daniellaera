@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is energy. Feel the power that comes from focusing on what excites you. </p>
+<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Charles Spurgeon</p>
