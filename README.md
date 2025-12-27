@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
+<p>The best way out is always through.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Robert Frost</p>
