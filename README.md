@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.</p>
+<p>Everyone must choose one of two pains: The pain of discipline or the pain of regret.</p>
 
-<p>- Heraclitus</p>
+<p>- Jim Rohn</p>
