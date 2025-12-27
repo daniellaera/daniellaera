@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way out is always through.</p>
+<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
 
-<p>- Robert Frost</p>
+<p>- Napoleon Hill</p>
