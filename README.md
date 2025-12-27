@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>Mastering others is strength, mastering yourself is true power.</p>
 
-<p>- Dan Millman</p>
+<p>- Lao Tzu</p>
