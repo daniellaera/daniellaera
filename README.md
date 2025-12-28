@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment is a fresh beginning.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Marcus Aurelius</p>
