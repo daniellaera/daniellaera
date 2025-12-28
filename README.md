@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
+<p>We can change our lives. We can do, have, and be exactly what we wish.</p>
 
-<p>- Anne Frank</p>
+<p>- Tony Robbins</p>
