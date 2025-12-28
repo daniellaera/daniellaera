@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you cannot understand something, then you have understood it incorrectly.</p>
+<p>Never take your position for granted and never let any favors you receive go to your head.</p>
 
-<p>- Kabir</p>
+<p>- Robert Greene</p>
