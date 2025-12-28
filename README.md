@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never take your position for granted and never let any favors you receive go to your head.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>- Robert Greene</p>
+<p>- Anne Frank</p>
