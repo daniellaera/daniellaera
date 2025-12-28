@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.</p>
+<p>If you cannot understand something, then you have understood it incorrectly.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Kabir</p>
