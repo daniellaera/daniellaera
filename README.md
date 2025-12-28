@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is richest who is content with the least, for content is the wealth of nature.</p>
+<p>Every moment is a fresh beginning.</p>
 
-<p>- Socrates</p>
+<p>- T.S. Eliot</p>
