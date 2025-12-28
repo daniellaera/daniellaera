@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No man becomes rich unless he enriches others.</p>
+<p>I no doubt deserved my enemies, but I don't believe I deserved my friends.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Walt Whitman</p>
