@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</p>
+<p>No man becomes rich unless he enriches others.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Andrew Carnegie</p>
