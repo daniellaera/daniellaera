@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest challenge after success is shutting up about it.</p>
+<p>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</p>
 
-<p>- Criss Jami</p>
+<p>- Eric Hoffer</p>
