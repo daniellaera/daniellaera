@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every drop in the ocean counts. </p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>- Yoko Ono</p>
+<p>- Peter Drucker</p>
