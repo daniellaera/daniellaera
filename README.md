@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man suffers only because he takes seriously what the gods made for fun.</p>
+<p>The quality of your life is determined by the quality of your thoughts.</p>
 
-<p>- Alan Watts</p>
+<p>- Unknown</p>
