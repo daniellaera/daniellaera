@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Desire for the fruits of work must never be your motive in working.</p>
+<p>Every drop in the ocean counts. </p>
 
-<p>- Bhagavad Gita</p>
+<p>- Yoko Ono</p>
