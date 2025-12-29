@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Much learning does not teach understanding.</p>
+<p>Rudeness is the weak man's imitation of strength.</p>
 
-<p>- Heraclitus</p>
+<p>- Eric Hoffer</p>
