@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of your thoughts.</p>
+<p>Much learning does not teach understanding.</p>
 
-<p>- Unknown</p>
+<p>- Heraclitus</p>
