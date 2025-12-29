@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot find peace by avoiding life.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Oprah Winfrey</p>
