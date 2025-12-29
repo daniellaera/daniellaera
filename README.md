@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was wise enough to never grow up while fooling most people into believing I had. </p>
+<p>He who hesitates is a damned fool.</p>
 
-<p>- Margaret Mead</p>
+<p>- Mae West</p>
