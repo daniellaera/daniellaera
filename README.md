@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't wait for inspiration. You have to go after it with a club. </p>
+<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
 
-<p>- Jack London</p>
+<p>- John Wooden</p>
