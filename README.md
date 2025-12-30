@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The giving of love is an education in itself.</p>
+<p>Enjoy when you can, and endure when you must.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Johann Wolfgang von Goethe</p>
