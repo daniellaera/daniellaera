@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>To seek greatness is the only righteous vengeance.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Criss Jami</p>
