@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is best to begin at the beginning.</p>
+<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Shunryu Suzuki</p>
