@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be great is to be misunderstood.</p>
+<p>What we dwell on is who we become.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Oprah Winfrey</p>
