@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is not an act, it is a habit.</p>
+<p>The grass is greener where you water it.</p>
 
-<p>- Aristotle</p>
+<p>- Neil Barringham</p>
