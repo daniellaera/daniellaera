@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you do today can improve all your tomorrows.</p>
+<p>Reality is nothing but a collective hunch.</p>
 
-<p>- Ralph Marston</p>
+<p>- Lily Tomlin</p>
