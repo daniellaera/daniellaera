@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is not a gift. It is an achievement.</p>
+<p>For all evils there are two remedies - time and silence.</p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Alexandre Dumas</p>
