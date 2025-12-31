@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must embrace pain and burn it as fuel for our journey.</p>
+<p>Opportunities multiply as they are seized.</p>
 
-<p>- Kenji Miyazawa</p>
+<p>- Sun Tzu</p>
