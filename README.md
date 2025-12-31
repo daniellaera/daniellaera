@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Action is the foundational key to all success.</p>
+<p>The future is not a gift. It is an achievement.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Robert F. Kennedy</p>
