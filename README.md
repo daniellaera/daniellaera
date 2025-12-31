@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The clock indicates the moment...but what does eternity indicate?</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>- Walt Whitman</p>
+<p>- Naval Ravikant</p>
