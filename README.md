@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The grass is greener where you water it.</p>
+<p>Adventure is not outside man; it is within.</p>
 
-<p>- Neil Barringham</p>
+<p>- George Eliot</p>
