@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great loves too must be endured.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>- Coco Chanel</p>
+<p>- Ralph Marston</p>
