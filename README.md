@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just do what must be done. This may not be happiness but it is greatness.</p>
+<p>Action is the foundational key to all success.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Pablo Picasso</p>
