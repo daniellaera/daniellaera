@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Mark Twain</p>
+<p>- T.S. Eliot</p>
