@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Niccolo Machiavelli</p>
