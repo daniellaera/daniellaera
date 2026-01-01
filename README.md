@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
+<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Mark Twain</p>
