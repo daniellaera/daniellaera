@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All men are equal before fish.</p>
+<p>When you have to make a choice and don't make it, that is in itself a choice.</p>
 
-<p>- Herbert Hoover</p>
+<p>- William James</p>
