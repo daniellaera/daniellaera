@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>I admire those who do good and expect nothing in return.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Roy T. Bennett</p>
