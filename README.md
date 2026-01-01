@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by acceptance of the past, can you alter it.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Epictetus</p>
