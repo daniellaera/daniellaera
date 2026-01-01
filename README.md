@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</p>
+<p>The art of being wise is knowing what to overlook.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- William James</p>
