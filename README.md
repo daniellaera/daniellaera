@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wisdom of life consists in the elimination of the nonessentials.</p>
+<p>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</p>
 
-<p>- Lin Yutang</p>
+<p>- Og Mandino</p>
