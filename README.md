@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not titles that honour men, but men that honour titles.</p>
+<p>The key to success is failure.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Michael Jordan</p>
