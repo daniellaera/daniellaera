@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.</p>
+<p>Don't try to be young. Just open your mind. Stay interested in stuff.</p>
 
-<p>- Robert Frost</p>
+<p>- Betty White</p>
