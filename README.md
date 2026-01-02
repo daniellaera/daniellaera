@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>Faith is taking the first step even when you don't see the whole staircase.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Martin Luther King, Jr.</p>
