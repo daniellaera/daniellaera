@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>- Epictetus</p>
+<p>- Eckhart Tolle</p>
