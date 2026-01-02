@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
+<p>Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Dale Carnegie</p>
