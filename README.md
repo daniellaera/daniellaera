@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll get more from being a peacemaker than a warrior.</p>
+<p>Be true to yourself, help others, make each day your masterpiece</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- John Wooden</p>
