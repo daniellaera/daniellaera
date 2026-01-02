@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you win, say nothing, when you lose say less.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Samuel Butler</p>
