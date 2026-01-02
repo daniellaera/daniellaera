@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficult roads often lead to beautiful destinations.</p>
+<p>When you win, say nothing, when you lose say less.</p>
 
-<p>- Unknown</p>
+<p>- Wayne Gretzky</p>
