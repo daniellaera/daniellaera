@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can only lose something that you have, but you cannot lose something that you are.</p>
+<p>He who permits himself to tell a lie once, finds it much easier to do it the second time.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Thomas Jefferson</p>
