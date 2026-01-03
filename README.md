@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A path is made by walking on it.</p>
+<p>The salvation of the world lies in the human heart.</p>
 
-<p>- Zhuangzi</p>
+<p>- Vaclav Havel</p>
