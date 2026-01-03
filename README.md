@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
+<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Samuel Beckett</p>
