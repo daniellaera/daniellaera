@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. </p>
+<p>People become attached to their burdens sometimes more than the burdens are attached to them.</p>
 
-<p>- Samuel Beckett</p>
+<p>- George Bernard Shaw</p>
