@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
+<p>When you're the only sane person, you look like the only insane person.</p>
 
-<p>- Zhuangzi</p>
+<p>- Criss Jami</p>
