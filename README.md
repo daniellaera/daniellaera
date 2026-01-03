@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The guest will judge better of a feast than the cook.</p>
+<p>The essence of the Way is detachment.</p>
 
-<p>- Aristotle</p>
+<p>- Bodhidharma</p>
