@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
+<p>If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Unknown</p>
