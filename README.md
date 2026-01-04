@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>- Sun Tzu</p>
+<p>- Stephen King</p>
