@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Weeds are flowers too, once you get to know them.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>- A.A. Milne</p>
+<p>- Mary Engelbreit</p>
