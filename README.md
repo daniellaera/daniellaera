@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience is the sure sign of a bad memory.</p>
+<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
 
-<p>- Mark Twain</p>
+<p>- Emily Dickinson</p>
