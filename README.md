@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do two things at once is to do neither.</p>
+<p>The truth is simple. If it was complicated, everyone would understand it.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Walt Whitman</p>
