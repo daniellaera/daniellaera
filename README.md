@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future is not a gift. It is an achievement.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand. </p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Confucius</p>
