@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not a skill. It is an attitude. </p>
+<p>Hold yourself responsible for a higher standard than anybody else expects of you.</p>
 
-<p>- Ralph Marston</p>
+<p>- Henry Ward Beecher</p>
