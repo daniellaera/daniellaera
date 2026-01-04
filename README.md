@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not engaging in ignorance is wisdom. </p>
+<p>The attempt to escape from pain, is what creates more pain.</p>
 
-<p>- Bodhidharma</p>
+<p>- Gabor Mate</p>
