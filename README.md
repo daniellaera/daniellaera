@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
+<p>To be fully alive is to feel that everything is possible.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Eric Hoffer</p>
