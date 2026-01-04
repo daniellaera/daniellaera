@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dreamers are the saviors of the worlds.</p>
+<p>Wheels of justice grind slow but grind fine.</p>
 
-<p>- James Allen</p>
+<p>- Sun Tzu</p>
