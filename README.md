@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The attempt to escape from pain, is what creates more pain.</p>
+<p>Be kind, for everyone you meet is fighting a harder battle.</p>
 
-<p>- Gabor Mate</p>
+<p>- Plato</p>
