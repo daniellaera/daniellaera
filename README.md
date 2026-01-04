@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final, failure is never fatal. It's courage that counts.</p>
+<p>The dreamers are the saviors of the worlds.</p>
 
-<p>- John Wooden</p>
+<p>- James Allen</p>
