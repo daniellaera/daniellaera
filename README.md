@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The soul should always stand ajar, ready to welcome the ecstatic experience.</p>
+<p>Weeds are flowers too, once you get to know them.</p>
 
-<p>- Emily Dickinson</p>
+<p>- A.A. Milne</p>
