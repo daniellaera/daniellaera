@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be fully alive is to feel that everything is possible.</p>
+<p>If you want peace, accept. If you want suffering, expect.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Maxime Lagace</p>
