@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more we have the less we own.</p>
+<p>It is not uncommon for people to spend their whole life waiting to start living.</p>
 
-<p>- Meister Eckhart</p>
+<p>- Eckhart Tolle</p>
