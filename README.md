@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty your mind, be formless, shapeless, like water.</p>
+<p>Humans and prosperity never endure side by side for long.</p>
 
-<p>- Bruce Lee</p>
+<p>- Herodotus</p>
