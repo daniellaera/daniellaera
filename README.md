@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
 
-<p>- Herodotus</p>
+<p>- John Tukey</p>
