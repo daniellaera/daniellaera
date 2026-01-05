@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A strong man overcomes an obstacle, a wise man goes the whole way.</p>
+<p>It is easy to discover what another has discovered before.</p>
 
-<p>- Zen Proverb</p>
+<p>- Christopher Columbus</p>
