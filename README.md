@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>- John Tukey</p>
+<p>- Naval Ravikant</p>
