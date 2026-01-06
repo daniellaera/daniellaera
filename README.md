@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I love fools' experiments. I am always making them.</p>
+<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
 
-<p>- Charles Darwin</p>
+<p>- D. H. Lawrence</p>
