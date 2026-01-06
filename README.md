@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>We can spend our whole lives escaping from the monsters of our minds.</p>
 
-<p>- Robin Williams</p>
+<p>- Pema Chodron</p>
