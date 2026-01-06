@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not a skill. It is an attitude. </p>
+<p>If you can handle rejection, you'll learn to get everything you want.</p>
 
-<p>- Ralph Marston</p>
+<p>- Tony Robbins</p>
