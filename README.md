@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>You're only given a little spark of madness. You mustn't lose it.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Robin Williams</p>
