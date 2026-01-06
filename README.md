@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is not about possession. Love is about appreciation.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Osho</p>
+<p>- Steve Maraboli</p>
