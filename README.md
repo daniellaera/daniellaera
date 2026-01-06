@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>See what you're doing wrong, laugh at it, change and do better.</p>
+<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Alan Watts</p>
