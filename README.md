@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll see it when you believe it. </p>
+<p>See what you're doing wrong, laugh at it, change and do better.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Spencer Johnson</p>
