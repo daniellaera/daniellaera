@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No duty is more urgent than that of returning thanks.</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>- James Allen</p>
+<p>- Robin Sharma</p>
