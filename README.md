@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From error to error one discovers the entire truth.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Eckhart Tolle</p>
