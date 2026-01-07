@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ability is a poor man's wealth.</p>
+<p>Walk slowly but never walk backward.</p>
 
-<p>- John Wooden</p>
+<p>- Unknown</p>
