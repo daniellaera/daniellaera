@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Still your waters.</p>
+<p>It is literally true that you can succeed best and quickest by helping others succeed.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Napoleon Hill</p>
