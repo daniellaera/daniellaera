@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </p>
+<p>Be regular and orderly in your life, so that you may be violent and original in your work.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Gustave Flaubert</p>
