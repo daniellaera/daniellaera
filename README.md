@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.</p>
+<p>The greatest test of courage on earth is to bear defeat without losing heart.</p>
 
-<p>- Colin Powell</p>
+<p>- Robert Greene</p>
