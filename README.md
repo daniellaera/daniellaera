@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every strike brings me closer to the next home run. </p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Babe Ruth</p>
+<p>- Stephen King</p>
