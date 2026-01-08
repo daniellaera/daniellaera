@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tradition is the illusion of permanence. </p>
+<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
 
-<p>- Woody Allen</p>
+<p>- Unknown</p>
