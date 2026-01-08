@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest glory is not in never falling, but in rising every time we fall. </p>
+<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
 
-<p>- Confucius</p>
+<p>- George Bernard Shaw</p>
