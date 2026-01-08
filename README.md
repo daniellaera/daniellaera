@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to value yourself, which means: fight for your happiness.</p>
+<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
 
-<p>- Ayn Rand</p>
+<p>- Morgan Wootten</p>
