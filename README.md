@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
+<p>The art of being happy lies in the power of extracting happiness from common things.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Henry Ward Beecher</p>
