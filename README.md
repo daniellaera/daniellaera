@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your vision will become clear only when you can look into your own heart.</p>
+<p>You must either modify your dreams or magnify your skills.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Jim Rohn</p>
