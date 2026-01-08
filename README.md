@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.</p>
+<p>If we have no peace, it is because we have forgotten that we belong to each other.</p>
 
-<p>- Unknown</p>
+<p>- Mother Teresa</p>
