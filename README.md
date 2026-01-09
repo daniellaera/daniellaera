@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From error to error one discovers the entire truth.</p>
+<p>To a mind that is still, the entire universe surrenders.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Zhuangzi</p>
