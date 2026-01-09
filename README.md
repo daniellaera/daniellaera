@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judge a man by his questions rather than his answers.</p>
+<p>There can be no deep disappointment where there is not deep love.</p>
 
-<p>- Voltaire</p>
+<p>- Martin Luther King, Jr.</p>
