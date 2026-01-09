@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the average of the five people you spend the most time with.</p>
+<p>From error to error one discovers the entire truth.</p>
 
-<p>- Jim Rohn</p>
+<p>- Sigmund Freud</p>
