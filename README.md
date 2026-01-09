@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There can be no deep disappointment where there is not deep love.</p>
+<p>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Stephen King</p>
