@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Alexander Graham Bell</p>
