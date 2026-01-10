@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
 
-<p>- Samuel Butler</p>
+<p>- Roy T. Bennett</p>
