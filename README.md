@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where words fail, music speaks.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Socrates</p>
