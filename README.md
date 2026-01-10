@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is a puzzle; no need to make sense out of it.</p>
+<p>Some people dream of success, while others wake up and work hard at it.</p>
 
-<p>- Socrates</p>
+<p>- Napoleon Hill</p>
