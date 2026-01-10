@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Repetition does not transform a lie into a truth.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Roy T. Bennett</p>
