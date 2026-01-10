@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>Your neighbor is the man who needs you.</p>
 
-<p>- Barack Obama</p>
+<p>- Elbert Hubbard</p>
