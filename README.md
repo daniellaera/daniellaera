@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True prayer has no set form.</p>
+<p>Embrace the life you have and stop wishing that you could be someone else.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Joyce Meyer</p>
