@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Embrace the life you have and stop wishing that you could be someone else.</p>
+<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Norman Vincent Peale</p>
