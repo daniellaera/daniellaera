@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who can make you believe absurdities can make you commit atrocities. </p>
+<p>Repetition does not transform a lie into a truth.</p>
 
-<p>- Voltaire</p>
+<p>- Franklin D. Roosevelt</p>
