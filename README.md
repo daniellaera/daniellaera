@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Mark Twain</p>
+<p>- Dan Millman</p>
