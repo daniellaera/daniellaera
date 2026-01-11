@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
+<p>Take care of your cents: dollars will take care of themselves.</p>
 
-<p>- Les Brown</p>
+<p>- Thomas Jefferson</p>
