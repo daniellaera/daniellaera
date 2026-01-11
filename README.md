@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not follow the ideas of others, but learn to listen to the voice within yourself.</p>
+<p>Lost Time is never found again.</p>
 
-<p>- Dogen</p>
+<p>- Benjamin Franklin</p>
