@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise learn many things from their enemies.</p>
+<p>True knowledge exists in knowing that you know nothing.</p>
 
-<p>- Aristophanes</p>
+<p>- Socrates</p>
