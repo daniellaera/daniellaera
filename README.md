@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all different. Don't judge, understand instead.</p>
+<p>Why change? Everyone has his own style. When you have found it, you should stick to it.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Audrey Hepburn</p>
