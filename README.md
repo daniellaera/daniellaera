@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</p>
 
-<p>- Aristotle</p>
+<p>- Spencer Johnson</p>
