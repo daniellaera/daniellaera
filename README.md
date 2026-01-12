@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The happiest people in the world are those who feel absolutely terrific about themselves.</p>
+<p>Rather than love, than money, than fame, give me truth.</p>
 
-<p>- Brian Tracy</p>
+<p>- Henry David Thoreau</p>
