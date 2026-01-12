@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life should be touched, not strangled.  </p>
+<p>Unless a man is master of his soul, all other kinds of mastery amount to little.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Theodore Roosevelt</p>
