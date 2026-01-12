@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be mindful. Be grateful. Be positive. Be true. Be kind.</p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Aristotle</p>
