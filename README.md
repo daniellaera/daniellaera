@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>There is nothing quite so tragic as a young cynic.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Maya Angelou</p>
