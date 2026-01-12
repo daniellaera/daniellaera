@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Embrace the life you have and stop wishing that you could be someone else.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Peter A. Cohen</p>
