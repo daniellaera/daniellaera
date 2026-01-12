@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no one giant step that does it. It's a lot of little steps.</p>
+<p>For fast-acting relief try slowing down.</p>
 
-<p>- Peter A. Cohen</p>
+<p>- Lily Tomlin</p>
