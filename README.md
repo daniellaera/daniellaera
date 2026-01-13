@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes good things fall apart so better things can fall together.</p>
+<p>We suffer more often in imagination than in reality.  </p>
 
-<p>- Marilyn Monroe</p>
+<p>- Seneca</p>
