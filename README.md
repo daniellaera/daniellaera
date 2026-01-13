@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
 
-<p>- Steve Jobs</p>
+<p>- Judy Garland</p>
