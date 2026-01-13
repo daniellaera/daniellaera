@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Question everything. Learn something. Answer nothing.</p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>- Euripides</p>
+<p>- Deepak Chopra</p>
