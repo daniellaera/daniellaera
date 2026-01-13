@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</p>
+<p>We need never be ashamed of our tears.</p>
 
-<p>- Laurence J. Peter</p>
+<p>- Charles Dickens</p>
