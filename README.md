@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn to use your emotions to think, not think with your emotions.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Emily Dickinson</p>
