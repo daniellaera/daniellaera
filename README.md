@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Nelson Mandela</p>
