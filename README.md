@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only those who do nothing at all make no mistakes.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Unknown</p>
+<p>- Herbert Hoover</p>
