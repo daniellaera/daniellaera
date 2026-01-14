@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Steve Maraboli</p>
