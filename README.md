@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </p>
+<p>A leader leads by example, not by force.</p>
 
-<p>- Franz Kafka</p>
+<p>- Sun Tzu</p>
