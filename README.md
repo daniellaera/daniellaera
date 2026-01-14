@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words without actions are the assassins of idealism.</p>
+<p>Identify your problems, but give your power and energy to solutions.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Tony Robbins</p>
