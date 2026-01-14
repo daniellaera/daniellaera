@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are free, and that is why you are lost. </p>
+<p>Be a good animal, true to your instincts.</p>
 
-<p>- Franz Kafka</p>
+<p>- D. H. Lawrence</p>
