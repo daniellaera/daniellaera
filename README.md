@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is to be willing to die over and over again.</p>
+<p>Only he who has no use for the empire is fit to be entrusted with it.</p>
 
-<p>- Pema Chodron</p>
+<p>- Zhuangzi</p>
