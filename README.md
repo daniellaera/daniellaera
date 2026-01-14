@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyday is a second chance.</p>
+<p>You are free, and that is why you are lost. </p>
 
-<p>- Unknown</p>
+<p>- Franz Kafka</p>
