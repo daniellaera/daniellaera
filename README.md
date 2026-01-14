@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best fighter is never angry.</p>
+<p>Being in a good frame of mind helps keep one in the picture of health.</p>
 
-<p>- Lao Tzu</p>
+<p>- Unknown</p>
