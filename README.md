@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything has its beauty, but not everyone sees it. </p>
+<p>To live is to be willing to die over and over again.</p>
 
-<p>- Confucius</p>
+<p>- Pema Chodron</p>
