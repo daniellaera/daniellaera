@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</p>
+<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
 
-<p>- Bob Marley</p>
+<p>- Chinese Proverb</p>
