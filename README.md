@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.</p>
+<p>There is nothing quite so tragic as a young cynic.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Maya Angelou</p>
