@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing quite so tragic as a young cynic.</p>
+<p>Life is the dancer and you are the dance.</p>
 
-<p>- Maya Angelou</p>
+<p>- Eckhart Tolle</p>
