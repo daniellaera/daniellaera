@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.</p>
 
-<p>- Thomas Edison</p>
+<p>- Tony Robbins</p>
