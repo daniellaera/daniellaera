@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
+<p>Patience is bitter, but its fruit is sweet.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Aristotle</p>
