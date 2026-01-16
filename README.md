@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Champions keep playing until they get it right.</p>
+<p>Conflict cannot survive without your participation. </p>
 
-<p>- Billie Jean King</p>
+<p>- Wayne Dyer</p>
