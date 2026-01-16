@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A journey of a thousand miles must begin with a single step.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- Lao Tzu</p>
+<p>- Thomas Edison</p>
