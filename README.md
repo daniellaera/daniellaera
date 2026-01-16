@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
+<p>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Dalai Lama</p>
