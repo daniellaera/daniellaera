@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only person you should try to be better than is the person you were yesterday.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>- Brian Tracy</p>
+<p>- Euripides</p>
