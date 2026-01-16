@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>There are no accidents... there is only some purpose that we haven't yet understood.</p>
 
-<p>- Bruce Lee</p>
+<p>- Deepak Chopra</p>
