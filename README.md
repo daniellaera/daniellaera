@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are clothes that thoughts wear</p>
+<p>Wit is educated insolence.</p>
 
-<p>- Samuel Butler</p>
+<p>- Aristotle</p>
