@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Each of us is a unique strand in the intricate web of life and here to make a contribution.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Bruce Lee</p>
