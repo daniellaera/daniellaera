@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The joy of life comes from our encounters with new experiences.</p>
+<p>The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.</p>
 
-<p>- Christopher McCandless</p>
+<p>- James Allen</p>
