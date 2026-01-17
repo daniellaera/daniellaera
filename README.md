@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
+<p>You can often change your circumstances by changing your attitude.</p>
 
-<p>- Lao Tzu</p>
+<p>- Eleanor Roosevelt</p>
