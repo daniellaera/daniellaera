@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>We ordinary people must forge our own beauty.</p>
 
-<p>- Rumi</p>
+<p>- Kenji Miyazawa</p>
