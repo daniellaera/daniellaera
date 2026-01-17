@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving is living. If you stop wanting to give, there's nothing more to live for.</p>
+<p>The joy of life comes from our encounters with new experiences.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Christopher McCandless</p>
