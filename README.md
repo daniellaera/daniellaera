@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conflict cannot survive without your participation. </p>
+<p>Better to live until you die.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Dan Millman</p>
