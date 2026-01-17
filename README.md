@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>We shape clay into a pot, but it is the emptiness inside that holds whatever we want.</p>
 
-<p>- George Washington</p>
+<p>- Lao Tzu</p>
