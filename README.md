@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Belief creates the actual fact.</p>
+<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
 
-<p>- William James</p>
+<p>- Kahlil Gibran</p>
