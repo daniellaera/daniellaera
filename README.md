@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
+<p>It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Jiddu Krishnamurti</p>
