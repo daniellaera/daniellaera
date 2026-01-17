@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Adults are just children who earn money.</p>
+<p>If you don't make things happen then things will happen to you.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Robert Collier</p>
