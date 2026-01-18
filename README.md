@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>It takes a very long time to become young.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Pablo Picasso</p>
