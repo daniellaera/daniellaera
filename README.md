@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dance first. Think later. It's the natural order.</p>
+<p>The future depends on what you do today. </p>
 
-<p>- Samuel Beckett</p>
+<p>- Mahatma Gandhi</p>
