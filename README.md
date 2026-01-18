@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The future depends on what you do today. </p>
+<p>No idea, no matter how good, will work if it doesn't get used.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Peter A. Cohen</p>
