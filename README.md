@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No idea, no matter how good, will work if it doesn't get used.</p>
+<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
 
-<p>- Peter A. Cohen</p>
+<p>- Charles Swindoll</p>
