@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
+<p>Judge your success by what you had to give up in order to get it.</p>
 
-<p>- Denis Waitley</p>
+<p>- Dalai Lama</p>
