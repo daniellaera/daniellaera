@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>There is a difference between giving directions and giving direction.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Simon Sinek</p>
