@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is a difference between giving directions and giving direction.</p>
+<p>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</p>
 
-<p>- Simon Sinek</p>
+<p>- Deepak Chopra</p>
