@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judge your success by what you had to give up in order to get it.</p>
+<p>All problems are interpersonal relationship problems.</p>
 
-<p>- Dalai Lama</p>
+<p>- Alfred Adler</p>
