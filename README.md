@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>I have lived with several Zen masters -- all of them cats.</p>
 
-<p>- Alfred Adler</p>
+<p>- Eckhart Tolle</p>
