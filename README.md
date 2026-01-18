@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. </p>
 
-<p>- Yanni</p>
+<p>- Eckhart Tolle</p>
