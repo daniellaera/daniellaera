@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter where you are coming from. All that matters is where you are going. </p>
+<p>Wisdom is doing now what you are going to be happy with later on.</p>
 
-<p>- Brian Tracy</p>
+<p>- Joyce Meyer</p>
