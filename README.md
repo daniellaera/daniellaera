@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All I can do is be me, whoever that is.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Bob Dylan</p>
+<p>- Orison Swett Marden</p>
