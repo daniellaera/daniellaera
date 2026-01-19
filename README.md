@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you truly love Nature, you will find beauty everywhere. </p>
+<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Criss Jami</p>
