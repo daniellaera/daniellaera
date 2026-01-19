@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is like a dragon where, for every head cut off, two more heads grow back.</p>
+<p>As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</p>
 
-<p>- Criss Jami</p>
+<p>- Kabir</p>
