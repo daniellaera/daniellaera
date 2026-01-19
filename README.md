@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
+<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Socrates</p>
