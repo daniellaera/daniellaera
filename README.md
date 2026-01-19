@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you know what you want, and you want it bad enough, you will find a way to get it.</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Jim Rohn</p>
+<p>- Henry Ward Beecher</p>
