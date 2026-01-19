@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>There are no mistakes in life, only lessons.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Robin Sharma</p>
