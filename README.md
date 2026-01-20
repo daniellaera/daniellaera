@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>- Criss Jami</p>
+<p>- Oprah Winfrey</p>
