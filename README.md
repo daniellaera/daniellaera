@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of empires, is the empire over one's self.</p>
+<p>It's not what happens to you, but how you react to it that matters.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Epictetus</p>
