@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give so much away people insist on paying you.</p>
+<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
 
-<p>- Jack Butcher</p>
+<p>- Martin Luther King, Jr.</p>
