@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Is it really possible to tell someone else what one feels?</p>
+<p>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Brian Tracy</p>
