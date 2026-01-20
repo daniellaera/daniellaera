@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
+<p>Is it really possible to tell someone else what one feels?</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Leo Tolstoy</p>
