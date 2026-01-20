@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even a hare will bite when it is cornered. </p>
+<p>Discontent is the first necessity of progress.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Thomas Edison</p>
