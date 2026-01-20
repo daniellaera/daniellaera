@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing good ever comes of violence.</p>
+<p>The greatest of empires, is the empire over one's self.</p>
 
-<p>- Martin Luther</p>
+<p>- Publilius Syrus</p>
