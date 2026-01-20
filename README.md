@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can confidently say that he will still be living tomorrow.</p>
+<p>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</p>
 
-<p>- Euripides</p>
+<p>- F. Scott Fitzgerald</p>
