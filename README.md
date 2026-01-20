@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is the spiritual experience of living every minute with love, grace and gratitude.</p>
+<p>Remember that sometimes not getting what you want is a wonderful stroke of luck.</p>
 
-<p>- Denis Waitley</p>
+<p>- Dalai Lama</p>
