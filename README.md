@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </p>
+<p>Success is nothing more than a few simple disciplines practiced every day.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Jim Rohn</p>
