@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is nothing more than a few simple disciplines practiced every day.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>- Jim Rohn</p>
+<p>- John D. Rockefeller</p>
