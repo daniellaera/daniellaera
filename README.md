@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
+<p>Living life in style also means living a life of balance.</p>
 
-<p>- Unknown</p>
+<p>- Jim Rohn</p>
