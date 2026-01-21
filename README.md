@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you think adventure is dangerous, try routine; it is lethal.</p>
+<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Unknown</p>
