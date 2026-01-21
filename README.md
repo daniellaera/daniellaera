@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the keys to happiness is a bad memory.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Hans Christian Andersen</p>
