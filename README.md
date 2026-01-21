@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be of use to the world is the only way to be happy.</p>
+<p>We ordinary people must forge our own beauty.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Kenji Miyazawa</p>
