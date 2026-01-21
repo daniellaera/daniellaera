@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>Trying to define yourself is like trying to bite your own teeth.</p>
 
-<p>- David Brinkley</p>
+<p>- Zen Proverb</p>
