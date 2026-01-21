@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</p>
+<p>Never do things others can do and will do if there are things others cannot do or will not do.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Amelia Earhart</p>
