@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
+<p>Truth is such a rare thing, it is delighted to tell it.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Emily Dickinson</p>
