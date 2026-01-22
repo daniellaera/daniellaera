@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't need a weatherman to know which way the wind blows.</p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>- Bob Dylan</p>
+<p>- Thomas Jefferson</p>
