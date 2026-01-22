@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give out what you most want to come back.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>- Robin Sharma</p>
+<p>- Roy T. Bennett</p>
