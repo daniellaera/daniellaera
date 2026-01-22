@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
+<p>The beautiful journey of today can only begin when we learn to let go of yesterday.</p>
 
-<p>- Ayn Rand</p>
+<p>- Steve Maraboli</p>
