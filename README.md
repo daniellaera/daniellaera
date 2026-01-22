@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is such a rare thing, it is delighted to tell it.</p>
+<p>Heroes don't need to talk about what they did.</p>
 
-<p>- Emily Dickinson</p>
+<p>- W.P. Kinsella</p>
