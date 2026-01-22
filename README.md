@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something you've never had you must be willing to do something you've never done.</p>
+<p>Give out what you most want to come back.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Robin Sharma</p>
