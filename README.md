@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Create each day anew.</p>
+<p>Death is not an ending. It is a transformation.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Ming-Dao Deng</p>
