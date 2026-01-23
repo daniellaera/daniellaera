@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</p>
+<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
 
-<p>- Brian Tracy</p>
+<p>- Bob Marley</p>
