@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not as important how we start, but how we finish.</p>
+<p>Be brave. Take risks. Nothing can substitute experience.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Paulo Coelho</p>
