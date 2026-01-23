@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Convinced myself, I seek not to convince.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- George Addair</p>
