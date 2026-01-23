@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Open your eyes and look within. Are you satisfied with the life you're living?</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>- Bob Marley</p>
+<p>- Christopher Reeve</p>
