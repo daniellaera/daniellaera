@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
+<p>It is not as important how we start, but how we finish.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Joyce Meyer</p>
