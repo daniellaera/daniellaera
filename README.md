@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave. Take risks. Nothing can substitute experience.</p>
+<p>Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Zen Proverb</p>
