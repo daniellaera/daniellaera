@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
+<p>Success is built sequentially. It's one thing at a time.</p>
 
-<p>- Les Brown</p>
+<p>- Gary Keller</p>
