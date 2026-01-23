@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>Convinced myself, I seek not to convince.</p>
 
-<p>- George Washington</p>
+<p>- Edgar Allan Poe</p>
