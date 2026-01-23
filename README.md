@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're waiting until you feel talented enough to make it, you'll never make it.</p>
+<p>We've got to live, no matter how many skies have fallen.</p>
 
-<p>- Criss Jami</p>
+<p>- D. H. Lawrence</p>
