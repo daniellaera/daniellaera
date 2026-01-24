@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Alexander Pope</p>
