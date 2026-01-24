@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even though you are on the right track - you will get run over if you just sit there.</p>
+<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
 
-<p>- Will Rogers</p>
+<p>- Gilbert Chesterton</p>
