@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is built sequentially. It's one thing at a time.</p>
+<p>For things to change, you have to change.</p>
 
-<p>- Gary Keller</p>
+<p>- Jim Rohn</p>
