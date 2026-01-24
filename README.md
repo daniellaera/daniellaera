@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For things to change, you have to change.</p>
+<p>The biggest challenge after success is shutting up about it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Criss Jami</p>
