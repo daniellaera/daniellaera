@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Charms strike the sight, but merit wins the soul.</p>
+<p>It's not how much we give but how much love we put into giving.</p>
 
-<p>- Alexander Pope</p>
+<p>- Mother Teresa</p>
