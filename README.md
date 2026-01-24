@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I didn't get there by wishing for it or hoping for it, but by working for it.</p>
+<p>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</p>
 
-<p>- Estee Lauder</p>
+<p>- Denis Waitley</p>
