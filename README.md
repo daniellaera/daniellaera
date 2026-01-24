@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I believe that one of life's greatest risks is never daring to risk.</p>
+<p>Even though you are on the right track - you will get run over if you just sit there.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Will Rogers</p>
