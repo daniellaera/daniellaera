@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Samuel Butler</p>
