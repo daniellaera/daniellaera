@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All animals except man know that the principal business of life is to enjoy it.</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>- Samuel Butler</p>
+<p>- Vince Lombardi</p>
