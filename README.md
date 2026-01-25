@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know your gifts and share them.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>- Les Brown</p>
+<p>- Bob Marley</p>
