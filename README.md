@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life has more imagination than we carry in our dreams.</p>
+<p>There are no ordinary moments.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Dan Millman</p>
