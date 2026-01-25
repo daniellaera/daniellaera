@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every man gotta right to decide his own destiny.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>- Bob Marley</p>
+<p>- Kahlil Gibran</p>
