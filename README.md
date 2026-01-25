@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Night is a more quiet time to work. It aids thought.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Beverly Sills</p>
