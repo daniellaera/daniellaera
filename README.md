@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
+<p>Night is a more quiet time to work. It aids thought.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Alexander Graham Bell</p>
