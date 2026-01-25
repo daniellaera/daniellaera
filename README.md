@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is never final; failure is never fatal.</p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>- Conrad Hilton</p>
+<p>- C. Sean McGee</p>
