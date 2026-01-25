@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>To do two things at once is to do neither.</p>
 
-<p>- Jack London</p>
+<p>- Publilius Syrus</p>
