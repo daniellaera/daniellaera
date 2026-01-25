@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no ordinary moments.</p>
+<p>Projecting your mind into a successful situation is the most powerful means to achieve goals.  </p>
 
-<p>- Dan Millman</p>
+<p>- Estee Lauder</p>
