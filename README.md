@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most effective way to do it, is to do it.</p>
+<p>Silence is sometimes the best answer.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Dalai Lama</p>
