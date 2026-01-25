@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is sometimes the best answer.</p>
+<p>If you want to keep your memories, you first have to live them.</p>
 
-<p>- Dalai Lama</p>
+<p>- Bob Dylan</p>
