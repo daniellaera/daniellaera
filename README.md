@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no shortcuts to any place worth going. </p>
+<p>Anyone telling you it's pointless to share your perspective is sharing their perspective.</p>
 
-<p>- Beverly Sills</p>
+<p>- Jack Butcher</p>
