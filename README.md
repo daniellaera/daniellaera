@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
+<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Theodore Roosevelt</p>
