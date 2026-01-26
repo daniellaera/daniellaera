@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
+<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Brian Tracy</p>
