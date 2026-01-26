@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>The eye with which I see God is the same eye with which God sees me.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Meister Eckhart</p>
