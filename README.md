@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</p>
+<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Roy T. Bennett</p>
