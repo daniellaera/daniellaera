@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a question and how we live it is our answer.</p>
+<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
 
-<p>- Gary Keller</p>
+<p>- Henry David Thoreau</p>
