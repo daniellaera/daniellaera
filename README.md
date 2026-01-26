@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>The more you trust yourself, the less you compare yourself to others.</p>
 
-<p>- Brian Tracy</p>
+<p>- Roy T. Bennett</p>
