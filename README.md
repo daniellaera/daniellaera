@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </p>
+<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
 
-<p>- Franz Kafka</p>
+<p>- Rumi</p>
