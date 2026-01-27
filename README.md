@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
+<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
 
-<p>- Seungsahn</p>
+<p>- Buddha</p>
