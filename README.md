@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>A path is made by walking on it.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Zhuangzi</p>
