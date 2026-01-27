@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every great change is preceded by chaos.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Marilyn Monroe</p>
