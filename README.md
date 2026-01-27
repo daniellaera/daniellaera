@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
+<p>You know the more one does the more one can do.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Amelia Earhart</p>
