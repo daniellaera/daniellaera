@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You know the more one does the more one can do.</p>
+<p>Walking with a friend in the dark is better than walking alone in the light.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Helen Keller</p>
