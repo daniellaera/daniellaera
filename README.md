@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.</p>
+<p>Patience is bitter, but its fruit is sweet.</p>
 
-<p>- Buddha</p>
+<p>- Aristotle</p>
