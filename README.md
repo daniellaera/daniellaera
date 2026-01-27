@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A path is made by walking on it.</p>
+<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
 
-<p>- Zhuangzi</p>
+<p>- Stephen Hawking</p>
