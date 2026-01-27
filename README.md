@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>- Unknown</p>
+<p>- Mahatma Gandhi</p>
