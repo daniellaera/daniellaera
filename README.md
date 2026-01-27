@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Invisible things are the only realities.</p>
+<p>Observe things as they are and don't pay attention to other people.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Huang Po</p>
