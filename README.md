@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of change is to focus all your energy not on fighting the old, but on building the new.</p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>- Dan Millman</p>
+<p>- Celestine Chua</p>
