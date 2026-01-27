@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.</p>
 
-<p>- Henry Ford</p>
+<p>- Seungsahn</p>
