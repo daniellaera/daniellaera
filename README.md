@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Roy T. Bennett</p>
