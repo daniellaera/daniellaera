@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
+<p>Never do to others what you would not like them to do to you. </p>
 
-<p>- Robert F. Kennedy</p>
+<p>- Confucius</p>
