@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a very long time to become young.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Thomas Jefferson</p>
