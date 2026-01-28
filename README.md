@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never do to others what you would not like them to do to you. </p>
+<p>Do not fear failure but rather fear not trying.</p>
 
-<p>- Confucius</p>
+<p>- Roy T. Bennett</p>
