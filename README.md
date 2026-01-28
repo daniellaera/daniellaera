@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No valid plans for the future can be made by those who have no capacity for living now.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>- Alan Watts</p>
+<p>- J.R.R. Tolkien</p>
