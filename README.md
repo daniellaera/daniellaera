@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
+<p>Choose to be optimistic, it feels better.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Dalai Lama</p>
