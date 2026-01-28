@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your body. It's the only place you have to live.</p>
+<p>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</p>
 
-<p>- Jim Rohn</p>
+<p>- Robert F. Kennedy</p>
