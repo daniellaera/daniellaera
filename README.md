@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is simply what our feelings do to us.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Tony Robbins</p>
