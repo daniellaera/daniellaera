@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Appear weak when you are strong, and strong when you are weak.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>- Sun Tzu</p>
+<p>- Martin Luther</p>
