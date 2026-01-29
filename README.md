@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The harder you work, the harder it is to surrender.</p>
+<p>Character is doing what you don't want to do but know you should do.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Joyce Meyer</p>
