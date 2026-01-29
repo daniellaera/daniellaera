@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Maybe you are searching among the branches, for what only appears in the roots.</p>
+<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
 
-<p>- Rumi</p>
+<p>- Franklin D. Roosevelt</p>
