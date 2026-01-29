@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>To know your Enemy, you must become your Enemy.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Sun Tzu</p>
