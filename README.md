@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only reason to be alive is to enjoy it.</p>
+<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Celestine Chua</p>
