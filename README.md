@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Choose to be optimistic, it feels better.</p>
+<p>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</p>
 
-<p>- Dalai Lama</p>
+<p>- Seneca</p>
