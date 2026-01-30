@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To the mind that is still, the whole universe surrenders.</p>
+<p>There is no fear for one whose mind is not filled with desires.</p>
 
-<p>- Lao Tzu</p>
+<p>- Buddha</p>
