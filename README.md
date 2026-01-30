@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you do today can improve all your tomorrows.</p>
+<p>I will not walk backward in life.</p>
 
-<p>- Ralph Marston</p>
+<p>- J.R.R. Tolkien</p>
