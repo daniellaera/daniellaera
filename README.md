@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you believe you can, you can. If you believe you can't, then, well you can't.</p>
+<p>Better late than never.</p>
 
-<p>- Celestine Chua</p>
+<p>- Spencer Johnson</p>
