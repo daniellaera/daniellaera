@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One of the most difficult things is not to change society - but to change yourself.</p>
+<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Yanni</p>
