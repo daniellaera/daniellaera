@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lived with several Zen masters -- all of them cats.</p>
+<p>If it is not right, do not do it, if it is not true, do not say it.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Marcus Aurelius</p>
