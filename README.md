@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to dance than to march through life.</p>
+<p>To the mind that is still, the whole universe surrenders.</p>
 
-<p>- Yoko Ono</p>
+<p>- Lao Tzu</p>
