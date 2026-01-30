@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.</p>
+<p>It's better to dance than to march through life.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Yoko Ono</p>
