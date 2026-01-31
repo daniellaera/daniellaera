@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't make things happen then things will happen to you.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>- Robert Collier</p>
+<p>- Kamal Ravikant</p>
