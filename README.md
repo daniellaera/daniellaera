@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- John Eliot</p>
+<p>- Mahatma Gandhi</p>
