@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do what is right. It will gratify half of mankind and astound the other.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Mark Twain</p>
+<p>- Dr. Seuss</p>
