@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Henry Ford</p>
