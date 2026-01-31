@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Real growth comes through intense, difficult, and challenging situations.</p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Simon Sinek</p>
