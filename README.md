@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Know yourself and you will win all battles.</p>
+<p>All that we see or seem is but a dream within a dream.</p>
 
-<p>- Sun Tzu</p>
+<p>- Edgar Allan Poe</p>
