@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All that we see or seem is but a dream within a dream.</p>
+<p>When one does not have what one wants, one must want what one has.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Sigmund Freud</p>
