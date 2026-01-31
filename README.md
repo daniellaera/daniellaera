@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</p>
+<p>The big thing is to make a winning effort. I'm not obsessed with wins.</p>
 
-<p>- F. Scott Fitzgerald</p>
+<p>- Morgan Wootten</p>
