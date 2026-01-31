@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always lived in the moment.</p>
+<p>A very little key will open a very heavy door.</p>
 
-<p>- Yanni</p>
+<p>- Charles Dickens</p>
