@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one returns from a long journey the same person they were before.</p>
+<p>Question everything. Learn something. Answer nothing.</p>
 
-<p>- Zen Proverb</p>
+<p>- Euripides</p>
