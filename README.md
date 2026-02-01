@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When one door closes another door opens. </p>
+<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Theodore Roosevelt</p>
