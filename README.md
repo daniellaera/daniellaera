@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
+<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Epictetus</p>
