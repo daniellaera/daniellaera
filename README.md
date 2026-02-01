@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are willing to believe anything other than the truth.</p>
+<p>Common sense is not so common. </p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Voltaire</p>
