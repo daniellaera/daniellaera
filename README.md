@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everybody by your side ain't on your side.</p>
+<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
 
-<p>- Steve Harvey</p>
+<p>- Roy T. Bennett</p>
