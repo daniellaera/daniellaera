@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let not your mind run on what you lack as much as on what you have already.</p>
+<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Shunryu Suzuki</p>
