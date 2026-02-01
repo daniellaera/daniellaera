@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>an action committed in anger is an action doomed to failure. </p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Genghis Khan</p>
