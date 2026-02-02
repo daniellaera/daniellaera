@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I cannot do great things. I can do small things in a great way.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Herbert Hoover</p>
