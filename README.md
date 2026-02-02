@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never was anything great achieved without danger.</p>
+<p>No one returns from a long journey the same person they were before.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Zen Proverb</p>
