@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To wish you were someone else is to waste the person you are.</p>
+<p>Man should fear never beginning to live.</p>
 
-<p>- Unknown</p>
+<p>- Marcus Aurelius</p>
