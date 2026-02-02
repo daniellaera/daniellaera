@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is in changing that we find purpose.</p>
+<p>To wish you were someone else is to waste the person you are.</p>
 
-<p>- Heraclitus</p>
+<p>- Unknown</p>
