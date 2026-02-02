@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing the best at this moment puts you in the best place for the next moment.</p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Niccolo Machiavelli</p>
