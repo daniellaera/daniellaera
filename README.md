@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of us will do anything to avoid facing ourselves.</p>
+<p>Get busy living, or get busy dying.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Stephen King</p>
