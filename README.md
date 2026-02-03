@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Identification with our mind causes thought to become compulsive.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Elon Musk</p>
