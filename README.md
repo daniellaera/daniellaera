@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Get busy living, or get busy dying.</p>
+<p>He who possesses most must be most afraid of loss.</p>
 
-<p>- Stephen King</p>
+<p>- Leonardo da Vinci</p>
