@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing makes a man broad-minded like adversity.</p>
+<p>It all depends on what you choose to believe.</p>
 
-<p>- Will Rogers</p>
+<p>- Spencer Johnson</p>
