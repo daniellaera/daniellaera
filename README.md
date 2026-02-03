@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Disobedience is the true foundation of liberty. The obedient must be slaves.</p>
+<p>As mortals, we're ruled by conditions, not by ourselves.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Bodhidharma</p>
