@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As mortals, we're ruled by conditions, not by ourselves.</p>
+<p>Happiness is not the absence of problems, it's the ability to deal with them.</p>
 
-<p>- Bodhidharma</p>
+<p>- Steve Maraboli</p>
