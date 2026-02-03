@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who possesses most must be most afraid of loss.</p>
+<p>Identification with our mind causes thought to become compulsive.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Eckhart Tolle</p>
