@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heroes don't need to talk about what they did.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Og Mandino</p>
