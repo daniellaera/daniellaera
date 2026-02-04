@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Spencer Johnson</p>
