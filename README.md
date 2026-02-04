@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The river that flows in you also flows in me.</p>
+<p>If no one ever broke the rules, then we'd never advance.</p>
 
-<p>- Kabir</p>
+<p>- Simon Sinek</p>
