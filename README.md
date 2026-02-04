@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try all things, hold fast that which is good.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>- John Locke</p>
+<p>- Kabir</p>
