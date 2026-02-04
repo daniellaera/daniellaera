@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I skate to where the puck is going to be, not where it has been.</p>
+<p>Everything has its beauty, but not everyone sees it. </p>
 
-<p>- Wayne Gretzky</p>
+<p>- Confucius</p>
