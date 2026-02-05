@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Gratitude is the fairest blossom which springs from the soul.</p>
+<p>A moving door hinge never corrodes. Flowing water never grows stagnant.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Ming-Dao Deng</p>
