@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work as though you would live forever, and live as though you would die today. Go another mile.</p>
+<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
 
-<p>- Og Mandino</p>
+<p>- Deepak Chopra</p>
