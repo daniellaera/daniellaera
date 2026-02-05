@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
+<p>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</p>
 
-<p>- John Eliot</p>
+<p>- Earl Nightingale</p>
