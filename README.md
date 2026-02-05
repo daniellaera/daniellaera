@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First learn the meaning of what you say, and then speak.</p>
+<p>What worries you, masters you.</p>
 
-<p>- Epictetus</p>
+<p>- John Locke</p>
