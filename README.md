@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.</p>
+<p>Gratitude is the fairest blossom which springs from the soul.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Henry Ward Beecher</p>
