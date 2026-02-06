@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ladder of success is best climbed by stepping on the rungs of opportunity.</p>
+<p>Use your smile to change the world but don't let the world change your smile.</p>
 
-<p>- Ayn Rand</p>
+<p>- Unknown</p>
