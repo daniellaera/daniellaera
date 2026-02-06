@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
+<p>Every day is an opportunity to a make a new happy ending.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Jonathan Swift</p>
