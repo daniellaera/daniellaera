@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge is learning something everyday. Wisdom is letting go of something everyday.</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>- Unknown</p>
+<p>- Norman Vincent Peale</p>
