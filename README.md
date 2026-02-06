@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for a sanctuary in anyone except your self.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Buddha</p>
+<p>- Will Rogers</p>
