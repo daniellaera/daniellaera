@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
+<p>Do not look for a sanctuary in anyone except your self.</p>
 
-<p>- Alfred Adler</p>
+<p>- Buddha</p>
