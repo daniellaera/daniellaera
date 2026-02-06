@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the true magic carpet.</p>
+<p>The future will be shaped by those willing to commit their minds and their bodies to the task.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Robert F. Kennedy</p>
