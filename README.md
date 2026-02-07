@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be brave enough to suck at something new.</p>
+<p>Courage is the price that life exacts for granting peace.</p>
 
-<p>- Unknown</p>
+<p>- Amelia Earhart</p>
