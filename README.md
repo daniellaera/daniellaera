@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who knows best knows how little he knows.</p>
+<p>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- William James</p>
