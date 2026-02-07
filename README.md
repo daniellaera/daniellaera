@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Jim Rohn</p>
