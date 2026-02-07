@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Children are our greatest natural resource.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Henry Ward Beecher</p>
