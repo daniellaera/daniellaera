@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True wealth is of the heart, not of the purse.</p>
+<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
 
-<p>- Og Mandino</p>
+<p>- C. Sean McGee</p>
