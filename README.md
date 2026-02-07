@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatness lies not in being strong, but in the right use of strength.</p>
+<p>Great minds are always feared by lesser minds.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Dan Brown</p>
