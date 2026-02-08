@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The number one cause of failure is the fear of failure.</p>
+<p>Be a good animal, true to your instincts.</p>
 
-<p>- Steve Harvey</p>
+<p>- D. H. Lawrence</p>
