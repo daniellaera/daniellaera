@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes out of your biggest misery, comes your greatest gain.</p>
+<p>Greatness lies not in being strong, but in the right use of strength.</p>
 
-<p>- Steve Harvey</p>
+<p>- Henry Ward Beecher</p>
