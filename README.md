@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A day without laughter is a day wasted.</p>
+<p>You can't wait for inspiration. You have to go after it with a club. </p>
 
-<p>- Charlie Chaplin</p>
+<p>- Jack London</p>
