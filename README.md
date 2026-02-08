@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatness lies not in being strong, but in the right use of strength.</p>
+<p>The number one cause of failure is the fear of failure.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Steve Harvey</p>
