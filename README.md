@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Today you are you, that is truer than true. There is no one alive who is you-er than you.</p>
+<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Joyce Meyer</p>
