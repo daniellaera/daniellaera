@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate with people who are likely to improve you.  </p>
+<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
 
-<p>- Seneca</p>
+<p>- Thomas Jefferson</p>
