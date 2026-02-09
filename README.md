@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Earl Nightingale</p>
