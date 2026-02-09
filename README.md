@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to keep your memories, you first have to live them.</p>
+<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
 
-<p>- Bob Dylan</p>
+<p>- Mahatma Gandhi</p>
