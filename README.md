@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.</p>
+<p>You don't have to control your thoughts; you just have to stop letting them control you.</p>
 
-<p>- Robert Greene</p>
+<p>- Dan Millman</p>
