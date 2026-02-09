@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools resist. The wise embrace.</p>
+<p>If you want to keep your memories, you first have to live them.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Bob Dylan</p>
