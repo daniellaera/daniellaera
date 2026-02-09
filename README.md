@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is but a product of his thoughts. What he thinks he becomes.</p>
+<p>There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Alexandre Dumas</p>
