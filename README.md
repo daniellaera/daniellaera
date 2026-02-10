@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What's right is what's left if you do everything else wrong.</p>
+<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
 
 <p>- Robin Williams</p>
