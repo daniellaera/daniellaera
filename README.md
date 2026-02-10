@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
+<p>Optimism, when applied to your life, develops strength and peace within you.</p>
 
-<p>- Helen Keller</p>
+<p>- Norman Vincent Peale</p>
