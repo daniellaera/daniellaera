@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Optimism, when applied to your life, develops strength and peace within you.</p>
+<p>Anxiety is the dizziness of freedom.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Soren Kierkegaard</p>
