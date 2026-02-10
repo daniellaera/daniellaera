@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every experience is a lesson. Every loss is a gain.</p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Charles Dickens</p>
