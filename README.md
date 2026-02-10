@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the practice of tolerance, one's enemy is the best teacher.</p>
+<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
 
-<p>- Dalai Lama</p>
+<p>- Kahlil Gibran</p>
