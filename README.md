@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anxiety is the dizziness of freedom.</p>
+<p>Man suffers only because he takes seriously what the gods made for fun.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Alan Watts</p>
