@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your setback is just a setup for a comeback.</p>
+<p>People don't care how much you know until they know how much you care.</p>
 
-<p>- Steve Harvey</p>
+<p>- Theodore Roosevelt</p>
