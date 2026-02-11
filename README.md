@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>Life is either a daring adventure, or it is nothing.</p>
 
-<p>- Alan Watts</p>
+<p>- Helen Keller</p>
