@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When I let go of what I am, I become what I might be.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>- Lao Tzu</p>
+<p>- Mark Manson</p>
