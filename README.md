@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People don't care how much you know until they know how much you care.</p>
+<p>When I let go of what I am, I become what I might be.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Lao Tzu</p>
