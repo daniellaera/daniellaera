@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you're halfway there.</p>
+<p>Never close your lips to those whom you have already opened your heart.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Charles Dickens</p>
