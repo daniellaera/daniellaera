@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not the outcome. I am never the result. I am only the effort.</p>
+<p>No man is more cheated than the selfish man.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Henry Ward Beecher</p>
