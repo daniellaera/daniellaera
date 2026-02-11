@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never close your lips to those whom you have already opened your heart.</p>
+<p>Every second you have on this planet is very precious and it's your responsibility that you're happy.</p>
 
-<p>- Charles Dickens</p>
+<p>- Naval Ravikant</p>
