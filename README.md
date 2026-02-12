@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Stephen King</p>
