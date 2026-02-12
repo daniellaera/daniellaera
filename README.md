@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are people who have money and people who are rich.</p>
+<p>The day is for honest men, the night for thieves.</p>
 
-<p>- Coco Chanel</p>
+<p>- Euripides</p>
