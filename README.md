@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best thing to hold onto in life is each other.</p>
+<p>He who violates another's honor loses his own.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Publilius Syrus</p>
