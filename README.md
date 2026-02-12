@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how tall the mountain is, it cannot block the sun.</p>
+<p>Don't talk about what you have done or what you are going to do.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Thomas Jefferson</p>
