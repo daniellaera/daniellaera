@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</p>
+<p>Nothing important is learned; it is simply remembered.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Carlos Ruiz Zafon</p>
