@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The day is for honest men, the night for thieves.</p>
+<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
 
-<p>- Euripides</p>
+<p>- Zig Ziglar</p>
