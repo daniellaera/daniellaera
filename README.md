@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ask no questions, and you'll be told no lies.</p>
+<p>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</p>
 
-<p>- Charles Dickens</p>
+<p>- Betty White</p>
