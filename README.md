@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't talk about what you have done or what you are going to do.</p>
+<p>Ask no questions, and you'll be told no lies.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Charles Dickens</p>
