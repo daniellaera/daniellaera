@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The mind is the limit.</p>
+<p>Man is made by his belief. As he believes, so he is.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Bhagavad Gita</p>
