@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The grass is greener where you water it.</p>
+<p>I must also have a dark side if I am to be whole.</p>
 
-<p>- Neil Barringham</p>
+<p>- Carl Jung</p>
