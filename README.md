@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What keeps life fascinating is the constant creativity of the soul.</p>
+<p>One loyal friend is worth ten thousand relatives.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Euripides</p>
