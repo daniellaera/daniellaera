@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man is made by his belief. As he believes, so he is.</p>
+<p>One mistake does not have to rule a person's entire life.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Joyce Meyer</p>
