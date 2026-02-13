@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</p>
+<p>Numbing the pain for a while will only make it worse when you finally feel it.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Albus Dumbledore</p>
