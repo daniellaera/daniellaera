@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live, travel, adventure, bless, and don't be sorry.  </p>
+<p>What keeps life fascinating is the constant creativity of the soul.</p>
 
-<p>- Jack Kerouac</p>
+<p>- Deepak Chopra</p>
