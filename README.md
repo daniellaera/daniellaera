@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Thomas Jefferson</p>
