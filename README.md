@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One mistake does not have to rule a person's entire life.</p>
+<p>We will outstretch the hand if you unclench your fist.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Barack Obama</p>
