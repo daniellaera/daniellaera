@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
+<p>One small positive thought can change your whole day.</p>
 
-<p>- David Brinkley</p>
+<p>- Zig Ziglar</p>
