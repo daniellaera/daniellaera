@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>The grass is greener where you water it.</p>
 
-<p>- Barack Obama</p>
+<p>- Neil Barringham</p>
