@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the end, it's not the years in your life that count. It's the life in your years.</p>
+<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Mark Twain</p>
