@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is resistance to fear, mastery of fear - not absence of fear.</p>
+<p>Great things happen to those who don't stop believing, trying, learning, and being grateful.</p>
 
-<p>- Mark Twain</p>
+<p>- Roy T. Bennett</p>
