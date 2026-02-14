@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the dancer and you are the dance.</p>
+<p>I defeat my enemies when I make them my friends.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Dalai Lama</p>
