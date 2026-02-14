@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a series of choices and all we can do is make them.</p>
+<p>Be a master of change rather than a victim of change.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Brian Tracy</p>
