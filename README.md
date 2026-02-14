@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>- Walt Disney</p>
+<p>- Steve Maraboli</p>
