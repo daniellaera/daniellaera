@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</p>
+<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Arnold Schwarzenegger</p>
