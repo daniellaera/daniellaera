@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more knowledge you have, the more you're free to rely on your instincts.</p>
+<p>Life is a series of choices and all we can do is make them.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Kamal Ravikant</p>
