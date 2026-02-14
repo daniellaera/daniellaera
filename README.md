@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Observe things as they are and don't pay attention to other people.</p>
+<p>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</p>
 
-<p>- Huang Po</p>
+<p>- Sonia Ricotti</p>
