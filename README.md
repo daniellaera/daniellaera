@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
+<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Bhagavad Gita</p>
