@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fiction is the truth inside the lie.</p>
+<p>Deeds will not be less valiant because they are upraised.</p>
 
-<p>- Stephen King</p>
+<p>- J.R.R. Tolkien</p>
