@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
 
-<p>- C. Sean McGee</p>
+<p>- Oscar Wilde</p>
