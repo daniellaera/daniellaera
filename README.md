@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A clear conscience is the sure sign of a bad memory.</p>
+<p>Happiness depends upon ourselves.</p>
 
-<p>- Mark Twain</p>
+<p>- Aristotle</p>
