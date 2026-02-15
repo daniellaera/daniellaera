@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let the noise of others' opinions drown out your own inner voice.</p>
+<p>It is the mark of an educated mind to be able to entertain a thought without accepting it.</p>
 
-<p>- Steve Jobs</p>
+<p>- Aristotle</p>
