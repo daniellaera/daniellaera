@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is the rarest thing in the world. Most people exist, that is all. </p>
+<p>Strive for excellence, not perfection, because we don't live in a perfect world.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Joyce Meyer</p>
