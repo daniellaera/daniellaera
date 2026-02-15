@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.</p>
+<p>Presents are made for the pleasure of who gives them, not the merits of who receives them.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Carlos Ruiz Zafon</p>
