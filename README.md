@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn from the mistakes of others. You can't live long enough to make them all yourself.</p>
+<p>If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Maxime Lagace</p>
