@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Deeds will not be less valiant because they are upraised.</p>
+<p>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Elbert Hubbard</p>
