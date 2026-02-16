@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You miss 100% of the shots you don't take.</p>
+<p>Rivers know this: there is no hurry. We shall get there some day.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- A.A. Milne</p>
