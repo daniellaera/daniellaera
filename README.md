@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong turns are as important as right turns. More important, sometimes.</p>
+<p>Words are the clothes thoughts wear.</p>
 
-<p>- Richard Bach</p>
+<p>- Samuel Beckett</p>
