@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Always turn a negative situation into a positive situation.</p>
 
-<p>- Plato</p>
+<p>- Michael Jordan</p>
