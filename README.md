@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who realize their folly are not true fools.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Zhuangzi</p>
+<p>- Gurbaksh Chahal</p>
