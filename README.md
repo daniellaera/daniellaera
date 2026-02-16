@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always turn a negative situation into a positive situation.</p>
+<p>Take interest and even delight in doing the small things well.</p>
 
-<p>- Michael Jordan</p>
+<p>- Jim Rohn</p>
