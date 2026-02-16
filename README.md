@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For things to change, you have to change.</p>
+<p>Be kind whenever possible. It is always possible.</p>
 
-<p>- Jim Rohn</p>
+<p>- Dalai Lama</p>
