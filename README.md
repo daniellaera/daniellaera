@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something to move yourself toward your major goal every day.</p>
+<p>You miss 100% of the shots you don't take.</p>
 
-<p>- Brian Tracy</p>
+<p>- Wayne Gretzky</p>
