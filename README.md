@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take interest and even delight in doing the small things well.</p>
+<p>Wrong turns are as important as right turns. More important, sometimes.</p>
 
-<p>- Jim Rohn</p>
+<p>- Richard Bach</p>
