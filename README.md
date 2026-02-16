@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is an option here. If things are not failing, you are not innovating enough.</p>
+<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
 
-<p>- Elon Musk</p>
+<p>- Celestine Chua</p>
