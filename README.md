@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make each day your masterpiece.</p>
+<p>For things to change, you have to change.</p>
 
-<p>- John Wooden</p>
+<p>- Jim Rohn</p>
