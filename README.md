@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art, like morality, consists of drawing the line somewhere.</p>
+<p>The less you open your heart to others, the more your heart suffers.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Deepak Chopra</p>
