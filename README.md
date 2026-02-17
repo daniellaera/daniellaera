@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
+<p>If fear is too strong, the genius is suppressed.</p>
 
-<p>- Dan Millman</p>
+<p>- Robert Kiyosaki</p>
