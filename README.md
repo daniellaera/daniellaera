@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- George Bernard Shaw</p>
