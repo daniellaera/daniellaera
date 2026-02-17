@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Dan Millman</p>
