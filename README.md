@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're never given a dream without also being given the power to make it true.</p>
+<p>I alone cannot change the world, but I can cast a stone across the waters to create many ripples.</p>
 
-<p>- Richard Bach</p>
+<p>- Mother Teresa</p>
