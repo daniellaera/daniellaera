@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiger doesn't lose sleep over the opinion of sheep.</p>
+<p>Everyone you admire was once a beginner.</p>
 
-<p>- Shahir Zag</p>
+<p>- Jack Butcher</p>
