@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- J.R.R. Tolkien</p>
