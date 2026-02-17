@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </p>
+<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Unknown</p>
