@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
+<p>Outstanding people have one thing in common: an absolute sense of mission.  </p>
 
-<p>- Unknown</p>
+<p>- Zig Ziglar</p>
