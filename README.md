@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
+<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
 
-<p>- Les Brown</p>
+<p>- Michael Jordan</p>
