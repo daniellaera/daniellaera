@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</p>
+<p>It's necessary to get the losers out of your life if you want to live your dream.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Les Brown</p>
