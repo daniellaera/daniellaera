@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Brian Tracy</p>
