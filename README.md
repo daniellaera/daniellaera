@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
 
-<p>- Brian Tracy</p>
+<p>- Benjamin Franklin</p>
