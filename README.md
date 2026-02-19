@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>Shoot for the moon, because even if you miss, you'll land among the stars.</p>
 
-<p>- Unknown</p>
+<p>- Les Brown</p>
