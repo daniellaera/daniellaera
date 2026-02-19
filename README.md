@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At every moment where language can't go, that's your mind.</p>
+<p>The most important single ingredient in the formula of success is knowing how to get along with people.</p>
 
-<p>- Bodhidharma</p>
+<p>- Theodore Roosevelt</p>
