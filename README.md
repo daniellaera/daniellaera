@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.  </p>
+<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
 
-<p>- Ray Bradbury</p>
+<p>- Tony Robbins</p>
