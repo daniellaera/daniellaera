@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have no methods; all I do is accept people as they are.</p>
+<p>The eye with which I see God is the same eye with which God sees me.</p>
 
-<p>- Joan Rivers</p>
+<p>- Meister Eckhart</p>
