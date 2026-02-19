@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter what you do, only how well you do it.</p>
+<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
 
-<p>- Dan Millman</p>
+<p>- Paulo Coelho</p>
