@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The eye with which I see God is the same eye with which God sees me.</p>
+<p>Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results.</p>
 
-<p>- Meister Eckhart</p>
+<p>- James Allen</p>
