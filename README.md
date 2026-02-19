@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</p>
+<p>Even the smallest person can change the course of the future.</p>
 
-<p>- Tony Robbins</p>
+<p>- J.R.R. Tolkien</p>
