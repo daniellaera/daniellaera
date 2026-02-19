@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even the smallest person can change the course of the future.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Bodhidharma</p>
