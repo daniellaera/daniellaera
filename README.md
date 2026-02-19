@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
+<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
 
-<p>- George Washington</p>
+<p>- Wayne Gretzky</p>
