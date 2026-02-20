@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
+<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
 
-<p>- C. Sean McGee</p>
+<p>- Voltaire</p>
