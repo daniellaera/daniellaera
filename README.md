@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is dangerous to be right in matters on which the established authorities are wrong.</p>
+<p>I would rather be hated for who I am than loved for who I'm not.  </p>
 
-<p>- Voltaire</p>
+<p>- Wayne Dyer</p>
