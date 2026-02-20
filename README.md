@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
+<p>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Maxime Lagace</p>
