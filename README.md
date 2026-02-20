@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love is merely the name for the desire and pursuit of the whole.</p>
+<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
 
-<p>- Aristophanes</p>
+<p>- Epictetus</p>
