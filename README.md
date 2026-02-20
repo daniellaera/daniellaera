@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fears are nothing more than a state of mind.</p>
+<p>The world is changed by your example, not by your opinion.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Paulo Coelho</p>
