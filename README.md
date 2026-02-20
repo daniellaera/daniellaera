@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pursuit of mastery bears gifts. </p>
+<p>Turn your wounds into wisdom. </p>
 
-<p>- Gary Keller</p>
+<p>- Oprah Winfrey</p>
