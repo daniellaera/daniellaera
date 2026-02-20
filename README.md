@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn your wounds into wisdom. </p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Simon Sinek</p>
