@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before anything else, preparation is the key to success.</p>
+<p>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- James Allen</p>
