@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
+<p>If you are ever the smartest person in the room, you are in the wrong room.</p>
 
-<p>- George Washington</p>
+<p>- C. Sean McGee</p>
