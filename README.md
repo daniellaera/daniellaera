@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>Before anything else, preparation is the key to success.</p>
 
-<p>- Lao Tzu</p>
+<p>- Alexander Graham Bell</p>
