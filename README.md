@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.</p>
+<p>Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. </p>
 
-<p>- Epictetus</p>
+<p>- George Washington</p>
