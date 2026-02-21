@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything will be ok in the end. If it's not ok, it's not the end.</p>
+<p>The sun shines upon good and bad alike.</p>
 
-<p>- John Lennon</p>
+<p>- Hans Christian Andersen</p>
