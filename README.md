@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's always to soon to quit!</p>
+<p>Leadership is solving problems</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Colin Powell</p>
