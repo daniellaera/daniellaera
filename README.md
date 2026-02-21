@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to light a single candle than to curse the darkness.</p>
+<p>Success is getting what you want, happiness is wanting what you get.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- W.P. Kinsella</p>
