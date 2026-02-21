@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</p>
+<p>No one can hurt you without your consent.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Eleanor Roosevelt</p>
