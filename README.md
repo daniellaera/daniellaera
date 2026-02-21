@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun shines upon good and bad alike.</p>
+<p>Nature is pleased with simplicity. And nature is no dummy.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Isaac Newton</p>
