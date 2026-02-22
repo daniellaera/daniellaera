@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is from the inside out. When you shift on the inside, life shifts on the outside.</p>
+<p>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Bob Marley</p>
