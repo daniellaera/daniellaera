@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.</p>
+<p>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</p>
 
-<p>- John Eliot</p>
+<p>- Wayne Gretzky</p>
