@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>No matter what happens, always be yourself.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Dale Carnegie</p>
