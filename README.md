@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is one long process of getting tired.</p>
+<p>Never confuse a single defeat with a final defeat.</p>
 
-<p>- Samuel Butler</p>
+<p>- F. Scott Fitzgerald</p>
