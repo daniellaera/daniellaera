@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A flower falls, even though we love it; and a weed grows, even though we do not love it.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Dogen</p>
+<p>- Yanni</p>
