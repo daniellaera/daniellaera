@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest room in the world is the room for improvement.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- Unknown</p>
+<p>- Kahlil Gibran</p>
