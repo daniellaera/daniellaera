@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
+<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Paramahansa Yogananda</p>
