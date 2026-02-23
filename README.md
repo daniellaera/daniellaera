@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</p>
+<p>Time is a game played beautifully by children.</p>
 
-<p>- Brian Tracy</p>
+<p>- Heraclitus</p>
