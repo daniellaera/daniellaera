@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To travel is to be alive, but to get somewhere is to be dead.</p>
+<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
 
-<p>- Alan Watts</p>
+<p>- Ralph Waldo Emerson</p>
