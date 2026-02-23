@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes you have to travel a long way to find what is near.</p>
+<p>Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Ralph Waldo Emerson</p>
