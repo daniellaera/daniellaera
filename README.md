@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
+<p>To travel is to be alive, but to get somewhere is to be dead.</p>
 
-<p>- Seungsahn</p>
+<p>- Alan Watts</p>
