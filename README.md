@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your dream has to be bigger than your fear.</p>
+<p>My powers are ordinary. Only my application brings me success.</p>
 
-<p>- Steve Harvey</p>
+<p>- Isaac Newton</p>
