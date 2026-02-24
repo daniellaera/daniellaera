@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
+<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Thich Nhat Hanh</p>
