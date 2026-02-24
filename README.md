@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
+<p>It's easy to be a critic, but being a doer requires effort, risk, and change.  </p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Wayne Dyer</p>
