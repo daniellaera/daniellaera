@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
+<p>High thoughts must have high language.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Aristophanes</p>
