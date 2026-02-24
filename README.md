@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of your vulnerabilities will come your strength.</p>
+<p>If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Celestine Chua</p>
