@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you have to be in a soap opera try not to be cast in the worst role.</p>
+<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
 
-<p>- Judy Garland</p>
+<p>- Estee Lauder</p>
