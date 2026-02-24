@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you run you stand a chance of losing, but if you don't run you've already lost.</p>
+<p>Your dream has to be bigger than your fear.</p>
 
-<p>- Barack Obama</p>
+<p>- Steve Harvey</p>
