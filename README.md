@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never let the things you can't do stop you from doing what you can.</p>
+<p>Without the confidence, nothing can be accomplished.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Sathya Sai Baba</p>
