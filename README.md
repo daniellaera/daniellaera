@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</p>
+<p>Never let the things you can't do stop you from doing what you can.</p>
 
-<p>- Colin Powell</p>
+<p>- Ronald Reagan</p>
