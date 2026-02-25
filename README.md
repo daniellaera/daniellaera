@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Blessed is he who expects nothing, for he shall be disappointed.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Epictetus</p>
