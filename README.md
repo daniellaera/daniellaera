@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Still your waters.</p>
+<p>Work is always an antidote to depression.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Eleanor Roosevelt</p>
