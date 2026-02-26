@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Luck is what happens when preparation meets opportunity.  </p>
+<p>Everything that is done in the world is done by hope.</p>
 
-<p>- Seneca</p>
+<p>- Martin Luther</p>
