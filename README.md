@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather be a little nobody, then to be an evil somebody.</p>
+<p>We're responsible for everything that happens to us.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Yanni</p>
