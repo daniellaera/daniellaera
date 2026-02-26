@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Work is always an antidote to depression.</p>
+<p>Motivation gets you going and habit gets you there.  </p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Zig Ziglar</p>
