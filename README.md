@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that is done in the world is done by hope.</p>
+<p>We cannot change anything unless we accept it.</p>
 
-<p>- Martin Luther</p>
+<p>- Carl Jung</p>
