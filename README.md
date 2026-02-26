@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We cannot change anything unless we accept it.</p>
+<p>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</p>
 
-<p>- Carl Jung</p>
+<p>- Chinese Proverb</p>
