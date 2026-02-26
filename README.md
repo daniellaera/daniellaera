@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is the greatest friend.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>- Lao Tzu</p>
+<p>- Herbert Hoover</p>
