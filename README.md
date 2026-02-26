@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
+<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Benjamin Mays</p>
