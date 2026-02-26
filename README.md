@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</p>
+<p>If you think you can do a thing or think you can't do a thing, you're right.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Henry Ford</p>
