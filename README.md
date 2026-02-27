@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfectionism is simply putting a limit on your future.</p>
+<p>If you quit once it becomes a habit.</p>
 
-<p>- John Eliot</p>
+<p>- Michael Jordan</p>
