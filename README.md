@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We become what we believe.</p>
+<p>The more people you help become successful the more successful you become.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Steve Harvey</p>
