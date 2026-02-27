@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what we do once in a while that shapes our lives, but what we do consistently.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>- Tony Robbins</p>
+<p>- Joyce Meyer</p>
