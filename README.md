@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Walt Whitman</p>
