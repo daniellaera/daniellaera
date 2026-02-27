@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can suffer the pain of change or suffer remaining the way you are.</p>
+<p>Saying nothing sometimes says the most.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Emily Dickinson</p>
