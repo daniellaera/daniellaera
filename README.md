@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Saying nothing sometimes says the most.</p>
+<p>There are three classes of people: those who see. Those who see when they are shown. Those who do not see.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Leonardo da Vinci</p>
