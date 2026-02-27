@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At every moment where language can't go, that's your mind.</p>
+<p>Growth comes at the point of resistance.</p>
 
-<p>- Bodhidharma</p>
+<p>- Josh Waitzkin</p>
