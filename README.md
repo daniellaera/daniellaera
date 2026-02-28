@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Criss Jami</p>
