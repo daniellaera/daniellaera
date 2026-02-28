@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fiction is the truth inside the lie.</p>
+<p>Chop your own wood and it will warm you twice. </p>
 
-<p>- Stephen King</p>
+<p>- Henry Ford</p>
