@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
+<p>You can't go forward and backwards at the same time.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Steve Harvey</p>
