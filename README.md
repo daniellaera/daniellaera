@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember we're all in this alone.</p>
+<p>Don't wait for the right opportunity: create it.</p>
 
-<p>- Lily Tomlin</p>
+<p>- George Bernard Shaw</p>
