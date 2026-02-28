@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I was angered, for I had no shoes. Then I met a man who had no feet. </p>
+<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Marcus Aurelius</p>
