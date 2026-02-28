@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you judge others, you do not define them, you define yourself.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Leo Tolstoy</p>
