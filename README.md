@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is acceptable. Not trying is a whole different ball park.</p>
+<p>The wise warrior avoids the battle.</p>
 
-<p>- Michael Jordan</p>
+<p>- Sun Tzu</p>
