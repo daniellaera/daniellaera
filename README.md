@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</p>
+<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- Paramahansa Yogananda</p>
