@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Chop your own wood and it will warm you twice. </p>
+<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 
-<p>- Henry Ford</p>
+<p>- George Bernard Shaw</p>
