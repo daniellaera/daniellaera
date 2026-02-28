@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not try to be on the side of the majority, but live according to your inner laws.</p>
+<p>It's not the men in your life that matters, it's the life in your men.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Mae West</p>
