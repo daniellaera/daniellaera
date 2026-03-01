@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am who I am today because of the choices I made yesterday.</p>
+<p>You are the only problem you will ever have and you are the only solution.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Bob Proctor</p>
