@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>- Tony Robbins</p>
+<p>- Virginia Woolf</p>
