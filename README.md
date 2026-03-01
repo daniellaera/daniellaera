@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The decisions of our past are the architects of our present.</p>
+<p>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.</p>
 
-<p>- Dan Brown</p>
+<p>- Tony Robbins</p>
