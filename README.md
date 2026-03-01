@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
+<p>It is our experiences that mold us into who we are...during times of adversity our true character will show.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Unknown</p>
