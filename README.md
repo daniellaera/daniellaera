@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Through discipline comes freedom.</p>
+<p>You may delay, but time will not.</p>
 
-<p>- Aristotle</p>
+<p>- Benjamin Franklin</p>
