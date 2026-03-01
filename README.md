@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
+<p>I am who I am today because of the choices I made yesterday.</p>
 
-<p>- David Brinkley</p>
+<p>- Eleanor Roosevelt</p>
