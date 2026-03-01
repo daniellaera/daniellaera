@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.</p>
+<p>People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.</p>
 
-<p>- Sonia Ricotti</p>
+<p>- David Brinkley</p>
