@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Alexandre Dumas</p>
