@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
+<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
 
-<p>- George Eliot</p>
+<p>- Les Brown</p>
