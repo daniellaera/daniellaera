@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confuse them with your silence and amaze them with your actions.</p>
+<p>To do two things at once is to do neither.</p>
 
-<p>- Unknown</p>
+<p>- Publilius Syrus</p>
