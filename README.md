@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>It is better to learn late than never.</p>
 
-<p>- Tony Robbins</p>
+<p>- Publilius Syrus</p>
