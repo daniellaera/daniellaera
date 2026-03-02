@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.</p>
+<p>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</p>
 
-<p>- Alan Watts</p>
+<p>- Robert Greene</p>
