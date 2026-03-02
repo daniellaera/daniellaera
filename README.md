@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>Everything you look at can become a fairy tale and you can get a story from everything you touch.</p>
 
-<p>- Seneca</p>
+<p>- Hans Christian Andersen</p>
