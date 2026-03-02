@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only person you should try to be better than is the person you were yesterday.</p>
+<p>To handle yourself, use your head; to handle others, use your heart.</p>
 
-<p>- Brian Tracy</p>
+<p>- Eleanor Roosevelt</p>
