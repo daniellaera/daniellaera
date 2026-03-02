@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do two things at once is to do neither.</p>
+<p>Allow motion to equal emotion.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Elbert Hubbard</p>
