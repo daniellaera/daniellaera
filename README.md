@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
+<p>The businessman's tool is value.</p>
 
-<p>- Charles Darwin</p>
+<p>- Ayn Rand</p>
