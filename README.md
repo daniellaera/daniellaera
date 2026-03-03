@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't want anything. Then you get everything.</p>
+<p>If you truly love Nature, you will find beauty everywhere. </p>
 
-<p>- Seungsahn</p>
+<p>- Vincent van Gogh</p>
