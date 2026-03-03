@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real meditation is how you live your life.</p>
+<p>Don't want anything. Then you get everything.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Seungsahn</p>
