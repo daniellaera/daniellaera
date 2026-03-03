@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Facts are the enemy of truth. </p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Henry David Thoreau</p>
