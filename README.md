@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't seek, don't avoid, don't expect. Take what comes and be happy.</p>
+<p>Lying can never save us from another lie.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Vaclav Havel</p>
