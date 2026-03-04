@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy when you can, and endure when you must.</p>
+<p>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Lily Tomlin</p>
