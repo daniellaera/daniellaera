@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're never given a dream without also being given the power to make it true.</p>
+<p>The only people without problems are those in cemeteries.</p>
 
-<p>- Richard Bach</p>
+<p>- Tony Robbins</p>
