@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do something worth remembering.</p>
+<p>I don't pretend to know everything; I just only speak on matters I know I'll win.</p>
 
-<p>- Elvis Presley</p>
+<p>- Criss Jami</p>
