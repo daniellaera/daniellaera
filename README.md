@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Even the smallest person can change the course of the future.</p>
+<p>Once you choose hope, anything's possible.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Christopher Reeve</p>
