@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only people without problems are those in cemeteries.</p>
+<p>A comfort zone is a beautiful place, but nothing ever grows there.</p>
 
-<p>- Tony Robbins</p>
+<p>- Unknown</p>
