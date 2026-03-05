@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</p>
+<p>Your only limitations are those you set up in your mind or permit others to set up for you.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Og Mandino</p>
