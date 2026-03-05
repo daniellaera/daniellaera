@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is found in unlikely places.</p>
+<p>Nothing can bring you peace but yourself.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Dale Carnegie</p>
