@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All our dreams can come true, if we have the courage to pursue them.</p>
+<p>Even if you persuade me, you won't persuade me.</p>
 
-<p>- Walt Disney</p>
+<p>- Aristophanes</p>
