@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>- Dan Millman</p>
+<p>- Walt Disney</p>
