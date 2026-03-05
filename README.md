@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you're afraid - don't do it, - if you're doing it - don't be afraid! </p>
+<p>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</p>
 
-<p>- Genghis Khan</p>
+<p>- James Matthew Barrie</p>
