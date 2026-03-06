@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not fear failure but rather fear not trying.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Lolly Daskal</p>
