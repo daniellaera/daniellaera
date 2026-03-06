@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>Do not fear failure but rather fear not trying.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Roy T. Bennett</p>
