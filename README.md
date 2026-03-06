@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Ayn Rand</p>
