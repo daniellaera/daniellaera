@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing makes a man broad-minded like adversity.</p>
+<p>To be prepared is half the victory. </p>
 
-<p>- Will Rogers</p>
+<p>- Miguel de Cervantes</p>
