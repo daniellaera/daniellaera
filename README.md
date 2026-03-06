@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Challenge yourself to find the good and beautiful thing inside of everyone.</p>
+<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
 
-<p>- Mark Manson</p>
+<p>- Virginia Woolf</p>
