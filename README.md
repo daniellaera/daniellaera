@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be prepared is half the victory. </p>
+<p>It is not how much we have, but how much we enjoy, that makes happiness.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Charles Spurgeon</p>
