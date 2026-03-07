@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
+<p>Never spend your money before you have earned it.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Thomas Jefferson</p>
