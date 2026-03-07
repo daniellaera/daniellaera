@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When the fish is caught we pay no more attention to the trap.</p>
+<p>The difference between impossible and possible is a willing heart.</p>
 
-<p>- Huang Po</p>
+<p>- Lolly Daskal</p>
