@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.</p>
 
-<p>- Albert Einstein</p>
+<p>- Lao Tzu</p>
