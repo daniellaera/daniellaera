@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I would rather die on my feet than live on my knees.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>- Euripides</p>
+<p>- John Wooden</p>
