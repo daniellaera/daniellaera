@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</p>
+<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Albert Einstein</p>
