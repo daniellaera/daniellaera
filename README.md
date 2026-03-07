@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are the average of the five people you spend the most time with.</p>
+<p>Life is 10% what happens to you and 90% how you react to it. </p>
 
-<p>- Jim Rohn</p>
+<p>- Charles Swindoll</p>
