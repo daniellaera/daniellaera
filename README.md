@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all born ignorant, but one must work hard to remain stupid.</p>
+<p>Believe in your infinite potential. Your only limitations are those you set upon yourself.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Roy T. Bennett</p>
