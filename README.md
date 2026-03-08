@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all like the bright moon, we still have our darker side.  </p>
+<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Gilbert Chesterton</p>
