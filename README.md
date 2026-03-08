@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Big people don't make people feel small.</p>
+<p>No matter how tall the mountain is, it cannot block the sun.</p>
 
-<p>- Robin Sharma</p>
+<p>- Chinese Proverb</p>
