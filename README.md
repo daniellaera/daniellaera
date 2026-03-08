@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants - or else it does not care.</p>
+<p>He is not a lover who does not love forever.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Euripides</p>
