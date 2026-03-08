@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A thing must be loved before it is lovable.</p>
+<p>We are all born ignorant, but one must work hard to remain stupid.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Benjamin Franklin</p>
