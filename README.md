@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If ever you feel like an animal among men, be a lion.</p>
+<p>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</p>
 
-<p>- Criss Jami</p>
+<p>- Henry Ward Beecher</p>
