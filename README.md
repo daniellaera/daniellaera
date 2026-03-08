@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're at the end of your rope, tie a knot and hold on.</p>
+<p>A thing must be loved before it is lovable.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Gilbert Chesterton</p>
