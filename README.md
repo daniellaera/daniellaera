@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>There are no shortcuts to any place worth going. </p>
 
-<p>- Jim Rohn</p>
+<p>- Beverly Sills</p>
