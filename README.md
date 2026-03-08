@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not absentminded. It is the presence of mind that makes me unaware of everything else.</p>
+<p>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Steve Maraboli</p>
