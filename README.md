@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you get by achieving your goals is not as important as what you become by achieving your goals.</p>
+<p>To be of use to the world is the only way to be happy.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Hans Christian Andersen</p>
