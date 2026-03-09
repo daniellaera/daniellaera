@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stumble over something that's behind you.</p>
+<p>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</p>
 
-<p>- Steve Harvey</p>
+<p>- Morihei Ueshiba</p>
