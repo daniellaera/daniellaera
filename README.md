@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Paths are made by walking.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>- Franz Kafka</p>
+<p>- Sathya Sai Baba</p>
