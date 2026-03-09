@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No need to hurry. No need to sparkle. No need to be anybody but oneself.</p>
+<p>Paths are made by walking.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Franz Kafka</p>
