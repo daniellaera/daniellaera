@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust your instincts: my first reaction is almost invariably the right one.  </p>
+<p>A man who dares to waste one hour of time has not discovered the value of life.</p>
 
-<p>- Estee Lauder</p>
+<p>- Charles Darwin</p>
