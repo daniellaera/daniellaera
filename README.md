@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To know your Enemy, you must become your Enemy.</p>
+<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
 
-<p>- Sun Tzu</p>
+<p>- Wayne Dyer</p>
