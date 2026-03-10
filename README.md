@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Judgments prevent us from seeing the good that lies beyond appearances.  </p>
+<p>The score never interested me, only the game.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Mae West</p>
