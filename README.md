@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conquer the devils with a little thing called love.</p>
+<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
 
-<p>- Bob Marley</p>
+<p>- James Allen</p>
