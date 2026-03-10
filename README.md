@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is nothing more than a few simple disciplines practiced every day.</p>
+<p>Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.</p>
 
-<p>- Jim Rohn</p>
+<p>- Norman Vincent Peale</p>
