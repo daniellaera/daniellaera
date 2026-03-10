@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Dreams are for dreamers. Goals are for achievers.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Sigmund Freud</p>
