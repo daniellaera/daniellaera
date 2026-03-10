@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</p>
+<p>Truth is exact correspondence with reality. </p>
 
-<p>- James Allen</p>
+<p>- Paramahansa Yogananda</p>
