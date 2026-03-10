@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</p>
+<p>The deeper the truth in a creative work, the longer it will live.  </p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Charlie Chaplin</p>
