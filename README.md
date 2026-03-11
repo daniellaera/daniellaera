@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
+<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Dr. Seuss</p>
