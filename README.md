@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.</p>
+<p>We can know only that we know nothing. And that is the highest degree of human wisdom.</p>
 
-<p>- Alfred Adler</p>
+<p>- Leo Tolstoy</p>
