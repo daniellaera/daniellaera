@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Riches don't make a man rich, they only make him busier.</p>
+<p>The greatest step towards a life of simplicity is to learn to let go.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Steve Maraboli</p>
