@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An investment in knowledge pays the best interest.</p>
+<p>You get paid in direct proportion to the difficulty of problems you solve.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Elon Musk</p>
