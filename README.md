@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.</p>
+<p>Doubt is an uncomfortable condition, but certainty is a ridiculous one.</p>
 
-<p>- Lao Tzu</p>
+<p>- Voltaire</p>
