@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forever is composed of now's.</p>
+<p>Success is getting what you want... Happiness is wanting what you get.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Dale Carnegie</p>
