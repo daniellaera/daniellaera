@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is getting what you want... Happiness is wanting what you get.</p>
+<p>You can't build a reputation on what you are going to do. </p>
 
-<p>- Dale Carnegie</p>
+<p>- Henry Ford</p>
