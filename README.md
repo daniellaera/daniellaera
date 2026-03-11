@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</p>
+<p>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Maxime Lagace</p>
