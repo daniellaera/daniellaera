@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</p>
 
-<p>- Seungsahn</p>
+<p>- Robert Greene</p>
