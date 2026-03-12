@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>- Christopher Columbus</p>
+<p>- Chinese Proverb</p>
