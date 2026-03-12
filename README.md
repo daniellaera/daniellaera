@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
+<p>If we know how to adapt, we end up being superior.</p>
 
-<p>- Celestine Chua</p>
+<p>- Ming-Dao Deng</p>
