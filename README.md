@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to give up some of the old so that you can make room for the new.</p>
+<p>My sun sets to rise again.</p>
 
-<p>- Yanni</p>
+<p>- Robert Browning</p>
