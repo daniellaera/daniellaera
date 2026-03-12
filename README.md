@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest step towards a life of simplicity is to learn to let go.</p>
+<p>You can never cross the ocean unless you have the courage to lose sight of the shore.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Christopher Columbus</p>
