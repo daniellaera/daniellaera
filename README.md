@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</p>
+<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
 
-<p>- Robert Greene</p>
+<p>- Napoleon Hill</p>
