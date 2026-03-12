@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
+<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
 
-<p>- Ronald Reagan</p>
+<p>- James Matthew Barrie</p>
