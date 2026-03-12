@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </p>
+<p>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</p>
 
-<p>- Estee Lauder</p>
+<p>- Ronald Reagan</p>
