@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools resist. The wise embrace.</p>
+<p>Fear, uncertainty, and discomfort are your compasses toward growth.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Celestine Chua</p>
