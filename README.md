@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Seungsahn</p>
