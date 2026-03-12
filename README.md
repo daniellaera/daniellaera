@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Yanni</p>
