@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope is a waking dream.</p>
+<p>Realize deeply that the present moment is all you ever have. </p>
 
-<p>- Aristotle</p>
+<p>- Eckhart Tolle</p>
