@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
+<p>The biggest room in the world is the room for improvement.</p>
 
-<p>- Brian Tracy</p>
+<p>- Unknown</p>
