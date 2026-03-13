@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no ordinary moments.</p>
+<p>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</p>
 
-<p>- Dan Millman</p>
+<p>- James Allen</p>
