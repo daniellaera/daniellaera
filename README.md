@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't know, the thing to do is not to get scared, but to learn.</p>
+<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
 
-<p>- Ayn Rand</p>
+<p>- Kabir</p>
