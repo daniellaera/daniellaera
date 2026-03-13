@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest room in the world is the room for improvement.</p>
+<p>My instinct is always to seek out challenges as opposed to avoiding them.</p>
 
-<p>- Unknown</p>
+<p>- Josh Waitzkin</p>
