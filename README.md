@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.</p>
+<p>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Dogen</p>
