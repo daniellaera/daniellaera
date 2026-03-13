@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Mastering others is strength, mastering yourself is true power.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>- Lao Tzu</p>
+<p>- Brian Tracy</p>
