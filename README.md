@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
+<p>Wherever you are, and whatever you do, be in love.</p>
 
-<p>- Michael Jordan</p>
+<p>- Rumi</p>
