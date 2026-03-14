@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you know what you want, and want it bad enough, you will find a way to get it.</p>
+<p>There is no path to Happiness. Happiness is the path.</p>
 
-<p>- Jim Rohn</p>
+<p>- Dan Millman</p>
