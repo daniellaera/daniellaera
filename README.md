@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>You can't climb the ladder of success with your hands in your pockets.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Arnold Schwarzenegger</p>
