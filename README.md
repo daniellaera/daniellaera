@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>At every moment where language can't go, that's your mind.</p>
+<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
 
-<p>- Bodhidharma</p>
+<p>- Helen Keller</p>
