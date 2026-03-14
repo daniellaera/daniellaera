@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are totally at peace with yourself, nothing can shake you.</p>
+<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Shunryu Suzuki</p>
