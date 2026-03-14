@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always seek out the seed of triumph in every adversity.</p>
+<p>At every moment where language can't go, that's your mind.</p>
 
-<p>- Og Mandino</p>
+<p>- Bodhidharma</p>
