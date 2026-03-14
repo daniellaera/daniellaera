@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no path to Happiness. Happiness is the path.</p>
+<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
 
-<p>- Dan Millman</p>
+<p>- Michael Jordan</p>
