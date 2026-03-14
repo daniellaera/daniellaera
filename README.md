@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With the new day comes new strength and new thoughts.</p>
+<p>Wealth is the product of man's capacity to think.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Ayn Rand</p>
