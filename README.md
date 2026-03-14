@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wealth is the product of man's capacity to think.</p>
+<p>When you are totally at peace with yourself, nothing can shake you.</p>
 
-<p>- Ayn Rand</p>
+<p>- Deepam Chaterjee</p>
