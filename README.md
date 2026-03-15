@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
+<p>Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.</p>
 
-<p>- John Tukey</p>
+<p>- Norman Vincent Peale</p>
