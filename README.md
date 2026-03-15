@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are, and whatever you do, be in love.</p>
+<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
 
-<p>- Rumi</p>
+<p>- Plato</p>
