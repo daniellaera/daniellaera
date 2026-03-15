@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greater the impact you want to make, the greater your influence needs to be.</p>
+<p>An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</p>
 
-<p>- Lolly Daskal</p>
+<p>- John Tukey</p>
