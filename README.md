@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>Every experience is a lesson. Every loss is a gain.</p>
 
-<p>- Betty White</p>
+<p>- Sathya Sai Baba</p>
