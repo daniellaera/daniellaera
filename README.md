@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
+<p>Friendship takes time and energy if it's going to work.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Betty White</p>
