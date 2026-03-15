@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talk to someone about themselves and they'll listen for hours.</p>
+<p>The greater the impact you want to make, the greater your influence needs to be.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Lolly Daskal</p>
