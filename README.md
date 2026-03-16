@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Waste no more time arguing about what a good man should be. Be one.</p>
+<p>The more you know, the more you know you don't know.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Aristotle</p>
