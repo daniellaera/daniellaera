@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The hard path is often the right one. The river teaches more than the shore.</p>
+<p>The fear of death is more to be feared, than death itself.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Publilius Syrus</p>
