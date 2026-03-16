@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.</p>
+<p>Things may come to those who wait, but only the things left by those who hustle.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Abraham Lincoln</p>
