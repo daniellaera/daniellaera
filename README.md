@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>Nothing external to you has any power over you.</p>
 
-<p>- Mark Manson</p>
+<p>- Ralph Waldo Emerson</p>
