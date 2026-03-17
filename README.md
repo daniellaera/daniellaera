@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only encounters in history. There are no accidents.</p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Harry S. Truman</p>
