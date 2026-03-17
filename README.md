@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</p>
+<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Henry Ward Beecher</p>
