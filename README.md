@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less people know, the more stubbornly they know it.</p>
+<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
 
-<p>- Osho</p>
+<p>- Mark Manson</p>
