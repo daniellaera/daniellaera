@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without complaint, Work with fate.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Walt Whitman</p>
