@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are not the drop in the ocean, but the ocean in the drop.</p>
+<p>Most people achieved their greatest success one step beyond what looked like their greatest failure.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Brian Tracy</p>
