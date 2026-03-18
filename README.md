@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Passion is born deaf and dumb.</p>
+<p>You are not the drop in the ocean, but the ocean in the drop.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Deepak Chopra</p>
