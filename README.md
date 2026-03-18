@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.</p>
+<p>Passion is born deaf and dumb.</p>
 
-<p>- Celestine Chua</p>
+<p>- Honore de Balzac</p>
