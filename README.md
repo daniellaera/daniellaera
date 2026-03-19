@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success and the road to failure are almost exactly the same.</p>
+<p>The heart wants what it wants - or else it does not care.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Emily Dickinson</p>
