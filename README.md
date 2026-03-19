@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
 
-<p>- Brian Tracy</p>
+<p>- Henry Ford</p>
