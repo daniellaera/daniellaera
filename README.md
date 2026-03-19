@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing the best at this moment puts you in the best place for the next moment.</p>
+<p>Kindness is a language which the deaf can hear and the blind can see.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Mark Twain</p>
