@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a gift, even when pain is your teacher.</p>
+<p>Discipline yourself, and others won't need to.</p>
 
-<p>- Michael Jordan</p>
+<p>- John Wooden</p>
