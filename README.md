@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles are those frightful things you see when you take your eyes off your goal.</p>
+<p>The road to success and the road to failure are almost exactly the same.</p>
 
-<p>- Henry Ford</p>
+<p>- Colin R. Davis</p>
