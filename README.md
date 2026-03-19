@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do your duty and a little more and the future will take care of itself.</p>
+<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- George Bernard Shaw</p>
