@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Tony Robbins</p>
