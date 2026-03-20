@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>Nothing that results in human progress is achieved with unanimous consent.</p>
 
-<p>- Samuel Butler</p>
+<p>- Christopher Columbus</p>
