@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most effective way to do it, is to do it.</p>
+<p>I can live without money, but I cannot live without love.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Judy Garland</p>
