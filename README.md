@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is impossible without change, and those who cannot change their minds cannot change anything.</p>
+<p>Honesty is the first chapter in the book of wisdom.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Thomas Jefferson</p>
