@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the ability, now apply yourself.</p>
+<p>Always seek out the seed of triumph in every adversity.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Og Mandino</p>
