@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honesty is the first chapter in the book of wisdom.</p>
+<p>I'm an optimist by choice not by stupidity.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Yanni</p>
