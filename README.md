@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools resist. The wise embrace.</p>
+<p>The greatest of empires, is the empire over one's self.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Publilius Syrus</p>
