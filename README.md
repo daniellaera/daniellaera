@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Man should fear never beginning to live.</p>
+<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Elbert Hubbard</p>
