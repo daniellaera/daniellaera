@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
+<p>People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Franklin D. Roosevelt</p>
