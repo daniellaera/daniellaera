@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Doing the best at this moment puts you in the best place for the next moment.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Charles Dickens</p>
