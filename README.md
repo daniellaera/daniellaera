@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>With self-discipline, almost anything is possible.</p>
+<p>Concentrated power has always been the enemy of liberty.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Ronald Reagan</p>
