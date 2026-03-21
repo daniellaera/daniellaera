@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest level of wisdom is when you not only accept but love adversity.</p>
+<p>Debt is the slavery of the free.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Publilius Syrus</p>
