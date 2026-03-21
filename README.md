@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you are patient in one moment of anger, you will escape a hundred days of sorrow. </p>
+<p>Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Lily Tomlin</p>
