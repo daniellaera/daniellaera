@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowing others is wisdom, knowing yourself is enlightenment.</p>
+<p>Only put off until tomorrow what you are willing to die having left undone.</p>
 
-<p>- Lao Tzu</p>
+<p>- Pablo Picasso</p>
