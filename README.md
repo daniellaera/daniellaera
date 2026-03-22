@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
+<p>A single dream is more powerful than a thousand realities.</p>
 
-<p>- Chinese Proverb</p>
+<p>- J.R.R. Tolkien</p>
