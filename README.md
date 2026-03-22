@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
+<p>If you genuinely want something, don't wait for it - teach yourself.</p>
 
-<p>- Sydney Smith</p>
+<p>- Gurbaksh Chahal</p>
