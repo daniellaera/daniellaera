@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only put off until tomorrow what you are willing to die having left undone.</p>
+<p>You are always your own best guru, your own best teacher, the answers are always inside you.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Sathya Sai Baba</p>
