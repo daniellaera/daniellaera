@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Debt is the slavery of the free.</p>
+<p>Be not afraid of growing slowly, be afraid only of standing still. </p>
 
-<p>- Publilius Syrus</p>
+<p>- Chinese Proverb</p>
