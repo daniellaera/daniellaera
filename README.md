@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not everything that weighs you down is yours to carry.</p>
+<p>We must accept finite disappointment, but never lose infinite hope.</p>
 
-<p>- Unknown</p>
+<p>- Martin Luther King, Jr.</p>
