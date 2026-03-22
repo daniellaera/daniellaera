@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
+<p>Not everything that weighs you down is yours to carry.</p>
 
-<p>- Criss Jami</p>
+<p>- Unknown</p>
