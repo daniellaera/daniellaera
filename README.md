@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance. </p>
+<p>Art is to console those who are broken by life.</p>
 
-<p>- Brian Tracy</p>
+<p>- Vincent van Gogh</p>
