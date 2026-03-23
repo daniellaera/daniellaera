@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest mistake you can make in life is to be continually fearing you will make one.</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Henry Ward Beecher</p>
