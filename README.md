@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If anything is worth doing, do it with all your heart.</p>
+<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
 
-<p>- Buddha</p>
+<p>- Unknown</p>
