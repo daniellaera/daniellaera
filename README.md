@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
+<p>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</p>
 
-<p>- Seneca</p>
+<p>- Socrates</p>
