@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Short cuts make long delays.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Ronald Reagan</p>
