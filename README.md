@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By failing to prepare, you are preparing to fail.</p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Alexandre Dumas</p>
