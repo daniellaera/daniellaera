@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you stop questioning, you stop learning.</p>
+<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Seneca</p>
