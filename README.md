@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Successful people ask better questions, and as a result, they get better answers.</p>
+<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
 
-<p>- Tony Robbins</p>
+<p>- Elon Musk</p>
