@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others achieve their dreams and you will achieve yours.</p>
+<p>When you stop questioning, you stop learning.</p>
 
-<p>- Les Brown</p>
+<p>- Lolly Daskal</p>
