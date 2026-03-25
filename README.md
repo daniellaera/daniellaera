@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
+<p>Never give up work. Work gives you meaning and purpose and life is empty without it.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Stephen Hawking</p>
