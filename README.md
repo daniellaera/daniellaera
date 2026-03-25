@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </p>
+<p>A dead thing can go with the stream, but only a living thing can go against it.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Gilbert Chesterton</p>
