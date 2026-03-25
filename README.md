@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I never said it would be easy, I only said it would be worth it.</p>
+<p>The present moment is filled with joy and happiness. If you are attentive, you will see it.</p>
 
-<p>- Mae West</p>
+<p>- Thich Nhat Hanh</p>
