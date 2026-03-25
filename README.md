@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun shines upon good and bad alike.</p>
+<p>When you are tough on yourself, life is going to be infinitely easier on you.  </p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Zig Ziglar</p>
