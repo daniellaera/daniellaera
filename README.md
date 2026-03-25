@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're on earth. There's no cure for that.</p>
+<p>The sun shines upon good and bad alike.</p>
 
-<p>- Samuel Beckett</p>
+<p>- Hans Christian Andersen</p>
