@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Honor is the foundation of courage.</p>
+<p>Many a man has failed because he had his wishbone where his backbone should have been.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Ronald Reagan</p>
