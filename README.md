@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to be irreplaceable one must always be different.</p>
+<p>Patience is not the ability to wait but the ability to keep a good attitude while waiting.</p>
 
-<p>- Coco Chanel</p>
+<p>- Joyce Meyer</p>
