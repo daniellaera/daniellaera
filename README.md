@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is the power of the mind to be unconquerable.</p>
+<p>I dream my painting and I paint my dream.</p>
 
-<p>- Seneca</p>
+<p>- Vincent van Gogh</p>
