@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Paulo Coelho</p>
