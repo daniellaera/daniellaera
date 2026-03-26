@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</p>
+<p>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Bob Marley</p>
