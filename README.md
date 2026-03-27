@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think about what they don't want and attract more of the same.</p>
+<p>Your gift is something that you can do innately better than anything else.</p>
 
-<p>- Unknown</p>
+<p>- Steve Harvey</p>
