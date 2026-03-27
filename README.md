@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
+<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Norman Vincent Peale</p>
