@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
+<p>Identification with our mind causes thought to become compulsive.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Eckhart Tolle</p>
