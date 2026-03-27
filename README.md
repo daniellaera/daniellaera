@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
+<p>If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.</p>
 
-<p>- Og Mandino</p>
+<p>- Jon Kabat-Zinn</p>
