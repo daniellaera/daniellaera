@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
+<p>It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  </p>
 
-<p>- Paulo Coelho</p>
+<p>- Seneca</p>
