@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>The wiser you get, the less you care to look like a fool.</p>
 
-<p>- Unknown</p>
+<p>- Maxime Lagace</p>
