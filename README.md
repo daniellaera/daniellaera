@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Loyalty and friendship are the most precious possessions a man can have.</p>
+<p>It doesn't matter how slow you go, as long as you don't stop.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Confucius</p>
