@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>- A.A. Milne</p>
+<p>- Margaret Mead</p>
