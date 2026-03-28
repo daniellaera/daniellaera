@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Gurbaksh Chahal</p>
