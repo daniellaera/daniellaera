@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Find something you love and do it better than everyone else.</p>
+<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Zhuangzi</p>
