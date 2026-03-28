@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wiser you get, the less you care to look like a fool.</p>
+<p>There's no next time. It's now or never.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Celestine Chua</p>
