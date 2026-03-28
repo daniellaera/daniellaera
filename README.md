@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever your heart clings to and confides in, that is really your God.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>- Martin Luther</p>
+<p>- Steve Harvey</p>
