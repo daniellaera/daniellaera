@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ability to observe without evaluating is the highest form of intelligence.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Herbert Hoover</p>
