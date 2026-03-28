@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>TEAMWORK: the fuel that allows common people attain uncommon results.</p>
+<p>Whatever your heart clings to and confides in, that is really your God.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Martin Luther</p>
