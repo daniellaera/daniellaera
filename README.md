@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is stupid. So are regrets.</p>
+<p>Great things are not accomplished by those who yield to trends and fads and popular opinion.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Jack Kerouac</p>
