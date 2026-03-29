@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our truest life is when we are in dreams awake.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Marilyn Monroe</p>
