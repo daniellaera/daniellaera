@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want something new, you have to stop doing something old.</p>
+<p>The way to change others' minds is with affection, and not anger.</p>
 
-<p>- Peter Drucker</p>
+<p>- Dalai Lama</p>
