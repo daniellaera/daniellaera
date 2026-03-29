@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>If you want something new, you have to stop doing something old.</p>
 
-<p>- John Eliot</p>
+<p>- Peter Drucker</p>
