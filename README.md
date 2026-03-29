@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
+<p>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- William Faulkner</p>
