@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In order to be walked over, you have to be lying down.</p>
+<p>When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.</p>
 
-<p>- Celestine Chua</p>
+<p>- Norman Vincent Peale</p>
