@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear is stupid. So are regrets.</p>
+<p>In order to be walked over, you have to be lying down.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Celestine Chua</p>
