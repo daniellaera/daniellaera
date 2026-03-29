@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Rather than love, than money, than fame, give me truth.</p>
+<p>The only limits in your life are those that you set yourself.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Celestine Chua</p>
