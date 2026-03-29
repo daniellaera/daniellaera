@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to change others' minds is with affection, and not anger.</p>
+<p>Our truest life is when we are in dreams awake.</p>
 
-<p>- Dalai Lama</p>
+<p>- Henry David Thoreau</p>
