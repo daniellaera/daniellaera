@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>Change is hard at first, messy in the middle and gorgeous at the end.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Robin Sharma</p>
