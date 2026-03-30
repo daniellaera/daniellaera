@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are interpersonal relationship problems.</p>
+<p>When you've got nothing, you've got nothing to lose.</p>
 
-<p>- Alfred Adler</p>
+<p>- Bob Dylan</p>
