@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I like the dreams of the future better than the history of the past.</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Naval Ravikant</p>
