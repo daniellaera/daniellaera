@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Bruce Lee</p>
+<p>- John Wooden</p>
