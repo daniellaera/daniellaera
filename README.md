@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who know, do. Those that understand, teach.</p>
+<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
 
-<p>- Aristotle</p>
+<p>- Naval Ravikant</p>
