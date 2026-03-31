@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you respond to negative people, the more positive your life will become.</p>
+<p>Absorb what is useful, discard what is not, add what is uniquely your own.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Bruce Lee</p>
