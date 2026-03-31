@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
+<p>The greatest treasures are those invisible to the eye but found by the heart.</p>
 
-<p>- Lao Tzu</p>
+<p>- Judy Garland</p>
