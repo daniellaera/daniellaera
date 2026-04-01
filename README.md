@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>Loyalty and friendship are the most precious possessions a man can have.</p>
 
-<p>- Unknown</p>
+<p>- Herbert Hoover</p>
