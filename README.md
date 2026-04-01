@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My guiding principle is this: Guilt is never to be doubted. </p>
+<p>Catch, then, O catch the transient hour; Improve each moment as it flies! </p>
 
-<p>- Franz Kafka</p>
+<p>- St. Jerome</p>
