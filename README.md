@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you open your heart to others, the more your heart suffers.</p>
+<p>To forgive means pardoning the unpardonable.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Gilbert Chesterton</p>
