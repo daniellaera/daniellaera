@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Talent is luck. The important thing in life is courage.</p>
+<p>Where words fail, music speaks.</p>
 
-<p>- Woody Allen</p>
+<p>- Hans Christian Andersen</p>
