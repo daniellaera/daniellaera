@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The moment you doubt whether you can fly, you cease for ever to be able to do it.</p>
+<p>The person who never made a mistake never tried anything new.</p>
 
-<p>- James Matthew Barrie</p>
+<p>- Albert Einstein</p>
