@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All we have to decide is what to do with the time that is given to us.</p>
+<p>Lust, anger and greed are the three gates to self-destructive hell.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Bhagavad Gita</p>
