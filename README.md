@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
+<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Buddha</p>
