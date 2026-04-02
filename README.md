@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</p>
+<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
 
-<p>- Napoleon Hill</p>
+<p>- T.S. Eliot</p>
