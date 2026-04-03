@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do two things at once is to do neither.</p>
+<p>A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Osho</p>
