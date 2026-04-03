@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The person who cannot control his words shows that he cannot control himself.</p>
+<p>If your happiness depends on what somebody else does, I guess you do have a problem.</p>
 
-<p>- Robert Greene</p>
+<p>- Richard Bach</p>
