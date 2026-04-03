@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no shortcuts to any place worth going.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
 
-<p>- Beverly Sills</p>
+<p>- Elon Musk</p>
