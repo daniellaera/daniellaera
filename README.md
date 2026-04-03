@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Zen insists that the whole trouble is just our failure to realize that there is no problem.</p>
+<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
 
-<p>- Bruce Lee</p>
+<p>- Christopher Reeve</p>
