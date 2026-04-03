@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
+<p>To do two things at once is to do neither.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Publilius Syrus</p>
