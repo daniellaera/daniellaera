@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
+<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Roy T. Bennett</p>
