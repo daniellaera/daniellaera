@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment of happiness requires a great amount of Ignorance</p>
+<p>We can see through others only when we can see through ourselves.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Bruce Lee</p>
