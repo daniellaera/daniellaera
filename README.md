@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you feed your mind with positive thoughts, the more you can attract great things into your life.</p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Celestine Chua</p>
