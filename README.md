@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>- James Cameron</p>
+<p>- Honore de Balzac</p>
