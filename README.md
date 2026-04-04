@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>Be yourself; everyone else is already taken.</p>
 
-<p>- Unknown</p>
+<p>- Oscar Wilde</p>
