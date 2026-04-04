@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can see through others only when we can see through ourselves.</p>
+<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
 
-<p>- Bruce Lee</p>
+<p>- Robin Sharma</p>
