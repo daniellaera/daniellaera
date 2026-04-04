@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Jim Rohn</p>
+<p>- Leo Tolstoy</p>
