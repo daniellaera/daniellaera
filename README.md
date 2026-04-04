@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>- Robin Sharma</p>
+<p>- Herodotus</p>
