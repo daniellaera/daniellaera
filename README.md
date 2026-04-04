@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Michael Jordan</p>
