@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>However difficult life may seem, there is always something you can do and succeed at.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>- Stephen Hawking</p>
+<p>- Epictetus</p>
