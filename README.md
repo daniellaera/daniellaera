@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</p>
+<p>We know nothing of tomorrow, our business is to be good and happy today.</p>
 
-<p>- Celestine Chua</p>
+<p>- Sydney Smith</p>
