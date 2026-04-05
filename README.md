@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing worse than being blind is having sight but no vision.</p>
+<p>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</p>
 
-<p>- Helen Keller</p>
+<p>- Celestine Chua</p>
