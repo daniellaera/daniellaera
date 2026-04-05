@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All power is from within and therefore under our control.</p>
+<p>Falling down is not failure. Failure comes when you stay where you have fallen.</p>
 
-<p>- Robert Collier</p>
+<p>- Socrates</p>
