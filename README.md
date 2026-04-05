@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>Dream big. Start small. But most of all, start.</p>
 
-<p>- Robin Sharma</p>
+<p>- Simon Sinek</p>
