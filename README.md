@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
+<p>Make your life a mission - not an intermission.</p>
 
-<p>- Robin Sharma</p>
+<p>- Unknown</p>
