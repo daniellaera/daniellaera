@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make your life a mission - not an intermission.</p>
+<p>Do it with passion, or not at all.</p>
 
-<p>- Unknown</p>
+<p>- Rosa Nouchette Carey</p>
