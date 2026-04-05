@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>First say to yourself what you would be; and then do what you have to do.</p>
+<p>If you are lucky enough to find love, remember it is there and don't throw it away.</p>
 
-<p>- Epictetus</p>
+<p>- Stephen Hawking</p>
