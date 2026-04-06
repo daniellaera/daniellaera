@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>Nothing good ever comes of violence.</p>
 
-<p>- Samuel Butler</p>
+<p>- Martin Luther</p>
