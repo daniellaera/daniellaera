@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Elbert Hubbard</p>
