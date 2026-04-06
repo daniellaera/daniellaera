@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life belongs to the living, and he who lives must be prepared for changes.</p>
+<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Albus Dumbledore</p>
