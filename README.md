@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before you embark on a journey of revenge, dig two graves. </p>
+<p>Work is always an antidote to depression.</p>
 
-<p>- Confucius</p>
+<p>- Eleanor Roosevelt</p>
