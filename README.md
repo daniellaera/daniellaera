@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest deception men suffer is from their own opinions.</p>
+<p>You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Eleanor Roosevelt</p>
