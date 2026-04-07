@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
 
-<p>- Margaret Mead</p>
+<p>- Spencer Johnson</p>
