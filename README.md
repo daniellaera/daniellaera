@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I begin with an idea and then it becomes something else.</p>
+<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Beverly Sills</p>
