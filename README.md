@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</p>
+<p>What people say, what people do, and what they say they do are entirely different things. </p>
 
-<p>- Kabir</p>
+<p>- Margaret Mead</p>
