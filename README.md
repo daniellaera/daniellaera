@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to see what you see.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Pablo Picasso</p>
