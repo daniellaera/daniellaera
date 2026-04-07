@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
+<p>No one ever said life was fair. Just Eventful.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Carol Burnett</p>
