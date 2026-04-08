@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</p>
+<p>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</p>
 
-<p>- Elon Musk</p>
+<p>- Ronald Reagan</p>
