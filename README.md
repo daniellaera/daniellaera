@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</p>
+<p>No man ever steps in the same river twice, for it's not the same river and he's not the same man.</p>
 
-<p>- John Wooden</p>
+<p>- Heraclitus</p>
