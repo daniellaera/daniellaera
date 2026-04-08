@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be disappointed if you fail, but you are doomed if you don't try. </p>
+<p>The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.</p>
 
-<p>- Beverly Sills</p>
+<p>- James Allen</p>
