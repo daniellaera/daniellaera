@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you give, the more comes back to you.</p>
+<p>Every drop in the ocean counts. </p>
 
-<p>- Napoleon Hill</p>
+<p>- Yoko Ono</p>
