@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>How people treat you is their karma; how you react is yours. </p>
+<p>Debt is the slavery of the free.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Publilius Syrus</p>
