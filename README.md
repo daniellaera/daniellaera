@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing like looking if you want to find something.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Unknown</p>
