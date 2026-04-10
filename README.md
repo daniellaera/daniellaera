@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot find peace avoiding life.</p>
+<p>You have the ability, now apply yourself.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Benjamin Mays</p>
