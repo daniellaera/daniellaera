@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To do two things at once is to do neither.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>- Publilius Syrus</p>
+<p>- J.R.R. Tolkien</p>
