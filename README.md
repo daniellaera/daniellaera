@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quieter you become, the more you are able to hear.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Rumi</p>
+<p>- John Eliot</p>
