@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the ability, now apply yourself.</p>
+<p>To do two things at once is to do neither.</p>
 
-<p>- Benjamin Mays</p>
+<p>- Publilius Syrus</p>
