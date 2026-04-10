@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</p>
+<p>The quieter you become, the more you are able to hear.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Rumi</p>
