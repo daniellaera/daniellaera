@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
+<p>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Ayn Rand</p>
