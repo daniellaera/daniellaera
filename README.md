@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Bhagavad Gita</p>
