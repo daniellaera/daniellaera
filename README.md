@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You came empty handed, and you will leave empty handed.</p>
+<p>Don't let the noise of others opinions drown out your inner voice.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Steve Jobs</p>
