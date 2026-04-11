@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take away love and our earth is a tomb.</p>
+<p>There is nothing quite so tragic as a young cynic.</p>
 
-<p>- Robert Browning</p>
+<p>- Maya Angelou</p>
