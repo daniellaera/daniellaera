@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
+<p>There's a very deep connection among human beings. All we have to do is open our minds to it.</p>
 
-<p>- James Allen</p>
+<p>- Yanni</p>
