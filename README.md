@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wealth consists not in having great possessions, but in having few wants.</p>
+<p>He who knows best knows how little he knows.</p>
 
-<p>- Epictetus</p>
+<p>- Thomas Jefferson</p>
