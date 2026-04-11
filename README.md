@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make each day a new horizon.</p>
+<p>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Eleanor Roosevelt</p>
