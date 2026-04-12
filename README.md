@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>Trust thyself: every heart vibrates to that iron string.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Ralph Waldo Emerson</p>
