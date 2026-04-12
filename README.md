@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
+<p>You can suffer the pain of change or suffer remaining the way you are.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Joyce Meyer</p>
