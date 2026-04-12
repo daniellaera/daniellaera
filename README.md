@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything that irritates us about others.</p>
+<p>Simple words, repeated daily, can change your life.</p>
 
-<p>- Carl Jung</p>
+<p>- Maxime Lagace</p>
