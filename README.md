@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who possesses most must be most afraid of loss.</p>
+<p>The more people you help become successful the more successful you become.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Steve Harvey</p>
