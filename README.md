@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can suffer the pain of change or suffer remaining the way you are.</p>
+<p>Believe you can and you will be halfway there.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Lolly Daskal</p>
