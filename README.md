@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simple words, repeated daily, can change your life.</p>
+<p>Be patient and calm; no one can catch fish in anger.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Herbert Hoover</p>
