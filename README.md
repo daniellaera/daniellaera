@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Robin Sharma</p>
