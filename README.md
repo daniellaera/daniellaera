@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be patient and calm; no one can catch fish in anger.</p>
+<p>The world would go on even without you. Don't take yourself so seriously.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Norman Vincent Peale</p>
