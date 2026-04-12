@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
+<p>Give so much away people insist on paying you.</p>
 
-<p>- Robin Sharma</p>
+<p>- Jack Butcher</p>
