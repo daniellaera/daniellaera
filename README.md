@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be of use to the world is the only way to be happy.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Maxime Lagace</p>
