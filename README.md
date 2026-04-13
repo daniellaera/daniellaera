@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good system shortens the road to the goal. </p>
+<p>To know your Enemy, you must become your Enemy.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Sun Tzu</p>
