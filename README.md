@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Either you run the day or the day runs you.</p>
+<p>Identification with our mind causes thought to become compulsive.</p>
 
-<p>- Jim Rohn</p>
+<p>- Eckhart Tolle</p>
