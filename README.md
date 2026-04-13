@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all readers are leaders, but all leaders are readers.</p>
+<p>I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.</p>
 
-<p>- Harry S. Truman</p>
+<p>- D. H. Lawrence</p>
