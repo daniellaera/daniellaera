@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficult and meaningful will always bring more satisfaction than easy and meaningless.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- Maxime Lagace</p>
+<p>- Orison Swett Marden</p>
