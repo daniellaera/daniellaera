@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life is to fall seven times and to get up eight times.</p>
+<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Elbert Hubbard</p>
