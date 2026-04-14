@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When we allow negative messages to fester in our head, they take on a life of their own.</p>
+<p>There's no coming to consciousness without pain</p>
 
-<p>- Lolly Daskal</p>
+<p>- Carl Jung</p>
