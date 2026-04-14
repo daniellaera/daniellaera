@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nature is pleased with simplicity. And nature is no dummy.</p>
+<p>You have to keep breaking your heart until it opens.</p>
 
-<p>- Isaac Newton</p>
+<p>- Rumi</p>
