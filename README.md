@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What people say, what people do, and what they say they do are entirely different things. </p>
+<p>Don't blame others. it won't make you a better person.</p>
 
-<p>- Margaret Mead</p>
+<p>- Lolly Daskal</p>
