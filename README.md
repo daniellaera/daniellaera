@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving back involves a certain amount of giving up.</p>
+<p>Don't let anyone define you. You define yourself.</p>
 
-<p>- Colin Powell</p>
+<p>- Billie Jean King</p>
