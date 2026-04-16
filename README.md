@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Constantly think about how you could be doing things better.</p>
+<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
 
-<p>- Elon Musk</p>
+<p>- George Bernard Shaw</p>
