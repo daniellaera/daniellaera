@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no way to happiness - happiness is the way.</p>
+<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- William Faulkner</p>
