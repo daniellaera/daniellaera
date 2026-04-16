@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless you're ashamed of yourself now and then, you're not honest.</p>
+<p>Knowing your own darkness is the best method for dealing with the darknesses of other people.</p>
 
-<p>- William Faulkner</p>
+<p>- Carl Jung</p>
