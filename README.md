@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>No one ever is defeated until defeat has been accepted as a reality.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Napoleon Hill</p>
