@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to see what you see.</p>
+<p>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Criss Jami</p>
