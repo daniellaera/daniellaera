@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to the secret sound, the real sound, which is inside you.</p>
+<p>Progress is limited by your ability to change your mind.</p>
 
-<p>- Kabir</p>
+<p>- Jack Butcher</p>
