@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress is limited by your ability to change your mind.</p>
+<p>If you can handle rejection, you'll learn to get everything you want.</p>
 
-<p>- Jack Butcher</p>
+<p>- Tony Robbins</p>
