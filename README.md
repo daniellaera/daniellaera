@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never argue with ignorance. It only leads to frustration.</p>
+<p>Don't be afraid to see what you see.</p>
 
-<p>- Unknown</p>
+<p>- Ronald Reagan</p>
