@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man should do his job so well that the living, the dead, and the unborn could do it no better.</p>
+<p>Knowledge isn't power until it is applied.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Dale Carnegie</p>
