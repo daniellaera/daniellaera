@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>Chase your passion, not your pension. </p>
 
-<p>- Dale Carnegie</p>
+<p>- Denis Waitley</p>
