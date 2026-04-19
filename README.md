@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The question isn't who is going to let me; it's who is going to stop me.</p>
+<p>When it comes to mastering a skill, time is the magic ingredient.</p>
 
-<p>- Ayn Rand</p>
+<p>- Robert Greene</p>
