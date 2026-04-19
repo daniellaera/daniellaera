@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, you travel, and as you love, you attract.</p>
+<p>Talk to someone about themselves and they'll listen for hours.</p>
 
-<p>- James Allen</p>
+<p>- Dale Carnegie</p>
