@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not use life to give life to death. Do not use death to bring death to life.</p>
+<p>Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.</p>
 
-<p>- Zhuangzi</p>
+<p>- Sonia Ricotti</p>
