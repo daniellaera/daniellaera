@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>That some achieve great success is proof to all that others can achieve it as well.</p>
+<p>Without the rain there would be no rainbow.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Gilbert Chesterton</p>
