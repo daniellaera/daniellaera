@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to offer no excuse than a bad one. </p>
+<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
 
-<p>- George Washington</p>
+<p>- Zig Ziglar</p>
