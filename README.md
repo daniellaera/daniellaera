@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>Do good by stealth, and blush to find it fame.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Alexander Pope</p>
