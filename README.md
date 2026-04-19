@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Robert Frost</p>
+<p>- Gary Keller</p>
