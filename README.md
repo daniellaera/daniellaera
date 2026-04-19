@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When it comes to mastering a skill, time is the magic ingredient.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Robert Greene</p>
+<p>- Benjamin Franklin</p>
