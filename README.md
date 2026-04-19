@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a question and how we live it is our answer.</p>
+<p>The question isn't who is going to let me; it's who is going to stop me.</p>
 
-<p>- Gary Keller</p>
+<p>- Ayn Rand</p>
