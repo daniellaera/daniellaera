@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Love your enemies, for they tell you your faults.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Elbert Hubbard</p>
