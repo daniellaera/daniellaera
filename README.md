@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One small positive thought can change your whole day.</p>
+<p>As you think, so shall you become. </p>
 
-<p>- Zig Ziglar</p>
+<p>- Bruce Lee</p>
