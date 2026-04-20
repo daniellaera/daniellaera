@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</p>
+<p>It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Gurbaksh Chahal</p>
