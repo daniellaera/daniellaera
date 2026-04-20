@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
+<p>Never settle for the crumbs of life.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Og Mandino</p>
