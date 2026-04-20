@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, so shall you become. </p>
+<p>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</p>
 
-<p>- Bruce Lee</p>
+<p>- Thich Nhat Hanh</p>
