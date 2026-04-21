@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is acceptable. Not trying is a whole different ball park.</p>
+<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
 
-<p>- Michael Jordan</p>
+<p>- Steve Harvey</p>
