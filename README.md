@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day do something that will inch you closer to a better tomorrow.</p>
+<p>Where does a thought go when it's forgotten?</p>
 
-<p>- Unknown</p>
+<p>- Sigmund Freud</p>
