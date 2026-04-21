@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>Every day do something that will inch you closer to a better tomorrow.</p>
 
-<p>- Lao Tzu</p>
+<p>- Unknown</p>
