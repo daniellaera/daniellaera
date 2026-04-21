@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Before preparing to improve the world, first look around your own home three times. </p>
+<p>Stop wasting time defending your problems and work on addressing them instead.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Celestine Chua</p>
