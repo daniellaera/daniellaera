@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will face many defeats in life, but never let yourself be defeated.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Maya Angelou</p>
+<p>- Maxime Lagace</p>
