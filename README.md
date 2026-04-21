@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Huang Po</p>
