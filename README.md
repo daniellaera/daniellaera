@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</p>
+<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Amelia Earhart</p>
