@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
 
-<p>- Lao Tzu</p>
+<p>- John D. Rockefeller</p>
