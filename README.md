@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where does a thought go when it's forgotten?</p>
+<p>Winners never quit and quitters never win.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Vince Lombardi</p>
