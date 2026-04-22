@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No kind action ever stops with itself. One kind action leads to another. Good example is followed.</p>
+<p>A person who does not read is no better than one cannot read.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Earl Nightingale</p>
