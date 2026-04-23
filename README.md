@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger begins with folly, and ends with repentance. </p>
+<p>We will act consistently with our view of who we truly are, whether that view is accurate or not.</p>
 
-<p>- Beverly Sills</p>
+<p>- Tony Robbins</p>
