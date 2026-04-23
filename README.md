@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Norman Vincent Peale</p>
