@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>You can, you should, and if you're brave enough to start, you will.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Stephen King</p>
