@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Common sense is not so common. </p>
+<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
 
-<p>- Voltaire</p>
+<p>- Benjamin Franklin</p>
