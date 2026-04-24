@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let someone elses. opinion become your reality.</p>
+<p>Change begets change. Nothing propagates so fast.</p>
 
-<p>- Les Brown</p>
+<p>- Charles Dickens</p>
