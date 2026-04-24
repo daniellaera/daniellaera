@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All I can do is be me, whoever that is.</p>
+<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
 
-<p>- Bob Dylan</p>
+<p>- Elbert Hubbard</p>
