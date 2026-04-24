@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.</p>
+<p>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</p>
 
-<p>- Alexander Pope</p>
+<p>- Robin Sharma</p>
