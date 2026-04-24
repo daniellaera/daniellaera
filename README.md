@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Character is the result of two things: mental attitude and the way we spend our time.</p>
+<p>Your gift is something that you can do innately better than anything else.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Steve Harvey</p>
