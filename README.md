@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
+<p>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</p>
 
-<p>- Huang Po</p>
+<p>- Gary Keller</p>
