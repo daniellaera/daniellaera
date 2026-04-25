@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</p>
+<p>Listening well is as powerful as talking well, and is also as essential to true conversation.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Chinese Proverb</p>
