@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dreamers are the saviors of the worlds.</p>
+<p>I have not failed. I've just found 10,000 ways that won't work.</p>
 
-<p>- James Allen</p>
+<p>- Thomas Edison</p>
