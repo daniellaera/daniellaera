@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</p>
+<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
 
-<p>- Celestine Chua</p>
+<p>- Dogen</p>
