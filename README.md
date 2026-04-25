@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to see things just as they are, then you yourself must practice just as you are.</p>
+<p>Life may be full of pain but that's not an excuse to give up.</p>
 
-<p>- Dogen</p>
+<p>- Arnold Schwarzenegger</p>
