@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have not failed. I've just found 10,000 ways that won't work.</p>
+<p>Charms strike the sight, but merit wins the soul.</p>
 
-<p>- Thomas Edison</p>
+<p>- Alexander Pope</p>
