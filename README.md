@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</p>
+<p>Success is not to be pursued, it is to be attracted by the person you become.</p>
 
-<p>- Gary Keller</p>
+<p>- Jim Rohn</p>
