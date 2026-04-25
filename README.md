@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life may be full of pain but that's not an excuse to give up.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Emily Dickinson</p>
