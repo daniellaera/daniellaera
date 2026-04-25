@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If what you're doing is not your passion, you have nothing to lose.</p>
+<p>The dreamers are the saviors of the worlds.</p>
 
-<p>- Celestine Chua</p>
+<p>- James Allen</p>
