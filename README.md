@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
+<p>All our knowledge has its origins in our perceptions.</p>
 
-<p>- Celestine Chua</p>
+<p>- Leonardo da Vinci</p>
