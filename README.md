@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom lies in being bold.</p>
+<p>If you done it, it ain't bragging.</p>
 
-<p>- Robert Frost</p>
+<p>- Walt Whitman</p>
