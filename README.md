@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you done it, it ain't bragging.</p>
+<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
 
-<p>- Walt Whitman</p>
+<p>- Richard Bach</p>
