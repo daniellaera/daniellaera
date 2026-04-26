@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most of us will do anything to avoid facing ourselves.</p>
+<p>Freedom lies in being bold.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Robert Frost</p>
