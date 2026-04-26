@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</p>
+<p>The only difference between success and failure is the ability to take action.</p>
 
-<p>- Unknown</p>
+<p>- Alexander Graham Bell</p>
