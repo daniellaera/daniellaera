@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Plants grow weak without wind.</p>
+<p>To create more positive results in your life, replace 'if only' with 'next time'.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Celestine Chua</p>
