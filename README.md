@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Eckhart Tolle</p>
