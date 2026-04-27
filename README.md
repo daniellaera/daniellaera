@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
+<p>Life is really simple, but men insist on making it complicated. </p>
 
-<p>- George Eliot</p>
+<p>- Confucius</p>
