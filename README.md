@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The older you get the stronger the wind gets - and it's always in your face.</p>
+<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Kabir</p>
