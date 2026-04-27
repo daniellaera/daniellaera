@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When at last you are come to the ocean of happiness, do not go back thirsty.</p>
+<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
 
-<p>- Kabir</p>
+<p>- Chinese Proverb</p>
