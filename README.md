@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is really simple, but men insist on making it complicated. </p>
+<p>For fast-acting relief try slowing down.</p>
 
-<p>- Confucius</p>
+<p>- Lily Tomlin</p>
