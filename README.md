@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
+<p>What gets measured gets improved.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Robin Sharma</p>
