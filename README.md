@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What gets measured gets improved.</p>
+<p>You will face many defeats in life, but never let yourself be defeated.</p>
 
-<p>- Robin Sharma</p>
+<p>- Maya Angelou</p>
