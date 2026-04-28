@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your purpose will be clear only when you listen to your heart.</p>
+<p>Patience is a bitter plant, but its fruit is sweet.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Chinese Proverb</p>
