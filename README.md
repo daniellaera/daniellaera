@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You will face many defeats in life, but never let yourself be defeated.</p>
+<p>Your purpose will be clear only when you listen to your heart.</p>
 
-<p>- Maya Angelou</p>
+<p>- Lolly Daskal</p>
