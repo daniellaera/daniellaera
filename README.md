@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
+<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Carlos Ruiz Zafon</p>
