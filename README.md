@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The significance of life is living.</p>
+<p>With self-discipline, almost anything is possible.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Theodore Roosevelt</p>
