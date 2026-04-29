@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
+<p>A warrior does not give up what he loves, he finds the love in what he does.</p>
 
-<p>- Steve Jobs</p>
+<p>- Dan Millman</p>
