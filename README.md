@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Steve Jobs</p>
