@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go and do the things you can't. That is how you get to do them.</p>
+<p>The significance of life is living.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Jiddu Krishnamurti</p>
