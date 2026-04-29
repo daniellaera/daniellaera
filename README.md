@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is impossible. The word itself says 'I'm possible!'</p>
+<p>Go and do the things you can't. That is how you get to do them.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Pablo Picasso</p>
