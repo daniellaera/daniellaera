@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of us learn from other people's mistakes and the rest of us have to be other people.  </p>
+<p>There is only one thing that makes a dream impossible to achieve: the fear of failure.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Paulo Coelho</p>
