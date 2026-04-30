@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who has overcome his fears will truly be free.</p>
+<p>To live outside the law, you must be honest. </p>
 
-<p>- Aristotle</p>
+<p>- Bob Dylan</p>
