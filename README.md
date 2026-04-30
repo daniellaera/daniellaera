@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Opportunity often comes disguised in the form of misfortune or temporary defeat.</p>
+<p>He who has overcome his fears will truly be free.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Aristotle</p>
