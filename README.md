@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</p>
+<p>A life without a cause is a life without effect.</p>
 
-<p>- Joan Rivers</p>
+<p>- Paulo Coelho</p>
