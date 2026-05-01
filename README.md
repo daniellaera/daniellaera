@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a question and how we live it is our answer.</p>
+<p>Remember, hope is a good thing, maybe the best of things.</p>
 
-<p>- Gary Keller</p>
+<p>- Stephen King</p>
