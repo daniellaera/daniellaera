@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot always control what goes on outside. But you can always control what goes on inside. </p>
+<p>Silence is the great teacher and to learn its lessons you must pay attention to it.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Deepak Chopra</p>
