@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remember, hope is a good thing, maybe the best of things.</p>
+<p>Art is to console those who are broken by life.</p>
 
-<p>- Stephen King</p>
+<p>- Vincent van Gogh</p>
