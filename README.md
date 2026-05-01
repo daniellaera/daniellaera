@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wherever you are, it's the place you need to be.</p>
+<p>Real loss is only possible when you love something more than you love yourself.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Robin Williams</p>
