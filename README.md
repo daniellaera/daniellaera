@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness depends upon ourselves.</p>
+<p>Great deeds are usually wrought at great risks.</p>
 
-<p>- Aristotle</p>
+<p>- Herodotus</p>
