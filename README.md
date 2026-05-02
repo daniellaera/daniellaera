@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All problems are illusions of the mind.</p>
+<p>In life you need either inspiration or desperation.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Tony Robbins</p>
