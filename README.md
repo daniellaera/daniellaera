@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</p>
+<p>If you can't, you must. If you must, you can.</p>
 
-<p>- Stephen King</p>
+<p>- Tony Robbins</p>
