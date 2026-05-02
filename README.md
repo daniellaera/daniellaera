@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  </p>
+<p>The road to success is always under construction.</p>
 
-<p>- David Brinkley</p>
+<p>- Steve Harvey</p>
