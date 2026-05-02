@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In life you need either inspiration or desperation.</p>
+<p>You can only lose something that you have, but you cannot lose something that you are.</p>
 
-<p>- Tony Robbins</p>
+<p>- Eckhart Tolle</p>
