@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking will not overcome fear but action will. </p>
+<p>All problems are illusions of the mind.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Eckhart Tolle</p>
