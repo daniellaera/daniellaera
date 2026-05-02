@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
+<p>Successful people are not without problems. They're simply people who've learned to solve their problems.</p>
 
-<p>- Celestine Chua</p>
+<p>- Earl Nightingale</p>
