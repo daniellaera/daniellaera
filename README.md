@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The road to success is always under construction.</p>
+<p>People inspire you, or they drain you. Pick them wisely.</p>
 
-<p>- Steve Harvey</p>
+<p>- Les Brown</p>
