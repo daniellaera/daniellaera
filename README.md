@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing more frightful than ignorance in action.</p>
+<p>Everyday is a second chance.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Unknown</p>
