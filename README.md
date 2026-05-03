@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If ever you feel like an animal among men, be a lion.</p>
+<p>The time is now, the place is here. Stay in the present.</p>
 
-<p>- Criss Jami</p>
+<p>- Dan Millman</p>
