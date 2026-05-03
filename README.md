@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The time is now, the place is here. Stay in the present.</p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>- Dan Millman</p>
+<p>- Sydney Smith</p>
