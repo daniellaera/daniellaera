@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
+<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
 
-<p>- Og Mandino</p>
+<p>- Charles Darwin</p>
