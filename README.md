@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never say never, because limits, like fears, are often just an illusion.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>- Michael Jordan</p>
+<p>- Colin Powell</p>
