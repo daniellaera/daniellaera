@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Appear weak when you are strong, and strong when you are weak.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>- Sun Tzu</p>
+<p>- Woody Allen</p>
