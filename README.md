@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It isn't what you do, but how you do it.</p>
+<p>No one ever is defeated until defeat has been accepted as a reality.</p>
 
-<p>- John Wooden</p>
+<p>- Napoleon Hill</p>
