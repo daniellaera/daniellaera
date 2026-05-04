@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</p>
+<p>Never say never, because limits, like fears, are often just an illusion.</p>
 
-<p>- Charles Darwin</p>
+<p>- Michael Jordan</p>
