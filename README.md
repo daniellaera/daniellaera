@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence is what you have before you understand the problem.</p>
+<p>Storms don't last forever.</p>
 
-<p>- Woody Allen</p>
+<p>- Unknown</p>
