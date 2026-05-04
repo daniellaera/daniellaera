@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by attracting the best people will you accomplish great deeds.</p>
+<p>Quality means doing it right when no one is looking.</p>
 
-<p>- Colin Powell</p>
+<p>- Henry Ford</p>
