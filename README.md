@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
+<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Nicolas Chamfort</p>
