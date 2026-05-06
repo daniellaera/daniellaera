@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Giving back involves a certain amount of giving up.</p>
+<p>Do not take life too seriously. You will never get out of it alive.</p>
 
-<p>- Colin Powell</p>
+<p>- Elbert Hubbard</p>
