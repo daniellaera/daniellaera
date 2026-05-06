@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Best be yourself, imperial, plain, and true.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Robert Browning</p>
+<p>- Pablo Picasso</p>
