@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The heart wants what it wants. There's no logic. </p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>- Woody Allen</p>
+<p>- Jack London</p>
