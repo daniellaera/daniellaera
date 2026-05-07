@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fools resist. The wise embrace.</p>
+<p>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Ayn Rand</p>
