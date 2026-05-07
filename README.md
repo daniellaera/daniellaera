@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The art of being happy lies in the power of extracting happiness from common things.</p>
+<p>Fools resist. The wise embrace.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Maxime Lagace</p>
