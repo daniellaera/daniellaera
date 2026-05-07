@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learn the rules like a pro, so you can break them like an artist.</p>
+<p>The heart wants what it wants. There's no logic. </p>
 
-<p>- Pablo Picasso</p>
+<p>- Woody Allen</p>
