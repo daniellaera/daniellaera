@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The dreamers are the saviors of the worlds.</p>
+<p>My guiding principle is this: Guilt is never to be doubted. </p>
 
-<p>- James Allen</p>
+<p>- Franz Kafka</p>
