@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is not fatal, but failure to change might be.</p>
+<p>Peace of mind is that mental condition in which you have accepted the worst.</p>
 
-<p>- John Wooden</p>
+<p>- Lin Yutang</p>
