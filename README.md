@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All you need is passion. If you have a passion for something, you'll create the talent.</p>
+<p>Failure is not fatal, but failure to change might be.</p>
 
-<p>- Yanni</p>
+<p>- John Wooden</p>
