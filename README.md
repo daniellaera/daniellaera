@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
+<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
 
-<p>- Albert Einstein</p>
+<p>- T.S. Eliot</p>
