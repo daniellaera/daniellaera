@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope means hoping when everything seems hopeless.</p>
+<p>The more you give, the more comes back to you.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Napoleon Hill</p>
