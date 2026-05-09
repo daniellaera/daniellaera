@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The decisions of our past are the architects of our present.</p>
+<p>You have within you right now, everything you need to deal with whatever the world can throw at you.</p>
 
-<p>- Dan Brown</p>
+<p>- Brian Tracy</p>
