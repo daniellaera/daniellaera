@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
+<p>Silence is a source of great strength.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Lao Tzu</p>
