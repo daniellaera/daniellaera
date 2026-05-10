@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- James Allen</p>
