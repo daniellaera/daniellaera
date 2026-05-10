@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want peace, you won't get it with violence.</p>
+<p>Science can flourish only in an atmosphere of free speech. </p>
 
-<p>- John Lennon</p>
+<p>- Albert Einstein</p>
