@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Science can flourish only in an atmosphere of free speech. </p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>- Albert Einstein</p>
+<p>- George Washington</p>
