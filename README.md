@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is not a problem to be solved, but a reality to be experienced.</p>
+<p>Time flies whether you are having fun or not.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Mary Engelbreit</p>
