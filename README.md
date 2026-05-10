@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- George Washington</p>
+<p>- Og Mandino</p>
