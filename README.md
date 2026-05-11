@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
+<p>Champions keep playing until they get it right.</p>
 
-<p>- Walt Disney</p>
+<p>- Billie Jean King</p>
