@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</p>
+<p>It's what you do in the present that will redeem the past and thereby change the future.</p>
 
-<p>- Tony Robbins</p>
+<p>- Paulo Coelho</p>
