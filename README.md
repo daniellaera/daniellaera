@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
+<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
 
-<p>- Robin Williams</p>
+<p>- Christopher Reeve</p>
