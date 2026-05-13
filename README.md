@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>Thinking is difficult, that's why most people judge.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Carl Jung</p>
