@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
+<p>Engage in those actions and thoughts that nurture the good qualities you want to have.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Paramahansa Yogananda</p>
