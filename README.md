@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Worry is a waste of emotional reserve.</p>
+<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
 
-<p>- Ayn Rand</p>
+<p>- Morihei Ueshiba</p>
