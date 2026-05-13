@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all those who wander are lost.</p>
+<p>Worry is a waste of emotional reserve.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Ayn Rand</p>
