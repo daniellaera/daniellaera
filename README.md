@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Animals don't hate, and we're supposed to be better than them.</p>
+<p>Growth is in a series of mistakes. That's the only way you learn.</p>
 
-<p>- Elvis Presley</p>
+<p>- Steve Harvey</p>
