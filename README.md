@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where violence reigns, reason is weak.</p>
+<p>Animals don't hate, and we're supposed to be better than them.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Elvis Presley</p>
