@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
+<p>Why live an ordinary life, when you can live an extraordinary one.</p>
 
-<p>- Christopher Reeve</p>
+<p>- Tony Robbins</p>
