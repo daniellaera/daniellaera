@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
+<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Shunryu Suzuki</p>
