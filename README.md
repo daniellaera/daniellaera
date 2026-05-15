@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
+<p>You play the hand you're dealt. I think the game's worthwhile.  </p>
 
-<p>- Thomas Jefferson</p>
+<p>- Christopher Reeve</p>
