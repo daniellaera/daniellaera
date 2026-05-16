@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>We are all self-made, but only the successful will admit it.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Earl Nightingale</p>
