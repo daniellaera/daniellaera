@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not whether you get knocked down, its whether you get back up.</p>
+<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Henry David Thoreau</p>
