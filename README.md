@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like stepping onto a boat which is about to sail out to sea and sink.</p>
+<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Nicolas Chamfort</p>
