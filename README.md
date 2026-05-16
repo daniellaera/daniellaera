@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Go confidently in the direction of your dreams! Live the life you've imagined.</p>
+<p>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Dan Millman</p>
