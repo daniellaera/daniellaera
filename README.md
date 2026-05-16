@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.</p>
+<p>Not all those who wander are lost.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- J.R.R. Tolkien</p>
