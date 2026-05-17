@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+<p>The world is a puzzle; no need to make sense out of it.</p>
 
-<p>- Thomas Edison</p>
+<p>- Socrates</p>
