@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
+<p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Thomas Edison</p>
