@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>- George Eliot</p>
+<p>- Dan Brown</p>
