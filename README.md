@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where violence reigns, reason is weak.</p>
+<p>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Dan Millman</p>
