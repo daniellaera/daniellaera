@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is filled with secrets. You can't learn them all at once.</p>
+<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
 
-<p>- Dan Brown</p>
+<p>- Albert Einstein</p>
