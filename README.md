@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+<p>If you've made a mistake, it's better just to laugh at it.</p>
 
-<p>- Albert Einstein</p>
+<p>- Zen Proverb</p>
