@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</p>
+<p>Keep smiling, because life is a beautiful thing and there's so much to smile about.</p>
 
-<p>- Elon Musk</p>
+<p>- Marilyn Monroe</p>
