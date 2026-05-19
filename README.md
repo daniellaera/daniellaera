@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>Whatever your mind can conceive and believe, it can achieve.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Napoleon Hill</p>
