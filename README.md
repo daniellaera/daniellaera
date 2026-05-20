@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In matters of style, swim with the current; in matters of principle, stand like a rock.</p>
+<p>You are what you believe in. You become that which you believe you can become.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Bhagavad Gita</p>
