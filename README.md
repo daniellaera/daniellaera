@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Patience is bitter, but its fruit is sweet.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Aristotle</p>
+<p>- Herbert Hoover</p>
