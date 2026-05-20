@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words without actions are the assassins of idealism.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Pablo Picasso</p>
