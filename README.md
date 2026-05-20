@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some of your greatest lessons come from your darkest moments.</p>
+<p>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</p>
 
-<p>- Roger Lee</p>
+<p>- Christopher Reeve</p>
