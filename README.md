@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heroes don't need to talk about what they did.</p>
+<p>It is not enough to win a war; it is more important to organize the peace.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Aristotle</p>
