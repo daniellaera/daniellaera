@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are what you believe in. You become that which you believe you can become.</p>
+<p>Those who are possessed by nothing possess everything.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Morihei Ueshiba</p>
