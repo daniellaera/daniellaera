@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What do we live for if not to make life less difficult for each other?</p>
+<p>Forgive yourself for your faults and your mistakes and move on.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Les Brown</p>
