@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not enough to win a war; it is more important to organize the peace.</p>
+<p>Show up even when you don't want to show up.</p>
 
-<p>- Aristotle</p>
+<p>- Steve Harvey</p>
