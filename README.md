@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To seek is to suffer. To seek nothing is bliss.</p>
+<p>Never whine, never complain, never try to justify yourself.</p>
 
-<p>- Bodhidharma</p>
+<p>- Robert Greene</p>
