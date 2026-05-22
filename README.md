@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Start the day with love, spend the day with love, fill the day with love and end the day with love.</p>
+<p>It is far easier to start something than it is to finish it.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Amelia Earhart</p>
