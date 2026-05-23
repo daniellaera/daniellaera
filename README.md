@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
+<p>A tiny change today brings a dramatically different tomorrow.</p>
 
-<p>- Sigmund Freud</p>
+<p>- Richard Bach</p>
