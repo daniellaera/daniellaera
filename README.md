@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
+<p>If you do not change direction, you may end up where you are heading.</p>
 
-<p>- Herodotus</p>
+<p>- Lao Tzu</p>
