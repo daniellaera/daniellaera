@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never whine, never complain, never try to justify yourself.</p>
+<p>In peace, sons bury their fathers. In war, fathers bury their sons. </p>
 
-<p>- Robert Greene</p>
+<p>- Herodotus</p>
