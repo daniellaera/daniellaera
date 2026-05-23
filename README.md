@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not change direction, you may end up where you are heading.</p>
+<p>Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.</p>
 
-<p>- Lao Tzu</p>
+<p>- Sigmund Freud</p>
