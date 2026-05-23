@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Empty yourself of everything - let the mind become still.</p>
+<p>We create the world and ourselves;</p>
 
-<p>- Lao Tzu</p>
+<p>- Ming-Dao Deng</p>
