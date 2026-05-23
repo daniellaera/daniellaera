@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We create the world and ourselves;</p>
+<p>Small men think they are small; great men never know they are great. </p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Chinese Proverb</p>
