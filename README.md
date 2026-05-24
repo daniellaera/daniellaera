@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where you are right now doesn't have to determine where you'll end up.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Barack Obama</p>
+<p>- Og Mandino</p>
