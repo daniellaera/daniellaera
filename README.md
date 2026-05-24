@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have a brain and mind of your own. Use it, and reach your own decisions.</p>
+<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Mark Manson</p>
