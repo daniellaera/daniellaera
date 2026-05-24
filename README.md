@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must always do what you feel is right.</p>
+<p>Every man gotta right to decide his own destiny.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Bob Marley</p>
