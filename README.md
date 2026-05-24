@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Force has no place where there is need of skill.</p>
+<p>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</p>
 
-<p>- Herodotus</p>
+<p>- Richard Bach</p>
