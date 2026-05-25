@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human happiness and moral duty are inseparably connected.</p>
+<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
 
-<p>- George Washington</p>
+<p>- Alfred Adler</p>
