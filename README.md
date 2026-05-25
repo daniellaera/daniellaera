@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Definiteness of purpose is the starting point of all achievement.</p>
+<p>Who looks outside, dreams; who looks inside, awakes.</p>
 
-<p>- W. Clement Stone</p>
+<p>- Lolly Daskal</p>
