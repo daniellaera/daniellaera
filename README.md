@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.</p>
+<p>Blessed is he who expects nothing, for he shall never be disappointed.</p>
 
-<p>- Alfred Adler</p>
+<p>- Alexander Pope</p>
