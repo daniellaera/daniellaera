@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is the rarest thing in the world. Most people exist, that is all.</p>
+<p>I wasn't brave, I just didn't have time to be scared.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Amelia Earhart</p>
