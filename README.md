@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</p>
+<p>To live is the rarest thing in the world. Most people exist, that is all.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- Oscar Wilde</p>
