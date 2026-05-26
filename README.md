@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I wasn't brave, I just didn't have time to be scared.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Herbert Hoover</p>
