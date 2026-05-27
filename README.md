@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>- Lao Tzu</p>
+<p>- Sonia Ricotti</p>
