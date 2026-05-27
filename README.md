@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take good advice, make sure it is good advice, then do it your way.</p>
+<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- Confucius</p>
