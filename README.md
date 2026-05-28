@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the potential for greatness.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Steve Harvey</p>
+<p>- Emily Dickinson</p>
