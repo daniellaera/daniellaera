@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We turn not older with years but newer every day.</p>
+<p>Many people spend more time looking at their failures than focusing on their successes.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Lolly Daskal</p>
