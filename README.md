@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
+<p>If you're afraid - don't do it, - if you're doing it - don't be afraid!</p>
 
-<p>- Mark Twain</p>
+<p>- Genghis Khan</p>
