@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every limit is a beginning as well as an ending.</p>
+<p>The guest will judge better of a feast than the cook.</p>
 
-<p>- George Eliot</p>
+<p>- Aristotle</p>
