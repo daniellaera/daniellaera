@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Investing in yourself is the best investment you will ever make.</p>
+<p>Every limit is a beginning as well as an ending.</p>
 
-<p>- Robin Sharma</p>
+<p>- George Eliot</p>
