@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
+<p>Realize deeply that the present moment is all you ever have.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Eckhart Tolle</p>
