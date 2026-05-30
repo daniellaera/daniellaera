@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Realize deeply that the present moment is all you ever have.</p>
+<p>Your life does not get better by chance, it gets better by change.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Jim Rohn</p>
