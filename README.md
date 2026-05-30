@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear of weakness only strengthens weakness.</p>
+<p>Constantly think about how you could be doing things better.</p>
 
-<p>- Criss Jami</p>
+<p>- Elon Musk</p>
