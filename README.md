@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
 
-<p>- William Faulkner</p>
+<p>- Charles Dickens</p>
