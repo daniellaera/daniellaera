@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
+<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
 
-<p>- Alan Watts</p>
+<p>- William Faulkner</p>
