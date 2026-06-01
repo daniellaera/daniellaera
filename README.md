@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We need never be ashamed of our tears.</p>
+<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
 
-<p>- Charles Dickens</p>
+<p>- Carlos Ruiz Zafon</p>
