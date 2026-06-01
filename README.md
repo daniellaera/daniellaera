@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poetry is written with tears, fiction with blood, and history with invisible ink.</p>
+<p>Anyone who has ever made anything of importance was disciplined.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Andrew Hendrixson</p>
