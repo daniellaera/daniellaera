@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing in the world so irresistibly contagious as laughter and good humor.</p>
+<p>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</p>
 
-<p>- Charles Dickens</p>
+<p>- Ming-Dao Deng</p>
