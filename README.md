@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
+<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- John Wooden</p>
