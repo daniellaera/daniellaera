@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I know not all that may be coming, but be it what it will, I'll go to it laughing.</p>
+<p>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</p>
 
-<p>- Herman Melville</p>
+<p>- Jon Kabat-Zinn</p>
