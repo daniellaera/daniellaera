@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>If they wrote it to make money, don't read it.</p>
 
-<p>- Jack London</p>
+<p>- Naval Ravikant</p>
