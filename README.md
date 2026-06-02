@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your cents: dollars will take care of themselves.</p>
+<p>If you quit once it becomes a habit.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Michael Jordan</p>
