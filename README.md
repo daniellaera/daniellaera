@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can not live your life just based on what everyone else thinks.</p>
+<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Albus Dumbledore</p>
