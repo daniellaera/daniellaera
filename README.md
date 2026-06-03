@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>You can put lipstick on a pig. It's still a pig.</p>
 
-<p>- Tony Robbins</p>
+<p>- Barack Obama</p>
