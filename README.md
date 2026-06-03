@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The busy man is never wise and the wise man is never busy.</p>
+<p>It's not the size of the dog in the fight, it's the size of the fight in the dog.</p>
 
-<p>- Lin Yutang</p>
+<p>- Mark Twain</p>
