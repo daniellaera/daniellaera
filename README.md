@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can put lipstick on a pig. It's still a pig.</p>
+<p>You can not live your life just based on what everyone else thinks.</p>
 
-<p>- Barack Obama</p>
+<p>- Joyce Meyer</p>
