@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>- Confucius</p>
+<p>- J.R.R. Tolkien</p>
