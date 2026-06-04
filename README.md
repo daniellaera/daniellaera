@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have the potential for greatness.</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>- Steve Harvey</p>
+<p>- Kamal Ravikant</p>
