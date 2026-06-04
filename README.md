@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Confucius</p>
