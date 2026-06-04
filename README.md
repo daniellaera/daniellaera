@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not about what it is, it's about what it can become.</p>
+<p>At first dreams seem impossible, then improbable, then inevitable.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Christopher Reeve</p>
