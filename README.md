@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I hear and I forget. I see and I remember. I do and I understand.</p>
+<p>It's not about what it is, it's about what it can become.</p>
 
-<p>- Confucius</p>
+<p>- Dr. Seuss</p>
