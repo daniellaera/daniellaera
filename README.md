@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Mark Twain</p>
