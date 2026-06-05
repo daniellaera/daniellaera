@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The sun shines upon good and bad alike.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Theodore Roosevelt</p>
