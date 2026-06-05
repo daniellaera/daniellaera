@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
+<p>Success is achieved and maintained by those who try and keep trying.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- W. Clement Stone</p>
