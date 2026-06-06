@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
+<p>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Richard Bach</p>
