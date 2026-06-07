@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the bar and your body will follow.</p>
+<p>He who leaves the game wins it.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Nicolas Chamfort</p>
