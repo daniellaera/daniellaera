@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>Throw your heart over the bar and your body will follow.</p>
 
-<p>- Gary Keller</p>
+<p>- Norman Vincent Peale</p>
