@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The clock indicates the moment...but what does eternity indicate?</p>
+<p>Truth is exact correspondence with reality.</p>
 
-<p>- Walt Whitman</p>
+<p>- Paramahansa Yogananda</p>
