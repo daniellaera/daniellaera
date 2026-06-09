@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No great mind has ever existed without a touch of madness.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
 <p>- Aristotle</p>
