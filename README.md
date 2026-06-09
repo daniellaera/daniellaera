@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Robin Williams</p>
