@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stumble over something that's behind you.</p>
+<p>The significance of life is living.</p>
 
-<p>- Steve Harvey</p>
+<p>- Jiddu Krishnamurti</p>
