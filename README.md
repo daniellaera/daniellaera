@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The significance of life is living.</p>
+<p>Some people feel the rain. Others just get wet.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Bob Dylan</p>
