@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The right thing to do and the hard thing to do are usually the same.</p>
+<p>We are all in the gutter, but some of us are looking at the stars.</p>
 
-<p>- Steve Maraboli</p>
+<p>- Oscar Wilde</p>
