@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A leader leads by example, not by force.</p>
+<p>The ability to observe without evaluating is the highest form of intelligence.</p>
 
-<p>- Sun Tzu</p>
+<p>- Jiddu Krishnamurti</p>
