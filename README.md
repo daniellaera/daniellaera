@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The ability to observe without evaluating is the highest form of intelligence.</p>
+<p>Catch, then, O catch the transient hour; Improve each moment as it flies!</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- St. Jerome</p>
