@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Learning is a weightless treasure you can always carry easily.</p>
+<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Spencer Johnson</p>
