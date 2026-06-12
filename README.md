@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't wait for the right opportunity: create it.</p>
+<p>You can't wait for inspiration. You have to go after it with a club.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Jack London</p>
