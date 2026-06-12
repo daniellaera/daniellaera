@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you do not tell the truth about yourself you cannot tell it about other people.</p>
+<p>Do not look for approval except for the consciousness of doing your best.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Andrew Carnegie</p>
