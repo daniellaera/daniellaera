@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not look for approval except for the consciousness of doing your best.</p>
+<p>Learn the rules like a pro, so you can break them like an artist.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Pablo Picasso</p>
