@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>- James Allen</p>
+<p>- Michael Jordan</p>
