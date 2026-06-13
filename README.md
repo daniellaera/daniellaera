@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The art of being wise is knowing what to overlook.</p>
+<p>I believe that potential is unlimited - success depends on daring to act on dreams.</p>
 
-<p>- William James</p>
+<p>- Estee Lauder</p>
