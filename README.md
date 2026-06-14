@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
+<p>Words used to attract the dull of wit are not to be relied on.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Huang Po</p>
