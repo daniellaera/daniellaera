@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear can hold you prisoner. Hope can set you free.</p>
+<p>Trust is the foundation of great leadership.</p>
 
-<p>- Stephen King</p>
+<p>- Lolly Daskal</p>
