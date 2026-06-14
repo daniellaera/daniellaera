@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't cry because it's over. Smile because it happened.</p>
+<p>There is no greatness where there is not simplicity, goodness, and truth.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Leo Tolstoy</p>
