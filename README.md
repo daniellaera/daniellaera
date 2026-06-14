@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you love someone, you love the person as they are, and not as you'd like them to be.</p>
+<p>The real measure of your wealth is how much you'd be worth if you lost all your money.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Unknown</p>
