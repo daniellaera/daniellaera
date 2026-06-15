@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't get to a place that you don't believe exists.</p>
+<p>A change is brought about because ordinary people do extraordinary things.</p>
 
-<p>- Unknown</p>
+<p>- Barack Obama</p>
