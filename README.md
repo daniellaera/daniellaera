@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</p>
+<p>Life can be the scariest and most beautiful thing simultaneously.</p>
 
-<p>- Criss Jami</p>
+<p>- Maxime Lagace</p>
