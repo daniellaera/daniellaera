@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be the scariest and most beautiful thing simultaneously.</p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Unknown</p>
