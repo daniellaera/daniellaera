@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>This is the most simple and basic component of life: our struggles determine our successes.</p>
+<p>When you are totally at peace with yourself, nothing can shake you.</p>
 
-<p>- Mark Manson</p>
+<p>- Deepam Chaterjee</p>
