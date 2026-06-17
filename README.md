@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wake up and smile! Wake up and be grateful!</p>
+<p>If it is here, it is everywhere. If it is not here, it is nowhere.</p>
 
-<p>- Steve Harvey</p>
+<p>- Tibetan Proverb</p>
