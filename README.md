@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are totally at peace with yourself, nothing can shake you.</p>
+<p>Wake up and smile! Wake up and be grateful!</p>
 
-<p>- Deepam Chaterjee</p>
+<p>- Steve Harvey</p>
