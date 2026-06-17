@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it is here, it is everywhere. If it is not here, it is nowhere.</p>
+<p>My sun sets to rise again.</p>
 
-<p>- Tibetan Proverb</p>
+<p>- Robert Browning</p>
