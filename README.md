@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My sun sets to rise again.</p>
+<p>Out of your vulnerabilities will come your strength.</p>
 
-<p>- Robert Browning</p>
+<p>- Sigmund Freud</p>
