@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He that can have patience can have what he will.</p>
+<p>Superstars think like superstars long before the fans or the press anoint them.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- John Eliot</p>
