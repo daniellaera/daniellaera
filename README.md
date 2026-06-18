@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Poverty and hardship are created by false thinking.</p>
+<p>Your time is limited, don't waste it living someone else's life.</p>
 
-<p>- Bodhidharma</p>
+<p>- Colin R. Davis</p>
