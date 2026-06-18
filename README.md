@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your time is limited, don't waste it living someone else's life.</p>
+<p>Your business is not to 'get somewhere' - it is to be here.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Dan Millman</p>
