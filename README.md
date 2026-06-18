@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your face to the sunshine and you cannot see the shadows.</p>
+<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
 
-<p>- Helen Keller</p>
+<p>- Michael Jordan</p>
