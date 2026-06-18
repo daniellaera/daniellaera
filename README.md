@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people want it to happen, some wish it would happen, others make it happen.</p>
+<p>It doesn't matter where you are coming from. All that matters is where you are going.</p>
 
-<p>- Michael Jordan</p>
+<p>- Brian Tracy</p>
