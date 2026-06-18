@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>Keep your face to the sunshine and you cannot see the shadows.</p>
 
-<p>- John Eliot</p>
+<p>- Helen Keller</p>
