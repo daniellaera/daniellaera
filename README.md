@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</p>
+<p>To lead the people, walk behind them.</p>
 
-<p>- Tony Robbins</p>
+<p>- Lao Tzu</p>
