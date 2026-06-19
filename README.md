@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every drop in the ocean counts.</p>
+<p>If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.</p>
 
-<p>- Yoko Ono</p>
+<p>- Tony Robbins</p>
