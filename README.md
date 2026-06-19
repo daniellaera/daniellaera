@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter where you are coming from. All that matters is where you are going.</p>
+<p>Every drop in the ocean counts.</p>
 
-<p>- Brian Tracy</p>
+<p>- Yoko Ono</p>
