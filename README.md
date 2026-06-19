@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world is changed by your example, not by your opinion.</p>
+<p>Time doesn't heal emotional pain, you need to learn how to let go.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Roy T. Bennett</p>
