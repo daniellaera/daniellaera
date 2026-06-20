@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The important thing is not to stop questioning. Curiosity has its own reason for existing.</p>
+<p>A goal is a dream with a deadline.</p>
 
-<p>- Albert Einstein</p>
+<p>- Napoleon Hill</p>
