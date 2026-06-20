@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A goal is a dream with a deadline.</p>
+<p>Most people spend more time and energy going around problems than in trying to solve them.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Henry Ford</p>
