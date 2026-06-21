@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.</p>
+<p>Thoughts become things. If you see it in your mind, you will hold it in your hand.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Bob Proctor</p>
