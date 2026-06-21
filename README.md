@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
+<p>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</p>
 
-<p>- Maya Angelou</p>
+<p>- Ayn Rand</p>
