@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing like a health problem to turn up the contrast dial for the rest of life.</p>
+<p>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Charles Dickens</p>
