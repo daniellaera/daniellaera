@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</p>
+<p>Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Paramahansa Yogananda</p>
