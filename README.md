@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest of empires, is the empire over one's self.</p>
+<p>He who is untrue to his own cause cannot command the respect of others.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Albert Einstein</p>
