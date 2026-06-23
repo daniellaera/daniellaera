@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.</p>
+<p>Life is too important to be taken seriously.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Oscar Wilde</p>
