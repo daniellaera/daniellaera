@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.</p>
+<p>Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.</p>
 
-<p>- Jack London</p>
+<p>- Colin R. Davis</p>
