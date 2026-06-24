@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you done it, it ain't bragging.</p>
+<p>A crisis is an opportunity riding the dangerous wind.</p>
 
-<p>- Walt Whitman</p>
+<p>- Chinese Proverb</p>
