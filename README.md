@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is untrue to his own cause cannot command the respect of others.</p>
+<p>Discipline is the mark of intelligent living.</p>
 
-<p>- Albert Einstein</p>
+<p>- Sathya Sai Baba</p>
