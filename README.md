@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.</p>
+<p>Not why the addiction but why the pain.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Gabor Mate</p>
