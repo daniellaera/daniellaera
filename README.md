@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not why the addiction but why the pain.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>- Gabor Mate</p>
+<p>- G.I. Gurdjieff</p>
