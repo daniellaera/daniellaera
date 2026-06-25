@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Difficulties strengthen the mind, as labor does the body.</p>
+<p>Nothing is permanent in this wicked world - not even our troubles.</p>
 
-<p>- Seneca</p>
+<p>- Charlie Chaplin</p>
