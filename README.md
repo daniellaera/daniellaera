@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beware of false knowledge, it is more dangerous than ignorance.</p>
+<p>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Jack London</p>
