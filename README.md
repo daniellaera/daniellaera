@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Without education, we are in a horrible and deadly danger of taking educated people seriously.</p>
+<p>Every day may not be good, but there's something good in every day.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Unknown</p>
