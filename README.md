@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
+<p>Never put off to tomorrow what you can do to-day.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Thomas Jefferson</p>
