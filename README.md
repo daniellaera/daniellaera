@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw me to the wolves and I will return leading the pack.</p>
+<p>The more I want to get something done, the less I call it work.</p>
 
-<p>- Seneca</p>
+<p>- Richard Bach</p>
