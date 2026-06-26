@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more I want to get something done, the less I call it work.</p>
+<p>The way we feel is the direct result of what we think.</p>
 
-<p>- Richard Bach</p>
+<p>- Peter A. Cohen</p>
