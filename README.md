@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All cruelty springs from weakness.</p>
+<p>A person is only by the thoughts that he chooses.</p>
 
-<p>- Seneca</p>
+<p>- James Allen</p>
