@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</p>
+<p>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Elbert Hubbard</p>
