@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>The busy man is never wise and the wise man is never busy.</p>
 
-<p>- Criss Jami</p>
+<p>- Lin Yutang</p>
