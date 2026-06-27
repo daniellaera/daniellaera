@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I'd rather welcome change than cling to the past.</p>
+<p>A day without laughter is a day wasted.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Charlie Chaplin</p>
