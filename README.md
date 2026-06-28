@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.</p>
+<p>I begin with an idea and then it becomes something else.</p>
 
-<p>- Buddha</p>
+<p>- Pablo Picasso</p>
