@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Ming-Dao Deng</p>
