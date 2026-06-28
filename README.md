@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where we fall are the stepping-stones for our journey.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Og Mandino</p>
