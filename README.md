@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't watch the clock; do what it does. Keep going.</p>
+<p>Where we fall are the stepping-stones for our journey.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Lolly Daskal</p>
