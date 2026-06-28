@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A person is only by the thoughts that he chooses.</p>
+<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
 
-<p>- James Allen</p>
+<p>- Robert Kiyosaki</p>
