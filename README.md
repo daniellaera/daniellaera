@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The biggest adventure is what lies ahead.</p>
+<p>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Jeffrey Gitomer</p>
