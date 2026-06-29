@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
+<p>Take good advice, make sure it is good advice, then do it your way.</p>
 
-<p>- Confucius</p>
+<p>- Vidal Sassoon</p>
