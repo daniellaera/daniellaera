@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.</p>
+<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
 
-<p>- Richard Bach</p>
+<p>- Confucius</p>
