@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>- Aristotle</p>
+<p>- J.R.R. Tolkien</p>
