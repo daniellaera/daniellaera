@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Note that this journey is uniquely yours, no one elses. So the path has to be your own.</p>
+<p>The only real mistake is the one from which we learn nothing.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- Henry Ford</p>
