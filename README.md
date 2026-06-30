@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.</p>
+<p>Remember the entrance to the sanctuary is inside you.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Rumi</p>
