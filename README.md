@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real mistake is the one from which we learn nothing.</p>
+<p>Everything has its beauty, but not everyone sees it.</p>
 
-<p>- Henry Ford</p>
+<p>- Confucius</p>
