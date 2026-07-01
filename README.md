@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you want to be honored by others, you learn to honor them first.</p>
+<p>All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- James Allen</p>
