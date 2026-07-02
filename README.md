@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What you do today can improve all your tomorrows.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>- Ralph Marston</p>
+<p>- Peter Drucker</p>
