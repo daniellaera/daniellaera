@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.</p>
+<p>What you do today can improve all your tomorrows.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Ralph Marston</p>
