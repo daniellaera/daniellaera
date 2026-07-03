@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
+<p>You must learn to let go. Release the stress. You were never in control anyway.</p>
 
-<p>- James Cameron</p>
+<p>- Steve Maraboli</p>
