@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</p>
+<p>Anger begins with folly, and ends with repentance.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Beverly Sills</p>
