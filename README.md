@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</p>
+<p>A man sees in the world what he carries in his heart.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Johann Wolfgang von Goethe</p>
