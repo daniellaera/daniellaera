@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Emancipate yourself from mental slavery, none but ourselves can free our mind.</p>
+<p>Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.</p>
 
-<p>- Bob Marley</p>
+<p>- Nicolas Chamfort</p>
