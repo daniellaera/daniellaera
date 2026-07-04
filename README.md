@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</p>
+<p>The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn.</p>
 
-<p>- Sathya Sai Baba</p>
+<p>- Warren Buffett</p>
