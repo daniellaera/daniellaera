@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn.</p>
+<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
 
-<p>- Warren Buffett</p>
+<p>- Dan Millman</p>
