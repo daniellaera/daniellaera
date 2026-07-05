@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
+<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Oprah Winfrey</p>
