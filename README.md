@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust thyself: every heart vibrates to that iron string.</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Naval Ravikant</p>
