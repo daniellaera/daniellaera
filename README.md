@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>For your life to be great, your faith must be bigger than your fear.</p>
+<p>Always remember that you are absolutely unique. Just like everyone else.</p>
 
-<p>- Robin Sharma</p>
+<p>- Margaret Mead</p>
