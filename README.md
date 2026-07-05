@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>If life were predictable it would cease to be life, and be without flavor.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Eleanor Roosevelt</p>
