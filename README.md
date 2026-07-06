@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can't change the direction of the wind, but I can adjust my sails to always reach my destination.</p>
+<p>If you try to micromanage yourself all you're going to do is make yourself miserable.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Naval Ravikant</p>
