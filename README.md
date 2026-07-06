@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Whenever you find yourself on the side of the majority, it is time to reform.</p>
+<p>I can't change the direction of the wind, but I can adjust my sails to always reach my destination.</p>
 
-<p>- Mark Twain</p>
+<p>- Colin R. Davis</p>
