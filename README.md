@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words without actions are the assassins of idealism.</p>
+<p>Whatever you believe with feeling becomes your reality.</p>
 
-<p>- Herbert Hoover</p>
+<p>- Brian Tracy</p>
