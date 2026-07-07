@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faith is taking the first step even when you don't see the whole staircase.</p>
+<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Kahlil Gibran</p>
