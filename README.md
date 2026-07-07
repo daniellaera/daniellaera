@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all here for some special reason.</p>
+<p>Faith is taking the first step even when you don't see the whole staircase.</p>
 
-<p>- Robin Sharma</p>
+<p>- Martin Luther King, Jr.</p>
