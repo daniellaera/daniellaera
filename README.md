@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>The two most important days in your life are the day you are born and the day you find out why.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Mark Twain</p>
