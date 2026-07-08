@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.</p>
+<p>Don't be pushed by your problems; be led by your dreams.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Unknown</p>
