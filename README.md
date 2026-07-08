@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Life is about not knowing and then doing something anyway.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Mark Manson</p>
