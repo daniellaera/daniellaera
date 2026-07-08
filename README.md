@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</p>
+<p>Don't Let Yesterday Take Up Too Much Of Today.</p>
 
-<p>- Joan Rivers</p>
+<p>- Will Rogers</p>
