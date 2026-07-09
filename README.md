@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Big people don't make people feel small.</p>
+<p>Within every obstacle is an opportunity to improve our condition.</p>
 
-<p>- Robin Sharma</p>
+<p>- Ryan Holiday</p>
