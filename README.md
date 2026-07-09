@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</p>
+<p>Let us rather run the risk of wearing out than rusting out.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Theodore Roosevelt</p>
