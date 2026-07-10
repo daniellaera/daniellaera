@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</p>
 
-<p>- Tony Robbins</p>
+<p>- Lao Tzu</p>
