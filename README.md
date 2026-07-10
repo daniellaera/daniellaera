@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Awaken. Take heed, do not squander your life.</p>
+<p>Change is not a four letter word...but often your reaction to it is!</p>
 
-<p>- Dogen</p>
+<p>- Jeffrey Gitomer</p>
