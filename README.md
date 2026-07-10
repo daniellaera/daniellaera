@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</p>
+<p>Awaken. Take heed, do not squander your life.</p>
 
-<p>- Socrates</p>
+<p>- Dogen</p>
