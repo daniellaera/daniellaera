@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True masters are those who've chosen to make a life rather than a living.</p>
+<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing.</p>
 
-<p>- Neale Donald Walsch</p>
+<p>- Herodotus</p>
