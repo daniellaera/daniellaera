@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Some people don't like change, but you need to embrace change if the alternative is disaster.</p>
+<p>Those who have subdued their ego understand that it doesn't degrade you when others treat you poorly; it degrades them.</p>
 
-<p>- Elon Musk</p>
+<p>- Ryan Holiday</p>
