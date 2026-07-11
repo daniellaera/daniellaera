@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If anything is worth doing, do it with all your heart.</p>
+<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
 
-<p>- Buddha</p>
+<p>- Helen Keller</p>
