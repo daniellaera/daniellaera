@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who have subdued their ego understand that it doesn't degrade you when others treat you poorly; it degrades them.</p>
+<p>Change is hardest at the beginning, messiest in the middle and best at the end.</p>
 
-<p>- Ryan Holiday</p>
+<p>- Robin Sharma</p>
