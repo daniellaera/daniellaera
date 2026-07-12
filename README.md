@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Faithless is he that says farewell when the road darkens.</p>
+<p>Be the change that you want to see in the world.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Mahatma Gandhi</p>
