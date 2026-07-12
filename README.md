@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the change that you want to see in the world.</p>
+<p>I am always doing what I cannot do yet, in order to learn how to do it.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Vincent van Gogh</p>
