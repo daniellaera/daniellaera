@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Respect was invented to cover the empty place where love should be.</p>
+<p>All that we see or seem is but a dream within a dream.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Edgar Allan Poe</p>
