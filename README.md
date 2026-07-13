@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by attracting the best people will you accomplish great deeds.</p>
+<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
 
-<p>- Colin Powell</p>
+<p>- Richard Bach</p>
