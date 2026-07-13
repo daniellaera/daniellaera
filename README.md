@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.</p>
+<p>Only by attracting the best people will you accomplish great deeds.</p>
 
-<p>- Charles Darwin</p>
+<p>- Colin Powell</p>
