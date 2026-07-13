@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</p>
+<p>Respect was invented to cover the empty place where love should be.</p>
 
-<p>- Richard Bach</p>
+<p>- Leo Tolstoy</p>
