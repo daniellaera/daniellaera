@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing quite so tragic as a young cynic.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Maya Angelou</p>
+<p>- Robert Kiyosaki</p>
