@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Attitude, not aptitude, determines altitude.</p>
+<p>A day wasted on others is not wasted on one's self.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Charles Dickens</p>
