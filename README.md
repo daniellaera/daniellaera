@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.</p>
+<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
 
-<p>- Sydney Smith</p>
+<p>- Ralph Waldo Emerson</p>
