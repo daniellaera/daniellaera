@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Kindness is a language which the deaf can hear and the blind can see.</p>
+<p>Smile, breathe and go slowly.</p>
 
-<p>- Mark Twain</p>
+<p>- Thich Nhat Hanh</p>
