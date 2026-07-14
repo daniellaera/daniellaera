@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What lies behind us and what lies before us are tiny matters compared to what lies within us.</p>
+<p>Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- George Bernard Shaw</p>
