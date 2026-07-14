@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Smile, breathe and go slowly.</p>
+<p>Attitude, not aptitude, determines altitude.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Zig Ziglar</p>
