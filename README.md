@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You may be disappointed if you fail, but you are doomed if you don't try.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>- Beverly Sills</p>
+<p>- Nelson Mandela</p>
