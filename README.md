@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</p>
+<p>The power to make and break habits and learning how to do that is really important.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Naval Ravikant</p>
