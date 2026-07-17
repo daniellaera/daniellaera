@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
+<p>You will face many defeats in life, but never let yourself be defeated.</p>
 
-<p>- Henry Ford</p>
+<p>- Maya Angelou</p>
