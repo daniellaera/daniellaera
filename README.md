@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Relax. Nothing is under control.</p>
+<p>Be brave to stand for what you believe in even if you stand alone.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Roy T. Bennett</p>
