@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
+<p>Relax. Nothing is under control.</p>
 
-<p>- Alfred Adler</p>
+<p>- Adi Da Samraj</p>
