@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Greatest success comes just one step beyond the point at which defeat overtakes you.</p>
+<p>There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.</p>
 
-<p>- Unknown</p>
+<p>- G.I. Gurdjieff</p>
