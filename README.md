@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An action committed in anger is an action doomed to failure.</p>
+<p>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</p>
 
-<p>- Genghis Khan</p>
+<p>- Alfred Adler</p>
