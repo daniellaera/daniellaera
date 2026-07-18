@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>Don't look for meaning in the words. Listen to the silences.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Samuel Beckett</p>
