@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By seeking and blundering we learn.</p>
+<p>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Samuel Butler</p>
