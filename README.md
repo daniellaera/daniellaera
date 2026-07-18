@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Youth has no age.</p>
+<p>You Create Your Own Present By What You Give Your Attention To Today.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Spencer Johnson</p>
