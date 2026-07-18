@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have never let my schooling interfere with my education.</p>
+<p>Yesterday is gone. Tomorrow has not yet come. We have only today.</p>
 
-<p>- Mark Twain</p>
+<p>- Mother Teresa</p>
