@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Leo Tolstoy</p>
