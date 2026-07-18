@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who realize their folly are not true fools.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Zhuangzi</p>
+<p>- Morihei Ueshiba</p>
