@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
+<p>By seeking and blundering we learn.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Johann Wolfgang von Goethe</p>
