@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You use a glass mirror to see your face; you use works of art to see your soul.</p>
+<p>A good salesman is like a good cook—he can create an appetite when the buyer isn't hungry.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- George Lorimer</p>
