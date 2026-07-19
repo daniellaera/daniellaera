@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't shortchange yourself when it comes to investing in your own better future.</p>
+<p>It is better to fail in originality than to succeed in imitation.</p>
 
-<p>- Jim Rohn</p>
+<p>- Herman Melville</p>
