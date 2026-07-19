@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not pray for an easy life, pray for the strength to endure a difficult one.</p>
+<p>To be totally at leisure for one day is to be immortal for one day.</p>
 
-<p>- Bruce Lee</p>
+<p>- Chinese Proverb</p>
