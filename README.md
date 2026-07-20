@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Bloom where you are planted!</p>
+<p>The wise warrior avoids the battle.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Sun Tzu</p>
