@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not as important how we start, but how we finish.</p>
+<p>Bloom where you are planted!</p>
 
-<p>- Joyce Meyer</p>
+<p>- Mary Engelbreit</p>
