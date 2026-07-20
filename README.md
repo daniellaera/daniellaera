@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the mind can conceive and believe, and the heart desire, you can achieve.</p>
+<p>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Roy T. Bennett</p>
