@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is a difficult thing to achieve.</p>
+<p>It is impossible for a man to learn what he thinks he already knows.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Epictetus</p>
