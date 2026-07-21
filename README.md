@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>Simplicity is a difficult thing to achieve.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Charlie Chaplin</p>
