@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</p>
+<p>Someone is sitting in the shade today because someone planted a tree a long time ago.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Warren Buffett</p>
