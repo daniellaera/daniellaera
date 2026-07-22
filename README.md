@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am not what happened to me, I am what I choose to become.</p>
+<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
 
-<p>- Carl Jung</p>
+<p>- Dan Millman</p>
