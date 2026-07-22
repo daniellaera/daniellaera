@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.</p>
+<p>Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Buddha</p>
