@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Confidence comes from crossing thresholds.</p>
+<p>I am not what happened to me, I am what I choose to become.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Carl Jung</p>
