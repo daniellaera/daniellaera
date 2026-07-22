@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unless someone truly has the power to say no, they never truly have the power to say yes.</p>
+<p>The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.</p>
 
-<p>- Dan Millman</p>
+<p>- Robert Kiyosaki</p>
