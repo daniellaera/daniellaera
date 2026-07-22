@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Someone is sitting in the shade today because someone planted a tree a long time ago.</p>
+<p>Confidence comes from crossing thresholds.</p>
 
-<p>- Warren Buffett</p>
+<p>- Kamal Ravikant</p>
