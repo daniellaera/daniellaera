@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
+<p>Superstars think like superstars long before the fans or the press anoint them.</p>
 
-<p>- Socrates</p>
+<p>- John Eliot</p>
