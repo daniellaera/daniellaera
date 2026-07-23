@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Superstars think like superstars long before the fans or the press anoint them.</p>
+<p>It will never rain roses: when we want to have more roses, we must plant more roses.</p>
 
-<p>- John Eliot</p>
+<p>- George Eliot</p>
