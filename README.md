@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
+<p>He who is not contented with what he has, would not be contented with what he would like to have.</p>
 
-<p>- Mark Twain</p>
+<p>- Socrates</p>
