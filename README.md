@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone wants to go to Heaven, but no one wants to die.</p>
+<p>You can often change your circumstances by changing your attitude.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Eleanor Roosevelt</p>
