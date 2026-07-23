@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I've always tried to go a step past wherever people expected me to end up.</p>
+<p>Never allow someone to be your priority while allowing yourself to be their option.</p>
 
-<p>- Beverly Sills</p>
+<p>- Mark Twain</p>
