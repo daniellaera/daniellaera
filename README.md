@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The reward of suffering is experience.</p>
+<p>Take care of your body. It's the only place you have to live.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Jim Rohn</p>
