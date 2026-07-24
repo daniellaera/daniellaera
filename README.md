@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most effective way to do it, is to do it.</p>
+<p>Think progress, not perfection.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Ryan Holiday</p>
