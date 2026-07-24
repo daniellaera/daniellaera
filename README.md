@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You have as much laughter as you have faith.</p>
+<p>The most effective way to do it, is to do it.</p>
 
-<p>- Martin Luther</p>
+<p>- Amelia Earhart</p>
