@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take care of your body. It's the only place you have to live.</p>
+<p>To bear trials with a calm mind robs misfortune of its strength and burden.</p>
 
-<p>- Jim Rohn</p>
+<p>- Seneca</p>
