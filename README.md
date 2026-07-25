@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Obstacles don't block the path, they are the path.</p>
+<p>The less you talk about your shame, the more of it you have.</p>
 
-<p>- Zen Proverb</p>
+<p>- Mark Manson</p>
