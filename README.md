@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Repetition does not transform a lie into a truth.</p>
+<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Zig Ziglar</p>
