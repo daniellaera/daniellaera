@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Others can stop you temporarily - you are the only one who can do it permanently.</p>
+<p>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Paramahansa Yogananda</p>
