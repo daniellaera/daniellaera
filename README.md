@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is walking from failure to failure with no loss of enthusiasm.</p>
+<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Celestine Chua</p>
