@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing has more strength than dire necessity.</p>
+<p>Success is walking from failure to failure with no loss of enthusiasm.</p>
 
-<p>- Euripides</p>
+<p>- Colin R. Davis</p>
