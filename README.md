@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are content to be simply yourself and don't compare or compete, everybody will respect you.</p>
+<p>Far more crucial than what we know or do not know is what we do not want to know.</p>
 
-<p>- Lao Tzu</p>
+<p>- Eric Hoffer</p>
