@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</p>
+<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
 
-<p>- Celestine Chua</p>
+<p>- Marcus Aurelius</p>
