@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The nearer a man comes to a calm mind, the closer he is to strength.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- John Eliot</p>
