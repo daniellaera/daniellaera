@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stop when you're tired. Stop when you're done.</p>
+<p>As you think, so shall you become.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Bruce Lee</p>
