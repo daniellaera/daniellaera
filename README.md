@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.</p>
+<p>Don't stop when you're tired. Stop when you're done.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Marilyn Monroe</p>
