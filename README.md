@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must be free not because we claim freedom, but because we practice it.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.</p>
 
-<p>- William Faulkner</p>
+<p>- Paramahansa Yogananda</p>
