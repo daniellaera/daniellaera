@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What we learn from history is that people don't learn from history.</p>
+<p>Each problem has a positive side.</p>
 
-<p>- Warren Buffett</p>
+<p>- Og Mandino</p>
