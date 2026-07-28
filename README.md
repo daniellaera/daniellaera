@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Often in the real world, it's not the smart that get ahead, but the bold.</p>
+<p>What we learn from history is that people don't learn from history.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Warren Buffett</p>
