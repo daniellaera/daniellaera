@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As you think, so shall you become.</p>
+<p>The more I want to get something done, the less I call it work.</p>
 
-<p>- Bruce Lee</p>
+<p>- Richard Bach</p>
