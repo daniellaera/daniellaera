@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Memory is the scribe of the soul.</p>
+<p>Not how long, but how well you have lived is the main thing.</p>
 
-<p>- Aristotle</p>
+<p>- Seneca</p>
