@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't let making a living prevent you from making a life.</p>
+<p>Every poem should remind the reader that they are going to die.</p>
 
-<p>- John Wooden</p>
+<p>- Edgar Allan Poe</p>
