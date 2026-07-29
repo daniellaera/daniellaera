@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not how long, but how well you have lived is the main thing.</p>
+<p>People learn from their failures. Seldom do they learn anything from success.</p>
 
-<p>- Seneca</p>
+<p>- Ryan Holiday</p>
