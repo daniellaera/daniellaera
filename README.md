@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The one who praises you is a thief. The one who criticizes you is your true friend.</p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Seungsahn</p>
+<p>- John Wooden</p>
