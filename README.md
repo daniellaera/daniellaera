@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People learn from their failures. Seldom do they learn anything from success.</p>
+<p>Your goals are the road maps that guide you and show you what is possible for your life.</p>
 
-<p>- Ryan Holiday</p>
+<p>- Les Brown</p>
