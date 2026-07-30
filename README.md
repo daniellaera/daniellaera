@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Follow your instincts. That is where true wisdom manifests itself.</p>
+<p>We are most nearly ourselves when we achieve the seriousness of the child at play.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Heraclitus</p>
