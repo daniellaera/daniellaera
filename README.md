@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe you can and you're halfway there.</p>
+<p>Pursue what catches your heart, not what catches your eyes.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Roy T. Bennett</p>
