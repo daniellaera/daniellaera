@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man sees in the world what he carries in his heart.</p>
+<p>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</p>
 
-<p>- Johann Wolfgang von Goethe</p>
+<p>- Thich Nhat Hanh</p>
