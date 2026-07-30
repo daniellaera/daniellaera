@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pursue what catches your heart, not what catches your eyes.</p>
+<p>Focus is a matter of deciding what things you're not going to do.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- John Carmack</p>
