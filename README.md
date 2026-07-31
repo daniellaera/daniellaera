@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Better than the young man's knowledge is the old man's experience.</p>
+<p>As you think, so shall you become.</p>
 
-<p>- Tibetan Proverb</p>
+<p>- Bruce Lee</p>
