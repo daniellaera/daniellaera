@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change happens when the pain of holding on becomes greater than the fear of letting go.</p>
+<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Charles Swindoll</p>
