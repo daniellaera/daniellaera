@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Treat everyone with politeness and kindness, not because they are nice, but because you are.</p>
+<p>Better than the young man's knowledge is the old man's experience.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Tibetan Proverb</p>
