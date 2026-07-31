@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't spend major time on minor things.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Jim Rohn</p>
+<p>- Maxime Lagace</p>
