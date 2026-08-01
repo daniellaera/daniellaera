@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live simply, expect little, give much.</p>
+<p>Life can only be understood backwards; but it must be lived forwards.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Soren Kierkegaard</p>
