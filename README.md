@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is better to disappoint people with the truth than to appease them with a lie.</p>
+<p>If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.</p>
 
-<p>- Simon Sinek</p>
+<p>- Kahlil Gibran</p>
