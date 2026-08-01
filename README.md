@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first step toward getting somewhere is to decide that you are not going to stay where you are.</p>
+<p>You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.</p>
 
-<p>- Unknown</p>
+<p>- Richard Bach</p>
