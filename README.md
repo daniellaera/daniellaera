@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One beam, no matter how big, cannot support an entire house on its own.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Paramahansa Yogananda</p>
