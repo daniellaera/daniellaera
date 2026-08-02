@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only way out is through.</p>
+<p>If you care about someone enough, you'll always be there for them no matter what.</p>
 
-<p>- Robert Frost</p>
+<p>- Roy T. Bennett</p>
