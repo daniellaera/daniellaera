@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can only be understood backwards; but it must be lived forwards.</p>
+<p>The future belongs to those who believe in the beauty of their dreams.</p>
 
-<p>- Soren Kierkegaard</p>
+<p>- Eleanor Roosevelt</p>
