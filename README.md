@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your heart is full of fertile seeds, waiting to sprout.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Lolly Daskal</p>
