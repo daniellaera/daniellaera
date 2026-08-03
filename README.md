@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>Vision is the art of seeing things invisible.</p>
 
-<p>- Jack London</p>
+<p>- Jonathan Swift</p>
