@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who know, do. Those that understand, teach.</p>
+<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
 
-<p>- Aristotle</p>
+<p>- Confucius</p>
