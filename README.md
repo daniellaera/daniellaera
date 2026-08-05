@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What worries you, masters you.</p>
+<p>Keep others in suspense, cultivate an air of unpredictability.</p>
 
-<p>- John Locke</p>
+<p>- Robert Greene</p>
