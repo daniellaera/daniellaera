@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never regret your past. Rather, embrace it as the teacher that it is.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
-<p>- Robin Sharma</p>
+<p>- Aristotle</p>
