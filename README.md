@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't imagine it, you can't have it.</p>
+<p>Exceptional thinkers ignore their critics and go about their business making history.</p>
 
-<p>- Toni Morrison</p>
+<p>- John Eliot</p>
