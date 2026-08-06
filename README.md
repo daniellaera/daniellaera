@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Friendship takes time and energy if it's going to work.</p>
+<p>If you can't imagine it, you can't have it.</p>
 
-<p>- Betty White</p>
+<p>- Toni Morrison</p>
