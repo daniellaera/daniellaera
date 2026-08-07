@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.</p>
+<p>From morning till night, we should never rely on a single thing.</p>
 
-<p>- Steve Jobs</p>
+<p>- Huang Po</p>
