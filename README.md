@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perfectionism is simply putting a limit on your future.</p>
+<p>Conquer the devils with a little thing called love.</p>
 
-<p>- John Eliot</p>
+<p>- Bob Marley</p>
