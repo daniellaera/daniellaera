@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Time is more valuable than money. You can get more money, but you cannot get more time.</p>
+<p>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</p>
 
-<p>- Jim Rohn</p>
+<p>- Amelia Earhart</p>
