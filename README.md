@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not what we get. But who we become, what we contribute... that gives meaning to our lives.</p>
+<p>The way out is in.</p>
 
-<p>- Tony Robbins</p>
+<p>- Thich Nhat Hanh</p>
