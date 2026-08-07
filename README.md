@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ability is a poor man's wealth.</p>
+<p>Every limit is a beginning as well as an ending.</p>
 
-<p>- John Wooden</p>
+<p>- George Eliot</p>
