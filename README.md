@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the middle of chaos lies opportunity.</p>
+<p>Against the assault of laughter nothing can stand.</p>
 
-<p>- Bruce Lee</p>
+<p>- Mark Twain</p>
