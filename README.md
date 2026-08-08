@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a traveling to the edge of knowledge, then a leap taken.</p>
+<p>Sometimes good things fall apart so better things can fall together.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Marilyn Monroe</p>
