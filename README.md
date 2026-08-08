@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Aristotle</p>
