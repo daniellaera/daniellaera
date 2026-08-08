@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everything is created twice, first in the mind and then in reality.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>- Robin Sharma</p>
+<p>- Maya Angelou</p>
