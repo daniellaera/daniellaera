@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world would go on even without you. Don't take yourself so seriously.</p>
+<p>Everything is created twice, first in the mind and then in reality.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Robin Sharma</p>
