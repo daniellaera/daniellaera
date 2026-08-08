@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>Happiness is an effect of doing what you love, not an end goal to be achieved.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Celestine Chua</p>
