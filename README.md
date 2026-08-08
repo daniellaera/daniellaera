@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
+<p>You cannot control the behavior of others, but you can always choose how you respond to it.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Roy T. Bennett</p>
