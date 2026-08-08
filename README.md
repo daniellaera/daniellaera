@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never settle for the crumbs of life.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Og Mandino</p>
+<p>- Adi Da Samraj</p>
