@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyday you can take a tiny step in the right direction.</p>
+<p>We can either add to our character each day, or we can fritter away our energies in distractions.</p>
 
-<p>- Unknown</p>
+<p>- Ming-Dao Deng</p>
