@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Sometimes good things fall apart so better things can fall together.</p>
+<p>We become brave by doing brave acts.</p>
 
-<p>- Marilyn Monroe</p>
+<p>- Aristotle</p>
