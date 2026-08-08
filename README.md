@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is pretty simple: someone to love, something to do, something to look forward to.</p>
+<p>Everyday you can take a tiny step in the right direction.</p>
 
-<p>- Rita Mae Brown</p>
+<p>- Unknown</p>
