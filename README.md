@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is but one dream flowing into another.</p>
+<p>All our dreams can come true, if we have the courage to pursue them.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Walt Disney</p>
