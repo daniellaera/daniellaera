@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.</p>
+<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
 
-<p>- Denis Waitley</p>
+<p>- Maxime Lagace</p>
