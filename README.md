@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All our dreams can come true, if we have the courage to pursue them.</p>
+<p>It's good to learn from your mistakes. It's better to learn from other people's mistakes.</p>
 
-<p>- Walt Disney</p>
+<p>- Warren Buffett</p>
