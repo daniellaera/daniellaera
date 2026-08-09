@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is like playing the violin in public and learning the instrument as one goes on.</p>
+<p>If you don't break your ropes while you're alive, do you think ghosts will do it after?</p>
 
-<p>- Samuel Butler</p>
+<p>- Kabir</p>
