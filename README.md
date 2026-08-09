@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot swim for new horizons until you have courage to lose sight of the shore.</p>
+<p>Let the beauty of what you love be what you do.</p>
 
-<p>- William Faulkner</p>
+<p>- Rumi</p>
