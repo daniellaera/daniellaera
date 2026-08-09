@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Prefer to be defeated in the presence of the wise than to excel among fools.</p>
+<p>Failure is a prerequisite for great success. If you want success faster, double your rate of failure.</p>
 
-<p>- Dogen</p>
+<p>- Brian Tracy</p>
