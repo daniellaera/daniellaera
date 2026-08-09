@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victims recite problems, leaders provide solutions.</p>
+<p>If you let your head get too big, it'll break your neck.</p>
 
-<p>- Robin Sharma</p>
+<p>- Elvis Presley</p>
