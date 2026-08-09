@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let the beauty of what you love be what you do.</p>
+<p>Your very silence shows you agree.</p>
 
-<p>- Rumi</p>
+<p>- Euripides</p>
