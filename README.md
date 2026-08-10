@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only real mistake is the one from which we learn nothing.</p>
+<p>It is better to learn late than never.</p>
 
-<p>- Henry Ford</p>
+<p>- Publilius Syrus</p>
