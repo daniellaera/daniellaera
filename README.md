@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Act the way you want to be and soon you'll be the way you act.</p>
+<p>The health of nations is more important than the wealth of nations.</p>
 
-<p>- Les Brown</p>
+<p>- Will Rogers</p>
