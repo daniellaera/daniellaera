@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wiser you get, the less you care to look like a fool.</p>
+<p>Act the way you want to be and soon you'll be the way you act.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Les Brown</p>
