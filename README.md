@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The health of nations is more important than the wealth of nations.</p>
+<p>If you always do what you've always done, you'll always get what you've always got.</p>
 
-<p>- Will Rogers</p>
+<p>- Henry Ford</p>
