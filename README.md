@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>It's okay to be discouraged. It's not okay to quit.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Ryan Holiday</p>
