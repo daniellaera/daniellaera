@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's okay to be discouraged. It's not okay to quit.</p>
+<p>The only real mistake is the one from which we learn nothing.</p>
 
-<p>- Ryan Holiday</p>
+<p>- Henry Ford</p>
