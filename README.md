@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's good to learn from your mistakes. It's better to learn from other people's mistakes.</p>
+<p>Believe that life is worth living and your belief will help create the fact.</p>
 
-<p>- Warren Buffett</p>
+<p>- William James</p>
