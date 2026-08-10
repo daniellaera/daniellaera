@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment is a fresh beginning.</p>
+<p>Little by little, one travels far.</p>
 
-<p>- T.S. Eliot</p>
+<p>- J.R.R. Tolkien</p>
