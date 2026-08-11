@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I can think of nothing less pleasurable than a life devoted to pleasure.</p>
+<p>When you reach the top of the mountain, keep climbing.</p>
 
-<p>- John D. Rockefeller</p>
+<p>- Zen Proverb</p>
