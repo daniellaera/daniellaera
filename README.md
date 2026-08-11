@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not fear failure but rather fear not trying.</p>
+<p>Always do your best. What you plant now, you will harvest later.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Og Mandino</p>
