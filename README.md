@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always do your best. What you plant now, you will harvest later.</p>
+<p>To achieve, you need thought. You have to know what you are doing and that's real power.</p>
 
-<p>- Og Mandino</p>
+<p>- Ayn Rand</p>
