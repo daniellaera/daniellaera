@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.</p>
+<p>If you chase two rabbits, you catch none.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Confucius</p>
