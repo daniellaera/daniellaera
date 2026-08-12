@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</p>
+<p>Life is too short to waste your time on people who don't respect, appreciate, and value you.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Roy T. Bennett</p>
