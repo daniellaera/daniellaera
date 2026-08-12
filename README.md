@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
+<p>As soon as you trust yourself, you will know how to live.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Johann Wolfgang von Goethe</p>
