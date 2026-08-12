@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the possibility of having a dream come true that makes life interesting.</p>
+<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Shunryu Suzuki</p>
