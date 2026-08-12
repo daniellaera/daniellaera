@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Raise your words, not voice. It is rain that grows flowers, not thunder.</p>
+<p>Throw your heart over the fence and the rest will follow</p>
 
-<p>- Rumi</p>
+<p>- Norman Vincent Peale</p>
