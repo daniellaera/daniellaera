@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Art is to console those who are broken by life.</p>
+<p>We turn not older with years but newer every day.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Emily Dickinson</p>
