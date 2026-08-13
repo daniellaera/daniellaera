@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If we will be quiet and ready enough, we shall find compensation in every disappointment.</p>
+<p>Every strike brings me closer to the next home run.</p>
 
-<p>- Henry David Thoreau</p>
+<p>- Babe Ruth</p>
