@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anyone who reads a book with a sense of obligation does not understand the art of reading.</p>
+<p>It doesn't matter how much you want. What really matters is how much you want it.</p>
 
-<p>- Lin Yutang</p>
+<p>- Ralph Marston</p>
