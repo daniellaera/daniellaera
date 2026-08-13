@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throw your heart over the fence and the rest will follow</p>
+<p>Your gift is something that you can do innately better than anything else.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Steve Harvey</p>
