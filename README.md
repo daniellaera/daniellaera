@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you're the only sane person, you look like the only insane person.</p>
+<p>Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now.</p>
 
-<p>- Criss Jami</p>
+<p>- Ryan Holiday</p>
