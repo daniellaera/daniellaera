@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of life is to fall seven times and to get up eight times.</p>
+<p>Life is love and love is life.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Elvis Presley</p>
