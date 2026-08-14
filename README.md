@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is love and love is life.</p>
+<p>Animals don't hate, and we're supposed to be better than them.</p>
 
 <p>- Elvis Presley</p>
