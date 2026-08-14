@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where the willingness is great, the difficulties cannot be great.</p>
+<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Mark Twain</p>
