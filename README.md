@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A tiny change today brings a dramatically different tomorrow.</p>
+<p>I hear and I forget. I see and I remember. I do and I understand.</p>
 
-<p>- Richard Bach</p>
+<p>- Confucius</p>
