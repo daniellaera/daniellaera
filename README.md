@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are few reasons for telling the truth, but for lying the number is infinite.</p>
+<p>The secret of life is to fall seven times and to get up eight times.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Paulo Coelho</p>
