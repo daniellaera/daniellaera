@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I hear and I forget. I see and I remember. I do and I understand.</p>
+<p>Where the willingness is great, the difficulties cannot be great.</p>
 
-<p>- Confucius</p>
+<p>- Niccolo Machiavelli</p>
