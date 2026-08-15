@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>The only thing worse than being blind is having sight but no vision.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Helen Keller</p>
