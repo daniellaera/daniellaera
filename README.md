@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Discipline is the bridge between goals and accomplishment.</p>
+<p>Our greatest fears lie in anticipation.</p>
 
-<p>- Jim Rohn</p>
+<p>- Honore de Balzac</p>
