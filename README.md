@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Few things are more deceptive than memories.</p>
+<p>The thing about smart people is that they seem like crazy people to dumb people.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Stephen Hawking</p>
