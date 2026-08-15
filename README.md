@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Carlos Ruiz Zafon</p>
