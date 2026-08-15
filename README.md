@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
+<p>There is no one giant step that does it. It's a lot of little steps.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Peter A. Cohen</p>
