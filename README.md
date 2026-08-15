@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little minds have little worries, big minds have no time for worries.</p>
+<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- James Cameron</p>
