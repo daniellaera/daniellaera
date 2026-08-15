@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No one can hurt you without your consent.</p>
+<p>There is no limit to the amount of good you can do if you don't care who gets the credit.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Ronald Reagan</p>
