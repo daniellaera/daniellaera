@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>- James Cameron</p>
+<p>- Elbert Hubbard</p>
