@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>He is not a lover who does not love forever.</p>
+<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
 
-<p>- Euripides</p>
+<p>- Franklin D. Roosevelt</p>
