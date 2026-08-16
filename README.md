@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>Words without actions are the assassins of idealism.</p>
 
-<p>- Isaac Newton</p>
+<p>- Herbert Hoover</p>
