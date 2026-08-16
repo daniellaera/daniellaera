@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can't feed a hundred people, then feed just one.</p>
+<p>The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.</p>
 
-<p>- Mother Teresa</p>
+<p>- Voltaire</p>
