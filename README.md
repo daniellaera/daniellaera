@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
+<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
 
-<p>- Celestine Chua</p>
+<p>- Hans Christian Andersen</p>
