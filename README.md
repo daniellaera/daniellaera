@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Freedom from desire leads to inner peace.</p>
+<p>To be calm is the highest achievement of the self.</p>
 
-<p>- Lao Tzu</p>
+<p>- Zen Proverb</p>
