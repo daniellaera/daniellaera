@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
+<p>You came empty handed, and you will leave empty handed.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Bhagavad Gita</p>
