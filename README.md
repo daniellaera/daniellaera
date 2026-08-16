@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.</p>
+<p>The key to success is action.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Brian Tracy</p>
