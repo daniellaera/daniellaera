@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Our greatest fears lie in anticipation.</p>
+<p>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Thomas Jefferson</p>
