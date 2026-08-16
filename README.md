@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be curious, not judgmental.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>- Walt Whitman</p>
+<p>- Leonardo da Vinci</p>
