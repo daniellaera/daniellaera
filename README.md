@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Celestine Chua</p>
