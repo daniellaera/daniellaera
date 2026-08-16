@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is going from failure to failure without losing your enthusiasm</p>
+<p>Genius is patience.</p>
 
-<p>- Winston Churchill</p>
+<p>- Isaac Newton</p>
