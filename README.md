@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must create our own world or we will die from inaction.</p>
+<p>If you put water into a cup, it becomes the cup.</p>
 
-<p>- Robert Greene</p>
+<p>- Bruce Lee</p>
