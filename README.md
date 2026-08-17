@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart.</p>
+<p>Don't be afraid to give up the good to go for the great.</p>
 
-<p>- St. Jerome</p>
+<p>- John D. Rockefeller</p>
