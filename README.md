@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Write to help yourself, publish to help others.</p>
+<p>Quality is not an act, it is a habit.</p>
 
-<p>- Jack Butcher</p>
+<p>- Colin R. Davis</p>
