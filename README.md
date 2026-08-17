@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ponder and deliberate before you make a move.</p>
+<p>Write to help yourself, publish to help others.</p>
 
-<p>- Sun Tzu</p>
+<p>- Jack Butcher</p>
