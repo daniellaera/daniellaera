@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
+<p>If you can't, you must. If you must, you can.</p>
 
-<p>- Carl Jung</p>
+<p>- Tony Robbins</p>
