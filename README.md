@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
+<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
 
-<p>- Mark Manson</p>
+<p>- John Lennon</p>
