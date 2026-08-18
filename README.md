@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Ponder and deliberate before you make a move.</p>
+<p>Let each man exercise the art he knows.</p>
 
-<p>- Sun Tzu</p>
+<p>- Aristophanes</p>
