@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have lost friends, some by death...others by sheer inability to cross the street.</p>
+<p>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Carl Jung</p>
