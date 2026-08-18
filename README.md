@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not fair to ask of others what you are not willing to do yourself.</p>
+<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Gilbert Chesterton</p>
