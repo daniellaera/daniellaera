@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</p>
+<p>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</p>
 
-<p>- John Lennon</p>
+<p>- Nicolas Chamfort</p>
