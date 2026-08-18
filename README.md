@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Strategy is a commodity, execution is an art.</p>
+<p>To be happy we need something to solve. Happiness is therefore a form of action.</p>
 
-<p>- Peter Drucker</p>
+<p>- Mark Manson</p>
