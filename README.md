@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>Ponder and deliberate before you make a move.</p>
 
-<p>- Rumi</p>
+<p>- Sun Tzu</p>
