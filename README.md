@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</p>
+<p>People seldom do what they believe in. They do what is convenient, then repent.</p>
 
-<p>- Les Brown</p>
+<p>- Bob Dylan</p>
