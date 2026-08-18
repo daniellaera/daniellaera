@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One always begins to forgive a place as soon as it's left behind.</p>
+<p>Strategy is a commodity, execution is an art.</p>
 
-<p>- Charles Dickens</p>
+<p>- Peter Drucker</p>
