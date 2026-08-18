@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Colin R. Davis</p>
