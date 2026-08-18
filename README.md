@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.</p>
+<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Rumi</p>
