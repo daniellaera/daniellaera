@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>Focus on the moment, not the monsters that may or may not be up ahead.</p>
 
-<p>- Brian Tracy</p>
+<p>- Ryan Holiday</p>
