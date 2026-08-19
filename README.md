@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Try to be a rainbow in someone's cloud.</p>
+<p>The quality of your life is determined by the quality of questions you ask.</p>
 
-<p>- Maya Angelou</p>
+<p>- Tony Robbins</p>
