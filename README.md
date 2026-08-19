@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
+<p>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Josh Waitzkin</p>
