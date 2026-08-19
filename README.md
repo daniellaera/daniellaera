@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We run to win, not just to be in the race.</p>
+<p>Live as if you were to die tomorrow. Learn as if you were to live forever.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Mahatma Gandhi</p>
