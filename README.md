@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A fear of weakness only strengthens weakness.</p>
+<p>A needle is not sharp at both ends.</p>
 
-<p>- Criss Jami</p>
+<p>- Chinese Proverb</p>
