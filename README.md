@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest miracle is to be alive.</p>
+<p>Try to be a rainbow in someone's cloud.</p>
 
-<p>- Thich Nhat Hanh</p>
+<p>- Maya Angelou</p>
