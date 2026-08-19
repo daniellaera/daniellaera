@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is the rarest thing in the world. Most people exist, that is all.</p>
+<p>It isn't that they can't see the solution. It is that they can't see the problem.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Gilbert Chesterton</p>
