@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Preoccupied with a single leaf you won't see the tree.</p>
+<p>We run to win, not just to be in the race.</p>
 
-<p>- Unknown</p>
+<p>- Vince Lombardi</p>
