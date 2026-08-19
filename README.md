@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Heroes don't need to talk about what they did.</p>
+<p>Preoccupied with a single leaf you won't see the tree.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Unknown</p>
