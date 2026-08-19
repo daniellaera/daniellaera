@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you can handle rejection, you'll learn to get everything you want.</p>
+<p>To seek is to suffer. To seek nothing is bliss.</p>
 
-<p>- Tony Robbins</p>
+<p>- Bodhidharma</p>
