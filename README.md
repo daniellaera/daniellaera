@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Focus on the moment, not the monsters that may or may not be up ahead.</p>
+<p>It is your attitude, not your aptitude, that determines your altitude.</p>
 
-<p>- Ryan Holiday</p>
+<p>- Zig Ziglar</p>
