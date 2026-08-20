@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
+<p>You can easily judge the character of a man by how he treats those who can do nothing for him.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Simon Sinek</p>
