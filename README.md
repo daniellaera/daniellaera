@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>They say love is the best investment; the more you give, the more you get in return.</p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Yoko Ono</p>
