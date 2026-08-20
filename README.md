@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the midst of chaos, there is also opportunity.</p>
+<p>Your mind will make you rich or poor, depending on the use you put to it.</p>
 
-<p>- Sun Tzu</p>
+<p>- Brian Tracy</p>
