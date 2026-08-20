@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Circumstances do not make the man, they reveal him.</p>
+<p>Until we can manage time, we can manage nothing else.</p>
 
-<p>- James Allen</p>
+<p>- Peter Drucker</p>
