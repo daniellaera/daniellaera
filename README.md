@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest deception men suffer is from their own opinions.</p>
+<p>They say love is the best investment; the more you give, the more you get in return.</p>
 
-<p>- Leonardo da Vinci</p>
+<p>- Audrey Hepburn</p>
