@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be wonderful if you're not afraid of it.</p>
+<p>The river that flows in you also flows in me.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Kabir</p>
