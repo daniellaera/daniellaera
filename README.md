@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make no small plans for they have no power to stir the soul.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Sun Tzu</p>
