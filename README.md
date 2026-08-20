@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The hard path is often the right one. The river teaches more than the shore.</p>
+<p>The greatest deception men suffer is from their own opinions.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Leonardo da Vinci</p>
