@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's possible in ways both large or small to make a difference in someone's life.</p>
+<p>You have power over your mind - not outside events. Realize this, and you will find strength.</p>
 
-<p>- Yanni</p>
+<p>- Marcus Aurelius</p>
