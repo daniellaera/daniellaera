@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Give so much away people insist on paying you.</p>
+<p>It's possible in ways both large or small to make a difference in someone's life.</p>
 
-<p>- Jack Butcher</p>
+<p>- Yanni</p>
