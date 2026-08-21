@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Someday death will take us to another star.</p>
+<p>Death walks faster than the wind and never returns what he has taken.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- Hans Christian Andersen</p>
