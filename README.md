@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Listen to the secret sound, the real sound, which is inside you.</p>
+<p>Someday death will take us to another star.</p>
 
-<p>- Kabir</p>
+<p>- Vincent van Gogh</p>
