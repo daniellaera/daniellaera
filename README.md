@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.</p>
+<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Alan Watts</p>
