@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Leadership starts at the top.</p>
+<p>Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.</p>
 
-<p>- Morgan Wootten</p>
+<p>- Miguel de Cervantes</p>
