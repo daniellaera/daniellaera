@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.</p>
+<p>The goal is not to be perfect by the end, the goal is to be better today.</p>
 
-<p>- Alan Watts</p>
+<p>- Simon Sinek</p>
