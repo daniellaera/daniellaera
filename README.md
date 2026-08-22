@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An ounce of performance is worth pounds of promises.</p>
+<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
 
-<p>- Mae West</p>
+<p>- Roy T. Bennett</p>
