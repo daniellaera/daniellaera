@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</p>
+<p>Every time we liberate a woman, we liberate a man.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Margaret Mead</p>
