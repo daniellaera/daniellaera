@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
+<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
 
-<p>- Unknown</p>
+<p>- Franz Kafka</p>
