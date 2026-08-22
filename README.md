@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Help others and give something back.</p>
+<p>Your time is limited, don't waste it living someone else's life.</p>
 
-<p>- Arnold Schwarzenegger</p>
+<p>- Colin R. Davis</p>
