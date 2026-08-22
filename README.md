@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>From a certain point onward there is no longer any turning back. That is the point that must be reached.</p>
+<p>An ounce of performance is worth pounds of promises.</p>
 
-<p>- Franz Kafka</p>
+<p>- Mae West</p>
