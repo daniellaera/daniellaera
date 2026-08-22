@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life becomes easier and more beautiful when we can see the good in other people.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Gary Keller</p>
