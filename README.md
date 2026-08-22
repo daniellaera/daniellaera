@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.</p>
+<p>You can't build a reputation on what you are going to do.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Henry Ford</p>
