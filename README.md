@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time we liberate a woman, we liberate a man.</p>
+<p>The successful warrior is the average man, with laser-like focus.</p>
 
-<p>- Margaret Mead</p>
+<p>- Bruce Lee</p>
