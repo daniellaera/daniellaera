@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The successful warrior is the average man, with laser-like focus.</p>
+<p>Life is ten percent what you experience and ninety percent how you respond to it.</p>
 
-<p>- Bruce Lee</p>
+<p>- Unknown</p>
