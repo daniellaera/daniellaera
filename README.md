@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Turn off your mind, relax, and float downstream.</p>
+<p>There are no coincidences in the universe.</p>
 
-<p>- John Lennon</p>
+<p>- Neale Donald Walsch</p>
