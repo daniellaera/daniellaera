@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do what you can, with what you have, where you are.</p>
+<p>Life is a succession of lessons, which must be lived to be understood.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Ralph Waldo Emerson</p>
