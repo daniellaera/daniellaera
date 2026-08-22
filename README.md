@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The meaning of life is just to be alive. It is so plain and so obvious and so simple.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>- Alan Watts</p>
+<p>- Virginia Woolf</p>
