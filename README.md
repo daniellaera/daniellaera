@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no coincidences in the universe.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>- Neale Donald Walsch</p>
+<p>- Sun Tzu</p>
