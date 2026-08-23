@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is a gift. Never forget to enjoy and bask in every moment you are in.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Celestine Chua</p>
+<p>- Gurbaksh Chahal</p>
