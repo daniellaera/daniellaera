@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>Look to the beauty of this day, miracles are all around you.</p>
 
-<p>- Huang Po</p>
+<p>- Mary Engelbreit</p>
