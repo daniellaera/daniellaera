@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Criss Jami</p>
