@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The smallest of actions is always better than the noblest of intentions.</p>
+<p>If you always do what you've always done, you'll always get what you've always got.</p>
 
-<p>- Robin Sharma</p>
+<p>- Henry Ford</p>
