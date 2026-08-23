@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The way to move out of judgement is to move into gratitude.</p>
+<p>A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.</p>
 
-<p>- Neale Donald Walsch</p>
+<p>- Alfred Adler</p>
