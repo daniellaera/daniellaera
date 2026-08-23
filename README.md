@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Once a decision was made, I didn't worry about it afterward.</p>
+<p>Do your duty and a little more and the future will take care of itself.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Andrew Carnegie</p>
