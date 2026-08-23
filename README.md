@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.</p>
+<p>Life is much more successfully looked at from a single window.</p>
 
-<p>- Criss Jami</p>
+<p>- F. Scott Fitzgerald</p>
