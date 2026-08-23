@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't build a reputation on what you are going to do.</p>
+<p>Once a decision was made, I didn't worry about it afterward.</p>
 
-<p>- Henry Ford</p>
+<p>- Harry S. Truman</p>
