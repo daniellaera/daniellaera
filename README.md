@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True friendship ought never to conceal what it thinks.</p>
+<p>The way to move out of judgement is to move into gratitude.</p>
 
-<p>- St. Jerome</p>
+<p>- Neale Donald Walsch</p>
