@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Human behavior flows from three main sources: desire, emotion, and knowledge.</p>
+<p>Today is the oldest you've ever been, and the youngest you'll ever be again.</p>
 
-<p>- Plato</p>
+<p>- Eleanor Roosevelt</p>
