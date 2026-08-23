@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is always room in your life for thinking bigger, pushing limits and imagining the impossible.</p>
+<p>The smallest of actions is always better than the noblest of intentions.</p>
 
-<p>- Tony Robbins</p>
+<p>- Robin Sharma</p>
