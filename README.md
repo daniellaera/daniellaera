@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is filled with secrets. You can't learn them all at once.</p>
+<p>The world makes way for the man who knows where he is going.</p>
 
-<p>- Dan Brown</p>
+<p>- Ralph Waldo Emerson</p>
