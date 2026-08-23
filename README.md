@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
+<p>Life is filled with secrets. You can't learn them all at once.</p>
 
-<p>- Confucius</p>
+<p>- Dan Brown</p>
