@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Do the difficult things while they are easy and do the great things while they are small.</p>
+<p>20 percent of your activities will account for 80 percent of your results.</p>
 
-<p>- Lao Tzu</p>
+<p>- Brian Tracy</p>
