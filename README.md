@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>20 percent of your activities will account for 80 percent of your results.</p>
+<p>Always focus on the front windshield and not the rear view mirror.</p>
 
-<p>- Brian Tracy</p>
+<p>- Colin Powell</p>
