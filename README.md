@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always focus on the front windshield and not the rear view mirror.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Colin Powell</p>
+<p>- Tony Robbins</p>
