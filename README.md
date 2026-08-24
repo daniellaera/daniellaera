@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To lose your temper is only useful once a year.</p>
+<p>When asked, how do you write? I invariably answer, one word at a time.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Stephen King</p>
