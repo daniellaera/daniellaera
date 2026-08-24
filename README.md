@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All great truths begin as blasphemies.</p>
+<p>Imagination is the beginning of creation.</p>
 
 <p>- George Bernard Shaw</p>
