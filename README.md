@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
+<p>The whole world is a series of miracles, but we're so used to them we call them ordinary things.</p>
 
-<p>- Socrates</p>
+<p>- Hans Christian Andersen</p>
