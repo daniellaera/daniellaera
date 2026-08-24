@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you look for perfection, you'll never be content.</p>
+<p>Not everything that weighs you down is yours to carry.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Unknown</p>
