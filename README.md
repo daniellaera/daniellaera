@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is the beginning of creation.</p>
+<p>We are always complaining that our days are few, and acting as though there would be no end of them.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Seneca</p>
