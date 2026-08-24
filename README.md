@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The wise accomplish all that they want without arousing the envy or scorn of others.</p>
+<p>There is an essence of when you are fearless, you become more creative.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Gurbaksh Chahal</p>
