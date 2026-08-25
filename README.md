@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hope is a waking dream.</p>
+<p>Most people dabble their way through life, never deciding to master anything in particular.</p>
 
-<p>- Aristotle</p>
+<p>- Tony Robbins</p>
