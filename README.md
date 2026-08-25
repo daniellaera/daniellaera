@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</p>
+<p>Tension is who you think you should be. Relaxation is who you are.</p>
 
-<p>- Josh Waitzkin</p>
+<p>- Chinese Proverb</p>
