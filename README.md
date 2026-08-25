@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.</p>
+<p>Study logic and math, because once you've mastered them, you won't fear any book.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Naval Ravikant</p>
