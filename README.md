@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The world doesn't owe you anything. It was here first.</p>
+<p>Nothing has more strength than dire necessity.</p>
 
-<p>- Mark Twain</p>
+<p>- Euripides</p>
