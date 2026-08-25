@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tension is who you think you should be. Relaxation is who you are.</p>
+<p>It's not how much money you make, it's how much money you keep.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Robert Kiyosaki</p>
