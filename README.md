@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every drop in the ocean counts.</p>
+<p>Hope is a waking dream.</p>
 
-<p>- Yoko Ono</p>
+<p>- Aristotle</p>
