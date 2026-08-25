@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality of your life is determined by the quality of your thoughts.</p>
+<p>Don't look for meaning in the words. Listen to the silences.</p>
 
-<p>- Unknown</p>
+<p>- Samuel Beckett</p>
