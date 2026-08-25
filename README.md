@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>Insanity: doing the same thing over and over again and expecting different results.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Albert Einstein</p>
