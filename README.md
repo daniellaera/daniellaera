@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing is permanent in this wicked world - not even our troubles.</p>
+<p>Nothing is hopeless; we must hope for everything.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Euripides</p>
