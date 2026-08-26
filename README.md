@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not all readers are leaders, but all leaders are readers.</p>
+<p>Life is and will ever remain an equation incapable of solution, but it contains certain known factors.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Nikola Tesla</p>
