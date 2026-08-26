@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I have no methods; all I do is accept people as they are.</p>
+<p>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</p>
 
-<p>- Joan Rivers</p>
+<p>- Winston Churchill</p>
