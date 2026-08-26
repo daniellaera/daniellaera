@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep your face to the sunshine and you cannot see the shadows.</p>
+<p>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.</p>
 
-<p>- Helen Keller</p>
+<p>- Paramahansa Yogananda</p>
