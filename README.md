@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know the way; few actually walk it.</p>
+<p>Not all readers are leaders, but all leaders are readers.</p>
 
-<p>- Bodhidharma</p>
+<p>- Harry S. Truman</p>
