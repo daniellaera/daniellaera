@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>True prayer has no set form.</p>
+<p>The act of taking the first step is what separates the winners from the losers.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Brian Tracy</p>
