@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is impossible for a man to learn what he thinks he already knows.</p>
+<p>You can't tell big dreams to small minded people.</p>
 
-<p>- Epictetus</p>
+<p>- Steve Harvey</p>
