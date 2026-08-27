@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is not the knowing that is difficult, but the doing.</p>
+<p>The only difference between success and failure is the ability to take action.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Alexander Graham Bell</p>
