@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only difference between success and failure is the ability to take action.</p>
+<p>What the mind can conceive, it can achieve.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Napoleon Hill</p>
