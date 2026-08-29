@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only when one allows themself the right to die, do they then give yourself the permission to live.</p>
+<p>We don't stop playing because we grow old; we grow old because we stop playing.</p>
 
-<p>- C. Sean McGee</p>
+<p>- George Bernard Shaw</p>
