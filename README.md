@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
+<p>Inner peace is when you realize that, in the end, nothing matters.</p>
 
-<p>- W.P. Kinsella</p>
+<p>- Maxime Lagace</p>
