@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Never whine, never complain, never try to justify yourself.</p>
+<p>Debt is the slavery of the free.</p>
 
-<p>- Robert Greene</p>
+<p>- Publilius Syrus</p>
