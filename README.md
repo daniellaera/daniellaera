@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The highest form of ignorance is when you reject something you don't know anything about.</p>
+<p>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Lao Tzu</p>
