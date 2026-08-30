@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>As we first succeed, we will find ourselves in new situations, facing new problems.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about.</p>
 
-<p>- Ryan Holiday</p>
+<p>- Wayne Dyer</p>
