@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Someone is sitting in the shade today because someone planted a tree a long time ago.</p>
+<p>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</p>
 
-<p>- Warren Buffett</p>
+<p>- G.I. Gurdjieff</p>
