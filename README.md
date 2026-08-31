@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By words the mind is winged.</p>
+<p>Someone is sitting in the shade today because someone planted a tree a long time ago.</p>
 
-<p>- Aristophanes</p>
+<p>- Warren Buffett</p>
