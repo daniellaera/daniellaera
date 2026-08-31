@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the job that's never started that takes the longest to finish.</p>
+<p>By words the mind is winged.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Aristophanes</p>
