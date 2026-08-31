@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't be afraid to see what you see.</p>
+<p>It's the job that's never started that takes the longest to finish.</p>
 
-<p>- Ronald Reagan</p>
+<p>- J.R.R. Tolkien</p>
