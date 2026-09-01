@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Where there is no struggle, there is no strength.</p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Henry Ward Beecher</p>
