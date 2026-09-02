@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Saying nothing sometimes says the most.</p>
+<p>Don't change your mind just because people are offended; change your mind if you're wrong.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Criss Jami</p>
