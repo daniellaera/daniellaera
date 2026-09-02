@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no ordinary moments.</p>
+<p>Saying nothing sometimes says the most.</p>
 
-<p>- Dan Millman</p>
+<p>- Emily Dickinson</p>
