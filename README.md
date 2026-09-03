@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If I can pay the bills, I'm happy.</p>
+<p>Why fit in when you were born to stand out?</p>
 
-<p>- Morgan Wootten</p>
+<p>- Dr. Seuss</p>
