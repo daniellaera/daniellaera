@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You'll never find rainbows if you're looking down.</p>
+<p>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Estee Lauder</p>
