@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Make yourself so useful to other people, that they think you are irreplaceable.</p>
+<p>Do something to move yourself toward your major goal every day.</p>
 
-<p>- Og Mandino</p>
+<p>- Brian Tracy</p>
