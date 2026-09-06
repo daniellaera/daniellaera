@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.</p>
+<p>Sometimes a change of perspective is all it takes to see the light.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Dan Brown</p>
