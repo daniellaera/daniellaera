@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Let the beauty of what you love be what you do.</p>
+<p>Luck is what happens when preparation meets opportunity.</p>
 
-<p>- Rumi</p>
+<p>- Seneca</p>
