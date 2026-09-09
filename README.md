@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You're only given a little spark of madness. You mustn't lose it.</p>
+<p>Life is what happens to you while you're busy making other plans.</p>
 
-<p>- Robin Williams</p>
+<p>- John Lennon</p>
