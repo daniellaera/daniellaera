@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The pursuit of mastery bears gifts.</p>
+<p>If you want to know what God thinks about money just look at the people He gives it to.</p>
 
-<p>- Gary Keller</p>
+<p>- Alexander Pope</p>
