@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always turn a negative situation into a positive situation.</p>
+<p>If you want to be successful, you have to jump, there's no way around it.</p>
 
-<p>- Michael Jordan</p>
+<p>- Steve Harvey</p>
