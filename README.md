@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Imagination is everything. It is the preview of life's coming attractions.</p>
+<p>To live outside the law, you must be honest.</p>
 
-<p>- Albert Einstein</p>
+<p>- Bob Dylan</p>
