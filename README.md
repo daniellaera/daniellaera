@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</p>
+<p>Expect the best, plan for the worst, and prepare to be surprised.</p>
 
-<p>- Sun Tzu</p>
+<p>- Denis Waitley</p>
