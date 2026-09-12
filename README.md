@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.</p>
+<p>The world is open for play, everything and everybody is mockable in a wonderful way.</p>
 
-<p>- Confucius</p>
+<p>- Robin Williams</p>
