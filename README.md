@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.</p>
+<p>It is best to begin at the beginning.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Amelia Earhart</p>
