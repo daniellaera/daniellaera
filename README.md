@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone thinks of changing the world, but no one thinks of changing himself.</p>
+<p>The older you get, the more you understand how your conscience works.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Criss Jami</p>
