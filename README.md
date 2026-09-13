@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Always remember that you are absolutely unique. Just like everyone else.</p>
+<p>Friendship is like money, easier made than kept.</p>
 
-<p>- Margaret Mead</p>
+<p>- Samuel Butler</p>
