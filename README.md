@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</p>
+<p>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</p>
 
-<p>- Kabir</p>
+<p>- Thomas Jefferson</p>
