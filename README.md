@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your setback is just a setup for a comeback.</p>
+<p>Every moment of happiness requires a great amount of Ignorance</p>
 
-<p>- Steve Harvey</p>
+<p>- Honore de Balzac</p>
