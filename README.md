@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every moment of happiness requires a great amount of Ignorance</p>
+<p>The biggest adventure is what lies ahead.</p>
 
-<p>- Honore de Balzac</p>
+<p>- J.R.R. Tolkien</p>
