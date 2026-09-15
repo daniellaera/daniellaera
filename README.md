@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</p>
+<p>Human happiness and moral duty are inseparably connected.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- George Washington</p>
