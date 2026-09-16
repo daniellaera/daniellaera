@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It matters not what someone is born, but what they grow to be.</p>
+<p>Better a diamond with a flaw than a pebble without one.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Chinese Proverb</p>
