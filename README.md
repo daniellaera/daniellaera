@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>I am thankful to all those who said no. It's because of them, I did it myself.</p>
+<p>It matters not what someone is born, but what they grow to be.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Albus Dumbledore</p>
