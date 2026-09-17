@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Truth is the offspring of silence and meditation.</p>
+<p>Don't ever save anything for a special occasion. Being alive is the special occasion.</p>
 
-<p>- Isaac Newton</p>
+<p>- Mary Engelbreit</p>
