@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The finish line is just the beginning of a whole new race.</p>
+<p>You can start changing our world for the better daily, no matter how small the action.</p>
 
-<p>- Unknown</p>
+<p>- Nelson Mandela</p>
