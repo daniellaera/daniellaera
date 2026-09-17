@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Winners don't Quit. That's why they Win.</p>
+<p>Nothing makes a man broad-minded like adversity.</p>
 
-<p>- Unknown</p>
+<p>- Will Rogers</p>
