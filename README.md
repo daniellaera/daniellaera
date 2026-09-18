@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man is literally what he thinks.</p>
+<p>There is no value in anything until it is finished.</p>
 
-<p>- James Allen</p>
+<p>- Genghis Khan</p>
