@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</p>
+<p>Find something you love and do it better than everyone else.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Gurbaksh Chahal</p>
