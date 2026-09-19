@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>The power of human thought grows exponentially with the number of minds that share that thought.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Dan Brown</p>
