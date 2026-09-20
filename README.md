@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
+<p>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</p>
 
-<p>- Unknown</p>
+<p>- Colin Powell</p>
