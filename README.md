@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Eighty percent of success is showing up.</p>
+<p>A diamond is a piece of charcoal that handled stress exceptionally well.</p>
 
-<p>- Woody Allen</p>
+<p>- Unknown</p>
