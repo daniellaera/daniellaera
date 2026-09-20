@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Pleasure in the job puts perfection in the work.</p>
+<p>Whoever is happy will make others happy too.</p>
 
-<p>- Aristotle</p>
+<p>- Anne Frank</p>
