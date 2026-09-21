@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>No problem can be solved from the same level of consciousness that created it.</p>
 
-<p>- Zen Proverb</p>
+<p>- Albert Einstein</p>
