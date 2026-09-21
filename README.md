@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The most courageous act is still to think for yourself. Aloud.</p>
+<p>Unhappiness enters through a door that has been left open.</p>
 
-<p>- Coco Chanel</p>
+<p>- Zen Proverb</p>
