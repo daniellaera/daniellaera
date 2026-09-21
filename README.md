@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No problem can be solved from the same level of consciousness that created it.</p>
+<p>We must have strong minds, ready to accept facts as they are.</p>
 
-<p>- Albert Einstein</p>
+<p>- Harry S. Truman</p>
