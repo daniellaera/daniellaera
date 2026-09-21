@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must have strong minds, ready to accept facts as they are.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Carlos Ruiz Zafon</p>
