@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We lie the loudest when we lie to ourselves.</p>
+<p>Smile, breathe and go slowly.</p>
 
-<p>- Eric Hoffer</p>
+<p>- Thich Nhat Hanh</p>
