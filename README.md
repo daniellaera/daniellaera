@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are willing to believe anything other than the truth.</p>
+<p>The purpose of life is the life of purpose.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Robin Sharma</p>
