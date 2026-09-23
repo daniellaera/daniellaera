@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The only man who never makes mistakes is the man who never does anything.</p>
+<p>If you want work well done, select a busy man; the other kind has no time.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Elbert Hubbard</p>
