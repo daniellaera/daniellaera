@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</p>
+<p>The only man who never makes mistakes is the man who never does anything.</p>
 
-<p>- Alexander Graham Bell</p>
+<p>- Theodore Roosevelt</p>
