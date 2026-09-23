@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's better to stand by someone's side than by yourself.</p>
+<p>If a man knows not to which port he sails, no wind is favorable.</p>
 
-<p>- Jack London</p>
+<p>- Seneca</p>
