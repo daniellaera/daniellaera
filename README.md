@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.</p>
+<p>The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Colin R. Davis</p>
