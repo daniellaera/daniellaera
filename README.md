@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>To live is to be willing to die over and over again.</p>
+<p>Every time we liberate a woman, we liberate a man.</p>
 
-<p>- Pema Chodron</p>
+<p>- Margaret Mead</p>
