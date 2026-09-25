@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Allow motion to equal emotion.</p>
+<p>Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- James Allen</p>
