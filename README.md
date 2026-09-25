@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Every time we liberate a woman, we liberate a man.</p>
+<p>Understanding that rests in what it does not understand is the finest.</p>
 
-<p>- Margaret Mead</p>
+<p>- Zhuangzi</p>
