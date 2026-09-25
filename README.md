@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Understanding that rests in what it does not understand is the finest.</p>
+<p>Forget safety. Live where you fear to live.</p>
 
-<p>- Zhuangzi</p>
+<p>- Rumi</p>
