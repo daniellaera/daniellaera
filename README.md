@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Remain calm. Be kind.</p>
+<p>Enjoy life. There's plenty of time to be dead.</p>
 
-<p>- Colin Powell</p>
+<p>- Hans Christian Andersen</p>
