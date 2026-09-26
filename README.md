@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Enjoy life. There's plenty of time to be dead.</p>
+<p>If what you're doing is not your passion, you have nothing to lose.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Celestine Chua</p>
