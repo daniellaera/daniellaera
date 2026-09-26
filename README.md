@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When things are a disappointment, try not to be so discouraged.</p>
+<p>Those who attain the middle Dominate the whole.</p>
 
-<p>- Carol Burnett</p>
+<p>- Ming-Dao Deng</p>
