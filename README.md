@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Forget safety. Live where you fear to live.</p>
+<p>Don't let them drag you down by rumors. Just go with what you believe in.</p>
 
-<p>- Rumi</p>
+<p>- Michael Jordan</p>
