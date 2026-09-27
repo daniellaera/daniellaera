@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
+<p>The people who succeed are irrationally passionate about something.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Naval Ravikant</p>
