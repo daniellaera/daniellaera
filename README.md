@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</p>
+<p>What the eye doesn't see and the mind doesn't know, doesn't exist.</p>
 
-<p>- Dan Millman</p>
+<p>- D. H. Lawrence</p>
