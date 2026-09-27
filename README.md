@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The people who succeed are irrationally passionate about something.</p>
+<p>Surrender to what is. Let go of what was. Have faith in what will be.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Sonia Ricotti</p>
