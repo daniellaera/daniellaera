@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If what you're doing is not your passion, you have nothing to lose.</p>
+<p>A dream you dream alone is only a dream. A dream you dream together is reality.</p>
 
-<p>- Celestine Chua</p>
+<p>- Yoko Ono</p>
