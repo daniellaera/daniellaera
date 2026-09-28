@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People think about what they don't want and attract more of the same.</p>
+<p>I do not seek. I find.</p>
 
-<p>- Unknown</p>
+<p>- Pablo Picasso</p>
