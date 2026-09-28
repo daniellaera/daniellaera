@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>One mistake does not have to rule a person's entire life.</p>
+<p>People think about what they don't want and attract more of the same.</p>
 
-<p>- Joyce Meyer</p>
+<p>- Unknown</p>
