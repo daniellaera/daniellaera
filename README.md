@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We will outstretch the hand if you unclench your fist.</p>
+<p>It's the possibility of having a dream come true that makes life interesting.</p>
 
-<p>- Barack Obama</p>
+<p>- Paulo Coelho</p>
