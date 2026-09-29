@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's the possibility of having a dream come true that makes life interesting.</p>
+<p>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Helen Keller</p>
