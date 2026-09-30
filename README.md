@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>In the End, we will remember not the words of our enemies, but the silence of our friends.</p>
+<p>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Celestine Chua</p>
