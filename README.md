@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Those who can make you believe absurdities can make you commit atrocities.</p>
+<p>Little minds have little worries, big minds have no time for worries.</p>
 
-<p>- Voltaire</p>
+<p>- Ralph Waldo Emerson</p>
