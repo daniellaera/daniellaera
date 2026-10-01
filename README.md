@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Simplicity is a difficult thing to achieve.</p>
+<p>Believe you can and you will be halfway there.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Lolly Daskal</p>
