@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The friendship that can cease has never been real.</p>
+<p>Simplicity is a difficult thing to achieve.</p>
 
-<p>- St. Jerome</p>
+<p>- Charlie Chaplin</p>
