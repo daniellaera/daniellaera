@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Wise people, even though all laws were abolished, would still lead the same life.</p>
+<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
 
-<p>- Aristophanes</p>
+<p>- Benjamin Franklin</p>
