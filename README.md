@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Being ignorant is not so much a shame, as being unwilling to learn.</p>
+<p>Avoiding danger is no safer in the long run than exposure.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Helen Keller</p>
