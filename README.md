@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
+<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance.</p>
 
-<p>- Mark Twain</p>
+<p>- Brian Tracy</p>
