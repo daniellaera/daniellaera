@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Look to the beauty of this day, miracles are all around you.</p>
+<p>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Mark Twain</p>
