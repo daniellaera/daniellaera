@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The greatest gift that you can give to others is the gift of unconditional love and acceptance.</p>
+<p>Be as fluid as water, do not give your enemies anything solid to attack.</p>
 
-<p>- Brian Tracy</p>
+<p>- Robert Greene</p>
