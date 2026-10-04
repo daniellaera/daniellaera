@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not engaging in ignorance is wisdom.</p>
+<p>All happiness depends on courage and work.</p>
 
-<p>- Bodhidharma</p>
+<p>- Honore de Balzac</p>
