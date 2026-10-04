@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
+<p>All animals except man know that the principal business of life is to enjoy it.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Samuel Butler</p>
