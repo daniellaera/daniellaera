@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All happiness depends on courage and work.</p>
+<p>Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.</p>
 
-<p>- Honore de Balzac</p>
+<p>- Roy T. Bennett</p>
