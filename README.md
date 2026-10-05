@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Progress comes to those who train and train; reliance on secret techniques will get you nowhere.</p>
+<p>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Theodore Roosevelt</p>
