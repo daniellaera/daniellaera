@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can't go forward and backwards at the same time.</p>
+<p>Believe nothing you hear, and only one half that you see.</p>
 
-<p>- Steve Harvey</p>
+<p>- Edgar Allan Poe</p>
