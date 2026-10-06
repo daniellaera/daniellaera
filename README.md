@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Believe nothing you hear, and only one half that you see.</p>
+<p>It is truth that liberates, not your effort to be free.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Jiddu Krishnamurti</p>
