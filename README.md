@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is truth that liberates, not your effort to be free.</p>
+<p>The more acquaintances you have, the less you know them.</p>
 
-<p>- Jiddu Krishnamurti</p>
+<p>- Chinese Proverb</p>
