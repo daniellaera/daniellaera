@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more acquaintances you have, the less you know them.</p>
+<p>Muddy water is best cleared by leaving it alone.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Alan Watts</p>
