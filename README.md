@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Impressing people is utterly different from being truly impressive.</p>
+<p>Do you have the patience to wait until your mud settles and the water is clear?</p>
 
-<p>- Ryan Holiday</p>
+<p>- Lao Tzu</p>
