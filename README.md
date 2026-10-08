@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Receive without complaint, Work with fate.</p>
+<p>We would accomplish many more things if we did not think of them as impossible.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Vince Lombardi</p>
