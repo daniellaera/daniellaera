@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Nothing can bring you peace but yourself.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Napoleon Hill</p>
