@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>An un-examined life is not worth living.</p>
+<p>The only way to do great work is to love what you do.</p>
 
-<p>- Socrates</p>
+<p>- Colin R. Davis</p>
