@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Throughout this life, you can never be certain of living long enough to take another breath.</p>
+<p>If you correct your mind, the rest of your life will fall into place.</p>
 
-<p>- Huang Po</p>
+<p>- Lao Tzu</p>
