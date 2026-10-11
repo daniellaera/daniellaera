@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Age is a very high price to pay for maturity.</p>
+<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
 
-<p>- William James</p>
+<p>- Rumi</p>
