@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Fiction is the truth inside the lie.</p>
+<p>Successful people ask better questions, and as a result, they get better answers.</p>
 
-<p>- Stephen King</p>
+<p>- Tony Robbins</p>
