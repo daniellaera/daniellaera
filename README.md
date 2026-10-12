@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.</p>
+<p>People learn from their failures. Seldom do they learn anything from success.</p>
 
-<p>- Rumi</p>
+<p>- Ryan Holiday</p>
