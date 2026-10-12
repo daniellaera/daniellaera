@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
+<p>The best way to predict the future is to create it.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Colin R. Davis</p>
