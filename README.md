@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>People learn from their failures. Seldom do they learn anything from success.</p>
+<p>Meditate. It won't be fun but it will surface what you need to deal with.</p>
 
-<p>- Ryan Holiday</p>
+<p>- Naval Ravikant</p>
