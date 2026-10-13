@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It's not the love you make. It's the love you give.</p>
+<p>Some of us learn from other people's mistakes and the rest of us have to be other people.</p>
 
-<p>- Nikola Tesla</p>
+<p>- Zig Ziglar</p>
