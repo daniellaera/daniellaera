@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>- Barack Obama</p>
+<p>- Virginia Woolf</p>
