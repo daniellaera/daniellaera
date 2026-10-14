@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Good entrepreneurs don't fail because they stay at it.</p>
+<p>We are willing to believe anything other than the truth.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Carlos Ruiz Zafon</p>
