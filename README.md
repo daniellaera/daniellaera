@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Why live an ordinary life, when you can live an extraordinary one.</p>
+<p>Good entrepreneurs don't fail because they stay at it.</p>
 
-<p>- Tony Robbins</p>
+<p>- Naval Ravikant</p>
