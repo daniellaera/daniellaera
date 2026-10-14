@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are willing to believe anything other than the truth.</p>
+<p>Making your mark on the world is hard. If it were easy, everybody would do it.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Barack Obama</p>
