@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life begins where fear ends.</p>
+<p>All our knowledge has its origins in our perceptions.</p>
 
-<p>- Osho</p>
+<p>- Leonardo da Vinci</p>
