@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</p>
+<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Herodotus</p>
