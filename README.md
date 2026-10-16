@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</p>
+<p>Keep your face always toward the sunshine -  shadows will fall behind you.</p>
 
-<p>- Og Mandino</p>
+<p>- Walt Whitman</p>
