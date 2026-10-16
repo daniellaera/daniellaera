@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</p>
+<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.</p>
 
-<p>- Zen Proverb</p>
+<p>- Steve Jobs</p>
