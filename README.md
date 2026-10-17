@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The strongest and sweetest songs yet remain to be sung.</p>
+<p>Perseverance and spirit have done wonders in all ages.</p>
 
-<p>- Walt Whitman</p>
+<p>- George Washington</p>
