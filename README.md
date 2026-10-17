@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages.</p>
+<p>If you don't like something, change it. If you can't change it, change your attitude.</p>
 
-<p>- George Washington</p>
+<p>- Maya Angelou</p>
