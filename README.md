@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Not why the addiction but why the pain.</p>
+<p>The harder you work, the harder it is to surrender.</p>
 
-<p>- Gabor Mate</p>
+<p>- Vince Lombardi</p>
