@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It is easier to put leather on the soles of one's feet than cover the world with leather.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Tibetan Proverb</p>
+<p>- Gurbaksh Chahal</p>
