@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The quality, not the longevity, of one's life is what is important.</p>
+<p>Confidence is consistency of thinking about what is possible and how to make it possible.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- John Eliot</p>
