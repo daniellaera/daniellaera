@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your life does not get better by chance, it gets better by change.</p>
+<p>It is easier to put leather on the soles of one's feet than cover the world with leather.</p>
 
-<p>- Jim Rohn</p>
+<p>- Tibetan Proverb</p>
