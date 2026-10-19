@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Troubles are often the tools by which God fashions us for better things.</p>
+<p>You're never given a dream without also being given the power to make it true.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Richard Bach</p>
