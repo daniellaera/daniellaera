@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Write to help yourself, publish to help others.</p>
+<p>The best way to predict the future is to create it.</p>
 
-<p>- Jack Butcher</p>
+<p>- Colin R. Davis</p>
