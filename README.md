@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to predict the future is to create it.</p>
+<p>Your gift is something that you can do innately better than anything else.</p>
 
-<p>- Colin R. Davis</p>
+<p>- Steve Harvey</p>
