@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Chase your passion, not your pension.</p>
+<p>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</p>
 
-<p>- Denis Waitley</p>
+<p>- Steve Harvey</p>
