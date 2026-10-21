@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Inspiration exists, but it has to find you working.</p>
+<p>Love your enemies, for they tell you your faults.</p>
 
-<p>- Pablo Picasso</p>
+<p>- Benjamin Franklin</p>
