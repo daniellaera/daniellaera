@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life goes by fast. Enjoy it. Calm down. It's all funny.</p>
+<p>You don't get in life what you want; you get in life what you are.</p>
 
-<p>- Joan Rivers</p>
+<p>- Les Brown</p>
