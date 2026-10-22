@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You don't get in life what you want; you get in life what you are.</p>
+<p>There are no mistakes in life, only lessons.</p>
 
-<p>- Les Brown</p>
+<p>- Robin Sharma</p>
