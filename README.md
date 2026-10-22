@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no mistakes in life, only lessons.</p>
+<p>The more you like yourself, the less you are like anyone else, which makes you unique.</p>
 
-<p>- Robin Sharma</p>
+<p>- Walt Disney</p>
