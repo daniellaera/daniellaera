@@ -36,7 +36,7 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## What I'm listening to
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11145527221&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=11145527221&unique=1&duration=1&album=1)
 
 ## The Daily Quote
 
