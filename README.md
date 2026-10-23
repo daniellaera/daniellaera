@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The energy of the mind is the essence of life.</p>
+<p>Words are the clothing of our thoughts.</p>
 
-<p>- Aristotle</p>
+<p>- Jonathan Swift</p>
