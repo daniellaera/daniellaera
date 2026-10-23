@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothing of our thoughts.</p>
+<p>The more you are grateful for what you have the more you will have to be grateful for.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Zig Ziglar</p>
