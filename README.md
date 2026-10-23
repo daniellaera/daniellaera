@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The more you are grateful for what you have the more you will have to be grateful for.</p>
+<p>He who cheats the earth will be cheated by the earth.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Chinese Proverb</p>
