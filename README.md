@@ -36,10 +36,10 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## What I'm listening to
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=11145527221&unique=1&duration=1&album=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11145527221&unique={true|1|on|yes})
 
 ## The Daily Quote
 
-<p>Dream big. Start small. But most of all, start.</p>
+<p>The energy of the mind is the essence of life.</p>
 
-<p>- Simon Sinek</p>
+<p>- Aristotle</p>
