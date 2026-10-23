@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
+<p>Dream big. Start small. But most of all, start.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Simon Sinek</p>
