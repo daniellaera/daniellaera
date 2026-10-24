@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Acknowledging the good that you already have in your life is the foundation for all abundance.</p>
+<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Dogen</p>
