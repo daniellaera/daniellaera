@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Excellence is not a skill. It is an attitude.</p>
+<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
 
-<p>- Ralph Marston</p>
+<p>- Jack London</p>
