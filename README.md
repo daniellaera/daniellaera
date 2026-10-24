@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Intelligent men are cruel. Stupid men are monstrously cruel.</p>
+<p>The traveler sees what he sees. The tourist sees what he has come to see.</p>
 
-<p>- Jack London</p>
+<p>- Gilbert Chesterton</p>
