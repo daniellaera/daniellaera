@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is trying things to see if they work.</p>
+<p>Only by acceptance of the past, can you alter it.</p>
 
-<p>- Ray Bradbury</p>
+<p>- T.S. Eliot</p>
