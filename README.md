@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>All great truths begin as blasphemies.</p>
+<p>Life is trying things to see if they work.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Ray Bradbury</p>
