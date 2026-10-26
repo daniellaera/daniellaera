@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't stumble over something that's behind you.</p>
+<p>First say to yourself what you would be; and then do what you have to do.</p>
 
-<p>- Steve Harvey</p>
+<p>- Epictetus</p>
