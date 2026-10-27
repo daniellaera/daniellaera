@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Only by acceptance of the past, can you alter it.</p>
+<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Gary Keller</p>
