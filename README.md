@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can do two things at once, but you can't focus effectively on two things at once.</p>
+<p>Formal education will make you a living, self-education will make you a fortune.</p>
 
-<p>- Gary Keller</p>
+<p>- Jim Rohn</p>
