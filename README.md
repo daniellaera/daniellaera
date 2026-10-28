@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Tension is who you think you should be. Relaxation is who you are.</p>
+<p>Life has the name of life, but in reality it is death.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Heraclitus</p>
