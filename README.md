@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There are no ordinary moments.</p>
+<p>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</p>
 
-<p>- Dan Millman</p>
+<p>- Norman Vincent Peale</p>
