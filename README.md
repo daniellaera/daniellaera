@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>My definition of success is control.</p>
+<p>Insanity is relative. It depends on who has who locked in what cage.</p>
 
-<p>- Kenneth Branagh</p>
+<p>- Ray Bradbury</p>
