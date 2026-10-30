@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Insanity is relative. It depends on who has who locked in what cage.</p>
+<p>Life can be wonderful if you're not afraid of it.</p>
 
-<p>- Ray Bradbury</p>
+<p>- Charlie Chaplin</p>
