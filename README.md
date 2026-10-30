@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life can be wonderful if you're not afraid of it.</p>
+<p>When you lose your desire for things that do not matter, you will be free.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Morihei Ueshiba</p>
