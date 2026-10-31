@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Trust, but verify.</p>
+<p>Don't live the same year 75 times and call it a life.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Robin Sharma</p>
