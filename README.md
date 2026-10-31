@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Humans and prosperity never endure side by side for long.</p>
+<p>When you change what you believe, you change what you do.</p>
 
-<p>- Herodotus</p>
+<p>- Spencer Johnson</p>
