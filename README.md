@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Don't live the same year 75 times and call it a life.</p>
+<p>Humans and prosperity never endure side by side for long.</p>
 
-<p>- Robin Sharma</p>
+<p>- Herodotus</p>
