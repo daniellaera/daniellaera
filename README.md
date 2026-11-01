@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Surround yourself only with people who are going to take you higher.</p>
+<p>When you are tough on yourself, life is going to be infinitely easier on you.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Zig Ziglar</p>
