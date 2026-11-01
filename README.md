@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you change what you believe, you change what you do.</p>
+<p>Everybody needs a passion. That's what keeps life interesting.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Betty White</p>
