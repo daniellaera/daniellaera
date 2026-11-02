@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you are tough on yourself, life is going to be infinitely easier on you.</p>
+<p>The smallest act of kindness is worth more than the greatest intention.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Kahlil Gibran</p>
