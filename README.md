@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.</p>
+<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
 
-<p>- Wayne Gretzky</p>
+<p>- Elbert Hubbard</p>
