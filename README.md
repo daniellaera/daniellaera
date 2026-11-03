@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Genius is the ability to act rightly without precedent - the power to do the right thing the first time.</p>
+<p>A good stance and posture reflect a proper state of mind.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Morihei Ueshiba</p>
