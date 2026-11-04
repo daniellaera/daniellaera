@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Happiness is a quality of the soul...not a function of one's material circumstances.</p>
+<p>Whatever you think the world is withholding from you, you are withholding from the world.</p>
 
-<p>- Aristotle</p>
+<p>- Eckhart Tolle</p>
