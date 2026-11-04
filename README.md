@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A good stance and posture reflect a proper state of mind.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- J.R.R. Tolkien</p>
