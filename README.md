@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
+<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Yanni</p>
