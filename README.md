@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>The best way to find yourself is to lose yourself in the service of others.</p>
 
-<p>- Yanni</p>
+<p>- Mahatma Gandhi</p>
