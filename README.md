@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The best way to find yourself is to lose yourself in the service of others.</p>
+<p>Nobody goes through life without a scar.</p>
 
-<p>- Mahatma Gandhi</p>
+<p>- Carol Burnett</p>
