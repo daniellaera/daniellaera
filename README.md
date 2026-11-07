@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life is either a daring adventure, or it is nothing.</p>
+<p>Old age is like everything else. To make a success of it, you've got to start young.</p>
 
-<p>- Helen Keller</p>
+<p>- Theodore Roosevelt</p>
