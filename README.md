@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</p>
+<p>You get in life what you have the courage to ask for.</p>
 
-<p>- Peter Drucker</p>
+<p>- Oprah Winfrey</p>
