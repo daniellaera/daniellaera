@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You get in life what you have the courage to ask for.</p>
+<p>When we strive to become better than we are, everything around us becomes better, too.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Paulo Coelho</p>
