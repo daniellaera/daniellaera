@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You must welcome change as the rule but not as your ruler.</p>
+<p>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</p>
 
-<p>- Denis Waitley</p>
+<p>- Socrates</p>
