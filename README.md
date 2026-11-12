@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>When you reach the end of your rope, tie a knot in it and hang on.</p>
+<p>It's your road, and yours alone, others may walk it with you, but no one can walk it for you.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Rumi</p>
