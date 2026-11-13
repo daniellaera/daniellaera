@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>We are all like the bright moon, we still have our darker side.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Kahlil Gibran</p>
