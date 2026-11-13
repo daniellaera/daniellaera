@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We are all like the bright moon, we still have our darker side.</p>
+<p>We must learn to live together as brothers or perish together as fools.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Martin Luther King, Jr.</p>
