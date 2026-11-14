@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We must learn to live together as brothers or perish together as fools.</p>
+<p>Anxiety is the dizziness of freedom.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Soren Kierkegaard</p>
