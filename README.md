@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>We run to win, not just to be in the race.</p>
+<p>You never know when a moment and a few sincere words can have an impact on a life.</p>
 
-<p>- Vince Lombardi</p>
+<p>- Zig Ziglar</p>
