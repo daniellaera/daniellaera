@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>There is nothing more truly artistic than to love people.</p>
+<p>Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.</p>
 
-<p>- Vincent van Gogh</p>
+<p>- John D. Rockefeller</p>
