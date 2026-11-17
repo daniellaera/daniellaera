@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Most people fail in life because they major in minor things.</p>
+<p>Everyone you admire was once a beginner.</p>
 
-<p>- Tony Robbins</p>
+<p>- Jack Butcher</p>
