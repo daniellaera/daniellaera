@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Everyone you admire was once a beginner.</p>
+<p>Life is either a daring adventure, or it is nothing.</p>
 
-<p>- Jack Butcher</p>
+<p>- Helen Keller</p>
