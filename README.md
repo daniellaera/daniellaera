@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The giving of love is an education in itself.</p>
+<p>Confidence is what you have before you understand the problem.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Woody Allen</p>
