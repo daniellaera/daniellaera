@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Saying nothing sometimes says the most.</p>
+<p>The friendship that can cease has never been real.</p>
 
-<p>- Emily Dickinson</p>
+<p>- St. Jerome</p>
