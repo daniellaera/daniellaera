@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Deeds will not be less valiant because they are upraised.</p>
+<p>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Norman Vincent Peale</p>
