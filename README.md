@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.</p>
+<p>You can have everything in life you want if you will just help enough other people get what they want.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Zig Ziglar</p>
