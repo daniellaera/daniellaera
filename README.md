@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You can have everything in life you want if you will just help enough other people get what they want.</p>
+<p>The world only exists in your eyes. You can make it as big or as small as you want.</p>
 
-<p>- Zig Ziglar</p>
+<p>- F. Scott Fitzgerald</p>
