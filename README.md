@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If a thing is worth doing, it is worth doing badly.</p>
+<p>Don't watch the clock; do what it does. Keep going.</p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Colin R. Davis</p>
