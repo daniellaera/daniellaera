@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Keep away from people who try to belittle your ambitions.</p>
+<p>If a thing is worth doing, it is worth doing badly.</p>
 
-<p>- Mark Twain</p>
+<p>- Gilbert Chesterton</p>
