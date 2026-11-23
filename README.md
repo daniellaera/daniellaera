@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>You are free, and that is why you are lost.</p>
+<p>Keep away from people who try to belittle your ambitions.</p>
 
-<p>- Franz Kafka</p>
+<p>- Mark Twain</p>
