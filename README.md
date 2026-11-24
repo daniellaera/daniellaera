@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Create with the heart; build with the mind.</p>
+<p>Numbing the pain for a while will make it worse when you finally feel it.</p>
 
-<p>- Criss Jami</p>
+<p>- Albus Dumbledore</p>
