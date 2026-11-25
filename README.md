@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Life moves on and so should we.</p>
+<p>Ripe fruit falls by itself - but it doesn't fall in your mouth.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Chinese Proverb</p>
