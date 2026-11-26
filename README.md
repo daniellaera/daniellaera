@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>The destiny of man is in his own soul.</p>
+<p>Better to die fighting for freedom than be a prisoner all the days of your life.</p>
 
-<p>- Herodotus</p>
+<p>- Bob Marley</p>
