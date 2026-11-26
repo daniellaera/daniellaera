@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>Words are the clothing of our thoughts.</p>
+<p>The destiny of man is in his own soul.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Herodotus</p>
