@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</p>
+<p>A zen master's life is one continuous mistake.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Dogen</p>
