@@ -40,6 +40,6 @@ I’m Daniel, a full-stack developer, coder and coffee lover. Keep scrolling and
 
 ## The Daily Quote
 
-<p>A zen master's life is one continuous mistake.</p>
+<p>The truly rich men are the ones who have health, loved ones and a work they love.</p>
 
-<p>- Dogen</p>
+<p>- Maxime Lagace</p>
